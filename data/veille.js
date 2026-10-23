@@ -1,0 +1,7840 @@
+window.VEILLE = {
+ "generated_for": "2026-10-23",
+ "themes": [
+  {
+   "theme": "budget",
+   "synthese": "Au 23 octobre 2026, la procédure budgétaire pour 2027 est enlisée et le risque d'un budget adopté sans vote du Parlement est très élevé. Le PLF 2027, présenté en Conseil des ministres le 1er octobre, vise un déficit de 5,0 % du PIB, contre 5,4 % attendus en 2026, avec un effort annoncé de 54 Md€. Le 9 octobre, la commission des finances a rejeté la partie « recettes » (31 voix contre, 3 pour, 2 abstentions). Elle avait adopté auparavant des amendements qui, selon le rapporteur général Philippe Juvin, creuseraient le déficit d'environ 10 Md€. En séance, le 13 octobre, la motion de rejet du PS a été repoussée par 236 voix contre 149, le RN ayant voté contre. Le vote solennel sur les recettes, prévu le 20 octobre, a été reporté parce que 2 828 des 3 396 amendements restaient à examiner. Le 23 octobre, les députés ont rejeté la partie recettes du PLFSS par 115 voix contre 1. Selon David Amiel, leurs votes avaient porté le déficit de la Sécurité sociale à 24 Md€. Le HCFP juge « optimiste » la prévision de croissance de 1 % et situe plutôt le déficit entre 5,2 et 5,3 %. Le taux à 10 ans a atteint 5 % le 21 octobre, une première depuis 2002. Moody's (Aa3, perspective négative) devait rendre sa décision le 23 octobre au soir. Les délais constitutionnels placent le 49.3 et des ordonnances budgétaires inédites au centre des arbitrages : la première lecture du PLF doit s'achever le 17 novembre, le délai du PLFSS expire le 26 novembre et celui du PLF (70 jours) le 17 décembre. Le scénario repoussoir reste une loi spéciale qui pourrait durer de 9 à 11 mois en année présidentielle.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "budget-rejet-commission-recettes",
+     "titre": "La commission des finances rejette la partie « recettes » du PLF 2027 après des amendements à environ 10 Md€",
+     "date": "2026-10-09",
+     "resume": "Le 9 octobre au soir, la commission des finances de l'Assemblée a rejeté la première partie du PLF 2027 par 31 voix contre, 3 pour et 2 abstentions. Elle avait auparavant supprimé le rabot sur l'abattement fiscal de 10 % des retraités, qui devait rapporter 1,4 Md€. Selon le rapporteur général Philippe Juvin (Droite républicaine), les votes de la commission dégraderaient le déficit d'environ 10 Md€ et le porteraient à 5,35-5,4 % du PIB. Seul le groupe EPR a voté pour, et Les Démocrates se sont abstenus.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Philippe Juvin",
+      "Paul Midy",
+      "Jean-Philippe Tanguy",
+      "Estelle Mercier",
+      "Aurélien Le Coq"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le texte revient en séance dans la version du gouvernement, mais le vote de la commission montre les majorités d'idées qui pèseront dans l'hémicycle : refus des hausses d'impôts et protection des retraités et des collectivités. Un vote favorable sur l'ensemble de la première partie devient donc improbable.",
+     "implications": "Les mesures de rendement du texte (abattement des retraités, effort demandé aux collectivités) sont exposées. Les organisations concernées doivent viser les arbitrages d'un éventuel 49.3 ou d'ordonnances, ainsi que le Sénat, plutôt que les seuls votes de séance.",
+     "sources": [
+      {
+       "titre": "Budget 2027: les députés rejettent en commission la partie \"recettes\" du projet de loi de finances",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+       "date": "2026-10-09"
+      },
+      {
+       "titre": "Budget 2027 : en commission, les députés allègent l'effort réclamé aux collectivités... puis retoquent le texte",
+       "media": "Banque des Territoires",
+       "url": "https://www.banquedesterritoires.fr/budget-2027-en-commission-les-deputes-allegent-leffort-reclame-aux-collectivites-puis-retoquent-le",
+       "date": "2026-10-09"
+      }
+     ]
+    },
+    {
+     "id": "budget-rn-pivot-motion-rejet-ps",
+     "titre": "Le RN fait échouer la motion de rejet du PS et s'impose comme arbitre du budget",
+     "date": "2026-10-13",
+     "resume": "Le 13 octobre au soir, la motion de rejet préalable déposée par les socialistes contre le PLF 2027 a été repoussée par 236 voix contre 149. Plus tôt dans la journée, Jean-Philippe Tanguy avait annoncé que les députés RN voteraient contre afin que le débat ait lieu. Le RN refuse les hausses d'impôts et Jean-Philippe Tanguy a fait de l'indexation des pensions une « ligne rouge », tout en précisant que Marine Le Pen trancherait en dernier ressort.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Rassemblement national",
+      "Jean-Philippe Tanguy",
+      "Marine Le Pen",
+      "Parti socialiste",
+      "Sébastien Lecornu"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le gouvernement a deux partenaires possibles pour éviter la censure, le PS ou le RN. Le RN montre qu'il ne veut pas bloquer la procédure, mais il fait valoir ses lignes rouges sur les pensions et les impôts. Il faut s'attendre à des concessions sur la désindexation des retraites dans une éventuelle version 49.3.",
+     "implications": "Il faut cartographier les priorités fiscales du RN, comme le refus des hausses d'impôts ou la suppression de la C3S votée en PLFSS, car elles pèseront sur le texte final. Les mesures de rendement qui touchent les ménages sont les plus fragiles.",
+     "sources": [
+      {
+       "titre": "La motion de rejet des socialistes n'ayant pas été adoptée, l'examen du budget 2027 aura bien lieu à l'Assemblée",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-2027-aura",
+       "date": "2026-10-14"
+      },
+      {
+       "titre": "Budget 2027: le gouvernement sur un fil à la veille de l'ouverture des débats à l'Assemblée",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l",
+       "date": "2026-10-12"
+      }
+     ]
+    },
+    {
+     "id": "budget-report-vote-recettes-delais-constitutionnels",
+     "titre": "Le vote sur les recettes est reporté et les délais constitutionnels rapprochent la menace des ordonnances",
+     "date": "2026-10-19",
+     "resume": "Le vote solennel sur la première partie du PLF, prévu le 20 octobre, a été reporté : 2 828 des 3 396 amendements déposés restaient à examiner. L'examen reprendra après celui du PLFSS, dont le délai de première lecture expire le 27 octobre. La première lecture du PLF doit s'achever le 17 novembre (40 jours). Le Parlement a jusqu'au 26 novembre pour se prononcer sur le PLFSS et jusqu'au 17 décembre (70 jours) sur le PLF. Passé ces délais, le gouvernement pourra mettre les textes en vigueur par ordonnances, ce qui n'a jamais été fait sous la Ve République.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Assemblée nationale",
+      "Gouvernement Lecornu"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "La première partie a de fortes chances de ne pas être adoptée à l'Assemblée, ou de l'être sous 49.3. En cas de rejet, le texte partirait au Sénat dans la version du gouvernement. Le scénario des ordonnances de l'article 47 devient crédible pour la mi-décembre.",
+     "implications": "Les amendements votés en séance restent provisoires. Le travail d'influence doit se reporter vers le Sénat, qui examinera le texte en novembre, et vers les cabinets ministériels, qui choisiront les amendements retenus dans un 49.3 ou une ordonnance.",
+     "sources": [
+      {
+       "titre": "Budget 2027: le marathon de la partie \"recettes\" loin d'être terminé, le vote prévu demain à l'Assemblée va être reporté",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-le-marathon-de-la-partie-recettes-loin-d-etre-termine-le-vote-prevu-demain-a",
+       "date": "2026-10-19"
+      },
+      {
+       "titre": "Fiscalité crypto : aucun vote aujourd'hui car l'examen de la première partie du PLF 2027 n'est pas terminée",
+       "media": "Cryptoast",
+       "url": "https://cryptoast.fr/plf-2027-vote-partie-recettes-reporte-fiscalite-crypto/",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "budget-rejet-plfss-deficit-24md",
+     "titre": "L'Assemblée rejette le PLFSS 2027 par 115 voix contre 1, et Amiel chiffre le dérapage à 24 Md€",
+     "date": "2026-10-23",
+     "resume": "Le 23 octobre, les députés ont rejeté la partie recettes du PLFSS 2027 par 115 voix contre 1, la seule voix favorable venant d'un député MoDem. Renaissance, le MoDem et Horizons se sont majoritairement abstenus. Avant ce vote, plusieurs amendements avaient été adoptés : suppression de la C3S (amendement RN, environ 5,5 Md€ selon le ministre), départ à 62 ans après 42 annuités (amendement écologiste, 1,2 Md€) et suppression de la nouvelle taxe sur les produits transformés sucrés. Selon le ministre David Amiel, ces votes portaient « virtuellement » le déficit de la Sécurité sociale à 24 Md€. Le texte part au Sénat le 9 novembre dans la version du gouvernement.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "David Amiel",
+      "Rassemblement national",
+      "Les Écologistes",
+      "Renaissance",
+      "MoDem"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le rejet rapide du PLFSS libère du temps en séance pour reprendre la première partie du PLF. Il montre aussi qu'aucun compromis majoritaire n'existe à l'Assemblée, ce qui rend probable un recours au 49.3 ou aux ordonnances dans les prochaines semaines, suivi d'une motion de censure de LFI.",
+     "implications": "Le rejet quasi unanime d'un texte budgétaire préfigure ce qui peut arriver au PLF. Les secteurs visés par des prélèvements (entreprises assujetties à la C3S, industrie agroalimentaire, complémentaires santé) doivent préparer leurs positions pour le Sénat et pour une éventuelle version retenue sous 49.3 ou par ordonnance.",
+     "sources": [
+      {
+       "titre": "L'Assemblée rejette à la quasi-unanimité le budget de la Sécu, qui part au Sénat",
+       "media": "Sud Radio (AFP)",
+       "url": "https://www.sudradio.fr/societe/lassemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-secu-qui-part-au-senat",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "Budget de la Sécu : les députés rejettent une taxe sur les produits sucrés",
+       "media": "CNews",
+       "url": "https://www.cnews.fr/france/2026-10-23/budget-de-la-secu-les-deputes-rejettent-une-taxe-sur-les-produits-sucres-1940335",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "id": "budget-hcfp-previsions-optimistes",
+     "titre": "Le HCFP juge « optimiste » la croissance de 1 % et estime le déficit 2027 entre 5,2 et 5,3 %",
+     "date": "2026-10-07",
+     "resume": "Dans son avis sur le PLF et le PLFSS 2027, le Haut Conseil des finances publiques, présidé par Amélie de Montchalin en tant que première présidente de la Cour des comptes, juge « optimiste » la prévision de croissance de 1 %. L'OFCE et Rexecode prévoient 0,7 %, la Banque de France 0,9 %. Avec ces hypothèses, le déficit atteindrait 5,2 à 5,3 % du PIB au lieu de 5 %. Le HCFP qualifie de « substantiel » l'effort structurel d'environ 40 Md€ (17 Md€ de recettes et 23 Md€ d'économies), mais le juge « mangé » par la hausse des taux.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Haut Conseil des finances publiques",
+      "Amélie de Montchalin",
+      "Cour des comptes"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "neutre",
+     "signal_faible": false,
+     "anticipation": "L'avis donne des arguments à ceux qui réclament plus d'économies, notamment LR et le Sénat, et fragilise l'objectif de 5 %. Il faut s'attendre à des demandes de mesures supplémentaires au Sénat ou à une révision de la cible en cours de navette.",
+     "implications": "Il faut intégrer un scénario où la cible de déficit n'est pas tenue, et donc anticiper des coups de rabot supplémentaires en 2027 (gels de crédits, loi de finances rectificative).",
+     "sources": [
+      {
+       "titre": "Budget 2027 : le Haut Conseil des finances publiques pointe des prévisions « optimistes » du gouvernement",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/economie/budget-2027-le-haut-conseil-des-finances-publiques-pointe-des-previsions-optimistes-du-gouvernement",
+       "date": "2026-10-07"
+      },
+      {
+       "titre": "Le gouvernement français prévoit 1 % de croissance en 2027 : qu'en pensent les experts ?",
+       "media": "Euronews",
+       "url": "https://fr.euronews.com/2026/10/02/le-gouvernement-francais-prevoit-1-de-croissance-en-2027-quen-pensent-les-experts",
+       "date": "2026-10-02"
+      }
+     ]
+    },
+    {
+     "id": "budget-oat-5pct-moodys",
+     "titre": "L'OAT à 10 ans touche 5 % et Moody's doit se prononcer sur la note de la France le 23 octobre",
+     "date": "2026-10-21",
+     "resume": "Le 21 octobre 2026, le taux d'emprunt français à 10 ans a atteint 5 %, une première depuis 2002. Moody's, qui note la France Aa3 avec une perspective négative, devait rendre sa décision le vendredi 23 octobre. Les économistes interrogés, Éric Dor (Ieseg), Nicolas Laine (Institut Montaigne) et Anthony Morlet-Lavidalie (Rexecode), jugent très plausible une baisse d'un cran à A1. Moody's se rapprocherait alors de S&P et Fitch, qui notent déjà la France A+ avec une perspective stable. Le résultat n'était pas connu au moment de cette veille.",
+     "type": "donnée économique",
+     "acteurs": [
+      "Moody's",
+      "S&P Global",
+      "Fitch",
+      "Éric Dor",
+      "Agence France Trésor"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Une dégradation fournirait au gouvernement un argument de crédibilité financière pour justifier le 49.3 ou les ordonnances. Elle relancerait aussi la pression pour plus d'économies au Sénat.",
+     "implications": "La hausse de la charge de la dette, estimée à +10 Md€ en 2027, réduit les marges pour les dépenses ciblées et les mesures fiscales favorables. Il faut s'attendre à un discours gouvernemental centré sur la consolidation et à un refus des amendements coûteux.",
+     "sources": [
+      {
+       "titre": "Moody's pourrait dégrader la note de la France vendredi",
+       "media": "ABC Bourse (AFP)",
+       "url": "https://www.abcbourse.com/marches/moody-s-pourrait-degrader-la-note-de-la-france-vendredi_704606",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Moody's : note de la France le 23 octobre et crédit immobilier",
+       "media": "Selectra",
+       "url": "https://selectra.info/finance/actualites/marche/moody-note-france-23-octobre-credit-immobilier",
+       "date": "2026-10-21"
+      }
+     ]
+    },
+    {
+     "id": "budget-igf-loi-speciale-2027",
+     "titre": "Selon l'IGF, une loi spéciale pourrait durer 9 à 11 mois en 2027 et coûter au moins 15 Md€",
+     "date": "2026-08-20",
+     "resume": "Dans un rapport commandé en mai par le gouvernement Lecornu et publié le 20 août 2026, l'Inspection générale des finances estime que, faute de budget adopté au 31 décembre, la loi spéciale pourrait s'appliquer 9 à 11 mois, voire toute l'année 2027. Elle chiffre le dérapage minimal du déficit à 0,5 point de PIB, soit environ 15 Md€, même dans le meilleur des cas. Le rapport est antérieur à la période de veille, mais il structure les arbitrages en cours.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Inspection générale des finances",
+      "David Amiel",
+      "Jean-Pierre Farandou",
+      "Direction du budget"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Ce rapport donne au gouvernement l'argument qui légitime par avance les ordonnances de l'article 47 face à la loi spéciale. L'exécutif devrait présenter les ordonnances comme un « moindre mal » si le Parlement n'a pas statué au 17 décembre.",
+     "implications": "Les acteurs qui dépendent de crédits publics (subventions, investissements, commande publique) doivent se préparer à des retards et à un gel des dépenses non obligatoires au premier semestre 2027.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : le casse-tête qui attend les services de l'État en cas d'activation de la loi spéciale",
+       "media": "Acteurs publics",
+       "url": "https://acteurspublics.fr/articles/budget-2027-le-casse-tete-qui-attend-les-services-de-letat-en-cas-dactivation-de-la-loi-speciale/",
+       "date": "2026-08-20"
+      },
+      {
+       "titre": "Budget 2027: pour le ministre Farandou, une loi spéciale serait \"une erreur totale\"",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-pour-le-ministre-farandou-une-loi-speciale-serait-une-erreur-totale-440055",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "id": "budget-ordonnances-article47-glissiere",
+     "titre": "Le gouvernement n'exclut plus le 49.3 ni des ordonnances budgétaires sans précédent",
+     "date": "2026-10-12",
+     "resume": "À la veille des débats, le ministre Laurent Panifous a jugé très difficile une adoption du budget par un vote et n'a écarté ni le 49.3 ni les ordonnances de l'article 47, jamais utilisées sous la Ve République. Le 17 septembre, Sébastien Lecornu excluait pourtant ces deux outils, sauf en cas d'obstruction. Roland Lescure dit préférer éviter les ordonnances, qui limitent le débat parlementaire. LFI annonce une motion de censure en cas de 49.3. Raphaël Glucksmann exclut une censure automatique, mais prévient : « si le texte ne bouge pas, il y aura censure ».",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Roland Lescure",
+      "Laurent Panifous",
+      "Raphaël Glucksmann",
+      "La France insoumise"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Le gouvernement prépare les esprits à une issue sans vote. Le moment décisif sera la négociation avec le PS (justice fiscale, grands héritages) ou avec le RN (pensions) pour éviter la censure après un 49.3, probablement en novembre.",
+     "implications": "Il faut suivre les gestes du gouvernement en direction du PS et du RN, car ce sont eux qui façonneront le texte final. Les arguments doivent être formulés pour être repris dans un texte gouvernemental, et plus seulement pour un vote en séance.",
+     "sources": [
+      {
+       "titre": "Budget 2027: le gouvernement sur un fil à la veille de l'ouverture des débats à l'Assemblée",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-le-gouvernement-sur-un-fil-a-la-veille-de-l-ouverture-des-debats-a-l",
+       "date": "2026-10-12"
+      },
+      {
+       "titre": "Budget : Lescure préférerait éviter le recours aux ordonnances, « glissière de sécurité »",
+       "media": "Sud Radio (AFP)",
+       "url": "https://www.sudradio.fr/societe/budget-lescure-prefererait-eviter-le-recours-aux-ordonnances-glissiere-de-securite",
+       "date": "2026-10"
+      },
+      {
+       "titre": "Lecornu présente un budget \"offensif\", avec 54 milliards d'économies",
+       "media": "DH (AFP)",
+       "url": "https://www.dhnet.be/dernieres-depeches/2026/09/17/lecornu-presente-un-budget-offensif-avec-54-milliards-deconomies-IYYWKDHHKBEGHBRO7Q3SKUDTXA/",
+       "date": "2026-09-17"
+      }
+     ]
+    },
+    {
+     "id": "budget-ps-contre-budget-zucman",
+     "titre": "Le PS présente un contre-budget de 39,5 Md€ de recettes et Lecornu ferme la porte à la taxe Zucman",
+     "date": "2026-09-16",
+     "resume": "Le 16 septembre, les députés socialistes ont présenté un plan budgétaire fondé sur 39,5 Md€ de recettes nouvelles. Il comprend une taxe sur les grandes successions (10 Md€) et la taxe Zucman (15 Md€). Au Sénat, Sébastien Lecornu a répondu que « toutes les taxes Zucman du monde » n'écarteraient pas le débat sur la hausse de la dépense publique.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Parti socialiste",
+      "Sébastien Lecornu",
+      "Olivier Faure",
+      "Raphaël Glucksmann"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le prix d'une non-censure socialiste portera sur la fiscalité des hauts patrimoines et des successions. Un geste partiel du gouvernement reste possible.",
+     "implications": "Les acteurs du patrimoine, de la transmission d'entreprise et des holdings doivent anticiper un compromis fiscal ciblé sur les très hauts patrimoines dans le texte final.",
+     "sources": [
+      {
+       "titre": "Hausse des salaires, CSG progressive : les députés socialistes présentent un plan budgétaire pour 2027",
+       "media": "Économie Matin",
+       "url": "https://www.economiematin.fr/?p=232103",
+       "date": "2026-09-16"
+      },
+      {
+       "titre": "Budget 2027 : « Toutes les taxes Zucman du monde n'écarteront pas le débat sur la hausse de la dépense publique », considère Sébastien Lecornu",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-toutes-les-taxes-zucman-du-monde-necarteront-pas-le-debat-sur-la-hausse-de-la-depense-publique-considere-sebastien-lecornu",
+       "date": "2026-09"
+      }
+     ]
+    },
+    {
+     "id": "budget-senat-ligne-rouge-fiscalite",
+     "titre": "La majorité sénatoriale refuse toute hausse d'impôts et s'inquiète d'une crise avant Noël",
+     "date": "2026-09-04",
+     "resume": "Gérard Larcher a prévenu que le Sénat « ne peut accepter » une hausse de la fiscalité dans le prochain budget, qui doit selon lui « amorcer le redressement des finances publiques ». Élisabeth Doineau (Union centriste), rapporteure générale de la commission des affaires sociales, résume l'inquiétude : « On est déjà dans le vide, sans parachute. » Le rapporteur général du budget, Jean-François Husson (LR), craint « une crise sociale et politique avant Noël ». Le Sénat recevra le PLFSS le 9 novembre dans la version du gouvernement.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Gérard Larcher",
+      "Jean-François Husson",
+      "Élisabeth Doineau",
+      "Sénat"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Si l'Assemblée ne vote pas, le Sénat écrira la version parlementaire de référence, avec moins d'impôts et plus d'économies. En CMP ou sous ordonnance, le gouvernement devra arbitrer entre cette ligne et les exigences du PS.",
+     "implications": "Le Sénat devient le lieu clé pour les amendements de novembre. Les propositions présentées comme des économies ou neutres pour les recettes y ont plus de chances d'aboutir que des dépenses nouvelles.",
+     "sources": [
+      {
+       "titre": "« On est déjà dans le vide, sans parachute » : la grande inquiétude de la majorité sénatoriale sur le budget 2027",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/on-est-deja-dans-le-vide-sans-parachute-la-grande-inquietude-de-la-majorite-senatoriale-sur-le-budget-2027",
+       "date": "2026-09-04"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Défend une trajectoire de déficit à 5 % avec un effort de 54 Md€ et rejette la taxe Zucman. Il excluait le 49.3 et les ordonnances le 17 septembre, sauf en cas d'obstruction, mais son gouvernement ne les écarte plus.",
+     "influence": 5
+    },
+    {
+     "nom": "Roland Lescure",
+     "fonction": "Ministre de l'Économie",
+     "position": "Défend l'objectif de 5 % et préfère éviter les ordonnances, qui limitent le débat parlementaire.",
+     "influence": 4
+    },
+    {
+     "nom": "David Amiel",
+     "fonction": "Ministre de l'Action et des Comptes publics",
+     "position": "Affirme que les votes des députés ont porté le déficit de la Sécurité sociale à 24 Md€ et alerte sur le coût d'une loi spéciale.",
+     "influence": 4
+    },
+    {
+     "nom": "Laurent Panifous",
+     "fonction": "Ministre (gouvernement Lecornu)",
+     "position": "N'exclut ni le 49.3 ni les ordonnances, et juge très difficile une adoption du budget par un vote.",
+     "influence": 3
+    },
+    {
+     "nom": "Jean-Philippe Tanguy",
+     "fonction": "Député RN, chef de file du groupe sur le budget",
+     "position": "Refuse toute hausse d'impôt et fait de l'indexation des pensions une ligne rouge. Le RN a voté contre la motion de rejet du PS pour que le débat ait lieu.",
+     "influence": 5
+    },
+    {
+     "nom": "Philippe Juvin",
+     "fonction": "Rapporteur général du budget à l'Assemblée (Droite républicaine)",
+     "position": "Chiffre à environ 10 Md€ la dégradation du déficit due aux votes en commission.",
+     "influence": 4
+    },
+    {
+     "nom": "Raphaël Glucksmann",
+     "fonction": "Candidat PS à l'élection présidentielle",
+     "position": "Exclut une censure automatique, mais prévient : « si le texte ne bouge pas, il y aura censure ».",
+     "influence": 4
+    },
+    {
+     "nom": "Jean-François Husson",
+     "fonction": "Rapporteur général du budget au Sénat (LR)",
+     "position": "Réclame davantage d'économies et craint « une crise sociale et politique avant Noël ».",
+     "influence": 4
+    },
+    {
+     "nom": "Gérard Larcher",
+     "fonction": "Président du Sénat",
+     "position": "Fixe une ligne rouge : aucune hausse de la fiscalité dans le budget 2027.",
+     "influence": 4
+    },
+    {
+     "nom": "Amélie de Montchalin",
+     "fonction": "Première présidente de la Cour des comptes et présidente du HCFP",
+     "position": "Le HCFP qu'elle préside juge optimiste la prévision de croissance de 1 % et situe le déficit 2027 entre 5,2 et 5,3 %.",
+     "influence": 3
+    },
+    {
+     "nom": "Moody's",
+     "fonction": "Agence de notation",
+     "position": "Note la France Aa3 avec une perspective négative. Décision attendue le 23 octobre 2026, et une baisse à A1 est jugée très plausible par les économistes.",
+     "influence": 4
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-23",
+     "evenement": "Décision de Moody's sur la note souveraine de la France",
+     "enjeu": "Une dégradation à A1 rapprocherait Moody's de S&P et Fitch (A+), accentuerait la pression sur les taux et donnerait au gouvernement un argument pour recourir au 49.3."
+    },
+    {
+     "date": "2026-10-27",
+     "evenement": "Fin du délai de 20 jours pour la première lecture du PLFSS à l'Assemblée, puis reprise de l'examen de la première partie du PLF",
+     "enjeu": "Il reste plus de 2 800 amendements sur les recettes du PLF. La question est de savoir s'ils seront votés, rejetés ou adoptés sous 49.3."
+    },
+    {
+     "date": "2026-11-09",
+     "evenement": "Le Sénat entame l'examen du PLFSS 2027 dans la version du gouvernement",
+     "enjeu": "La majorité sénatoriale, qui refuse les hausses d'impôts, devrait réécrire le texte."
+    },
+    {
+     "date": "2026-11-17",
+     "evenement": "Fin du délai de 40 jours pour la première lecture du PLF à l'Assemblée",
+     "enjeu": "Le texte est transmis au Sénat, éventuellement dans la version initiale si l'Assemblée ne l'a pas adopté."
+    },
+    {
+     "date": "2026-11-26",
+     "evenement": "Fin du délai de 50 jours pour le PLFSS",
+     "enjeu": "Le PLFSS pourrait être mis en œuvre par ordonnance."
+    },
+    {
+     "date": "2026-12-17",
+     "evenement": "Fin du délai de 70 jours (article 47) pour le PLF",
+     "enjeu": "Le budget pourrait être mis en vigueur par ordonnance, ce qui n'a jamais été fait sous la Ve République. L'alternative serait une loi spéciale qui pourrait durer de 9 à 11 mois."
+    }
+   ],
+   "mots_cles": [
+    "PLF 2027",
+    "PLFSS 2027",
+    "déficit public 5 %",
+    "49.3",
+    "ordonnances article 47",
+    "loi spéciale",
+    "HCFP",
+    "Moody's",
+    "OAT 10 ans 5 %",
+    "abattement des retraités",
+    "indexation des pensions",
+    "taxe Zucman",
+    "motion de rejet",
+    "commission des finances",
+    "Sénat",
+    "C3S",
+    "charge de la dette"
+   ]
+  },
+  {
+   "theme": "secu-sante",
+   "synthese": "Fin octobre 2026, le dossier Sécurité sociale et santé est à son point le plus chaud. Le PLFSS 2027 (n° 3211) a été déposé le 1er octobre. Il vise un déficit de 12,7 Md€ contre 21,8 Md€ en 2026, avec un ONDAM à +2,0 % (278,7 Md€) pour une tendance de 3,4 %, et 5,1 Md€ d'économies brutes sur la santé (3,9 Md€ nettes). Le texte a échoué à l'Assemblée. La commission des affaires sociales a rejeté la partie recettes le 15 octobre, puis l'ensemble du texte le 16. Le 23 octobre, la séance a rejeté la partie recettes par 115 voix contre 1, les groupes EPR, Les Démocrates et Horizons s'abstenant. Les dépenses n'ont donc pas été débattues en séance, et le texte initial du gouvernement part au Sénat, où la séance commence le 9 novembre. Le gouvernement Lecornu n'a pas de majorité sur la Sécu. Au Sénat, le rapporteur LR de la branche maladie juge l'ONDAM « assez inaccessible », et la gauche le juge « intenable ». Les fédérations hospitalières réclament 1,3 Md€ de plus. Le délai constitutionnel de 50 jours (article 47-1) expire le 26 novembre : au-delà, le gouvernement pourrait mettre le texte en œuvre par ordonnance, ce qui serait une première. Le 49.3 reste aussi possible. Deux points de friction structurent les arbitrages. Le premier est la fiscalité des complémentaires : la prorogation de la taxe de 2,05 % est massivement contestée, et 0,7 Md€ de transferts de charges vers les assureurs sont prévus. Le second est le reste à charge, avec les hausses de franchises déjà passées par décret et l'amendement Kasbarian AS1588. Hors PLFSS, la loi n° 2026-794 du 18 août 2026 sur l'aide à mourir attend ses textes d'application : arrêté tarifaire vers mi-novembre, recommandations de la HAS d'ici fin 2026.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "secu-sante-rejet-recettes-plfss-an",
+     "titre": "L'Assemblée rejette la partie recettes du PLFSS 2027 (115 voix contre 1) : le texte part au Sénat sans examen des dépenses en séance",
+     "date": "2026-10-23",
+     "resume": "Le 23 octobre 2026, l'Assemblée nationale a rejeté la première partie (recettes) du PLFSS 2027 par 115 voix contre 1. Les groupes EPR, Les Démocrates et Horizons se sont abstenus, et tous les autres groupes ont voté contre. Ce rejet entraîne celui de l'ensemble du texte, qui est transmis au Sénat dans la version du gouvernement ; la séance y commence le 9 novembre. Selon LCP, la version issue des débats aurait porté le déficit à environ 24 Md€, contre 12,7 Md€ visés. Cyrille Isaac-Sibille (Dem) a dénoncé un vote « d'une irresponsabilité folle ».",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Assemblée nationale",
+      "Sébastien Lecornu",
+      "Groupe EPR",
+      "Les Démocrates",
+      "Horizons",
+      "Cyrille Isaac-Sibille (Dem)"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le Sénat, à majorité de droite et du centre, réécrira le texte à partir de la copie du gouvernement à compter du 9 novembre. Il disposera de 15 jours, avant l'expiration du délai global de 50 jours le 26 novembre. Ensuite viendra une CMP difficile, ou bien le recours au 49.3 ou à l'ordonnance prévue par l'article 47-1.",
+     "implications": "Le plaidoyer se déplace vers les rapporteurs du Sénat : Olivier Henno (UC), rapporteur général, et Jean-François Rapin (LR), rapporteur de la branche maladie. Il faut préparer des amendements clés en main pour la commission des affaires sociales du Sénat dès la fin octobre. Les acquis obtenus à l'Assemblée sont perdus, puisque le Sénat repart du texte du gouvernement : chaque position doit être réassurée.",
+     "sources": [
+      {
+       "titre": "Budget de la Sécu: l'Assemblée nationale rejette la partie 'recettes', l'ensemble du texte va être transmis au Sénat",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "L'Assemblée rejette à la quasi-unanimité le budget de la \"Sécu\", qui part au Sénat",
+       "media": "La Gazette France (AFP)",
+       "url": "https://www.lagazettefrance.fr/article/l-assemblee-rejette-a-la-quasi-unanimite-le-budget-de-la-secu-qui-part-au-senat",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-commission-rejet-pas-de-negociation",
+     "titre": "Rejet en commission et absence de négociation avec la gauche : le gouvernement sans alliés sur le PLFSS",
+     "date": "2026-10-16",
+     "resume": "La commission des affaires sociales de l'Assemblée a rejeté la partie recettes le 15 octobre, puis l'ensemble du texte le 16. Elle avait supprimé l'article liminaire et 23 articles, dont la mesure sur les allègements de cotisations patronales (3,7 Md€) et la prorogation de la taxe sur les complémentaires (1,1 Md€). Sandrine Runel (PS) a souligné que, « contrairement à l'année dernière », il n'y avait eu aucune négociation. Yannick Monnet (GDR) a demandé « avec qui le Gouvernement a-t-il fait ce PLFSS ? ». Le rapporteur Thibault Bazin (DR) estimait le déficit à environ 19 Md€ après ces modifications.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Commission des affaires sociales de l'AN",
+      "Thibault Bazin",
+      "Sandrine Runel",
+      "Yannick Monnet"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Aucun compromis n'est construit avec les socialistes. Le gouvernement devra négocier au Sénat ou en CMP, ou passer en force par le 49.3 ou l'ordonnance. Le bloc central a voté pour en commission mais s'est abstenu en séance.",
+     "implications": "Il faut cartographier les « prix » d'un accord (retraites, fiscalité du capital, exonérations). La mesure de 3,7 Md€ sur les allègements généraux touche directement les employeurs et revient au Sénat dans sa version gouvernementale.",
+     "sources": [
+      {
+       "titre": "Budget de la Sécu pour 2027 : les députés rejettent la partie \"recettes\" en commission",
+       "media": "Egora (AFP)",
+       "url": "https://www.egora.fr/actus-pro/politiques/budget-de-la-secu-pour-2027-les-deputes-rejettent-la-partie-recettes-en",
+       "date": "2026-10-16"
+      },
+      {
+       "titre": "PLFSS 2027 : le calendrier du budget de la Sécu, date par date",
+       "media": "NosParlementaires",
+       "url": "https://nosparlementaires.fr/actualites/plfss-2027-calendrier-examen-date-par-date",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-ondam-intenable-senat",
+     "titre": "Les sénateurs jugent l'ONDAM à +2 % « très ambitieux », « assez inaccessible », voire « intenable »",
+     "date": "2026-10-13",
+     "resume": "Lors de l'audition du ministre des Comptes publics David Amiel devant la commission des affaires sociales du Sénat, le nouveau rapporteur de la branche maladie, Jean-François Rapin (LR), a jugé l'ONDAM à +2 % « très ambitieux » et « assez inaccessible ». Il a rappelé une tendance de 3 à 3,5 % par an. Annie Le Houérou (PS) le juge « a priori non tenable », et Céline Brulin (CRCE) « absolument intenable ». Brigitte Bourguignon (UC) s'inquiète des transferts de charges vers les complémentaires. Environ 2 Md€ d'économies sont déjà passés par décret (plafond des franchises, tickets modérateurs).",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Jean-François Rapin (LR)",
+      "Olivier Henno (UC)",
+      "Annie Le Houérou (PS)",
+      "Céline Brulin (CRCE)",
+      "Brigitte Bourguignon (UC)",
+      "David Amiel"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le Sénat pourrait amender le texte pour rehausser l'ONDAM ou contester les transferts de charges, et il fera pression contre la voie réglementaire. Rapin sera le pivot des arbitrages sur la branche maladie.",
+     "implications": "Il faut documenter, chiffres à l'appui et secteur par secteur, le caractère irréaliste de l'ONDAM. Les acteurs touchés par les transferts vers les complémentaires doivent cibler Rapin, Henno et Bourguignon.",
+     "sources": [
+      {
+       "titre": "Budget 2027 de la Sécurité sociale : les sénateurs alertent sur le niveau « très ambitieux » voire « intenable » de l'objectif de dépenses de santé",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-alertent-sur-le-niveau-tres-ambitieux-voire-intenable-de-lobjectif-de-depenses-de-sant",
+       "date": "2026-10-13"
+      },
+      {
+       "titre": "PLFSS 2027 : où le gouvernement veut trouver 5,1 milliards d'euros d'économies sur la santé",
+       "media": "Caducée.net",
+       "url": "https://www.caducee.net/actualite-medicale/16984/plfss-2027-ou-le-gouvernement-veut-trouver-5-1-milliards-d-euros-d-economies-sur-la-sante.html",
+       "date": "2026-10-05"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-taxe-mutuelles-2-05",
+     "titre": "Taxe de 2,05 % sur les complémentaires : la prorogation est contestée sur tous les bancs et supprimée en commission",
+     "date": "2026-10-20",
+     "resume": "L'article 12 du PLFSS 2027 prolonge d'un an la contribution exceptionnelle de 2,05 % sur les cotisations de complémentaire santé (environ 1,1 Md€). Il ne reconduit pas le gel des cotisations de 2026, que de nombreux organismes n'avaient pas appliqué. L'article a fait l'objet de 22 amendements de suppression ; NosParlementaires évoque les onze groupes, mais les signataires cités relèvent de quatre groupes. La commission l'a supprimé le 15 octobre. Le texte prévoit par ailleurs 0,7 Md€ de déremboursements et de transferts vers les complémentaires. Selon Moneyvox, le Conseil constitutionnel aurait jugé contraire à la Constitution le gel des tarifs de 2026, ce qui reste à confirmer.",
+     "type": "amendement",
+     "acteurs": [
+      "Mutualité française",
+      "France Assureurs",
+      "Groupes de l'Assemblée nationale",
+      "Gouvernement"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "consensuel",
+     "signal_faible": false,
+     "anticipation": "La taxe est politiquement fragilisée à l'Assemblée, mais le Sénat repart du texte gouvernemental et pourrait la maintenir au nom de l'équilibre. L'arbitrage final se jouera en CMP, par 49.3 ou par ordonnance. Si la taxe est maintenue sans gel, il faut s'attendre à des répercussions sur les cotisations 2027.",
+     "implications": "Pour les complémentaires, il faut capitaliser sur l'hostilité transpartisane pour obtenir la suppression au Sénat, et chiffrer l'effet cumulé de la taxe et des 0,7 Md€ de transferts sur les primes. Employeurs et assurés doivent anticiper des hausses de cotisations en 2027.",
+     "sources": [
+      {
+       "titre": "PLFSS 2027 : le calendrier du budget de la Sécu, date par date",
+       "media": "NosParlementaires",
+       "url": "https://nosparlementaires.fr/actualites/plfss-2027-calendrier-examen-date-par-date",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Budget 2027 : le gouvernement veut renouveler cette taxe de 2,05 % sur les mutuelles santé",
+       "media": "Moneyvox",
+       "url": "https://www.moneyvox.fr/assurance/actualites/110601/budget-2027-le-gouvernement-veut-renouveler-cette-taxe-de-2-05-sur-les-mutuelles-sante",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Budget de la Sécu pour 2027 : les députés rejettent la partie \"recettes\" en commission",
+       "media": "Egora (AFP)",
+       "url": "https://www.egora.fr/actus-pro/politiques/budget-de-la-secu-pour-2027-les-deputes-rejettent-la-partie-recettes-en",
+       "date": "2026-10-16"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-amendement-kasbarian-franchises",
+     "titre": "Amendement Kasbarian (EPR) AS1588 : franchise à 3 € par boîte et participation à 5 € par consultation",
+     "date": "2026-10-08",
+     "resume": "Huit députés, dont sept EPR avec Guillaume Kasbarian comme premier signataire et un Horizons (Henri Alfandari), ont déposé le 8 octobre l'amendement AS1588. Il porterait la participation forfaitaire de 2 € à 5 €, la franchise par boîte de médicament de 1 € à 3 €, celle sur les actes paramédicaux de 1 € à 5 € et celle sur les transports de 4 € à 8 €. Le plafond annuel global passerait de 140 € à 200 €. Les mineurs et les bénéficiaires de la CSS paieraient 1 € par unité. Les auteurs revendiquent au moins 2 Md€ en 2027, sans chiffrage officiel. Le sort de l'amendement en commission n'est pas documenté.",
+     "type": "amendement",
+     "acteurs": [
+      "Guillaume Kasbarian (EPR)",
+      "Henri Alfandari (Horizons)",
+      "Groupe EPR"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Une fraction du bloc central teste la responsabilisation des patients comme alternative aux hausses de prélèvements. Les plafonds relèvent largement du décret, donc le gouvernement peut reprendre l'idée hors vote. C'est un marqueur possible des programmes présidentiels du centre-droit.",
+     "implications": "Associations de patients, pharmaciens et syndicats médicaux doivent surveiller le Journal officiel pour repérer une offensive réglementaire sur le reste à charge. Les franchises ne sont pas remboursables par les contrats responsables : l'impact sur les assurés serait direct.",
+     "sources": [
+      {
+       "titre": "Franchises : un amendement propose 5 € par consultation et 3 € par boîte de médicament",
+       "media": "Selectra",
+       "url": "https://selectra.info/assurance/actualites/marche/franchises-participation-5-euros-amendement-plfss",
+       "date": "2026-10-12"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-fhf-1-3-md-hopital",
+     "titre": "Les fédérations hospitalières chiffrent à 1,3 Md€ le manque de financement des établissements dans le PLFSS 2027",
+     "date": "2026-10-05",
+     "resume": "Dans un communiqué interfédéral publié par la FHF le 5 octobre 2026, les fédérations hospitalières (publiques, privées non lucratives, privées lucratives et HAD) jugent insuffisante la hausse de 3 % du sous-objectif établissements. Selon elles, cette hausse n'est réellement que de 2,8 %, car l'objectif 2026 a été abaissé de 180 M€. Elles réclament 1 Md€ de plus pour l'ONDAM établissements et 300 M€ pour le FIR, ainsi que la restitution des crédits MIGAC (180 M€) et FIR (150 M€) gelés en 2026. Elles demandent aussi le reversement des 440 M€ de coefficient prudentiel et une compensation intégrale de la hausse des cotisations CNRACL. Le PLFSS prévoit 0,9 Md€ d'économies d'efficience sur les établissements.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "FHF",
+      "FHP",
+      "FEHAP",
+      "Fédérations hospitalières"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Il faut s'attendre à des amendements sénatoriaux pour rehausser le sous-objectif établissements, et à un arbitrage sur le dégel des crédits 2026 en fin de gestion.",
+     "implications": "Les acteurs hospitaliers doivent porter leurs chiffrages devant le rapporteur Rapin. Le dégel de fin 2026 (MIGAC, FIR, coefficient prudentiel) est un levier réglementaire plus accessible qu'une modification de la loi.",
+     "sources": [
+      {
+       "titre": "PLFSS 2027 : en l'état, il manque 1,3 milliard d'euros aux établissements de santé",
+       "media": "FHF",
+       "url": "https://www.fhf.fr/actualites/communiques-de-presse/plfss-2027-en-letat-il-manque-13-milliard-deuros-aux-etablissements-de-sante-pour-couvrir-les",
+       "date": "2026-10-05"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-49-3-ordonnances",
+     "titre": "49.3 ou ordonnances : la voie d'un budget de la Sécu sans vote se précise, avec une échéance au 26 novembre",
+     "date": "2026-10-23",
+     "resume": "Après le rejet du 23 octobre, LCP rappelle que Sébastien Lecornu pourrait faire adopter le budget par l'article 49.3. Il pourrait aussi le mettre en œuvre par ordonnance une fois expiré le délai constitutionnel (article 47-1), ce qui serait une première. Selon NosParlementaires, les délais ont commencé à courir le 8 octobre et le délai de 50 jours expire le 26 novembre à minuit. Les dates exactes des déclarations du Premier ministre sur ce sujet ne sont pas établies.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Gouvernement",
+      "LFI",
+      "RN",
+      "PS",
+      "Écologistes"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Un scénario inédit est possible : la mise en œuvre par ordonnance du texte gouvernemental après le 26 novembre, éventuellement enrichie d'amendements. Le 49.3 exposerait le gouvernement à une motion de censure.",
+     "implications": "Le lobbying doit cibler aussi Matignon et les ministères (Santé, Comptes publics), pas seulement le Parlement. Il faut préparer des scénarios de continuité pour janvier 2027.",
+     "sources": [
+      {
+       "titre": "Budget de la Sécu: l'Assemblée nationale rejette la partie 'recettes', l'ensemble du texte va être transmis au Sénat",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "PLFSS 2027 : le calendrier du budget de la Sécu, date par date",
+       "media": "NosParlementaires",
+       "url": "https://nosparlementaires.fr/actualites/plfss-2027-calendrier-examen-date-par-date",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Budget 2027 : le projet arrive devant l'Assemblée nationale mardi 13 octobre",
+       "media": "Le Club des juristes",
+       "url": "https://www.leclubdesjuristes.com/?p=17773",
+       "date": "2026-10-12"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-deserts-medicaux-mission-solidarite",
+     "titre": "Accès aux soins : « mission de solidarité territoriale », capitation en centres de santé, suppression de l'ANDPC",
+     "date": "2026-10-05",
+     "resume": "Le PLFSS 2027 crée une mission de solidarité territoriale : des médecins libéraux, salariés, retraités ou remplaçants pourraient intervenir en zones prioritaires contre une indemnisation forfaitaire complémentaire, avec une aide au financement d'assistants médicaux. Le texte ouvre aussi une rémunération forfaitaire (capitation) pour une partie de la patientèle des centres de santé. L'article 33 supprime l'ANDPC (au plus tard le 31 décembre 2027), dont les missions passent à la HAS et à la Caisse des dépôts. L'article 32 permet des pénalités financières contre les éditeurs de logiciels de facturation défaillants.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Stéphanie Rist",
+      "Syndicats de médecins libéraux",
+      "Centres de santé",
+      "HAS",
+      "ANDPC"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "La capitation ouvre une brèche dans le paiement à l'acte, même si le texte précise que le modèle libéral reste inchangé. Les partisans de la régulation à l'installation pourraient tenter de réintroduire des dispositifs plus contraignants au Sénat.",
+     "implications": "Les éditeurs de logiciels de santé sont exposés à un risque de sanctions (article 32). Les organismes de DPC doivent anticiper la suppression de l'ANDPC. Les syndicats médicaux doivent suivre la version sénatoriale.",
+     "sources": [
+      {
+       "titre": "PLFSS 2027 : où le gouvernement veut trouver 5,1 milliards d'euros d'économies sur la santé",
+       "media": "Caducée.net",
+       "url": "https://www.caducee.net/actualite-medicale/16984/plfss-2027-ou-le-gouvernement-veut-trouver-5-1-milliards-d-euros-d-economies-sur-la-sante.html",
+       "date": "2026-10-05"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-produits-sante-2-1-md",
+     "titre": "Produits de santé : 2,1 Md€ d'économies, premier poste de l'effort ; taxe soda et contribution sur les dispositifs médicaux contestées",
+     "date": "2026-10-05",
+     "resume": "Les produits de santé portent 2,1 Md€ des 5,1 Md€ d'économies brutes du PLFSS 2027. Viennent ensuite les indemnités journalières (1 Md€), les établissements (0,9 Md€), les transferts vers les complémentaires (0,7 Md€) et les soins de ville (0,3 Md€). L'article 8 (taxe soda élargie) a fait l'objet de 13 amendements de suppression de la droite et du centre, et l'article 9 (contribution sur les dispositifs médicaux) de 12. En commission, l'extension de la taxe soda a pourtant été approuvée ; Thibault Bazin l'estime à environ 1,7 Md€.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Leem",
+      "SNITEM",
+      "HAS",
+      "CEPS",
+      "Thibault Bazin"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Il faut s'attendre à des amendements au Sénat sur la contribution des dispositifs médicaux et sur la clause de sauvegarde. Les baisses de prix seront arbitrées par le CEPS, hors loi.",
+     "implications": "Les industriels du médicament et des dispositifs médicaux doivent cibler les amendements sénatoriaux sur les articles 8 et 9, et anticiper les baisses de prix négociées avec le CEPS.",
+     "sources": [
+      {
+       "titre": "PLFSS 2027 : où le gouvernement veut trouver 5,1 milliards d'euros d'économies sur la santé",
+       "media": "Caducée.net",
+       "url": "https://www.caducee.net/actualite-medicale/16984/plfss-2027-ou-le-gouvernement-veut-trouver-5-1-milliards-d-euros-d-economies-sur-la-sante.html",
+       "date": "2026-10-05"
+      },
+      {
+       "titre": "PLFSS 2027 : le calendrier du budget de la Sécu, date par date",
+       "media": "NosParlementaires",
+       "url": "https://nosparlementaires.fr/actualites/plfss-2027-calendrier-examen-date-par-date",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "secu-sante-aide-a-mourir-decrets",
+     "titre": "Aide à mourir : la loi est en vigueur, mais les décrets, les arrêtés et les recommandations de la HAS restent attendus",
+     "date": "2026-10-15",
+     "resume": "La loi n° 2026-794 du 18 août 2026 relative au droit à l'aide à mourir a été validée par le Conseil constitutionnel (décision n° 2026-910 DC du 14 août 2026) avec trois réserves d'interprétation : majeurs protégés, liberté des pharmaciens de ne pas participer, refus encadré des établissements privés. Elle est entrée en vigueur le 20 août. Restent attendus l'arrêté tarifaire (dans les trois mois suivant la promulgation, soit vers la mi-novembre), l'arrêté listant les PUI habilitées, les textes sur la commission de contrôle (avec avis de la CNIL) et les recommandations de la HAS sur les substances létales (d'ici fin 2026). Mi-octobre, l'ADMD constate que les décrets ne sont pas parus.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Ministère de la Santé",
+      "HAS",
+      "ADMD",
+      "SFAP",
+      "Conseil constitutionnel",
+      "CNIL"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Le contenu des textes d'application devient le nouveau terrain des opposants, avec de possibles recours devant le Conseil d'État. Un retard ferait de la mise en œuvre un sujet de la présidentielle 2027.",
+     "implications": "Établissements privés, PUI et ordres professionnels doivent préparer leurs contributions aux projets de textes et suivre le Journal officiel et la HAS d'ici fin 2026.",
+     "sources": [
+      {
+       "titre": "Aide à mourir : la loi est en vigueur mais le passage à la pratique reste inachevé",
+       "media": "Caducée.net",
+       "url": "https://www.caducee.net/actualite-medicale/16948/aide-a-mourir-la-loi-est-en-vigueur-mais-le-passage-a-la-pratique-reste-inacheve.html",
+       "date": "2026-08-25"
+      },
+      {
+       "titre": "Pour le représentant de l'ADMD en Corse, la nouvelle loi sur la fin de vie...",
+       "media": "Corse Net Infos",
+       "url": "https://www.corsenetinfos.corsica/Pour-le-representant-de-l-Association-pour-le-Droit-de-Mourir-dans-la-Dignite-en-Corse-la-nouvelle-loi-sur-la-fin-de_a93157.html",
+       "date": "2026-10-15"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Défend un PLFSS ramenant le déficit à 12,7 Md€ ; le recours au 49.3 ou aux ordonnances (article 47-1) est évoqué",
+     "influence": 5
+    },
+    {
+     "nom": "Stéphanie Rist",
+     "fonction": "Ministre de la Santé",
+     "position": "Porte l'ONDAM à +2 % et les mesures d'accès aux soins ; supervise les textes d'application de l'aide à mourir",
+     "influence": 4
+    },
+    {
+     "nom": "David Amiel",
+     "fonction": "Ministre des Comptes publics",
+     "position": "Juge l'ONDAM crédible grâce aux mesures déjà prises ; défend la trajectoire de déficit devant le Sénat",
+     "influence": 4
+    },
+    {
+     "nom": "Thibault Bazin",
+     "fonction": "Député DR, rapporteur général du PLFSS à l'Assemblée",
+     "position": "Chiffre le déficit à environ 19 Md€ après le passage en commission",
+     "influence": 4
+    },
+    {
+     "nom": "Jean-François Rapin",
+     "fonction": "Sénateur LR, rapporteur de la branche maladie",
+     "position": "Juge l'ONDAM à +2 % « très ambitieux » et « assez inaccessible »",
+     "influence": 4
+    },
+    {
+     "nom": "Olivier Henno",
+     "fonction": "Sénateur UC, rapporteur général du PLFSS au Sénat",
+     "position": "S'interroge sur l'impact sur l'emploi de la réduction des allègements de cotisations",
+     "influence": 4
+    },
+    {
+     "nom": "Sandrine Runel",
+     "fonction": "Députée PS, commission des affaires sociales",
+     "position": "Dénonce l'absence de toute négociation avec le gouvernement",
+     "influence": 3
+    },
+    {
+     "nom": "Guillaume Kasbarian",
+     "fonction": "Député EPR",
+     "position": "Premier signataire de l'amendement AS1588 relevant franchises et participations forfaitaires",
+     "influence": 2
+    },
+    {
+     "nom": "FHF (Fédération hospitalière de France)",
+     "fonction": "Fédération des établissements publics de santé",
+     "position": "Réclame avec les autres fédérations 1,3 Md€ supplémentaires pour les établissements et le FIR",
+     "influence": 3
+    },
+    {
+     "nom": "Mutualité française",
+     "fonction": "Fédération des mutuelles",
+     "position": "Hostile à la prorogation de la taxe de 2,05 % et aux transferts de charges",
+     "influence": 3
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-27",
+     "evenement": "Date initialement prévue pour le vote sur l'ensemble du PLFSS à l'Assemblée, devenue sans objet après le rejet du 23 octobre",
+     "enjeu": "Fin du délai de 20 jours de l'Assemblée ; transmission au Sénat"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Examen du PLFSS 2027 en commission des affaires sociales du Sénat",
+     "enjeu": "Réécriture du texte gouvernemental : ONDAM, taxe sur les complémentaires, allègements de cotisations"
+    },
+    {
+     "date": "2026-11-09",
+     "evenement": "Début de l'examen du PLFSS 2027 en séance au Sénat",
+     "enjeu": "Position de la majorité LR-UC sur l'ONDAM à +2 % et sur les recettes"
+    },
+    {
+     "date": "2026-11-18",
+     "evenement": "Échéance indicative de l'arrêté tarifaire sur l'aide à mourir (trois mois après la promulgation)",
+     "enjeu": "Rémunération des actes et prix des préparations : condition de la mise en œuvre"
+    },
+    {
+     "date": "2026-11-26",
+     "evenement": "Expiration à minuit du délai de 50 jours de l'article 47-1 pour le PLFSS",
+     "enjeu": "Possibilité inédite d'une mise en œuvre par ordonnance"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "CMP, nouvelle lecture et lecture définitive, ou 49.3, ou ordonnance",
+     "enjeu": "Adoption ou non d'un PLFSS avant le 1er janvier 2027 ; risque de censure"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Recommandations de la HAS sur les substances létales (aide à mourir)",
+     "enjeu": "Déblocage du circuit pharmaceutique et de l'application effective de la loi"
+    }
+   ],
+   "mots_cles": [
+    "PLFSS 2027",
+    "ONDAM +2 %",
+    "rejet partie recettes",
+    "Sénat 9 novembre",
+    "49.3",
+    "ordonnances article 47-1",
+    "délai 26 novembre",
+    "taxe 2,05 % complémentaires",
+    "franchises médicales",
+    "AS1588",
+    "FHF 1,3 Md€",
+    "mission de solidarité territoriale",
+    "aide à mourir",
+    "loi 2026-794",
+    "Thibault Bazin",
+    "Jean-François Rapin"
+   ]
+  },
+  {
+   "theme": "social-travail",
+   "synthese": "Fin octobre 2026, le thème social-travail se joue presque entièrement autour du budget de la Sécurité sociale pour 2027 (PLFSS 2027). Le gouvernement Lecornu veut ramener le déficit de 21,8 à 12,7 Md EUR, avec un effort important demandé aux retraités. L'article 35 réserve la pleine indexation sur l'inflation aux pensions inférieures ou égales à 1 260 EUR bruts ; le gouvernement s'est dit ouvert à une indexation partielle jusqu'à 2 000 EUR. Le texte prévoit aussi le gel de la prime d'activité et des allocations familiales, et ramène de 2 à 1 PASS le plafond d'exonération sociale des indemnités de rupture. Le 16 octobre, la commission des affaires sociales a rejeté le texte. Sept groupes, de LFI au RN en passant par la Droite républicaine, y ont supprimé l'article 35. Le 23 octobre, l'Assemblée a rejeté en séance la partie recettes, le bloc central s'abstenant. Le texte part donc au Sénat (examen à partir du 9 novembre) dans sa version initiale, et les amendements votés en séance tombent, dont le congé de fin de carrière à 62 ans après 42 annuités adopté la veille. Les questions décisives deviennent le recours au 49.3 ou aux ordonnances après l'expiration du délai de 50 jours (26 novembre), et le seuil de désindexation que retiendront le Sénat puis la commission mixte paritaire (CMP). Côté social, la conflictualité monte. Une intersyndicale (CFDT, CGT, FO, UNSA, FSU, sans la CFE-CGC) appelle à une grève interprofessionnelle le 5 novembre sur les salaires, le Smic et les pensions. La fonction publique proteste contre le gel du point d'indice. Le ministre du Travail Jean-Pierre Farandou a renvoyé aux partenaires sociaux une négociation sur les arrêts maladie (environ 1 Md EUR d'économies, échéance le 19 décembre). Le débat sur une réforme systémique des retraites, après la conférence Travail, Emploi, Retraites (CTER), est renvoyé à la présidentielle de 2027.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "social-travail-rejet-recettes-plfss-2027",
+     "titre": "L'Assemblée rejette la partie recettes du PLFSS 2027 : le texte part au Sénat dans sa version gouvernementale",
+     "date": "2026-10-23",
+     "resume": "Le 23 octobre 2026, les députés ont rejeté la partie recettes du PLFSS 2027 par 115 voix contre 1, selon les comptes rendus de presse. Le bloc central (EPR, Démocrates, Horizons) s'est abstenu. Sans adoption des recettes, la partie dépenses n'a pas été examinée et le texte est transmis au Sénat dans la version initiale du gouvernement. L'examen au Sénat est annoncé à partir du 9 novembre. Selon LCP, la version issue des débats aurait porté le déficit à environ 24 Md EUR, contre 12,7 Md EUR visés par le gouvernement.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Assemblée nationale",
+      "Sébastien Lecornu",
+      "Sénat",
+      "Ensemble pour la République",
+      "Les Démocrates",
+      "Horizons"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La première lecture se fera de fait au Sénat, majoritairement à droite et au centre. Il devrait réécrire l'article 35 et les mesures de recettes avant une CMP début décembre. Sans accord, le gouvernement pourrait recourir au 49.3, avec un risque de censure. Il pourrait aussi, procédure jamais utilisée, mettre le texte en vigueur par ordonnance après l'expiration du délai de 50 jours (26 novembre).",
+     "implications": "Le lobbying se déplace immédiatement au Sénat : il faut cibler les rapporteurs de la commission des affaires sociales et déposer les amendements avant le 9 novembre. Les avancées obtenues à l'Assemblée sont perdues et doivent être renégociées. Il faut aussi préparer un scénario 49.3 ou ordonnances, dans lequel seul le gouvernement arbitre le contenu.",
+     "sources": [
+      {
+       "titre": "Budget de la Sécu: l'Assemblée nationale rejette la partie 'recettes', l'ensemble du texte va être transmis au Sénat",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "Budget 2027 : le budget de la Sécurité sociale pour 2027 rejeté par l'Assemblée nationale",
+       "media": "Le Club des Juristes",
+       "url": "https://www.leclubdesjuristes.com/en-bref/budget-2027-le-budget-de-la-securite-sociale-pour-2027-rejete-par-lassemblee-nationale-18022/",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "PLFSS 2027 : le calendrier du budget de la Sécu, date par date",
+       "media": "NosParlementaires",
+       "url": "https://nosparlementaires.fr/actualites/plfss-2027-calendrier-examen-date-par-date",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-desindexation-pensions-article-35",
+     "titre": "Désindexation des pensions au-delà de 1 260 EUR : un front de suppression de LFI au RN, le bloc central cherche un seuil de compromis",
+     "date": "2026-10-16",
+     "resume": "L'article 35 du PLFSS 2027 réserve la pleine revalorisation de janvier 2027 aux pensions totales inférieures ou égales à 1 260 EUR bruts. Au-delà, la revalorisation serait fixée par décret. L'économie affichée est d'environ 4 Md EUR. Le 16 octobre, la commission des affaires sociales a supprimé l'article par sept amendements identiques (PS, Droite républicaine, RN, GDR, LFI, Liot, écologistes). Elle a aussi rejeté la baisse de l'abattement fiscal de 10 % des retraités. Des députés EPR proposent des seuils plus élevés, et le gouvernement s'est dit ouvert à une indexation partielle entre 1 260 et 2 000 EUR.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Commission des affaires sociales de l'AN",
+      "Thibault Bazin",
+      "RN",
+      "Droite républicaine",
+      "PS",
+      "LFI",
+      "EPR",
+      "Jean-Pierre Farandou"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Une majorité négative stable s'oppose à la désindexation, comme lors du rejet du gel des pensions à l'automne 2025. Au Sénat, on peut attendre un compromis sur le niveau du seuil, avec une indexation partielle, plutôt qu'une suppression pure. Le seuil final sera un marqueur d'un éventuel 49.3.",
+     "implications": "Pour les organisations de retraités, les mutuelles et les caisses, le combat se joue sur le niveau du seuil et sur le renvoi au décret. Il faut chiffrer les effets de plusieurs seuils (1 260, 1 700, 2 000 EUR) pour peser au Sénat et en CMP.",
+     "sources": [
+      {
+       "titre": "Gel des pensions 2027 : supprimé en commission, revoté en séance",
+       "media": "NosParlementaires",
+       "url": "https://nosparlementaires.fr/actualites/gel-pensions-2027-assemblee-deja-rejete-308-voix",
+       "date": "2026-10-19"
+      },
+      {
+       "titre": "Les députés refusent la désindexation des pensions et bloquent une mesure clé du PLFSS 2027",
+       "media": "Renseignement Économique",
+       "url": "https://renseignementeconomique.fr/les-deputes-refusent-la-desindexation-des-pensions-et-bloquent-une-mesure-cle-du-plfss-2027",
+       "date": "2026-10-16"
+      },
+      {
+       "titre": "Pension de retraite désindexée, aides CAF rabotées... Ce que change le projet de budget 2027 de la Sécu",
+       "media": "Moneyvox",
+       "url": "https://www.moneyvox.fr/retraite/actualites/110888/pension-de-retraite-desindexee-aides-caf-rabotees-ce-que-change-le-projet-de-budget-2027-de-la-secu",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-grave-interpro-5-novembre",
+     "titre": "Intersyndicale (sans la CFE-CGC) : grève interprofessionnelle le 5 novembre sur les salaires, le Smic et les pensions",
+     "date": "2026-10-05",
+     "resume": "Le 5 octobre 2026, la CFDT, la CGT, FO, l'UNSA et la FSU ont appelé à une journée nationale de grève et de manifestations le 5 novembre. Elles réclament des hausses générales de salaires dans le public et le privé, une hausse du Smic, la revalorisation des pensions et des prestations, le dégel du point d'indice et un réexamen des aides publiques aux entreprises. Solidaires et des syndicats de cheminots s'y associent. La CFE-CGC ne figure pas parmi les appelants.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "CFDT",
+      "CGT",
+      "FO",
+      "UNSA",
+      "FSU",
+      "Solidaires"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La journée tombe juste avant l'examen sénatorial (à partir du 9 novembre). Une forte participation pèserait sur le seuil de désindexation et sur le gel des prestations, et rendrait un 49.3 politiquement plus coûteux. La présence de la CFDT, syndicat réformiste, élargit la base du mouvement.",
+     "implications": "Il faut prévoir des perturbations dans les transports, la fonction publique et l'éducation, avec un risque de nouvelles journées en décembre. Pour les employeurs, la pression monte sur les négociations annuelles obligatoires (NAO) de 2027.",
+     "sources": [
+      {
+       "titre": "Salaires, emploi, services publics... Une intersyndicale appelle à une journée nationale de grève et de manifestations le 5 novembre",
+       "media": "CNews",
+       "url": "https://www.cnews.fr/france/2026-10-05/salaires-emploi-services-publics-une-intersyndicale-appelle-une-journee-nationale",
+       "date": "2026-10-05"
+      },
+      {
+       "titre": "Grève du 5 novembre : pourquoi l'austérité mobilise cinq syndicats",
+       "media": "Économie Matin",
+       "url": "https://www.economiematin.fr/?p=233381",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-negociation-arrets-maladie",
+     "titre": "Arrêts maladie : Farandou confie aux partenaires sociaux une réforme structurelle (environ 1 Md EUR, échéance le 19 décembre)",
+     "date": "2026-10-07",
+     "resume": "Par un document d'orientation daté du 7 octobre 2026, le ministre du Travail Jean-Pierre Farandou demande aux syndicats et au patronat de négocier une réforme en profondeur des arrêts de travail. L'objectif est d'environ 1 Md EUR d'économies en année pleine, avec un accord attendu au plus tard le 19 décembre 2026 pour une application en 2027. Trois axes sont fixés : prévention et accompagnement des reprises, révision des niveaux de garanties, responsabilisation des médecins, employeurs et assurés. Le projet de budget 2027 prévoit aussi de relever la CSG sur les indemnités journalières (IJ), information à confirmer sur les textes.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Jean-Pierre Farandou",
+      "CFDT",
+      "CGT",
+      "FO",
+      "MEDEF",
+      "CPME",
+      "U2P"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "La méthode reprend celle de l'assurance chômage : un accord, puis une transposition législative. Les pistes en jeu sont le délai de carence, la durée et le plafond d'indemnisation, et le complément employeur. En cas d'échec, le gouvernement reprendra la main par décret ou dans le budget. La position du MEDEF n'est pas documentée à ce stade.",
+     "implications": "Les entreprises risquent un transfert de charges vers le complément employeur et la prévoyance. Les assureurs complémentaires et les branches doivent se positionner avant décembre. C'est une fenêtre d'influence directe sur un accord national interprofessionnel (ANI) à fort impact financier.",
+     "sources": [
+      {
+       "titre": "Arrêts maladie : les partenaires sociaux ont jusqu'à la mi-décembre pour trouver un accord sur une réforme structurelle",
+       "media": "Previssima",
+       "url": "https://www.previssima.fr/actualite/arrets-maladie-les-partenaires-sociaux-ont-jusqua-la-mi-decembre-pour-trouver-un-accord-sur-une-reforme-structurelle.html",
+       "date": "2026-10-08"
+      },
+      {
+       "titre": "Arrêt maladie : 1 milliard d'économies, négociation jusqu'au 19 décembre",
+       "media": "Selectra",
+       "url": "https://selectra.info/assurance/actualites/marche/arret-maladie-1-milliard-negociation-19-decembre",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-cfdt-plfss-brutal",
+     "titre": "La CFDT qualifie le PLFSS 2027 de « brutal » mais accepte de négocier sur les arrêts maladie",
+     "date": "2026-10-08",
+     "resume": "Dans un communiqué du 8 octobre 2026, la CFDT juge le PLFSS 2027 « déséquilibré, injuste et brutal pour les plus modestes ». Elle dénonce la désindexation des retraites au-delà de 1 260 EUR, qu'elle juge contraire au caractère contributif des pensions. Elle s'oppose aussi au gel des prestations familiales et de la prime d'activité. Elle accepte en revanche de participer activement à la négociation sur les arrêts de travail.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "CFDT",
+      "Marylise Léon"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La CFDT combine une opposition frontale sur le budget et une participation à la négociation, ce qui préserve un canal de dialogue social pour le gouvernement. Son argument sur le caractère contributif des pensions pourrait nourrir une saisine du Conseil constitutionnel si la mesure est adoptée.",
+     "implications": "La CFDT est l'interlocuteur pivot pour tout compromis sur le seuil de désindexation ou sur les indemnités journalières (IJ). Son argument contributif est à reprendre dans les notes de plaidoyer.",
+     "sources": [
+      {
+       "titre": "PLFSS 2027 : un budget déséquilibré sur les efforts demandés, injuste et brutal pour les plus modestes",
+       "media": "CFDT",
+       "url": "https://www.cfdt.fr/sinformer/communiques-de-presse/plfss-2027-un-budget-desequilibre-sur-les-efforts-demandes-injuste-et-brutal-pour-les-plus-modestes",
+       "date": "2026-10-08"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-indemnites-rupture-plafond-pass",
+     "titre": "Indemnités de rupture : exonération sociale ramenée de 2 à 1 PASS, une mesure technique peu médiatisée",
+     "date": "2026-10-02",
+     "resume": "Le PLFSS 2027, présenté en Conseil des ministres début octobre, prévoit qu'à partir du 1er janvier 2027 les indemnités de rupture ne soient plus exonérées de cotisations que dans la limite d'un plafond annuel de la Sécurité sociale (PASS, 48 060 EUR en 2026), contre 2 PASS aujourd'hui. Selon l'étude d'impact citée par les cabinets, la contribution patronale spécifique sur les ruptures conventionnelles, portée à 40 % en 2026, diminuera mécaniquement. Aucune position officielle du MEDEF, de la CPME ou de l'U2P n'a été trouvée.",
+     "type": "autre",
+     "acteurs": [
+      "Gouvernement",
+      "MEDEF",
+      "CPME",
+      "Cadres",
+      "DRH"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "Peu exposée politiquement, la mesure a de bonnes chances de survivre au Sénat et en CMP. Elle prolonge le durcissement continu du régime des ruptures conventionnelles. On peut s'attendre à une accélération des ruptures signées avant le 31 décembre 2026.",
+     "implications": "Les DRH et cabinets d'avocats ont intérêt à avancer les négociations de départ prévues début 2027. Les organisations patronales et de cadres disposent d'une fenêtre pour proposer au Sénat un plafond intermédiaire ou un régime transitoire.",
+     "sources": [
+      {
+       "titre": "Indemnités de rupture du contrat de travail : changements majeurs prévus par le PLFSS 2027 et le PLF 2027",
+       "media": "Addleshaw Goddard",
+       "url": "https://www.addleshawgoddard.com/fr/actualites/decryptages/2026/employment/indemnites-rupture-contrat-travail-changements-majeurs-prevus-plfss-2027-plf-2027/",
+       "date": "2026-10-02"
+      },
+      {
+       "titre": "PLFSS 2027 : tableau de synthèse des principales mesures",
+       "media": "Legifiscal",
+       "url": "https://www.legifiscal.fr/vie-affaires/plfss-2027-tableau-synthese-principales-mesures.html",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-fonction-publique-point-indice",
+     "titre": "Fonction publique : gel du point d'indice confirmé, l'intersyndicale écrit à Lecornu",
+     "date": "2026-10-20",
+     "resume": "Lors du rendez-vous salarial du 2 octobre 2026, le ministre chargé de la Fonction publique, David Amiel, a confirmé le gel du point d'indice. Il a proposé de relever le minimum de traitement. La CGT juge la mesure sans effet et l'UNSA la qualifie de « cosmétique ». Le 20 octobre, l'intersyndicale de la fonction publique a écrit au Premier ministre pour dénoncer l'absence de mesure générale dans le PLF 2027.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "David Amiel",
+      "Sébastien Lecornu",
+      "CGT",
+      "UNSA",
+      "FSU",
+      "Intersyndicale fonction publique"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le front de la fonction publique alimentera la journée du 5 novembre. Une concession ciblée sur les bas salaires reste possible pendant la navette du PLF, mais un dégel du point d'indice paraît exclu dans la trajectoire budgétaire actuelle.",
+     "implications": "Il faut anticiper une conflictualité durable dans l'éducation et l'hôpital, avec des effets sur la continuité des services publics. Les employeurs territoriaux et hospitaliers doivent préparer leurs budgets 2027 sans revalorisation générale.",
+     "sources": [
+      {
+       "titre": "Rendez-vous salarial du 2 octobre 2026",
+       "media": "CGT État",
+       "url": "https://www.cgtetat.fr/vie-des-personnels/remunerations/salaires/expressions/article/rendez-vous-salarial-du-2-octobre-2026",
+       "date": "2026-10-02"
+      },
+      {
+       "titre": "Rémunérations et carrières : l'intersyndicale fonction publique interpelle le Premier ministre",
+       "media": "CGT État",
+       "url": "https://www.cgtetat.fr/vie-des-personnels/remunerations/salaires/article/remunerations-et-carrieres-l-intersyndicale-fonction-publique-interpelle-le",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Rencontre salariale. Des miettes et c'est tout.",
+       "media": "UNSA Finances",
+       "url": "https://www.unsafinances.org/rencontre-salariale-des-miettes-et-cest-tout/",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-amendement-62-ans-42-annuites",
+     "titre": "Amendement Rousseau : un congé de fin de carrière dès 62 ans après 42 annuités voté en séance, puis caduc",
+     "date": "2026-10-22",
+     "resume": "Le 22 octobre, l'Assemblée a adopté à main levée un amendement du groupe Écologiste et social, défendu par Sandrine Rousseau. Il crée un congé permettant aux salariés du privé âgés de 62 ans et ayant 168 trimestres de cesser le travail avant l'âge légal. Les sources divergent sur son financement (employeur ou État). Jean-Pierre Farandou s'y est opposé et le rapporteur Thibault Bazin l'a jugé symbolique. Le rejet de la partie recettes le 23 octobre fait tomber la mesure.",
+     "type": "amendement",
+     "acteurs": [
+      "Sandrine Rousseau",
+      "Groupe Écologiste et social",
+      "Jean-Pierre Farandou",
+      "Thibault Bazin"
+     ],
+     "impact": 2,
+     "urgence": 1,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "La mesure n'aura pas de suite législative immédiate. Elle montre toutefois qu'une majorité de circonstance reste mobilisable contre un âge de départ élevé, et la gauche en fera un marqueur pour la présidentielle de 2027.",
+     "implications": "Les organisations patronales doivent anticiper le retour, dans les programmes de 2027, de dispositifs de fin de carrière financés par l'employeur. Les syndicats peuvent s'en servir sur les carrières longues et la pénibilité.",
+     "sources": [
+      {
+       "titre": "Budget de la Sécu: un amendement pour un départ en retraite à 62 ans voté lors des débats à l'Assemblée",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-la-secu-un-amendement-pour-un-depart-en-retraite-a-62-ans-vote-lors-des-debats",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Les députés adoptent un amendement rétablissant un départ à 62 ans après 42 annuités au PLFSS",
+       "media": "Délits d'Opinion",
+       "url": "https://delitsdopinion.com/les-deputes-adoptent-un-amendement-retablissant-un-depart-a-62-ans-apres-42-annuites-au-plfss",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-cumul-emploi-retraite-navigants",
+     "titre": "Cumul emploi-retraite : les navigants obtiennent un aménagement et suspendent leur préavis de grève",
+     "date": "2026-10-09",
+     "resume": "L'intersyndicale des personnels navigants (dont SNPL, SNPNC et UNSA PNC) avait déposé un préavis de grève nationale du 17 au 21 octobre contre la réforme du cumul emploi-retraite applicable au 1er janvier 2027. Elle l'a suspendu après des concessions des ministères du Travail et des Transports, dont un décret annoncé. Les syndicats menacent de reprendre le mouvement si le décret n'est pas publié. Ces engagements ne sont connus que par des sources sectorielles et syndicales.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "SNPL",
+      "SNPNC",
+      "UNSA PNC",
+      "Ministère du Travail",
+      "Ministère des Transports",
+      "CRPN"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Cette dérogation sectorielle, obtenue sous menace de grève, pourrait inspirer d'autres professions dotées de régimes spécifiques avant le 1er janvier 2027. Le décret promis devient un point de vigilance.",
+     "implications": "Les régimes spéciaux et autonomes ont intérêt à obtenir des aménagements par voie réglementaire avant l'entrée en vigueur. Il faut surveiller la publication du décret au Journal officiel.",
+     "sources": [
+      {
+       "titre": "Aérien : le préavis de grève nationale suspendu en France",
+       "media": "TourMaG",
+       "url": "https://tourmag.com/Aerien-le-preavis-de-greve-nationale-suspendu-en-France-_a133591.html",
+       "date": "2026-10-09"
+      },
+      {
+       "titre": "Réforme du cumul emploi-retraite : les pilotes et personnels de cabine appelés à la grève du 17 au 21 octobre",
+       "media": "Air Journal",
+       "url": "https://www.air-journal.fr/2026-09-19-reforme-du-cumul-emploi-retraite-les-pilotes-et-personnels-de-cabine-appeles-a-la-greve-du-17-au-21-octobre-5277588.html",
+       "date": "2026-09-19"
+      }
+     ]
+    },
+    {
+     "id": "social-travail-cter-age-equilibre-presidentielle",
+     "titre": "Conférence Travail, Emploi, Retraites : les pistes renvoyées aux candidats de 2027",
+     "date": "2026-09-16",
+     "resume": "La conférence Travail, Emploi, Retraites (CTER) s'est achevée mi-septembre 2026 (date exacte à confirmer). Les garants ont remis un rapport au Premier ministre. Il évoque notamment un « âge d'équilibre » et une méthode de prise en compte de la pénibilité, point sur lequel le conclave de 2025 avait échoué. Selon la presse, le MEDEF n'a pas participé à l'exercice. Jean-Pierre Farandou a invité les candidats à la présidentielle à se positionner sur ces pistes.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Jean-Pierre Farandou",
+      "Garants de la CTER",
+      "CFDT",
+      "MEDEF",
+      "CPME",
+      "U2P"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Aucune réforme systémique des retraites n'est à attendre avant 2027. La suspension de la réforme de 2023 (âge légal gelé à 62 ans et 9 mois, génération 1964 partant à partir d'octobre 2026) reste le statu quo jusqu'à l'élection. L'« âge d'équilibre » devrait devenir un clivage des programmes présidentiels.",
+     "implications": "Le plaidoyer sur les retraites se déplace des parlementaires vers les équipes de campagne présidentielle. Il faut produire dès maintenant des notes de position sur l'âge d'équilibre et la pénibilité.",
+     "sources": [
+      {
+       "titre": "Fin de la conférence Travail Emploi Retraites, des pistes sur la table pour candidats et partenaires sociaux",
+       "media": "La Gazette France (AFP)",
+       "url": "https://www.lagazettefrance.fr/article/fin-de-la-conference-travail-emploi-retraites-des-pistes-sur-la-table-pour-candidats-et-partenaires-sociaux",
+       "date": "2026-09"
+      },
+      {
+       "titre": "Conférence TER : « le rapport des garants est un point d'arrivée, mais j'espère qu'il sera aussi un point de départ » (J.-P. Farandou)",
+       "media": "AEF info",
+       "url": "https://www.aefinfo.fr/depeche/757024-le-rapport-des-garants-est-un-point-darrivee-mais-jespere-quil-sera-aussi-un-point-de-depart-j-p-farandou",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Porte un PLFSS 2027 d'économies (déficit de la Sécurité sociale ramené à 12,7 Md EUR). Peut recourir au 49.3 ou, procédure jamais utilisée, aux ordonnances budgétaires.",
+     "influence": 5
+    },
+    {
+     "nom": "Jean-Pierre Farandou",
+     "fonction": "Ministre du Travail et des Solidarités",
+     "position": "Défend une désindexation ciblée, s'oppose à l'amendement sur le départ à 62 ans et privilégie la négociation paritaire (arrêts maladie, CTER).",
+     "influence": 5
+    },
+    {
+     "nom": "Thibault Bazin",
+     "fonction": "Député Droite républicaine, rapporteur général du PLFSS (commission des affaires sociales)",
+     "position": "Juge symbolique l'amendement sur le départ à 62 ans. Son groupe soutient la suppression de l'article 35 et des économies sur d'autres dépenses.",
+     "influence": 4
+    },
+    {
+     "nom": "Marylise Léon",
+     "fonction": "Secrétaire générale de la CFDT",
+     "position": "Juge le PLFSS « brutal » et s'oppose à la désindexation, mais participe à la négociation sur les arrêts maladie.",
+     "influence": 4
+    },
+    {
+     "nom": "Intersyndicale (CFDT, CGT, FO, UNSA, FSU)",
+     "fonction": "Organisations syndicales",
+     "position": "Appelle à la grève interprofessionnelle du 5 novembre pour les salaires, le Smic, les pensions et le dégel du point d'indice.",
+     "influence": 4
+    },
+    {
+     "nom": "MEDEF",
+     "fonction": "Première organisation patronale",
+     "position": "N'a pas participé à la CTER selon la presse. Sa position sur la négociation des arrêts maladie et sur le plafonnement des indemnités de rupture n'est pas documentée publiquement.",
+     "influence": 4
+    },
+    {
+     "nom": "David Amiel",
+     "fonction": "Ministre chargé de la Fonction publique",
+     "position": "Confirme le gel du point d'indice et propose un relèvement du minimum de traitement.",
+     "influence": 3
+    },
+    {
+     "nom": "Sandrine Rousseau",
+     "fonction": "Députée du groupe Écologiste et social",
+     "position": "Autrice de l'amendement, adopté puis devenu caduc, sur le départ à 62 ans après 42 annuités.",
+     "influence": 2
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-11-05",
+     "evenement": "Journée nationale de grève interprofessionnelle (CFDT, CGT, FO, UNSA, FSU)",
+     "enjeu": "Rapport de force sur la désindexation, les salaires et le Smic avant l'examen au Sénat"
+    },
+    {
+     "date": "2026-11-09",
+     "evenement": "Début annoncé de l'examen du PLFSS 2027 au Sénat",
+     "enjeu": "Réécriture de l'article 35 (seuil de désindexation), du gel des prestations et du plafond des indemnités de rupture"
+    },
+    {
+     "date": "2026-11-26",
+     "evenement": "Expiration annoncée du délai de 50 jours du Parlement sur le PLFSS",
+     "enjeu": "Possibilité pour le gouvernement de mettre le texte en vigueur par ordonnance (procédure jamais utilisée)"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Commission mixte paritaire et lecture définitive du PLFSS 2027, avec un possible 49.3",
+     "enjeu": "Arbitrage final sur les pensions et risque de motion de censure"
+    },
+    {
+     "date": "2026-12-19",
+     "evenement": "Date butoir de la négociation paritaire sur les arrêts maladie",
+     "enjeu": "Environ 1 Md EUR d'économies sur les indemnités journalières, sinon reprise en main par l'État"
+    },
+    {
+     "date": "2027-01-01",
+     "evenement": "Entrée en vigueur de la réforme du cumul emploi-retraite et, si la mesure est adoptée, du plafond d'exonération des indemnités de rupture à 1 PASS",
+     "enjeu": "Publication du décret promis aux navigants et effets d'anticipation sur les ruptures"
+    }
+   ],
+   "mots_cles": [
+    "PLFSS 2027",
+    "désindexation des pensions",
+    "article 35",
+    "seuil 1 260 euros",
+    "rejet partie recettes",
+    "Sénat 9 novembre",
+    "49.3",
+    "ordonnances budgétaires",
+    "départ à 62 ans",
+    "grève 5 novembre",
+    "intersyndicale",
+    "arrêts maladie",
+    "indemnités journalières",
+    "indemnités de rupture",
+    "PASS",
+    "point d'indice",
+    "cumul emploi-retraite",
+    "CTER",
+    "âge d'équilibre",
+    "suspension réforme des retraites",
+    "Farandou"
+   ]
+  },
+  {
+   "theme": "parlement",
+   "synthese": "Fin octobre 2026, la vie parlementaire tourne autour de la première lecture du PLF et du PLFSS pour 2027. Le contexte est tendu : l'Assemblée n'a pas de majorité, la présidentielle de 2027 approche et la contestation sociale contre la vie chère s'est durcie après les violences du 17 octobre. Le 13 octobre, le gouvernement Lecornu a écarté la motion de rejet préalable du PS (236 voix contre 149) grâce au vote contre du RN. La situation s'est ensuite dégradée. La commission des finances avait déjà rejeté la partie recettes le 9 octobre. En séance, des majorités de circonstance ont défait le texte, et l'examen a été suspendu dans la nuit du 19 au 20 octobre. Selon le ministre des Comptes publics David Amiel, les amendements adoptés dégradent le solde d'environ 10 milliards d'euros. Le 16 octobre, la commission des affaires sociales a rejeté le PLFSS après qu'une large coalition (RN, LR, gauche) a supprimé la désindexation des pensions. Le 21 octobre, Roland Lescure a ouvertement évoqué le 49.3 et les ordonnances. Les ordonnances budgétaires deviendraient possibles à l'expiration du délai constitutionnel de 70 jours pour le PLF (mi-décembre), et de 50 jours pour le PLFSS (fin novembre). Le PS est moins disposé qu'en 2025 à s'abstenir sur une censure, et le RN entretient le doute. Les tensions entre le RN et le bloc central débordent du budget, comme le montre le boycott par le RN de la commission d'enquête sur les violences du 17 octobre. Au Sénat, l'agenda sécuritaire domine, avec un rapport de 30 propositions sur le maintien de l'ordre et le prochain examen du projet de loi « casseurs-payeurs ». Le risque de censure dans les semaines à venir est réel mais pas certain. Il dépendra de l'arbitrage sur le 49.3 et de la ligne que le RN fixera à son congrès d'Orléans (24 et 25 octobre). Réserve : la vérification externe n'a pas pu être menée sur cette passe (quota de recherche épuisé). Les corrections portent sur la cohérence interne et sur les règles constitutionnelles.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "parlement-motion-rejet-ps-plf2027",
+     "titre": "PLF 2027 : la motion de rejet du PS échoue grâce au RN, le PS se divise",
+     "date": "2026-10-13",
+     "resume": "Le 13 octobre, le groupe socialiste a maintenu sa motion de rejet préalable contre le PLF 2027. Le même jour, Sébastien Lecornu avait écrit aux députés PS pour proposer trois chantiers de discussion (violences faites aux femmes et aux enfants, agriculture, jeunesse et école), tout en maintenant l'objectif d'un déficit à 5 % du PIB. La motion a été repoussée par 236 voix contre 149, après que le RN a décidé de voter contre. Selon Jean-Philippe Tanguy, il ne fallait pas « faire ce cadeau au gouvernement ». D'après L'Opinion, cité par LCP, François Hollande et Sacha Houlié étaient réticents à voter la motion.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Boris Vallaud",
+      "Jean-Philippe Tanguy",
+      "François Hollande",
+      "Sacha Houlié"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Aucun pacte de non-censure n'existe cette année avec le PS, contrairement à 2025, et le RN reste en position d'arbitre. En cas de 49.3, le PS déposera ou votera probablement une censure. L'issue dépendra alors du RN et de l'UDR. Les divergences internes au PS (aile sociale-démocrate contre direction du groupe) offrent un levier au gouvernement.",
+     "implications": "Il faut cartographier député par député les socialistes réticents à la censure. Pour porter un amendement, il vaut mieux passer par des coalitions transpartisanes que par des accords de groupe. Les trois chantiers proposés par Lecornu indiquent les sujets sur lesquels le gouvernement acceptera de bouger.",
+     "sources": [
+      {
+       "titre": "« Il laisse la porte fermée » : les socialistes répondent à Sébastien Lecornu et maintiennent leur motion de rejet",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/il-laisse-la-porte-fermee-les-socialistes-repondent-a-sebastien-lecornu-et-maintiennent",
+       "date": "2026-10-13"
+      },
+      {
+       "titre": "Budget 2027 : les députés du Rassemblement national voteront contre la motion de rejet des socialistes",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-les-deputes-du-rassemblement-national-voteront-contre-la-motion-de-rejet-des",
+       "date": "2026-10-13"
+      },
+      {
+       "titre": "Le budget entre dans l'hémicycle mardi, la présidentielle aussi",
+       "media": "Sud Radio / AFP",
+       "url": "https://www.sudradio.fr/societe/le-budget-entre-dans-lhemicycle-mardi-la-presidentielle-aussi",
+       "date": "2026-10-14"
+      }
+     ]
+    },
+    {
+     "id": "parlement-plf2027-suspension-recettes",
+     "titre": "PLF 2027 : la partie recettes est défaite puis suspendue, le gouvernement chiffre un dérapage de 10 milliards d'euros",
+     "date": "2026-10-20",
+     "resume": "Le 9 octobre, la commission des finances a rejeté la première partie du PLF par 31 voix contre, 3 pour et 2 abstentions. En séance, des majorités de circonstance ont supprimé ou modifié plusieurs dispositions fiscales. Dans la nuit du 19 au 20 octobre, l'examen du volet recettes a été suspendu alors que plus de 2 600 amendements restaient à examiner. Il doit reprendre le 27 octobre. Le ministre des Comptes publics David Amiel estime que les modifications dégradent le solde d'environ 10 milliards d'euros. Le rapporteur général Philippe Juvin évalue le déficit qui en résulterait entre 5,35 et 5,4 % du PIB.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "David Amiel",
+      "Philippe Juvin",
+      "Éric Coquerel",
+      "Sébastien Lecornu"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le vote sur la première partie est reporté, ce qui fragilise le calendrier de la première lecture. Plus les amendements coûteux s'accumulent, plus le gouvernement a d'arguments pour un 49.3 qui lui permettrait de ne retenir que les amendements de son choix. Il est probable que l'Assemblée ne vote pas l'ensemble de la première partie.",
+     "implications": "Plusieurs amendements adoptés en commission ou en séance (fiscalité du numérique, des holdings et des superprofits, Livret A) n'auront d'effet que s'ils survivent à la séance et à un éventuel 49.3. Avant la reprise du 27 octobre, le plaidoyer doit viser Bercy et Matignon, qui arbitreront le texte retenu.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : après avoir détricoté le projet de Lecornu, les députés suspendent les débats à l'Assemblée",
+       "media": "Entrevue",
+       "url": "https://entrevue.fr/politique/budget-2027-apres-avoir-detricote-le-projet-de-lecornu-les-deputes/",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Budget 2027 : les députés rejettent en commission la partie 'recettes' du projet de loi de finances",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+       "date": "2026-10-09"
+      },
+      {
+       "titre": "Budget 2027 : ce que l'Assemblée a fait du PLF et du PLFSS depuis vendredi",
+       "media": "Le Courrier des Stratèges",
+       "url": "https://www.lecourrierdesstrateges.fr/budget-2027-ce-que-lassemblee-a-fait-du-plf-et-du-plfss-depuis-vendredi/",
+       "date": "2026-10-13"
+      }
+     ]
+    },
+    {
+     "id": "parlement-lescure-493-ordonnances",
+     "titre": "Roland Lescure brandit le 49.3 et les ordonnances : « on fera jouer les glissières »",
+     "date": "2026-10-21",
+     "resume": "Le 21 octobre, Roland Lescure, ministre de l'Économie, a refusé d'exclure le 49.3 ou les ordonnances : « Soit les parlementaires […] sont capables de nous y amener, soit on les y amènera ». Il a aussi déclaré : « si on a une sortie de route, on fera jouer les glissières ». Sébastien Lecornu juge « prématuré » de trancher le mode d'adoption. Il avait renoncé au 49.3 à l'automne 2025 avant d'y recourir en janvier 2026 pour le budget 2026. L'article 47 de la Constitution n'autorise une ordonnance budgétaire qu'après 70 jours sans décision du Parlement, soit vers la mi-décembre. Ce serait une première sous la Ve République.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Roland Lescure",
+      "Sébastien Lecornu"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "L'exécutif prépare l'opinion à un passage en force. Le scénario le plus probable est un 49.3 sur la première partie après la reprise du 27 octobre, ou en fin de première lecture. Il serait suivi de motions de censure de la gauche et éventuellement du RN. L'ordonnance reste l'option ultime à la mi-décembre.",
+     "implications": "Il faut anticiper un texte final rédigé par le gouvernement, qui ne reprendra qu'une sélection d'amendements. Les demandes doivent donc être portées dans les arbitrages de Matignon et de Bercy. Il faut aussi préparer un scénario de censure : loi spéciale et report des mesures fiscales.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : Roland Lescure brandit la menace du 49.3 et des ordonnances",
+       "media": "Orange Actu / L'Express (6Médias)",
+       "url": "https://actu.orange.fr/politique/budget-2027-roland-lescure-brandit-la-menace-du-49-3-et-des-ordonnances-l-express-via-6medias-CNT000002tjIST.html",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "\"Toutes les issues restent ouvertes, y compris la voie des ordonnances\" : comment Sébastien Lecornu veut doter la France d'un budget sans être censuré",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/budget/toutes-les-issues-restent-ouvertes-y-compris-la-voie-des-ordonnances-comment-sebastien-lecornu-veut-doter-la-france-d-un-budget-sans-etre-censure_8214587.html",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "parlement-plfss2027-desindexation-pensions",
+     "titre": "PLFSS 2027 : une coalition du RN à LFI supprime la désindexation des pensions en commission",
+     "date": "2026-10-16",
+     "resume": "Le 16 octobre, la commission des affaires sociales a rejeté l'ensemble du PLFSS 2027 après avoir supprimé l'article sur la désindexation des pensions supérieures à 1 260 euros, qui représentait environ 4 milliards d'euros d'économies. La suppression a été votée par le RN, LFI, les socialistes, la Droite républicaine, les écologistes, le groupe GDR et l'UDR. Selon le rapporteur général Thibault Bazin, la copie de la commission porterait le déficit de la Sécurité sociale à environ 21,4 milliards d'euros, contre 12,7 milliards visés par le gouvernement. Le gouvernement s'est dit ouvert à des revalorisations partielles. L'examen en séance, reparti du texte initial, a commencé le 20 octobre.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Thibault Bazin",
+      "Rassemblement national",
+      "Droite républicaine",
+      "La France insoumise",
+      "Parti socialiste",
+      "Gouvernement Lecornu"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le gel des pensions est une ligne rouge transpartisane, LR compris, et donc un motif de censure crédible. Un recul gouvernemental est probable (seuil relevé ou revalorisation partielle). Il serait compensé par d'autres économies (prestations, allègements de charges).",
+     "implications": "Le compromis sur les pensions déplacera l'effort d'économies vers d'autres postes : Ondam, prestations familiales, allègements de cotisations patronales. Les acteurs de la santé et les employeurs doivent s'attendre à des amendements de compensation. Le délai constitutionnel de 50 jours fixé pour le PLFSS (article 47-1) expire fin novembre.",
+     "sources": [
+      {
+       "titre": "Budget de la Sécu : rejeté en commission par les députés, le texte sera examiné à partir de mardi dans l'hémicycle",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-la-secu-rejete-en-commission-par-les-deputes-le-texte-sera-examine-a-partir-de",
+       "date": "2026-10-16"
+      },
+      {
+       "titre": "Budget 2027 : la commission rejette la partie « recette » du PLFSS",
+       "media": "Le Club des Juristes",
+       "url": "https://www.leclubdesjuristes.com/?p=17866",
+       "date": "2026-10-15"
+      }
+     ]
+    },
+    {
+     "id": "parlement-amendement-retraite-62-ans",
+     "titre": "Signal faible : un amendement de départ anticipé à 62 ans adopté par 45 voix contre 36",
+     "date": "2026-10-22",
+     "resume": "Le 22 octobre, en séance sur le PLFSS, un amendement du groupe Écologiste et social défendu par Sandrine Rousseau a été adopté par 45 voix contre 36. Il permet aux salariés de 62 ans ou plus ayant validé 168 trimestres de partir via un congé financé par l'entreprise jusqu'à l'âge légal. Le ministre du Travail Jean-Pierre Farandou s'y est opposé, ainsi que le rapporteur Thibault Bazin, qui le juge « symbolique ». Sa survie est très incertaine en cas de 49.3 ou d'ordonnances.",
+     "type": "amendement",
+     "acteurs": [
+      "Sandrine Rousseau",
+      "Jean-Pierre Farandou",
+      "Thibault Bazin",
+      "Groupe Écologiste et social"
+     ],
+     "impact": 2,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "L'adoption s'explique par une faible présence dans l'hémicycle, le bloc central mobilisant peu ses députés. D'autres votes accidentels sont à prévoir, ce qui renforcera l'argument d'une reprise en main par 49.3. Les retraites restent un marqueur de campagne pour la gauche.",
+     "implications": "Les fédérations patronales doivent surveiller ces votes à faible participation et mobiliser les députés du bloc central. Côté syndical, ces votes servent de points d'appui symboliques mais sont peu durables.",
+     "sources": [
+      {
+       "titre": "Budget de la Sécu : un amendement pour un départ en retraite à 62 ans voté lors des débats à l'Assemblée",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-la-secu-un-amendement-pour-un-depart-en-retraite-a-62-ans-vote-lors-des-debats",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "parlement-ce-violences-17-octobre-boycott-rn",
+     "titre": "Commission d'enquête sur les violences du 17 octobre : le RN boycotte et dénonce une « mascarade »",
+     "date": "2026-10-21",
+     "resume": "Le 21 octobre, la commission des lois de l'Assemblée s'est dotée des prérogatives d'une commission d'enquête sur les violences commises en marge des manifestations contre la vie chère du 17 octobre. Elle a désigné trois rapporteurs : Agnès Firmin Le Bodo (Horizons), Roger Vicot (PS) et Pouria Amirshahi (Écologiste et social). La commission est présidée par Vincent Caure (Renaissance). Le RN, privé de rapporteur, l'accuse d'avoir renié sa promesse de représenter les trois blocs. Marine Le Pen a annoncé le boycott : « Nous ne participerons pas à cette mascarade ».",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Marine Le Pen",
+      "Vincent Caure",
+      "Agnès Firmin Le Bodo",
+      "Roger Vicot",
+      "Pouria Amirshahi"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Une alliance de fait entre le bloc central et la gauche a écarté le RN d'un poste de contrôle. Cela peut réduire sa disposition à épargner le gouvernement lors d'une censure budgétaire, alors qu'il l'avait aidé le 13 octobre. Le maintien de l'ordre devient aussi un terrain de confrontation avec le ministre de l'Intérieur Laurent Nuñez.",
+     "implications": "Il faut suivre les auditions de la commission (préfets, ministère de l'Intérieur, syndicats de police) et la ligne du RN au congrès d'Orléans des 24 et 25 octobre. Un durcissement de son discours renforcerait le risque de censure.",
+     "sources": [
+      {
+       "titre": "Violences du 17 octobre : le RN annonce son boycott de la commission d'enquête",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/violences-du-17-octobre-le-rn-annonce-son-boycott-de-la-commission-d-enquete-444138",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Une députée normande nommée rapporteure de commission d'enquête parlementaire sur les violences en marge des manifestations du 17 octobre",
+       "media": "France 3 Normandie",
+       "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/une-deputee-normande-nommee-rapporteure-de-commission-d-enquete-parlementaire-sur-les-violences-en-marge-des-manifestations-du-17-octobre-3437409",
+       "date": "2026-10-21"
+      }
+     ]
+    },
+    {
+     "id": "parlement-contestation-sociale-risque-censure",
+     "titre": "La contestation contre la vie chère pèse sur le calcul de censure",
+     "date": "2026-10-20",
+     "resume": "Les manifestations du 17 octobre contre la vie chère ont été marquées par des violences dans plusieurs villes, et des manifestations ont ensuite été interdites dans plusieurs agglomérations. Les syndicats sont ressortis déçus de leur réception à Matignon et appellent à de nouvelles mobilisations, dont une journée le 5 novembre. Selon l'AFP (Sud Radio), des cadres macronistes craignent que le RN ne bascule vers la censure si la contestation sociale s'amplifie. Emmanuel Macron a appelé à « la fermeté ».",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Emmanuel Macron",
+      "Intersyndicale",
+      "Marine Le Pen",
+      "Laurent Nuñez"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Plus la contestation s'étend, plus il coûte cher politiquement au RN et au PS de s'abstenir sur une censure. Des concessions sur le pouvoir d'achat sont possibles dans le PLF et le PLFSS (pensions, prestations), au détriment de l'objectif de 5 % de déficit.",
+     "implications": "Le pouvoir d'achat (salaires, prix, prestations) va capter l'agenda parlementaire. Les mesures de rendement fiscal touchant les ménages deviennent difficiles à défendre. Les demandes perçues comme favorables aux entreprises sont à éviter publiquement d'ici au 5 novembre.",
+     "sources": [
+      {
+       "titre": "France : des manifestations interdites dans plusieurs villes, Emmanuel Macron appelle à \"la fermeté\"",
+       "media": "France 24",
+       "url": "https://www.france24.com/fr/france/20261020-en-direct-france-sebastien-lecornu-recoit-syndicats-avant-nouvelles-manifestations-police-lyceens",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Le budget entre dans l'hémicycle mardi, la présidentielle aussi",
+       "media": "Sud Radio / AFP",
+       "url": "https://www.sudradio.fr/societe/le-budget-entre-dans-lhemicycle-mardi-la-presidentielle-aussi",
+       "date": "2026-10-14"
+      }
+     ]
+    },
+    {
+     "id": "parlement-senat-maintien-ordre-casseurs-payeurs",
+     "titre": "Sénat : 30 propositions sur le maintien de l'ordre avant l'examen du projet de loi « casseurs-payeurs »",
+     "date": "2026-10-21",
+     "resume": "Le 21 octobre, la mission d'information du Sénat sur l'avenir du maintien de l'ordre, conduite par Olivier Bitz (Union centriste) et David Margueritte (LR), a présenté 30 propositions. Parmi elles : sanction de la participation à une manifestation interdite ou non déclarée, alourdissement de la peine pour participation à un groupement violent, interdiction administrative de manifester, et extension de la vidéoprotection algorithmique et des drones. Les rapporteurs veulent amender le projet de loi « casseurs-payeurs » que le Sénat doit examiner.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Olivier Bitz",
+      "David Margueritte",
+      "Sénat (majorité LR-centriste)"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "La majorité sénatoriale va durcir le projet de loi « casseurs-payeurs » en reprenant ces propositions par amendements. Une confrontation est à prévoir avec la gauche de l'Assemblée en navette ou en CMP. Le sujet pourrait rapprocher LR et le RN.",
+     "implications": "Les acteurs des libertés publiques et des technologies de surveillance (vidéoprotection algorithmique, drones) doivent se positionner avant l'examen en commission des lois du Sénat.",
+     "sources": [
+      {
+       "titre": "Maintien de l'ordre : le Sénat formule 30 propositions pour garantir la liberté de manifester et sanctionner plus sévèrement les casseurs",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/maintien-de-lordre-le-senat-formule-30-propositions-pour-garantir-la-liberte-de-manifester-et-sanctionner-plus-severement-les-casseurs",
+       "date": "2026-10-21"
+      }
+     ]
+    },
+    {
+     "id": "parlement-niche-lfi-29-octobre",
+     "titre": "Niche LFI de fin octobre : SMIC à 1 700 euros net, indexation des salaires et abrogation de l'acétamipride",
+     "date": "2026-10-05",
+     "resume": "Le 5 octobre, La France insoumise a annoncé pour sa niche parlementaire de fin octobre un texte prévoyant un SMIC à 1 700 euros net, la hausse des pensions et l'indexation des salaires sur l'inflation. Selon LCP, l'abrogation de la réintroduction de l'acétamipride figurerait aussi au menu. La date (29 octobre) et l'ordre du jour définitif restent à confirmer sur le site de l'Assemblée nationale. La source principale est partisane.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "La France insoumise",
+      "Mathilde Panot",
+      "Rassemblement national"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Dans le contexte de la contestation sur la vie chère, LFI veut forcer le RN et le PS à un vote public sur les salaires. Une obstruction du bloc central par amendements, pour empêcher le vote avant minuit, est probable. La position du RN sur le SMIC servira d'indicateur de sa stratégie sociale avant 2027.",
+     "implications": "Les organisations patronales et le secteur agricole doivent préparer des notes pour les députés du centre, de LR et du RN avant la niche, et anticiper des amendements de suppression ou de repli.",
+     "sources": [
+      {
+       "titre": "Niche 2026 - Augmenter les salaires et les retraites",
+       "media": "La France insoumise",
+       "url": "https://lafranceinsoumise.fr/2026/10/05/niche-2026-augmenter-les-salaires-et-les-retraites/",
+       "date": "2026-10-05"
+      },
+      {
+       "titre": "Acétamipride : l'abrogation du pesticide sera au menu de la niche de La France insoumise fin octobre",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/acetamipride-l-abrogation-du-pesticide-sera-au-menu-de-la-niche-de-la-france-insoumise",
+       "date": "2026-08"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Cherche un compromis avec le PS (trois chantiers), maintient l'objectif de 5 % de déficit et juge « prématuré » de trancher entre 49.3 et ordonnances",
+     "influence": 5
+    },
+    {
+     "nom": "Marine Le Pen",
+     "fonction": "Présidente du groupe RN à l'Assemblée",
+     "position": "« Ne s'interdit rien » sur la censure ; boycotte la commission d'enquête sur le 17 octobre",
+     "influence": 5
+    },
+    {
+     "nom": "Boris Vallaud",
+     "fonction": "Président du groupe socialiste à l'Assemblée",
+     "position": "Ne voit pas de « main tendue » et exige un budget profondément corrigé ; censure jugée vraisemblable",
+     "influence": 4
+    },
+    {
+     "nom": "Roland Lescure",
+     "fonction": "Ministre de l'Économie",
+     "position": "N'exclut ni le 49.3 ni les ordonnances (« on fera jouer les glissières »)",
+     "influence": 4
+    },
+    {
+     "nom": "David Amiel",
+     "fonction": "Ministre chargé des Comptes publics",
+     "position": "Alerte sur un dérapage d'environ 10 milliards d'euros dû aux amendements adoptés",
+     "influence": 3
+    },
+    {
+     "nom": "Jean-Philippe Tanguy",
+     "fonction": "Député RN, chef de file budgétaire",
+     "position": "A refusé la motion de rejet pour « avoir le débat » ; critique l'absence de baisse des dépenses",
+     "influence": 4
+    },
+    {
+     "nom": "Thibault Bazin",
+     "fonction": "Rapporteur général du PLFSS (Droite républicaine)",
+     "position": "Critique les dérapages de la commission ; juge l'amendement sur la retraite à 62 ans « symbolique »",
+     "influence": 3
+    },
+    {
+     "nom": "Philippe Juvin",
+     "fonction": "Rapporteur général du budget (Assemblée)",
+     "position": "Chiffre la copie amendée à un déficit de 5,35 à 5,4 % du PIB",
+     "influence": 3
+    },
+    {
+     "nom": "Éric Coquerel",
+     "fonction": "Président de la commission des finances (LFI)",
+     "position": "Dénonce un « catastrophisme » sur la dette et un risque récessif",
+     "influence": 3
+    },
+    {
+     "nom": "Vincent Caure",
+     "fonction": "Député Renaissance, préside la commission d'enquête sur le 17 octobre",
+     "position": "Le RN l'accuse d'avoir renié son engagement de pluralisme",
+     "influence": 3
+    },
+    {
+     "nom": "David Margueritte",
+     "fonction": "Sénateur LR, co-rapporteur de la mission sur le maintien de l'ordre",
+     "position": "Pousse 30 propositions répressives et veut durcir le projet de loi « casseurs-payeurs »",
+     "influence": 2
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-24",
+     "evenement": "Congrès du RN à Orléans (24-25 octobre) et nouvelle journée de mobilisation contre la vie chère",
+     "enjeu": "Ligne du RN sur la censure et pression de la rue sur les groupes"
+    },
+    {
+     "date": "2026-10-27",
+     "evenement": "Reprise de l'examen de la partie recettes du PLF 2027 à l'Assemblée",
+     "enjeu": "Vote ou non de la première partie ; possible déclenchement du 49.3"
+    },
+    {
+     "date": "2026-10-29",
+     "evenement": "Niche parlementaire de LFI (date à confirmer)",
+     "enjeu": "Votes publics du RN et du PS sur le SMIC et le pouvoir d'achat"
+    },
+    {
+     "date": "2026-11-05",
+     "evenement": "Journée de mobilisation intersyndicale",
+     "enjeu": "Ampleur de la contestation sociale et effet sur les calculs de censure"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Vote solennel de première lecture du PLF 2027 à l'Assemblée (date à confirmer)",
+     "enjeu": "Adoption, 49.3 ou transmission au Sénat"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Expiration du délai de 50 jours (article 47-1) pour le PLFSS 2027, fin novembre",
+     "enjeu": "Ouverture de la voie des ordonnances pour la Sécurité sociale"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Expiration du délai de 70 jours (article 47) pour le PLF 2027, mi-décembre",
+     "enjeu": "Recours inédit aux ordonnances budgétaires ou loi spéciale"
+    }
+   ],
+   "mots_cles": [
+    "PLF 2027",
+    "PLFSS 2027",
+    "49.3",
+    "ordonnances budgétaires",
+    "motion de censure",
+    "motion de rejet préalable",
+    "désindexation des pensions",
+    "majorités de circonstance",
+    "commission d'enquête 17 octobre",
+    "maintien de l'ordre",
+    "niche parlementaire",
+    "Lecornu",
+    "Rassemblement national",
+    "Parti socialiste"
+   ]
+  },
+  {
+   "theme": "executif",
+   "synthese": "Fin octobre 2026, à six mois de la présidentielle (premier tour le 18 avril, second tour le 2 mai 2027), l'exécutif est pris dans une double crise. La première est budgétaire. Le 9 octobre, la commission des finances de l'Assemblée a rejeté la partie recettes du PLF 2027 par 31 voix contre 3. Selon le rapporteur général Philippe Juvin, sa version porterait le déficit autour de 5,35 à 5,4 % du PIB, au-dessus de l'objectif de 5 %. Le vote solennel sur cette partie a été repoussé du 20 au 27 octobre, car il restait plus de 2 000 amendements à examiner. Le 23 octobre, l'Assemblée a rejeté la partie recettes du PLFSS par 115 voix contre 1, les groupes du socle gouvernemental s'abstenant. Le texte initial du gouvernement part donc au Sénat. Roland Lescure présente le 49.3 et les ordonnances budgétaires, jamais utilisées sous la Ve République, comme des « glissières de sécurité ». La seconde crise touche l'ordre public et la vie politique. La mobilisation lycéenne du 6 octobre a fait 215 élèves et 715 policiers et gendarmes blessés. Elle a été suivie des émeutes et pillages du 17 octobre, sur fond de vie chère et de prix des carburants, dans le contexte du blocage du détroit d'Ormuz. Le 18 octobre, Emmanuel Macron s'est adressé aux Français. Il a ensuite effectué une tournée dans le Golfe pour sécuriser l'approvisionnement en diesel et en GNL. Sébastien Lecornu a piloté la cellule de crise et les couvre-feux préfectoraux. Il a réuni les partis à Matignon le 22 octobre, une réunion que la gauche a jugée « technique ». Il a aussi durci le ton contre LFI. Laurent Nuñez est pris en étau entre LFI et le RN. Il écarte l'état d'urgence, que réclame Bruno Retailleau, lequel demande aussi de déplacer le second tour. Les Conseils des ministres restent techniques (nucléaire, accords internationaux) et aucun remaniement n'a eu lieu depuis l'ajustement du 22 septembre. Le gouvernement est en mode gestion de crise, avec une capacité d'initiative législative réduite.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "executif-plf2027-recettes-report-vote-27-octobre",
+     "titre": "PLF 2027 : partie recettes rejetée en commission, vote solennel repoussé au 27 octobre",
+     "date": "2026-10-20",
+     "resume": "Le 9 octobre au soir, la commission des finances de l'Assemblée a rejeté la partie recettes du PLF 2027 par 31 voix contre, 3 pour et 2 abstentions. Seul le groupe EPR a voté pour. Le rapporteur général Philippe Juvin estime à environ 10 Md€ la dégradation du déficit liée aux mesures adoptées ou rejetées, ce qui porterait le déficit autour de 5,35 à 5,4 % du PIB. Le vote solennel en séance, prévu le 20 octobre, a été repoussé au 27 octobre parce qu'il restait plus de 2 000 amendements à examiner.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Assemblée nationale",
+      "Philippe Juvin",
+      "Roland Lescure",
+      "David Amiel"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Un rejet de la première partie le 27 octobre mettrait fin à la première lecture, comme pour le budget 2026. Le recours au 49.3, voire aux ordonnances, deviendrait alors très probable.",
+     "implications": "Les amendements fiscaux adoptés en séance risquent fort de disparaître. Mieux vaut préparer dès maintenant la navette au Sénat et un éventuel texte soumis au 49.3, dont le gouvernement choisira les amendements retenus.",
+     "sources": [
+      {
+       "titre": "Budget 2027: les députés rejettent en commission la partie 'recettes' du projet de loi de finances",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+       "date": "2026-10-09"
+      },
+      {
+       "titre": "Le vote du volet recettes du budget 2027 à l'Assemblée nationale repoussé au 27 octobre",
+       "media": "Renseignement Économique",
+       "url": "https://renseignementeconomique.fr/le-vote-du-volet-recettes-du-budget-2027-a-l-assemblee-nationale-repousse-au-27-octobre",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Examen de la première partie du projet de loi de finances pour 2027",
+       "media": "Assemblée nationale",
+       "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-de-finances-pour-2027",
+       "date": "2026-10-13"
+      }
+     ]
+    },
+    {
+     "id": "executif-lescure-493-ordonnances",
+     "titre": "Roland Lescure brandit le 49.3 et des ordonnances budgétaires inédites",
+     "date": "2026-10-21",
+     "resume": "Sur RTL, le ministre de l'Économie a présenté le 49.3 et les ordonnances budgétaires comme des « glissières de sécurité » : « sur l'autoroute budgétaire, si on a une sortie de route, on fera jouer les glissières ». Selon lui, ce ne serait « pas un passage en force, mais un passage par la raison ». Les ordonnances sont possibles si le Parlement ne s'est pas prononcé dans un délai de 70 jours, ce qui serait une première sous la Ve République. Le PS a mis en garde Sébastien Lecornu contre le 49.3.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Roland Lescure",
+      "Sébastien Lecornu",
+      "Parti socialiste"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Un arbitrage sur le 49.3 est probable après le vote du 27 octobre, avec à la clé une menace de motion de censure. Le PS redevient l'arbitre de la survie du gouvernement.",
+     "implications": "Il faut suivre les conditions posées par le PS. Un 49.3 sur un texte négocié ouvre une fenêtre de lobbying ciblée vers Matignon et Bercy, alors que des ordonnances priveraient le Parlement de tout levier.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : Roland Lescure brandit la menace du 49.3 et des ordonnances",
+       "media": "L'Express via 6Médias / Orange Actu",
+       "url": "https://actu.orange.fr/politique/budget-2027-roland-lescure-brandit-la-menace-du-49-3-et-des-ordonnances-l-express-via-6medias-CNT000002tjIST.html",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Budget 2027 : la gauche promet la censure au gouvernement Lecornu",
+       "media": "Journal du Net",
+       "url": "https://www.journaldunet.com/business/action-publique/1555095-la-gauche-annonce-une-motion-de-censure-contre-le-gouvernement-lecornu-lors-du-debat-sur-le-budget-2027/",
+       "date": "2026-09-13"
+      }
+     ]
+    },
+    {
+     "id": "executif-plfss2027-rejet-assemblee",
+     "titre": "PLFSS 2027 : l'Assemblée rejette la partie recettes (115 contre 1), le Sénat repart du texte initial",
+     "date": "2026-10-23",
+     "resume": "Le 23 octobre, les députés ont rejeté la partie recettes du PLFSS 2027 par 115 voix contre 1. Les groupes EPR, Les Démocrates et Horizons se sont abstenus. La partie dépenses n'a donc pas été examinée, et le texte initial du gouvernement est transmis au Sénat, qui l'examinera à partir du 9 novembre. Le gouvernement visait un déficit de la Sécurité sociale de 12,7 Md€, contre 21,8 Md€ en 2026. La version rejetée l'aurait porté à environ 24 Md€, soit une dégradation d'environ 11 à 12 Md€.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Assemblée nationale",
+      "Sénat",
+      "Sébastien Lecornu",
+      "David Amiel"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le Sénat devient le lieu central de la négociation. Une CMP conclusive est peu probable, ce qui laisse prévoir un 49.3, ou des ordonnances, en fin de navette.",
+     "implications": "Les amendements sur l'ONDAM, les retraites et les prestations familiales sont à réorienter vers la commission des affaires sociales du Sénat et ses rapporteurs avant le 9 novembre.",
+     "sources": [
+      {
+       "titre": "Budget de la Sécu: l'Assemblée nationale rejette la partie 'recettes', l'ensemble du texte va être transmis au Sénat",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-la-secu-l-assemblee-nationale-rejette-la-partie-recettes-l-ensemble-du-texte",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "Budget 2027 : le budget de la Sécurité sociale pour 2027 rejeté par l'Assemblée nationale",
+       "media": "Le Club des Juristes",
+       "url": "https://www.leclubdesjuristes.com/en-bref/budget-2027-le-budget-de-la-securite-sociale-pour-2027-rejete-par-lassemblee-nationale-18022/",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "Financement de la sécurité sociale pour 2027",
+       "media": "Sénat",
+       "url": "https://www.senat.fr/dossier-legislatif/plfss2027.html",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "id": "executif-macron-adresse-18-octobre",
+     "titre": "Adresse de Macron aux Français après les émeutes du 17 octobre : il reconnaît l'inquiétude sur la vie chère",
+     "date": "2026-10-18",
+     "resume": "Le dimanche 18 octobre à 20 h, Emmanuel Macron a apporté son soutien aux forces de l'ordre, dont « plusieurs centaines » de membres ont été blessés, ainsi qu'aux élus et aux commerçants. Il a jugé légitimes les inquiétudes sur la vie chère et les carburants. Il a annoncé une cellule de crise présidée par le Premier ministre pour accélérer les aides aux commerçants, ainsi qu'une concertation avec les étudiants, les enseignants, les syndicats, les employeurs, les collectivités et les parlementaires. Il a aussi annoncé une réunion des partis et un déplacement dans le Golfe dès le lendemain pour sécuriser l'approvisionnement.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Emmanuel Macron",
+      "Sébastien Lecornu"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Le président reprend la main sur l'énergie et l'international. Il laisse à Matignon l'ordre public et le dialogue politique, ce qui expose davantage Sébastien Lecornu.",
+     "implications": "Des mesures sur le pouvoir d'achat et les carburants pourraient entrer dans le PLF par amendement gouvernemental. Il faut se positionner auprès de Matignon dans le cadre de la concertation.",
+     "sources": [
+      {
+       "titre": "Adresse aux Français",
+       "media": "Élysée",
+       "url": "https://www.elysee.fr/emmanuel-macron/2026/10/18/adresse-aux-francais-7",
+       "date": "2026-10-18"
+      },
+      {
+       "titre": "Manifestations du 17 octobre 2026 : ce que peuvent faire les assureurs",
+       "media": "Le Club des Juristes",
+       "url": "https://www.leclubdesjuristes.com/international/manifestations-du-17-octobre-2026-ce-que-peuvent-faire-les-assureurs-18017/",
+       "date": "2026-10-19"
+      }
+     ]
+    },
+    {
+     "id": "executif-matignon-reunion-partis-22-octobre",
+     "titre": "Réunion des partis à Matignon : la gauche dénonce une réunion « technique », Retailleau quitte la salle",
+     "date": "2026-10-22",
+     "resume": "Le 22 octobre, de 14 h 30 à 17 h 30 environ, Sébastien Lecornu a réuni les chefs de partis avec Laurent Nuñez, Gérald Darmanin et les responsables du renseignement et des forces de l'ordre, sur les violences et la sécurisation de la présidentielle. Le PS, LFI, les Écologistes et le PCF ont déploré l'absence de réponse sur le pouvoir d'achat. Bruno Retailleau est parti avant la fin et a réitéré ses demandes d'état d'urgence et de révision du calendrier présidentiel. Pour le RN, Edwige Diaz a demandé le départ anticipé de Laurent Nuñez ; Marine Le Pen et Jordan Bardella étaient absents. Christophe Béchu (Horizons) a demandé l'inscription à l'Assemblée de la proposition de loi sur les polices municipales, adoptée par le Sénat en février.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Laurent Nuñez",
+      "Gérald Darmanin",
+      "Raphaël Glucksmann",
+      "Manuel Bompard",
+      "Marine Tondelier",
+      "Fabien Roussel",
+      "Bruno Retailleau",
+      "Edwige Diaz",
+      "Christophe Béchu"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Aucun consensus transpartisan ne s'est dégagé. Le gouvernement s'isole à gauche comme à droite, ce qui fragilise les compromis budgétaires avec le PS. La proposition de loi sur les polices municipales pourrait être inscrite rapidement à l'ordre du jour.",
+     "implications": "Le texte sur les polices municipales ouvre une fenêtre sur l'agenda sécuritaire, à suivre pour les collectivités et la sécurité privée. Le climat dégrade les perspectives de compromis budgétaire.",
+     "sources": [
+      {
+       "titre": "Réunion des partis politiques à Matignon : « De qui se moque-t-on ? On a assisté à une réunion technique » déplore la gauche",
+       "media": "Public Sénat",
+       "url": "https://publicsenat.fr/actualites/politique/reunion-des-partis-politiques-a-matignon-de-qui-se-moque-t-on-on-a-assiste-a-une-reunion-technique-deplore-la-gauche",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Violences urbaines : Sébastien Lecornu reçoit les chefs de partis politiques ce jeudi",
+       "media": "CNews",
+       "url": "https://www.cnews.fr/france/2026-10-22/violences-urbaines-sebastien-lecornu-recoit-les-chefs-de-partis-politiques-ce",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "executif-lecornu-lfi-etat-de-droit",
+     "titre": "Lecornu juge les attaques de LFI contre la justice « une atteinte très grave à l'État de droit »",
+     "date": "2026-10-21",
+     "resume": "Aux questions au gouvernement du Sénat, en réponse à Claude Malhuret, Sébastien Lecornu a dénoncé une entreprise de déstabilisation de l'ultragauche radicale. Il a qualifié les attaques visant la magistrature d'« atteinte très grave à l'État de droit ». Il a démenti (« C'est faux ») les informations de Mediapart sur des consignes de renseignement visant LFI. Le parquet national antiterroriste s'est saisi de l'incendie de la mairie de Limoges, où un premier suspect fiché S, proche de l'ultragauche, a été interpellé.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Claude Malhuret",
+      "Jean-Luc Mélenchon",
+      "LFI"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le Premier ministre se pose en garant de l'ordre républicain, ce qui rend improbable toute concession à LFI. Une motion de censure LFI isolée est possible, mais le PS reste l'arbitre.",
+     "implications": "La polarisation pèse sur le calendrier parlementaire, avec des débats sécuritaires prioritaires. Mieux vaut éviter les coalitions d'amendements associées à LFI.",
+     "sources": [
+      {
+       "titre": "Violences du 17 octobre : Sébastien Lecornu accuse LFI de porter « une atteinte très grave à l'État de droit »",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/violences-du-17-octobre-sebastien-lecornu-accuse-lfi-de-porter-une-atteinte-tres-grave-a-letat-de-droit",
+       "date": "2026-10-21"
+      }
+     ]
+    },
+    {
+     "id": "executif-nunez-cible-censure-etat-urgence",
+     "titre": "Laurent Nuñez fragilisé : départ réclamé par LFI et le RN, censure « sur la table », état d'urgence écarté",
+     "date": "2026-10-21",
+     "resume": "Après la mobilisation lycéenne du 6 octobre, Sébastien Lecornu a fait état de 215 élèves et 715 policiers et gendarmes blessés, et l'IGPN a ouvert 36 enquêtes, dont 4 pour blessures mutilantes. Le 8 octobre, Manuel Bompard a jugé une motion de censure « sur la table ». Le 22 octobre, le RN a demandé le départ anticipé de Laurent Nuñez. Le 21 octobre au Sénat, le ministre a écarté l'état d'urgence réclamé par Bruno Retailleau. Il privilégie le droit commun pour la journée nationale du samedi 24 octobre : interdictions préfectorales de rassemblements, couvre-feux reconduits et effectifs renforcés. Aucune motion de censure n'a été déposée à ce stade.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Laurent Nuñez",
+      "Manuel Bompard",
+      "Edwige Diaz",
+      "Bruno Retailleau",
+      "Sébastien Lecornu"
+     ],
+     "impact": 4,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La journée du 24 octobre servira de test. De nouveaux débordements pourraient forcer un décret d'état d'urgence en Conseil des ministres, avec une loi de prorogation au-delà de 12 jours, ou un départ de Laurent Nuñez.",
+     "implications": "Un remaniement partiel ciblant l'Intérieur est à anticiper. Un état d'urgence pèserait sur l'agenda parlementaire et sur les événements prévus, notamment le congrès du RN.",
+     "sources": [
+      {
+       "titre": "Violences urbaines : « Nous ne sommes pas à un stade où il y aura déclaration de l'état d'urgence », affirme le ministre de l'Intérieur",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/violences-urbaines-nous-ne-sommes-pas-a-un-stade-ou-il-y-aura-declaration-de-letat-durgence-affirme-le-ministre-de-linterieur",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "\"L'hypothèse est sur la table\": Manuel Bompard n'exclut pas de déposer une motion de censure contre le gouvernement sur la mobilisation des lycéens",
+       "media": "Yahoo Actualités / BFMTV",
+       "url": "https://fr.news.yahoo.com/lhypoth%C3%A8se-table-manuel-bompard-nexclut-095254469.html",
+       "date": "2026-10-08"
+      },
+      {
+       "titre": "Mobilisation lycéenne : Sébastien Lecornu défend le gouvernement et refuse de « jeter l'opprobre sur la police de la République »",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-sebastien-lecornu-defend-le-gouvernement-et-refuse-de-jeter-lopprobre-sur-la-police-de-la-republique",
+       "date": "2026-10-07"
+      },
+      {
+       "titre": "Mobilisation lycéenne : Laurent Nuñez annonce l'ouverture de 36 enquêtes par l'IGPN dont quatre pour des « blessures mutilantes »",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/mobilisation-lyceenne-laurent-nunez-annonce-louverture-de-36-enquetes-par-ligpn-dont-quatre-pour-des-blessures-mutilantes",
+       "date": "2026-10-14"
+      }
+     ]
+    },
+    {
+     "id": "executif-macron-golfe-diesel",
+     "titre": "Tournée de Macron dans le Golfe : 200 000 t de diesel par mois et 2 TWh de GNL par mois du Qatar",
+     "date": "2026-10-21",
+     "resume": "Du 19 au 21 octobre, Emmanuel Macron a effectué une tournée dans le Golfe, conclue par une visite d'État au Qatar, la première d'un président français à Doha, suivie d'une escale non annoncée en Arabie saoudite. Il était accompagné des patrons de TotalEnergies et d'Engie. Les Émirats et Bahreïn se sont engagés sur 100 000 tonnes de diesel par mois chacun, soit environ 295 000 t avec les livraisons saoudiennes et un peu plus de 10 % de la consommation française. Le Qatar fournira 2 TWh de GNL par mois cet hiver. Dans un contexte de blocage du détroit d'Ormuz, la France a déstocké 10 millions de barils, avec un objectif de baisse de 12 à 18 centimes par litre à partir de novembre.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Emmanuel Macron",
+      "TotalEnergies",
+      "Engie",
+      "Émir du Qatar"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "neutre",
+     "signal_faible": false,
+     "anticipation": "L'exécutif mise sur une baisse des prix à la pompe en novembre pour désamorcer la contestation, ce qui réduit l'urgence d'une mesure fiscale sur les carburants dans le PLF.",
+     "implications": "Les acteurs de l'énergie et du transport doivent surveiller les modalités de déstockage et un éventuel ajustement de la fiscalité énergétique en séance.",
+     "sources": [
+      {
+       "titre": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
+       "media": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Macron calls for extreme caution in Gulf, secures critical gas deal for France",
+       "media": "Euronews",
+       "url": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Approvisionnements en diesel et pétrole : Emmanuel Macron en déplacement dans quatre pays du Golfe à partir de ce lundi",
+       "media": "CNews",
+       "url": "https://www.cnews.fr/monde/2026-10-19/approvisionnements-en-diesel-et-petrole-emmanuel-macron-en-deplacement-dans-quatre",
+       "date": "2026-10-19"
+      }
+     ]
+    },
+    {
+     "id": "executif-retailleau-report-second-tour",
+     "titre": "Signal faible : Retailleau demande de déplacer le second tour de la présidentielle du 2 mai 2027",
+     "date": "2026-10-20",
+     "resume": "Bruno Retailleau, président de LR, demande de déplacer le second tour, fixé au 2 mai 2027, au lendemain du 1er mai, le premier tour étant fixé au 18 avril. Il invoque les violences des 17 et 18 octobre (« peu de 1er mai se passent calmement ») et accuse le gouvernement d'une « stratégie du chaos ». Il conteste ce calendrier depuis son annonce en juillet 2026. Selon le Journal du Net, le gouvernement n'a pas réagi.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Bruno Retailleau",
+      "Les Républicains",
+      "Sébastien Lecornu"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Le calendrier électoral est fixé par décret, et toute modification ferait peser un fort risque de contentieux. Le sujet peut devenir un marqueur de la campagne LR et un test de l'alignement de la droite sénatoriale.",
+     "implications": "Le calendrier de fin de législature est à surveiller. Tout glissement modifierait les fenêtres d'adoption des textes en cours.",
+     "sources": [
+      {
+       "titre": "Bruno Retailleau demande au gouvernement de changer la date du second tour de la présidentielle",
+       "media": "Journal du Net",
+       "url": "https://www.journaldunet.com/business/action-publique/1556849-bruno-retailleau-demande-au-gouvernement-de-changer-la-date-du-second-tour-de-la-presidentielle/",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Réunion des partis politiques à Matignon : « De qui se moque-t-on ? On a assisté à une réunion technique » déplore la gauche",
+       "media": "Public Sénat",
+       "url": "https://publicsenat.fr/actualites/politique/reunion-des-partis-politiques-a-matignon-de-qui-se-moque-t-on-on-a-assiste-a-une-reunion-technique-deplore-la-gauche",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "executif-conseil-ministres-nucleaire-14-octobre",
+     "titre": "Signal faible : malgré la crise, le Conseil des ministres fait avancer la relance nucléaire",
+     "date": "2026-10-14",
+     "resume": "Le Conseil des ministres du 14 octobre a examiné un projet de loi sur le nucléaire, présenté par la ministre déléguée chargée de l'énergie. Il complète la loi d'accélération de 2023 pour l'aval du cycle, notamment le projet « Aval du futur » d'Orano à La Hague. Un décret crée des autorisations d'urbanisme temporaires, accordées par le préfet sur avis conforme du maire, pour les installations des chantiers de réacteurs, en particulier l'EPR2 de Penly ; le silence de l'administration y vaut rejet. Des nominations ont aussi été actées : Marie Fontanel comme conseillère d'État, Grégoire Dulin comme secrétaire général adjoint de la Justice, Alexis Vuillemin au CGEDD. Le Conseil du 22 octobre s'est limité à deux accords internationaux (Fidji, Interpol), sans nomination.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Conseil des ministres",
+      "Ministre déléguée chargée de l'énergie",
+      "Orano",
+      "Marie Fontanel",
+      "Grégoire Dulin"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "consensuel",
+     "signal_faible": true,
+     "anticipation": "Le texte nucléaire, plutôt consensuel, pourrait devenir un véhicule transpartisan avant la fin de la législature. Son inscription à l'ordre du jour reste incertaine face à l'embouteillage budgétaire.",
+     "implications": "La filière nucléaire et les collectivités de la Manche et de Seine-Maritime doivent se préparer à la désignation des rapporteurs. Le décret d'urbanisme s'applique aux chantiers EPR2 dès sa publication au JO.",
+     "sources": [
+      {
+       "titre": "Compte rendu du Conseil des ministres du 14 octobre 2026",
+       "media": "Élysée",
+       "url": "https://www.elysee.fr/emmanuel-macron/2026/10/14/compte-rendu-du-conseil-des-ministres-du-14-octobre-2026",
+       "date": "2026-10-14"
+      },
+      {
+       "titre": "Compte rendu du Conseil des ministres du 22 octobre 2026",
+       "media": "Élysée",
+       "url": "https://www.elysee.fr/emmanuel-macron/2026/10/22/compte-rendu-du-conseil-des-ministres-du-22-octobre-2026",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "executif-gouvernement-resserre-cabinets",
+     "titre": "Signal faible : un gouvernement qui s'érode sans remaniement (Ruralité non pourvue, cabinets réduits)",
+     "date": "2026-10-13",
+     "resume": "Lors de l'ajustement du 22 septembre 2026, Michel Fournier, ministre délégué à la Ruralité, a quitté le gouvernement sans être remplacé, et Françoise Gatel a repris le portefeuille de fait (selon Wikipédia, à recouper). Selon Acteurs publics, les cabinets du gouvernement Lecornu comptent 471 conseillers, contre 521 en juillet 2025 sous le gouvernement Bayrou, soit environ 10 % de moins. C'est l'effet du décret du 15 octobre 2025, qui plafonne les cabinets à 14 conseillers par ministre et 8 par ministre délégué.",
+     "type": "nomination",
+     "acteurs": [
+      "Michel Fournier",
+      "Françoise Gatel",
+      "Sébastien Lecornu"
+     ],
+     "impact": 2,
+     "urgence": 1,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "Les départs non remplacés traduisent un gouvernement de fin de cycle. Un remaniement d'ampleur est peu probable avant la présidentielle, mais des départs pour la campagne ou sous la pression, notamment à l'Intérieur, restent possibles.",
+     "implications": "Les cabinets plus réduits resserrent les points d'entrée : il faut cibler les directeurs de cabinet et les administrations centrales.",
+     "sources": [
+      {
+       "titre": "Effectifs, dotations : les cabinets du gouvernement Lecornu ont réduit la voilure en 2026",
+       "media": "Acteurs publics",
+       "url": "https://acteurspublics.fr/articles/effectifs-dotations-les-cabinets-du-gouvernement-lecornu-ont-reduit-la-voilure-en-2026/",
+       "date": "2026-10-13"
+      },
+      {
+       "titre": "Gouvernement Lecornu II",
+       "media": "Wikipédia",
+       "url": "https://fr.wikipedia.org/wiki/Gouvernement_Lecornu_II",
+       "date": "2026-10-17"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Gère la crise d'ordre public, durcit le ton contre LFI et défend le PLF et le PLFSS 2027 sans majorité",
+     "influence": 5
+    },
+    {
+     "nom": "Emmanuel Macron",
+     "fonction": "Président de la République",
+     "position": "Reprend la main sur l'énergie et l'international (tournée dans le Golfe, diesel et GNL) et reconnaît l'inquiétude sur la vie chère",
+     "influence": 5
+    },
+    {
+     "nom": "Roland Lescure",
+     "fonction": "Ministre de l'Économie et des Finances",
+     "position": "Brandit le 49.3 et les ordonnances budgétaires comme des « glissières de sécurité »",
+     "influence": 4
+    },
+    {
+     "nom": "David Amiel",
+     "fonction": "Ministre de l'Action et des Comptes publics",
+     "position": "Porte le PLF et le PLFSS face à la dégradation votée par les députés",
+     "influence": 4
+    },
+    {
+     "nom": "Laurent Nuñez",
+     "fonction": "Ministre de l'Intérieur",
+     "position": "Écarte l'état d'urgence ; son départ est réclamé par LFI et le RN",
+     "influence": 4
+    },
+    {
+     "nom": "Bruno Retailleau",
+     "fonction": "Président de LR",
+     "position": "Réclame l'état d'urgence et le déplacement du second tour de la présidentielle",
+     "influence": 3
+    },
+    {
+     "nom": "Manuel Bompard",
+     "fonction": "Coordinateur de LFI",
+     "position": "Juge la censure « sur la table » et cible Laurent Nuñez",
+     "influence": 3
+    },
+    {
+     "nom": "Raphaël Glucksmann",
+     "fonction": "Place publique, représentant de la liste PS-Place publique à Matignon",
+     "position": "Critique la réunion de Matignon ; le PS met en garde contre le 49.3 et reste pivot sur la censure",
+     "influence": 4
+    },
+    {
+     "nom": "Philippe Juvin",
+     "fonction": "Rapporteur général du budget à l'Assemblée",
+     "position": "Estime à environ 10 Md€ la dégradation du déficit liée aux votes en commission",
+     "influence": 3
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-24",
+     "evenement": "Journée nationale de mobilisation, sous interdictions préfectorales, couvre-feux et effectifs renforcés",
+     "enjeu": "Test pour Laurent Nuñez : de nouveaux débordements pourraient conduire à un décret d'état d'urgence"
+    },
+    {
+     "date": "2026-10-27",
+     "evenement": "Vote solennel sur la première partie du PLF 2027 à l'Assemblée nationale",
+     "enjeu": "Un rejet mettrait fin à la première lecture et ouvrirait la voie au 49.3 ou aux ordonnances"
+    },
+    {
+     "date": "2026-11-09",
+     "evenement": "Début de l'examen du PLFSS 2027 au Sénat sur le texte initial du gouvernement",
+     "enjeu": "Réécriture sénatoriale avant la CMP, puis lecture définitive probablement sous 49.3"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Vote sur l'ensemble du PLF 2027 (date non confirmée, calendrier susceptible de glisser)",
+     "enjeu": "Survie du gouvernement si le 49.3 est déclenché et qu'une motion de censure suit"
+    },
+    {
+     "date": "2027-04-18",
+     "evenement": "Premier tour de l'élection présidentielle",
+     "enjeu": "Fin de cycle de l'exécutif ; fenêtres législatives en voie de fermeture"
+    },
+    {
+     "date": "2027-05-02",
+     "evenement": "Second tour de l'élection présidentielle",
+     "enjeu": "Date contestée par LR, qui demande de la déplacer"
+    }
+   ],
+   "mots_cles": [
+    "Lecornu",
+    "Macron",
+    "49.3",
+    "ordonnances budgétaires",
+    "PLF 2027",
+    "PLFSS 2027",
+    "motion de censure",
+    "Nuñez",
+    "état d'urgence",
+    "violences du 17 octobre",
+    "mobilisation lycéenne",
+    "Golfe",
+    "diesel",
+    "GNL Qatar",
+    "Retailleau",
+    "Conseil des ministres",
+    "nucléaire",
+    "polices municipales"
+   ]
+  },
+  {
+   "theme": "presidentielle",
+   "synthese": "À six mois du premier tour (prévu à la mi-avril 2027), la séquence d'octobre 2026 fige l'offre à gauche et ouvre la phase de campagne au RN, alors que le bloc central et la droite restent fragmentés. Raphaël Glucksmann a remporté dès le premier tour la primaire sociale-démocrate du 11 octobre avec 66,1 % des voix (79 613 votes sur environ 120 800 votants), loin devant Olivier Faure (14,5 %). Faure a reconnu sa défaite et dit souhaiter sa victoire. Pour la première fois, le PS n'aura pas de candidat issu de ses rangs. Le refus de Glucksmann de toute alliance avec LFI, à la présidentielle comme aux législatives, fait des Écologistes le pivot de la gauche (vote des militants sur la candidature Tondelier le 13 décembre). Le RN tient son congrès à Orléans les 24 et 25 octobre : Jordan Bardella doit y être réélu sans rival et Marine Le Pen y lancer sa campagne, malgré son pourvoi en cassation contre sa condamnation en appel du 7 juillet (inéligibilité ferme de 15 mois, déjà purgée selon la presse). Les sondages la placent largement en tête (32-35 %). À droite et au centre, le duel Philippe-Attal reste sans arbitrage (horizon janvier 2027), et un sondage Ifop-Fiducial de mi-octobre placerait David Lisnard (6 %) devant Bruno Retailleau (5 %). L'offre continue de s'élargir (Polony, Zemmour, Roussel) et François Hollande réserve sa décision pour décembre. Note de fact-checking : la primaire du 11 octobre a été recoupée par plusieurs sources (AFP via LNC, Brussels Signal, La Gazette France). Le quota de recherches web étant épuisé, les autres signaux n'ont pas pu être recoupés de façon indépendante et restent à confirmer.",
+   "temperature": 4,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "presidentielle-glucksmann-primaire-ps",
+     "titre": "Glucksmann remporte la primaire sociale-démocrate dès le premier tour (66 %) : le PS sans candidat issu de ses rangs",
+     "date": "2026-10-11",
+     "resume": "Le 11 octobre 2026, Raphaël Glucksmann (Place publique) remporte dès le premier tour la primaire de la gauche sociale-démocrate avec 66,13 % des voix (79 613 votes). Olivier Faure obtient 14,48 %, Ségolène Royal 7,62 %, Emmanuel Maurel 5,92 % et Jérôme Guedj 5,83 %, pour environ 120 800 votants sur 134 456 inscrits. Glucksmann exclut toute alliance avec LFI, à la présidentielle comme aux législatives. Pour la première fois, le PS ne présentera pas de candidat issu de ses rangs à une présidentielle.",
+     "type": "autre",
+     "acteurs": [
+      "Raphaël Glucksmann",
+      "Olivier Faure",
+      "Ségolène Royal",
+      "Jérôme Guedj",
+      "Emmanuel Maurel",
+      "Patrick Kanner"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La ligne sociale-démocrate devrait se consolider et la ligne unioniste de Faure perdre du terrain. Le PS pourrait accentuer sa différenciation avec LFI à l'Assemblée. Le refus d'alliance aux législatives laisse prévoir des tensions sur les investitures si des législatives suivent la présidentielle.",
+     "implications": "Le programme Glucksmann devient la principale porte d'entrée à gauche pour les organisations représentées, et il faut cartographier son équipe programme. Le PS reste indispensable à la campagne pour le financement, les militants et les élus.",
+     "sources": [
+      {
+       "titre": "Glucksmann largement élu candidat de la gauche sociale-démocrate à la présidentielle",
+       "media": "Les Nouvelles Calédoniennes (AFP)",
+       "url": "https://www.lnc.nc/article/glucksmann-largement-elu-candidat-de-la-gauche-sociale-democrate-a-la-presidentielle",
+       "date": "2026-10-12"
+      },
+      {
+       "titre": "Glucksmann wins social democratic primary outright and names the far right as his main opponent",
+       "media": "Brussels Signal",
+       "url": "https://brusselssignal.eu/2026/10/glucksmann-wins-social-democratic-primary-outright-and-names-the-far-right-as-his-main-opponent/",
+       "date": "2026-10-12"
+      },
+      {
+       "titre": "Victoire de Raphaël Glucksmann : « C'est le début d'une aventure, ce n'est pas la fin de l'histoire », salue Patrick Kanner",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/victoire-de-raphael-glucksmann-cest-le-debut-dune-aventure-ce-nest-pas-la-fin-de-lhistoire-salue-patrick-kanner",
+       "date": "2026-10-12"
+      },
+      {
+       "titre": "« La victoire de Glucksmann ne vaut pas blanc-seing pour sa stratégie anti-alliance »",
+       "media": "Politis",
+       "url": "https://www.politis.fr/articles/2026/10/la-victoire-de-glucksmann-ne-vaut-pas-blanc-seing-pour-sa-strategie-anti-alliance/",
+       "date": "2026-10-15"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-ps-fracture-interne-faure",
+     "titre": "PS après la primaire : Faure se rallie à Glucksmann, mais l'appareil sort affaibli et des réticences internes persistent",
+     "date": "2026-10-15",
+     "resume": "Pour le politiste Frédéric Sawicki (Politis), Olivier Faure est le « grand perdant » de la primaire : aucun candidat PS ne dépasse 15 % et leur total reste sous 30 %. Faure a toutefois déclaré souhaiter la victoire de Glucksmann et vouloir mobiliser les socialistes derrière lui. Des divergences subsistent sur l'attitude à l'égard de LFI aux législatives, et la participation est jugée faible.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Olivier Faure",
+      "Boris Vallaud",
+      "Raphaël Glucksmann",
+      "Frédéric Sawicki"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Le ralliement public de Faure limite le risque de rupture immédiate. Une bataille pour le contrôle de l'appareil (financement, investitures) reste possible. Il faut surveiller la discipline de vote du groupe socialiste pendant la séquence budgétaire.",
+     "implications": "Il faut diversifier les interlocuteurs au PS (direction Faure, courant Vallaud, entourage Glucksmann) et ne pas considérer les engagements programmatiques du PS et ceux de Place publique comme équivalents.",
+     "sources": [
+      {
+       "titre": "« La victoire de Glucksmann ne vaut pas blanc-seing pour sa stratégie anti-alliance »",
+       "media": "Politis",
+       "url": "https://www.politis.fr/articles/2026/10/la-victoire-de-glucksmann-ne-vaut-pas-blanc-seing-pour-sa-strategie-anti-alliance/",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "Présidentielle : Olivier Faure souhaite la victoire de Raphaël Glucksmann",
+       "media": "La Gazette France (AFP)",
+       "url": "https://www.lagazettefrance.fr/article/presidentielle-olivier-faure-souhaite-la-victoire-de-raphael-glucksmann",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-ecologistes-pivot-gauche",
+     "titre": "Les Écologistes, pivot de la gauche, tiraillés entre Glucksmann, Mélenchon et une candidature autonome (vote le 13 décembre)",
+     "date": "2026-10-14",
+     "resume": "La candidature de Marine Tondelier doit être validée par un vote des militants écologistes le 13 décembre 2026. Le parti est partagé entre les partisans d'une alliance avec LFI, ceux qui préfèrent Glucksmann et les tenants d'une candidature autonome. LFI conditionne le dialogue à un soutien à Jean-Luc Mélenchon. Les positions d'octobre n'ont pas été recoupées par des sources récentes indépendantes.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Marine Tondelier",
+      "Yannick Jadot",
+      "Jean-Luc Mélenchon",
+      "Raphaël Glucksmann"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Le vote du 13 décembre fixera la structure de la gauche au premier tour : trois candidatures ou un ralliement. Un ralliement à LFI renforcerait l'hypothèse d'un Mélenchon au second tour, et un ralliement à Glucksmann celle d'un pôle social-démocrate et vert.",
+     "implications": "Les sujets environnementaux seront au cœur des marchandages programmatiques de la gauche avant décembre. C'est une fenêtre pour porter des propositions auprès des équipes Tondelier et Glucksmann.",
+     "sources": [
+      {
+       "titre": "Élection présidentielle 2027 : qui sont les candidats déclarés ou presque",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque",
+       "date": "2026-10-14"
+      },
+      {
+       "titre": "Présidentielle : Tondelier persiste dans son appel à l'union, LFI attend un ralliement",
+       "media": "La Gazette France (AFP)",
+       "url": "https://www.lagazettefrance.fr/article/presidentielle-tondelier-persiste-dans-son-appel-a-l-union-lfi-attend-un-ralliement",
+       "date": "2026-08"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-rn-congres-orleans",
+     "titre": "Congrès du RN à Orléans (24-25 octobre) : réélection de Bardella sans rival et lancement de la campagne de Marine Le Pen",
+     "date": "2026-10-21",
+     "resume": "Le RN tient son congrès à Orléans les 24 et 25 octobre 2026. Jordan Bardella, seul candidat, doit y être réélu président par plus de 112 000 adhérents appelés à voter en ligne. Le parti présente la journée du dimanche comme le lancement de la campagne présidentielle de Marine Le Pen. Selon Public Sénat, le ministre de l'Intérieur Laurent Nuñez attend « plusieurs dizaines de milliers » de contre-manifestants le samedi et annonce un important dispositif d'ordre public.",
+     "type": "autre",
+     "acteurs": [
+      "Marine Le Pen",
+      "Jordan Bardella",
+      "Edwige Diaz",
+      "Laurent Nuñez"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le RN entre en campagne avec le ticket Le Pen à l'Élysée et Bardella à Matignon. Il faut s'attendre à des annonces programmatiques et à des propositions de loi « vitrines ». D'éventuels débordements le 24 octobre pourraient peser sur le débat sécurité.",
+     "implications": "Il faut analyser dès le 25 octobre les annonces programmatiques (économie, fiscalité, énergie, immigration) et préparer des notes d'impact sectorielles.",
+     "sources": [
+      {
+       "titre": "Congrès du RN à Orléans : plusieurs dizaines de milliers de contre-manifestants attendus samedi, selon Laurent Nuñez",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/congres-du-rn-a-orleans-plusieurs-dizaines-de-milliers-de-contre-manifestants-attendus-samedi-selon-laurent-nunez",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "RN : plus de 112 000 adhérents appelés à réélire Bardella fin octobre",
+       "media": "La Gazette France (AFP)",
+       "url": "https://www.lagazettefrance.fr/article/rn-plus-de-112-000-adherents-appeles-a-reelire-bardella-fin-octobre",
+       "date": "2026-10"
+      },
+      {
+       "titre": "Au RN, Jordan Bardella file vers un nouveau mandat sans rival",
+       "media": "24matins",
+       "url": "https://www.24matins.fr/au-rn-jordan-bardella-file-vers-un-nouveau-mandat-sans-rival-1418781",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-le-pen-cassation",
+     "titre": "Pourvoi en cassation de Marine Le Pen : un aléa juridictionnel non daté qui maintient l'option Bardella",
+     "date": "2026-07-07",
+     "resume": "Le 7 juillet 2026, la cour d'appel de Paris a condamné Marine Le Pen dans l'affaire des assistants parlementaires européens, avec une inéligibilité dont 15 mois ferme et un an de bracelet électronique (selon Paris Match). Selon la presse, la part ferme de l'inéligibilité est déjà purgée, ce qui lui permet d'être candidate. Elle a maintenu sa candidature et formé un pourvoi en cassation, dont la date d'audience n'est pas identifiée. Le détail de la peine (amende, durée totale) reste à confirmer.",
+     "type": "décision juridictionnelle",
+     "acteurs": [
+      "Marine Le Pen",
+      "Jordan Bardella",
+      "Cour de cassation"
+     ],
+     "impact": 4,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "La date d'examen du pourvoi est le principal point d'incertitude de la campagne RN. Les instituts testent Bardella en parallèle de Le Pen.",
+     "implications": "Il faut construire des scénarios avec les deux candidats RN. Les contacts avec l'entourage de Bardella sont un investissement à double usage (présidence ou Matignon).",
+     "sources": [
+      {
+       "titre": "Marine Le Pen condamnée à 15 mois ferme d'inéligibilité et un an de bracelet électronique",
+       "media": "Paris Match Belgique",
+       "url": "https://www.parismatch.be/actualites/monde/2026/07/07/marine-le-pen-condamnee-a-15-mois-ferme-dineligibilite-et-un-an-de-bracelet-electronique-K23HT444CZB4TK7AI7QZLWSCFA/",
+       "date": "2026-07-07"
+      },
+      {
+       "titre": "Condamnation en appel de Marine Le Pen : « Elle sort finalement gagnante de cette séquence judiciaire »",
+       "media": "Slate",
+       "url": "https://www.slate.fr/politique/condamnation-appel-marine-le-pen-jugement-sans-consequences-politiques-decision-citoyens-gagnante-sequence-justice-rn-bardella-election-presidentielle-2027",
+       "date": "2026-07"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-sondage-lisnard-devant-retailleau",
+     "titre": "Sondage Ifop-Fiducial : Lisnard (6 %) devant Retailleau (5 %), candidat désigné de LR",
+     "date": "2026-10-14",
+     "resume": "Selon Sud Radio, une enquête Ifop-Fiducial pour LCI et Sud Radio publiée mi-octobre 2026 crédite David Lisnard (Nouvelle Énergie) de 6 % au premier tour, contre 5 % pour Bruno Retailleau, Marine Le Pen dominant le scénario avec 32 %. L'écart reste dans la marge d'erreur. Ce chiffre n'a pas été recoupé avec la notice Ifop.",
+     "type": "sondage",
+     "acteurs": [
+      "David Lisnard",
+      "Bruno Retailleau",
+      "Ifop-Fiducial"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "La pression pour une entente ou un départage Lisnard-Retailleau s'accroît, et l'argument d'un « vote utile » vers Philippe se renforce.",
+     "implications": "LR n'est plus l'interlocuteur unique de la droite : il faut intégrer Nouvelle Énergie et le réseau des maires dans la cartographie.",
+     "sources": [
+      {
+       "titre": "David Lisnard peut-il être la grosse cote de l'élection présidentielle de 2027 ?",
+       "media": "Sud Radio",
+       "url": "https://www.sudradio.fr/politique/david-lisnard-peut-il-etre-la-grosse-cote-de-lelection-presidentielle-de-2027",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "Présidentielle : Lisnard, star des petits écrans, veut passer en grandeur nature",
+       "media": "La Gazette France (AFP)",
+       "url": "https://www.lagazettefrance.fr/article/presidentielle-lisnard-star-des-petits-ecrans-veut-passer-en-grandeur-nature",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-bloc-central-primaire-droite",
+     "titre": "Philippe-Attal et primaire de la droite et du centre : arbitrage repoussé à janvier 2027",
+     "date": "2026-08-27",
+     "resume": "Plus de 200 élus ont signé fin août une tribune portée par Hervé Morin pour une primaire ouverte de la droite et du centre. Gabriel Attal se dit prêt à un départage, alors qu'Édouard Philippe et Xavier Bertrand le refusent et que Bruno Retailleau reste réservé. Philippe fixe un horizon à janvier 2027. Aucun accord formel n'est confirmé à ce jour.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Édouard Philippe",
+      "Gabriel Attal",
+      "Hervé Morin",
+      "Xavier Bertrand",
+      "Bruno Retailleau"
+     ],
+     "impact": 4,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Il n'y aura pas d'arbitrage avant janvier 2027. La compétition Horizons-Renaissance devrait se traduire par des différenciations sur les textes budgétaires et sociaux.",
+     "implications": "Il faut maintenir des canaux parallèles avec Horizons et Renaissance, et lire les mesures portées par EPR et Horizons pendant le PLF/PLFSS comme des marqueurs de campagne.",
+     "sources": [
+      {
+       "titre": "Présidentielle : Retailleau, Attal, Bertrand, Philippe… les candidatures se multiplient à droite et au centre, mais l'hypothèse d'une primaire divise toujours",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-retailleau-attal-bertrand-philippe-les-candidatures-se-multiplient-a-droite-et-au-centre-mais-lhypothese-dune-primaire-divise-tou",
+       "date": "2026-08-27"
+      },
+      {
+       "titre": "Présidentielle 2027 : pourquoi, dans le bloc central et à droite, certains s'inquiètent du duel Philippe-Attal",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/presidentielle-2027-pourquoi-dans-le-bloc-central-et-a-droite-certains-s-inquietent-du",
+       "date": "2026-08"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-melenchon-second-tour",
+     "titre": "Mélenchon remonte à 16-19 % dans les sondages d'août : la menace d'un second tour Le Pen-Mélenchon structure le débat au centre",
+     "date": "2026-08-24",
+     "resume": "Selon Euronews et Reuters, des sondages de fin août 2026 (Toluna Harris Interactive, Ifop) placent Jean-Luc Mélenchon entre 16 et 19 % au premier tour, en position de se qualifier pour le second tour dans plusieurs scénarios. Aucune mesure d'octobre confirmant cette tendance après la primaire sociale-démocrate n'a été identifiée.",
+     "type": "sondage",
+     "acteurs": [
+      "Jean-Luc Mélenchon",
+      "LFI",
+      "Toluna Harris Interactive",
+      "Ifop"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "La perspective d'un second tour Le Pen-Mélenchon sert d'argument au rassemblement du centre et de la droite et à la pression sur les Écologistes.",
+     "implications": "Il faut intégrer le scénario d'un second tour entre les deux extrêmes aux analyses de risque et suivre les vagues post-primaire pour mesurer l'effet Glucksmann.",
+     "sources": [
+      {
+       "titre": "Présidentielle 2027 : Jean-Luc Mélenchon peut de nouveau croire au second tour, selon un sondage",
+       "media": "Euronews",
+       "url": "https://fr.euronews.com/2026/08/24/presidentielle-2027-jean-luc-melenchon-peut-de-nouveau-croire-au-second-tour-selon-un-sond",
+       "date": "2026-08-24"
+      },
+      {
+       "titre": "French far-left leader Melenchon close to presidential runoff, poll shows",
+       "media": "Reuters (via Internazionale)",
+       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/26/french-far-left-leader-melenchon-close-to-presidential-runoff-poll-shows",
+       "date": "2026-08-26"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-polony-offre-souverainiste",
+     "titre": "Natacha Polony se déclare candidate : l'offre souverainiste se densifie, avec un enjeu de parrainages",
+     "date": "2026-10-14",
+     "resume": "Le 14 octobre 2026, l'essayiste Natacha Polony a annoncé sa candidature à la présidentielle, sur une ligne de souveraineté économique, énergétique et alimentaire. Elle critique la règle des 500 parrainages. Sa candidature s'ajoute à d'autres candidatures déclarées, dont celles d'Éric Zemmour et de Fabien Roussel.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Natacha Polony",
+      "Éric Zemmour",
+      "Fabien Roussel",
+      "Florian Philippot"
+     ],
+     "impact": 2,
+     "urgence": 1,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "La concurrence pour les 500 parrainages des maires va s'intensifier au premier trimestre 2027, et les thèmes de la souveraineté productive se diffusent au-delà du RN.",
+     "implications": "La commande publique, la conditionnalité des aides et la souveraineté alimentaire deviennent des sujets transpartisans à anticiper dans plusieurs programmes.",
+     "sources": [
+      {
+       "titre": "Natacha Polony annonce sa candidature à l'élection présidentielle",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808",
+       "date": "2026-10-14"
+      },
+      {
+       "titre": "France : Natacha Polony officialise sa candidature à la présidentielle",
+       "media": "Euronews",
+       "url": "https://fr.euronews.com/2026/10/14/france-natacha-polony-officialise-sa-candidature-a-la-presidentielle",
+       "date": "2026-10-14"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-hollande-decembre",
+     "titre": "François Hollande renvoie sa décision à décembre : un facteur de déstabilisation pour Glucksmann",
+     "date": "2026-09-28",
+     "resume": "François Hollande a indiqué que, s'il devait se déclarer, il le ferait en décembre (LCP, mai 2026). Selon Reuters (28 septembre 2026, citant un journal), il ne se présenterait que si la victoire lui paraît atteignable. Il ne s'est pas présenté à la primaire sociale-démocrate. Aucune annonce n'est intervenue en octobre à notre connaissance.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "François Hollande",
+      "Raphaël Glucksmann"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Décembre 2026 concentre deux arbitrages à gauche, le vote des Écologistes et la décision de Hollande, qui peuvent fragmenter l'espace social-démocrate.",
+     "implications": "Il faut surveiller les parlementaires PS proches de Hollande et ne pas considérer la candidature Glucksmann comme l'unique offre sociale-démocrate.",
+     "sources": [
+      {
+       "titre": "Présidentielle : si François Hollande doit se déclarer candidat, il le fera en décembre",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/presidentielle-si-francois-hollande-doit-se-declarer-candidat-il-le-fera-en-decembre",
+       "date": "2026-05-29"
+      },
+      {
+       "titre": "France's Hollande says may run in 2027 if victory looks attainable, paper says",
+       "media": "Reuters (via Internazionale)",
+       "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/france-s-hollande-says-may-run-in-2027-if-victory-looks-attainable-paper-says",
+       "date": "2026-09-28"
+      }
+     ]
+    },
+    {
+     "id": "presidentielle-senatoriales-rn-groupe",
+     "titre": "Sénatoriales du 27 septembre : le RN pourrait constituer un groupe au Sénat (chiffre à confirmer)",
+     "date": "2026-09-27",
+     "resume": "Selon Le Club des juristes, le RN, allié à l'UDR dans plusieurs départements, compterait une douzaine de sénateurs après le renouvellement du 27 septembre 2026, ce qui permettrait de constituer un groupe. Ce chiffre n'a pas été recoupé avec une seconde source, et la composition officielle doit être vérifiée sur senat.fr.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "RN",
+      "UDR",
+      "Sénat"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "Un groupe RN au Sénat offrirait une tribune pendant l'examen du PLF 2027 et témoignerait d'un ancrage chez les grands électeurs, utile pour les parrainages.",
+     "implications": "Après vérification sur senat.fr, il faudra intégrer un éventuel groupe RN du Sénat au suivi des amendements PLF/PLFSS.",
+     "sources": [
+      {
+       "titre": "Sénatoriales 2026 : un scrutin pas comme les autres ?",
+       "media": "Le Club des juristes",
+       "url": "https://www.leclubdesjuristes.com/politique/senatoriales-2026-un-scrutin-pas-comme-les-autres-17512/",
+       "date": "2026-09"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Marine Le Pen",
+     "fonction": "Présidente du groupe RN à l'Assemblée nationale, candidate déclarée",
+     "position": "Lance sa campagne au congrès d'Orléans et maintient sa candidature malgré le pourvoi en cassation",
+     "influence": 5
+    },
+    {
+     "nom": "Jordan Bardella",
+     "fonction": "Président du RN",
+     "position": "En voie de réélection sans rival, positionné pour Matignon et plan B en cas d'inéligibilité de Le Pen",
+     "influence": 5
+    },
+    {
+     "nom": "Raphaël Glucksmann",
+     "fonction": "Coprésident de Place publique, candidat de la gauche sociale-démocrate",
+     "position": "Vainqueur de la primaire du 11 octobre (66,1 %), refuse toute alliance avec LFI",
+     "influence": 4
+    },
+    {
+     "nom": "Jean-Luc Mélenchon",
+     "fonction": "Candidat LFI",
+     "position": "16-19 % dans les sondages d'août, attend le ralliement des Écologistes",
+     "influence": 4
+    },
+    {
+     "nom": "Édouard Philippe",
+     "fonction": "Président d'Horizons, candidat",
+     "position": "Refuse une primaire, horizon d'arbitrage en janvier 2027",
+     "influence": 4
+    },
+    {
+     "nom": "Gabriel Attal",
+     "fonction": "Secrétaire général de Renaissance",
+     "position": "Favorable à un départage avec Philippe",
+     "influence": 3
+    },
+    {
+     "nom": "Bruno Retailleau",
+     "fonction": "Président de LR, candidat désigné",
+     "position": "Distancé dans les sondages, réservé sur une primaire ouverte",
+     "influence": 3
+    },
+    {
+     "nom": "David Lisnard",
+     "fonction": "Maire de Cannes, président de Nouvelle Énergie",
+     "position": "Réclame une primaire ouverte, devant Retailleau dans l'Ifop de mi-octobre",
+     "influence": 2
+    },
+    {
+     "nom": "Marine Tondelier",
+     "fonction": "Secrétaire nationale des Écologistes",
+     "position": "Appelle à l'union, candidature soumise au vote des militants le 13 décembre",
+     "influence": 3
+    },
+    {
+     "nom": "Olivier Faure",
+     "fonction": "Premier secrétaire du PS",
+     "position": "Battu à la primaire (14,5 %), il se rallie publiquement à Glucksmann",
+     "influence": 2
+    },
+    {
+     "nom": "François Hollande",
+     "fonction": "Ancien président de la République, député de Corrèze",
+     "position": "Décision sur une candidature annoncée pour décembre",
+     "influence": 2
+    },
+    {
+     "nom": "Hervé Morin",
+     "fonction": "Président des Centristes, président de la région Normandie",
+     "position": "Porte la tribune pour une primaire ouverte de la droite et du centre",
+     "influence": 2
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-24",
+     "evenement": "Congrès du RN à Orléans (jour 1) et contre-manifestations",
+     "enjeu": "Réélection de Bardella, ampleur de la contre-mobilisation et ordre public"
+    },
+    {
+     "date": "2026-10-25",
+     "evenement": "Lancement de la campagne de Marine Le Pen au congrès du RN",
+     "enjeu": "Annonces programmatiques et ticket Le Pen-Bardella"
+    },
+    {
+     "date": "2026-12-13",
+     "evenement": "Vote des militants écologistes sur la candidature de Marine Tondelier",
+     "enjeu": "Candidature autonome ou ralliement : structure de la gauche au premier tour"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Décision annoncée de François Hollande sur une éventuelle candidature",
+     "enjeu": "Fragmentation possible de l'espace social-démocrate"
+    },
+    {
+     "date": "2027-01",
+     "evenement": "Horizon d'arbitrage Philippe-Attal",
+     "enjeu": "Primaire, retrait ou double candidature au centre"
+    },
+    {
+     "date": "2027-04",
+     "evenement": "Premier tour de l'élection présidentielle (date exacte à confirmer par le décret de convocation)",
+     "enjeu": "Qualification pour le second tour"
+    },
+    {
+     "date": "2027-05",
+     "evenement": "Second tour de l'élection présidentielle (date à confirmer)",
+     "enjeu": "Élection du président, puis législatives probables"
+    }
+   ],
+   "mots_cles": [
+    "présidentielle 2027",
+    "primaire sociale-démocrate",
+    "Glucksmann",
+    "congrès RN Orléans",
+    "Marine Le Pen cassation",
+    "Bardella",
+    "Philippe-Attal",
+    "primaire de la droite et du centre",
+    "Lisnard",
+    "Retailleau",
+    "Tondelier",
+    "Mélenchon",
+    "parrainages",
+    "Polony",
+    "Hollande"
+   ]
+  },
+  {
+   "theme": "energie-climat",
+   "synthese": "Fin octobre 2026, le thème énergie-climat se joue d'abord dans le projet de loi de finances (PLF) 2027 et non dans la programmation pluriannuelle de l'énergie (PPE3). Le décret PPE3, publié en février 2026, renvoie à 2027 une éventuelle révision simplifiée.\n\n**À l'Assemblée, une séquence budgétaire très instable**\n- **Recettes :** la commission des finances a rejeté la partie recettes le 9 octobre, par 31 voix contre 3. Elle avait auparavant adopté plus de 200 amendements qui creusent le déficit d'environ 10 Md€, selon le rapporteur général Philippe Juvin. La séance a débuté le 13 octobre et le vote sur la partie recettes a été reporté. La reprise est annoncée à partir du 27 octobre, avec de nombreux amendements encore en discussion.\n- **Budget « écologie » :** les oppositions le réécrivent en commission. La révision rétroactive des tarifs d'achat photovoltaïques (article 82) a été supprimée. Un chèque énergie fortement revalorisé et un Fonds vert renforcé ont été adoptés. Ces votes de commission restent fragiles face à un possible recours au 49.3.\n\n**Carburants et mobilisation sociale**\n- Les prix à la pompe sont devenus un sujet social majeur, avec une mobilisation d'ampleur le 17 octobre.\n- La « règle d'or » sur le surplus de TVA promise par Matignon reste floue dans le texte.\n- Le contexte préélectoral pèse sur la transposition de l'ETS2 (marché carbone européen sur les carburants et le chauffage), reportée à 2028 au niveau européen.\n\n**Nucléaire : deux décisions attendues d'ici la fin de l'année**\n- la décision finale d'investissement d'EDF sur six EPR2 (devis de 72,8 Md€ en euros 2020), conditionnée au feu vert de Bruxelles sur les aides d'État ;\n- l'arbitrage sur les sites des EPR2 supplémentaires.\n\n**International.** La France arrive à la COP31 (Antalya, 9 au 20 novembre) en plaidant pour une décision sur l'électrification décarbonée.\n\n**Limite de la vérification.** Seul le calendrier de la commission des finances a pu être recoupé par une recherche indépendante, car le quota de recherche web était épuisé. Les autres signaux reposent sur les sources de l'analyste, et les chiffres non recoupés sont signalés comme tels.",
+   "temperature": 4,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "energie-climat-plf2027-calendrier-recettes",
+     "titre": "PLF 2027 : partie recettes rejetée en commission le 9 octobre, vote en séance reporté",
+     "date": "2026-10-22",
+     "resume": "Le 9 octobre, la commission des finances de l'Assemblée a rejeté la première partie du PLF 2027 par 31 voix contre 3 et 2 abstentions. Elle avait auparavant adopté plus de 200 amendements qui creusent le déficit d'environ 10 Md€, selon le rapporteur général Philippe Juvin. Seul le groupe EPR a voté pour. Ce vote est indicatif : la séance, ouverte le 13 octobre, repart du texte du gouvernement. Le vote sur la partie recettes a été reporté. Selon AMORCE, l'examen reprend à partir du 27 octobre ; les dates du 3 novembre (recettes) et du 17 novembre (ensemble) restent à confirmer dans la conférence des présidents. Les mesures de fiscalité énergétique restent donc ouvertes.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Gouvernement Lecornu",
+      "Philippe Juvin",
+      "Commission des finances de l'Assemblée nationale",
+      "Groupes d'opposition"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La reprise des recettes fin octobre-début novembre est la fenêtre décisive pour les amendements énergie. Sébastien Lecornu a évoqué un possible 49.3, qui ferait disparaître une partie des amendements adoptés. Si les délais constitutionnels sont dépassés, le budget pourrait être mis en œuvre par ordonnances.",
+     "implications": "Redéposer ou soutenir dès maintenant les amendements de séance, avec un chiffrage du coût budgétaire. Préparer le Sénat comme seconde chance. Suivre le texte sur lequel un éventuel 49.3 serait engagé.",
+     "sources": [
+      {
+       "titre": "PLF 2027 : la commission des finances rejette la partie « recettes » après avoir creusé le déficit d'environ 10 Md€",
+       "media": "Légifiscal",
+       "url": "https://www.legifiscal.fr/actualites-fiscales/4684-plf-2027-commission-finances-rejette-partie-recettes-creuse-deficit-environ-10-md.html",
+       "date": "2026-10-10"
+      },
+      {
+       "titre": "Budget 2027: les députés rejettent en commission la partie \"recettes\" du projet de loi de finances",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de",
+       "date": "2026-10-09"
+      },
+      {
+       "titre": "PLF 2027 : point d'étape sur l'examen du budget à l'Assemblée nationale",
+       "media": "AMORCE",
+       "url": "https://amorce.asso.fr/actualite/plf-2027-point-d-etape-sur-l-examen-du-budget-a-l-assemblee-nationale",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "PLF 2027 : en séance publique, les députés recalent la « CPEB » et les autres mesures phares sur les collectivités locales, le vote final de la partie « recettes » reporté",
+       "media": "La Gazette des communes",
+       "url": "https://www.lagazettedescommunes.com/club-finances/finances-publiques/lois-de-finances/plf-2027-les-deputes-recalent-en-seance-publique-la-cpeb-et-les-autres-mesures-phares-sur-les-collectivites-locales-le-vote-final-de-la-partie-recettes-reporte.FE7OXDCSNREFZIHAVHRFSAJ25Y.html",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-article82-photovoltaique",
+     "titre": "Révision rétroactive des tarifs solaires (article 82) : supprimée en commission, bataille en séance en novembre",
+     "date": "2026-10-21",
+     "resume": "L'article 82 du PLF 2027 prévoit une révision rétroactive des tarifs d'achat de contrats photovoltaïques, notamment ceux de l'arrêté S21. Environ 8 000 contrats seraient concernés selon la presse spécialisée. Il a été supprimé en commission des affaires économiques à l'initiative de Julie Laernoes (écologiste), puis en commission des finances. Le gouvernement vise aussi les « rentes » des anciens contrats S06-S10 (2006-2010). Ces votes ne sont que des avis : la séance tranchera en novembre. Les chiffres (nombre de contrats, économies attendues) proviennent des sources de l'analyste et n'ont pas pu être recoupés.",
+     "type": "amendement",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Julie Laernoes",
+      "Jean-Luc Fugit",
+      "Commission des affaires économiques",
+      "Commission des finances",
+      "Filière solaire"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le gouvernement devrait déposer en séance une version réécrite, par exemple limitée aux contrats anciens ou soumise à un audit préalable de la CRE. Une coalition transpartisane (écologistes, élus ruraux, LR) peut maintenir la suppression.",
+     "implications": "Producteurs solaires, agriculteurs et PME propriétaires de toitures : cibler les députés ruraux et le rapporteur pour avis. Chiffrer l'impact par circonscription et anticiper un amendement gouvernemental de repli.",
+     "sources": [
+      {
+       "titre": "Hangars agricoles, toitures de PME : la baisse rétroactive du tarif solaire recule, avant un vote décisif en novembre",
+       "media": "Les Énergies Renouvelables (ECOinfos)",
+       "url": "https://www.les-energies-renouvelables.eu/article/actualites/reglementations/hangars-agricoles-toitures-de-pme-la-baisse-retroactive-du-tarif-solaire-recule-avant-un-vote-decisif-en-novembre-2328/",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Budget : le gouvernement veut mettre fin aux « rentes » de soutien aux énergies renouvelables",
+       "media": "AFP / Connaissance des Énergies",
+       "url": "https://www.connaissancedesenergies.org/afp/budget-le-gouvernement-veut-mettre-fin-aux-rentes-de-soutien-aux-energies-renouvelables-261001",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-cheque-energie-fonds-vert",
+     "titre": "Commission des finances : chèque énergie fortement revalorisé, Fonds vert et Fonds Chaleur renforcés",
+     "date": "2026-10-21",
+     "resume": "Selon AMORCE, la commission des finances a adopté plusieurs amendements lors de l'examen de la seconde partie :\n- un triplement du chèque énergie, soit environ 2,7 Md€ contre 698 M€ prévus ;\n- une hausse du Fonds vert de 1,5 Md€ ;\n- un fonds de 335 M€ pour les réseaux d'eau ;\n- un Fonds Chaleur porté à 1 Md€.\nCes montants proviennent d'une source unique et n'ont pas pu être recoupés. Ces votes de commission sont indicatifs et leur survie en séance est très incertaine.",
+     "type": "amendement",
+     "acteurs": [
+      "Commission des finances de l'Assemblée nationale",
+      "Gouvernement",
+      "Collectivités (AMORCE)"
+     ],
+     "impact": 3,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le gouvernement s'y opposera au nom du déficit et pourrait les écarter par un 49.3. Ils dessinent toutefois des lignes de compromis : une revalorisation partielle du chèque énergie et un Fonds vert maintenu sont des monnaies d'échange probables.",
+     "implications": "Fédérations de collectivités, acteurs de la chaleur renouvelable et du logement : rattacher leurs demandes à ces amendements pour les faire figurer dans un texte de compromis ou au Sénat.",
+     "sources": [
+      {
+       "titre": "PLF 2027 : point d'étape sur l'examen du budget à l'Assemblée nationale",
+       "media": "AMORCE",
+       "url": "https://amorce.asso.fr/actualite/plf-2027-point-d-etape-sur-l-examen-du-budget-a-l-assemblee-nationale",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Budget: l'écologie de nouveau sous pression, au sortir d'un été torride",
+       "media": "AFP / L'Info Durable",
+       "url": "https://www.linfodurable.fr/budget-lecologie-de-nouveau-sous-pression-au-sortir-dun-ete-torride-58987",
+       "date": "2026-09-15"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-regle-or-tva-carburants",
+     "titre": "« Règle d'or » sur la TVA des carburants : promesse de Matignon, traduction dans le texte incertaine",
+     "date": "2026-09-22",
+     "resume": "Le 22 septembre, Matignon a annoncé vouloir inscrire dans le budget 2027 une « règle d'or » pour restituer aux Français les surplus de TVA liés à la hausse des prix à la pompe (franceinfo, AFP). Selon une analyse publiée sur le blog d'un cabinet d'avocats (source secondaire), le texte déposé contiendrait plutôt une prime carburant versée par l'employeur et exonérée jusqu'à 1 000 €. Le RN réclame une TVA à 5,5 % sur les carburants. Le niveau de prix cité (gazole autour de 2,41 €/l) et le contenu exact du texte restent à confirmer.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Rassemblement national",
+      "Ministre de l'Action et des Comptes publics"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Un amendement gouvernemental pourrait concrétiser la règle d'or lors de la reprise des recettes. Les oppositions chercheront à aller plus loin, avec une baisse de la TVA ou de l'accise.",
+     "implications": "Distributeurs de carburants, transporteurs et organisations patronales : préparer leurs positions sur le mécanisme de restitution et sur la prime carburant, qui alourdit la gestion de la paie.",
+     "sources": [
+      {
+       "titre": "\"Ça se restitue comme on veut\" : cinq questions sur la \"règle d'or\" envisagée par Sébastien Lecornu face à la hausse des prix des carburants",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/automobile/essence/ca-se-restitue-comme-on-veut-cinq-questions-sur-la-regle-d-or-envisagee-par-sebastien-lecornu-face-a-la-hausse-des-prix-des-carburants_8204333.html",
+       "date": "2026-09-23"
+      },
+      {
+       "titre": "Le gouvernement prépare une règle d'or sur la TVA des carburants",
+       "media": "AFP / Connaissance des Énergies",
+       "url": "https://www.connaissancedesenergies.org/afp/tva-accise-regle-dor-comment-fonctionne-la-fiscalite-sur-les-carburants-260922",
+       "date": "2026-09-22"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-mobilisation-17-octobre",
+     "titre": "Mobilisation du 17 octobre contre la vie chère et les prix des carburants",
+     "date": "2026-10-17",
+     "resume": "Lancé sur les réseaux sociaux dans la filiation des Gilets jaunes, le mouvement du 17 octobre contre la hausse des carburants s'est élargi au coût de la vie. Public Sénat recensait avant la journée entre 250 et 1 000 actions prévues. Politis rapporte 550 000 manifestants selon l'Intérieur et 800 000 selon les organisateurs. Ces chiffres n'ont pas pu être recoupés auprès d'une seconde source.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "Collectifs citoyens (ex-Gilets jaunes)",
+      "Organisations lycéennes",
+      "Ministère de l'Intérieur",
+      "Sébastien Lecornu"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La pression sociale rend politiquement coûteuse toute hausse de la fiscalité énergétique (ETS2, composante carbone, bascule de fiscalité entre électricité et gaz). Le gouvernement devrait multiplier les gestes ciblés : règle d'or, prime carburant, chèque énergie.",
+     "implications": "Toute proposition qui renchérit l'énergie pour les ménages devient difficilement défendable à court terme. Les messages doivent mettre en avant le pouvoir d'achat et les mécanismes de compensation.",
+     "sources": [
+      {
+       "titre": "17 octobre : le mouvement s'organise peu à peu, entre 250 et 1000 actions prévues dans toute la France",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/societe/17-octobre-le-mouvement-sorganise-peu-a-peu-entre-250-et-1000-actions-prevues-dans-toute-la-france",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "17 octobre : Macron récolte la colère",
+       "media": "Politis",
+       "url": "https://www.politis.fr/dossiers/17-octobre-macron-recolte-la-colere/",
+       "date": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-ets2-report-france",
+     "titre": "ETS2 : la France freinerait la transposition avant la présidentielle",
+     "date": "2026-10-13",
+     "resume": "Carbon Pulse (article payant, non lu en intégralité) rapporte que la France retarde la transposition de la directive ETS2, le marché carbone européen sur les carburants et le chauffage, à l'approche de la présidentielle de 2027. Son entrée en vigueur a été reportée à 2028 dans le cadre de l'accord européen de novembre 2025 sur l'objectif climat 2040. À 45 €/t, le surcoût serait d'environ 11 à 12 centimes par litre de gazole. Le RN en fait un argument de campagne. Aucune source officielle française ne confirme un report de la transposition.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Gouvernement français",
+      "Commission européenne",
+      "Rassemblement national"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Plusieurs suites sont possibles : une mise en demeure de Bruxelles pour transposition tardive, une demande française de report ou de plafonnement supplémentaire, et la transformation du sujet en marqueur de la campagne présidentielle.",
+     "implications": "Fournisseurs d'énergie et distributeurs de carburants : bâtir des scénarios 2028 avec et sans report. ONG climat : préparer un argumentaire sur la redistribution du Fonds social pour le climat.",
+     "sources": [
+      {
+       "titre": "FEATURE: France stalls on EU ETS2 as presidential election looms",
+       "media": "Carbon Pulse",
+       "url": "https://carbon-pulse.com/560022/",
+       "date": "2026-10-13"
+      },
+      {
+       "titre": "Le RN annonce 15 centimes de plus sur le carburant en 2028 à cause de l'UE",
+       "media": "L'Automobiliste",
+       "url": "https://lautomobiliste.fr/19/09/2026/le-rn-annonce-15-centimes-de-plus-sur-le-carburant-en-2028-a-cause-de-lue-ce-quils-oublient-de-preciser-change-tout/",
+       "date": "2026-09-19"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-epr2-fid-sites",
+     "titre": "EPR2 : décision finale d'investissement attendue fin 2026 et arbitrage sur les sites supplémentaires",
+     "date": "2026-09-02",
+     "resume": "EDF vise une décision finale d'investissement sur six EPR2 (Penly, Gravelines, Bugey) avant fin 2026. Le devis prévisionnel, annoncé en décembre 2025, est de 72,8 Md€ en euros 2020. Le programme est financé par un prêt bonifié de l'État adossé à l'épargne réglementée, ce qui suppose l'approbation par la Commission européenne du régime d'aide d'État. En parallèle, plusieurs territoires sont candidats pour accueillir les EPR2 supplémentaires. Aucune décision n'était confirmée au 23 octobre. La liste exacte des sites et la part de 60 % de financement public restent à confirmer.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "EDF",
+      "Élysée / Conseil de politique nucléaire",
+      "Commission européenne (DG COMP)",
+      "Caisse des dépôts",
+      "Collectivités candidates"
+     ],
+     "impact": 5,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Une décision finale d'investissement en conseil d'administration d'EDF est possible en décembre 2026 si Bruxelles donne son feu vert. Une annonce sur les sites supplémentaires est possible en fin d'année.",
+     "implications": "Fournisseurs de la filière nucléaire et collectivités candidates : se positionner avant l'arbitrage. Investisseurs : suivre le calendrier de la Commission européenne et tout dérapage du devis.",
+     "sources": [
+      {
+       "titre": "Nucléaire : dernière ligne droite pour les territoires candidats aux nouveaux EPR",
+       "media": "AFP / Connaissance des Énergies",
+       "url": "https://www.connaissancedesenergies.org/afp/nucleaire-derniere-ligne-droite-pour-les-territoires-candidats-aux-nouveaux-epr-260902",
+       "date": "2026-09-02"
+      },
+      {
+       "titre": "EPR2 : un devis prévisionnel à 72,8 Md€ ; décision finale d'investissement fin 2026",
+       "media": "News Tank Energies",
+       "url": "https://energies.newstank.fr/article/view/423960/epr2-devis-previsionnel-72-8-md-decision-finale-investissement-fin-2026.html",
+       "date": "2025-12-18"
+      },
+      {
+       "titre": "Livret A, LDDS, LEP : l'épargne des Français mobilisée pour le programme EPR2",
+       "media": "Sfen",
+       "url": "https://www.sfen.org/rgn/livret-a-ldds-lep-lepargne-des-francais-mobilisee-pour-le-programme-epr2/",
+       "date": "2026-03-12"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-vnu-remise-nulle-2027",
+     "titre": "Versement nucléaire universel : remise probablement nulle pour 2027",
+     "date": "2026-10-23",
+     "resume": "Le versement nucléaire universel (VNU) a remplacé l'ARENH au 1er janvier 2026. D'après des sites comparateurs qui exploitent les projections de la CRE, les revenus nucléaires d'EDF en 2027 resteraient sous le premier seuil de taxation, d'environ 78 €/MWh. La remise aux consommateurs serait donc nulle. Les chiffres précis (60,94 €/MWh) et la date de la projection ne proviennent que de sources secondaires et restent à confirmer par une délibération de la CRE.",
+     "type": "donnée économique",
+     "acteurs": [
+      "CRE",
+      "EDF",
+      "Fournisseurs alternatifs"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "Le mécanisme de protection des consommateurs prévu après l'ARENH ne jouerait pas en 2027. Cela peut alimenter les amendements sur la fiscalité de l'électricité.",
+     "implications": "Grands consommateurs et fournisseurs : réviser les hypothèses de prix 2027 et suivre les publications de la CRE.",
+     "sources": [
+      {
+       "titre": "La CRE estime la remise nucléaire à 0 €/MWh pour 2027",
+       "media": "Hellowatt",
+       "url": "https://www.hellowatt.fr/blog/vnu-remise-nulle-2027/",
+       "date": "2026-10"
+      },
+      {
+       "titre": "CRE : projection des revenus nucléaires 2027 (VNU)",
+       "media": "Selectra",
+       "url": "https://selectra.info/energie/actualites/marche/cre-projection-revenus-nucleaires-2027-vnu",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-fiscalite-electricite-gaz",
+     "titre": "Bascule de fiscalité de l'électricité vers le gaz : absente du PLF, la filière électrique pousse",
+     "date": "2026-10-04",
+     "resume": "Dans sa version initiale, le PLF 2027 ne modifie pas en substance les tarifs d'accise sur l'électricité et le gaz. Les montants unitaires cités par les sources (24,69 €/MWh et 10,73 €/MWh) restent à vérifier. L'amendement I-CF1806, qui instaurait un mécanisme d'ajustement lié au prix du gaz, n'a pas été retenu en commission. L'UFE demande une concertation sur la fiscalité de l'énergie, favorable à l'électrification.",
+     "type": "amendement",
+     "acteurs": [
+      "Union française de l'électricité",
+      "Députés et sénateurs LR",
+      "Commission des finances",
+      "Régions de France"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Le débat sur la bascule électricité/gaz pourrait revenir au Sénat en décembre plutôt qu'à l'Assemblée. Après le 17 octobre, le contexte social rend en effet sensible toute hausse pour les ménages chauffés au gaz.",
+     "implications": "Filière gaz : préparer une défense contre un relèvement de l'accise au Sénat. Acteurs de l'électrification : cibler la commission des finances du Sénat.",
+     "sources": [
+      {
+       "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-CF1806",
+       "media": "Assemblée nationale",
+       "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF1806",
+       "date": "2026-10-04"
+      },
+      {
+       "titre": "Accises 2027 : ce que le PLF change sur vos factures",
+       "media": "Alliance des énergies",
+       "url": "https://alliancedesenergies.fr/reglementaire/plf-2027-accise-budget-2027/",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "energie-climat-cop31-electrification",
+     "titre": "COP31 : Paris plaide pour une décision sur l'électrification, la venue de Macron à Antalya incertaine",
+     "date": "2026-10-12",
+     "resume": "Les ministres de l'Environnement de l'UE ont arrêté leur position pour la COP31 (Antalya, 9 au 20 novembre). Ils mettent l'accent sur l'« électrification propre », sans nouveaux engagements financiers. La France, portée par la ministre Monique Barbut, souhaite une décision adoptée à la COP plutôt que de simples engagements volontaires, ainsi que des engagements sur le méthane. La venue d'Emmanuel Macron n'est pas confirmée.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Monique Barbut",
+      "Emmanuel Macron",
+      "Conseil de l'UE (Environnement)",
+      "Présidence turque de la COP31"
+     ],
+     "impact": 2,
+     "urgence": 3,
+     "tonalite": "consensuel",
+     "signal_faible": true,
+     "anticipation": "Un cadrage de l'électrification qui inclut le nucléaire servirait la diplomatie nucléaire française. Une faible implication présidentielle traduirait une moindre priorité accordée au climat en période préélectorale.",
+     "implications": "Filière électrique et nucléaire : relayer ce message pendant la COP. ONG climat : pointer l'absence de financements nouveaux.",
+     "sources": [
+      {
+       "titre": "COP31 : l'Union européenne veut se concentrer sur « l'électrification propre »",
+       "media": "AFP / Connaissance des Énergies",
+       "url": "https://www.connaissancedesenergies.org/afp/climat-prudents-les-europeens-reclament-une-cop31-federatrice-sur-lelectrification-261012",
+       "date": "2026-10-12"
+      },
+      {
+       "titre": "Électrification: la France souhaite une décision de la COP31, pas de simples engagements",
+       "media": "L'Info Durable",
+       "url": "https://www.linfodurable.fr/climat/cop31-la-france-pousse-pour-des-actes-concrets-59215",
+       "date": "2026-10"
+      },
+      {
+       "titre": "COP31 : l'agenda chargé d'Emmanuel Macron complique sa venue en Turquie",
+       "media": "Orange Actu",
+       "url": "https://actu.orange.fr/politique/cop31-l-agenda-charge-d-emmanuel-macron-complique-sa-venue-en-turquie-magic-CNT000002skzI1.html",
+       "date": "2026-10"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Veut réduire le soutien aux anciens contrats renouvelables (« rentes ») et promet une « règle d'or » sur la TVA des carburants. A évoqué un possible recours au 49.3.",
+     "influence": 5
+    },
+    {
+     "nom": "Philippe Juvin",
+     "fonction": "Rapporteur général du budget, commission des finances de l'Assemblée",
+     "position": "Chiffre à environ 10 Md€ la dégradation du déficit due aux amendements adoptés en commission.",
+     "influence": 4
+    },
+    {
+     "nom": "Monique Barbut",
+     "fonction": "Ministre de la Transition écologique",
+     "position": "Porte la ligne française à la COP31 : une décision sur l'électrification décarbonée et des engagements sur le méthane.",
+     "influence": 4
+    },
+    {
+     "nom": "Emmanuel Macron",
+     "fonction": "Président de la République",
+     "position": "Arbitre de la relance du nucléaire (Conseil de politique nucléaire, EPR2 supplémentaires). Sa venue à la COP31 n'est pas confirmée.",
+     "influence": 5
+    },
+    {
+     "nom": "EDF",
+     "fonction": "Énergéticien public",
+     "position": "Prépare la décision finale d'investissement sur six EPR2 (72,8 Md€ en euros 2020) d'ici fin 2026, conditionnée au feu vert de Bruxelles.",
+     "influence": 5
+    },
+    {
+     "nom": "Jean-Luc Fugit",
+     "fonction": "Député (EPR), rapporteur pour avis sur les crédits énergie",
+     "position": "Exprime des réserves sur la révision rétroactive des tarifs solaires, mais regrette la suppression intégrale de l'article 82.",
+     "influence": 3
+    },
+    {
+     "nom": "Julie Laernoes",
+     "fonction": "Députée écologiste",
+     "position": "A porté la suppression de l'article 82 en commission des affaires économiques.",
+     "influence": 3
+    },
+    {
+     "nom": "Commission de régulation de l'énergie (CRE)",
+     "fonction": "Régulateur",
+     "position": "Calcule le versement nucléaire universel ; une remise nulle est anticipée pour 2027.",
+     "influence": 4
+    },
+    {
+     "nom": "Rassemblement national",
+     "fonction": "Groupe parlementaire d'opposition",
+     "position": "Réclame une TVA à 5,5 % sur les carburants et attaque l'ETS2.",
+     "influence": 4
+    },
+    {
+     "nom": "Union française de l'électricité (UFE)",
+     "fonction": "Organisation professionnelle",
+     "position": "Demande une concertation sur la fiscalité de l'énergie, favorable à l'électrification.",
+     "influence": 3
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-27",
+     "evenement": "Reprise en séance de la première partie (recettes) du PLF 2027 à l'Assemblée",
+     "enjeu": "Accises sur l'énergie, règle d'or sur la TVA des carburants, prime carburant"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Vote sur la première partie du PLF 2027 (date à confirmer, autour du 3 novembre)",
+     "enjeu": "Survie des mesures fiscales sur l'énergie ; risque de 49.3"
+    },
+    {
+     "date": "2026-11-09",
+     "evenement": "Ouverture de la COP31 à Antalya (jusqu'au 20 novembre)",
+     "enjeu": "Décision sur l'électrification, méthane, présence d'Emmanuel Macron"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Vote sur l'ensemble du PLF 2027 à l'Assemblée (annoncé vers le 17 novembre) puis transmission au Sénat",
+     "enjeu": "Sort de l'article 82, du chèque énergie et du Fonds vert"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Fin du délai constitutionnel de 70 jours pour l'examen du PLF 2027",
+     "enjeu": "Possible mise en œuvre du budget par ordonnances"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Décision finale d'investissement d'EDF sur six EPR2",
+     "enjeu": "Conditionnée à l'approbation par la Commission européenne de l'aide d'État"
+    }
+   ],
+   "mots_cles": [
+    "PLF 2027",
+    "accise énergie",
+    "règle d'or TVA carburants",
+    "prime carburant",
+    "chèque énergie",
+    "article 82 photovoltaïque",
+    "tarifs d'achat S21",
+    "EPR2",
+    "décision finale d'investissement",
+    "versement nucléaire universel",
+    "ETS2",
+    "COP31",
+    "électrification",
+    "Fonds vert",
+    "mobilisation 17 octobre",
+    "49.3"
+   ]
+  },
+  {
+   "theme": "numerique",
+   "synthese": "Mi/fin octobre 2026, le numérique est surtout débattu au Parlement à travers le budget et deux textes bloqués ou fragiles. Le projet de loi Résilience, qui transpose NIS 2, DORA et REC, a été déprogrammé le 6 octobre sans nouvelle date. La France a pourtant deux ans de retard sur l'échéance du 17 octobre 2024, et selon plusieurs sources la Commission européenne l'a attaquée devant la CJUE en juillet 2026. L'article 16 bis voté au Sénat, qui interdit les portes dérobées dans le chiffrement, divise les groupes. Le gouvernement, EPR, Horizons, la Droite républicaine et LIOT veulent le supprimer. Le RN et LFI veulent l'élargir. Le PS, les écologistes et les démocrates veulent le maintenir. Côté budget, la commission des finances a adopté le 9 octobre une taxe GAFAM portée de 3 % à 15 %, contre l'avis du rapporteur général. Elle a ensuite rejeté toute la partie recettes : la mesure doit donc être revotée en séance, où l'examen a commencé le 13 octobre, et elle risque de disparaître en cas de 49.3. Sur les mineurs et les réseaux sociaux, la censure constitutionnelle du 14 août (décision 2026-911 DC) oblige Matignon à réécrire le texte. Aucun nouveau texte n'a été repéré au 23 octobre, alors que Bruxelles prépare un « Kids Act » qui fixerait une majorité numérique européenne à 15 ans. Enfin, la contestation locale des data centers s'organise à l'échelle nationale : 14 collectifs ont lancé un appel le 18 octobre et demandent un moratoire. Cette mobilisation fragilise le récit d'une souveraineté numérique fondée sur l'infrastructure (Fouju, Châteauroux, SoftBank). Au niveau européen, le report à décembre 2027 des obligations de l'AI Act pour les systèmes à haut risque retire l'urgence à court terme. La désignation de l'autorité nationale de contrôle reste en revanche ouverte.",
+   "temperature": 4,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "numerique-nis2-deprogrammation",
+     "titre": "Projet de loi Résilience (NIS 2) retiré de l'ordre du jour de l'Assemblée, sans nouvelle date",
+     "date": "2026-10-06",
+     "resume": "La conférence des présidents du 6 octobre a retiré le projet de loi Résilience des séances prévues les 7 et 9 octobre, au profit de la loi intégrale contre les violences sexuelles. Ce texte transpose les directives NIS 2, DORA et REC. Le rapporteur Éric Bothorel (EPR) espère une réinscription « d'ici quinze jours ou trois semaines », mais aucune nouvelle date n'est confirmée. La transposition devait intervenir avant le 17 octobre 2024 ; selon les sources, la Commission a saisi la CJUE contre la France en juillet 2026. 397 amendements ont été déposés.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Éric Bothorel (EPR, rapporteur)",
+      "Philippe Latombe (MoDem, président de la commission spéciale)",
+      "Conférence des présidents de l'Assemblée nationale",
+      "Commission européenne"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Une réinscription est probable en novembre, mais elle entre en concurrence avec le PLF et le PLFSS dans l'agenda. Le risque est un nouveau glissement vers 2027 et une condamnation de la France par la CJUE. Le gouvernement pourrait invoquer la procédure européenne pour justifier un passage rapide.",
+     "implications": "Les quelque 15 000 entités visées, dont les collectivités, restent sans cadre législatif définitif. Elles doivent préparer leur conformité au référentiel de l'ANSSI sans attendre la loi. Il faut surveiller chaque conférence des présidents. Une fenêtre reste ouverte pour porter des amendements sur les articles techniques.",
+     "sources": [
+      {
+       "titre": "Transposition NIS 2 : le projet de loi Résilience de nouveau reporté",
+       "media": "Leto",
+       "url": "https://www.leto.legal/news/assemblee-nationale-report-projet-loi-resilience-nis2-octobre-2026",
+       "date": "2026-10-06"
+      },
+      {
+       "titre": "Loi NIS 2 : déprogrammée la veille de la séance, sans nouvelle date",
+       "media": "NosParlementaires",
+       "url": "https://nosparlementaires.fr/actualites/nis2-loi-cybersecurite-bloquee-assemblee-piratage-dgfip",
+       "date": "2026-10-07"
+      },
+      {
+       "titre": "NIS 2 de nouveau reporté",
+       "media": "Projet Arcadie",
+       "url": "https://projetarcadie.com/nis-2-de-nouveau-reporte/",
+       "date": "2026-10-06"
+      }
+     ]
+    },
+    {
+     "id": "numerique-chiffrement-article-16-bis",
+     "titre": "Chiffrement de bout en bout : le gouvernement s'engage à ne pas l'affaiblir, l'article 16 bis divise les groupes",
+     "date": "2026-10-01",
+     "resume": "Le 1er octobre, Anne Le Hénanff, ministre déléguée chargée de l'IA et du Numérique, s'est engagée à ne pas réintroduire ni soutenir de mesures affaiblissant le chiffrement de bout en bout. Selon NosParlementaires, le gouvernement soutient en même temps la suppression de l'article 16 bis, introduit au Sénat par Olivier Cadic (UC), qui interdit d'imposer des portes dérobées. EPR, Horizons, la Droite républicaine et LIOT veulent supprimer l'article. Le RN et LFI veulent l'élargir. Le PS, les écologistes et les démocrates veulent le maintenir. Le 22 octobre, l'Afnum a demandé que l'engagement gouvernemental soit inscrit dans la loi.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Anne Le Hénanff",
+      "Florent Boudié",
+      "Olivier Cadic (UC)",
+      "Vincent Caure (EPR)",
+      "Alexandre Sabatou (RN)",
+      "Afnum"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Une coalition atypique pourrait se former en séance, réunissant la gauche, le RN et LFI pour maintenir ou élargir l'article. Elle pourrait mettre en minorité le bloc central, qui veut le supprimer. En cas de suppression, la CMP avec le Sénat deviendra le prochain point de friction. Le ministère de l'Intérieur reste un acteur de blocage discret.",
+     "implications": "Les éditeurs de messageries et les fédérations du numérique doivent obtenir que l'engagement soit inscrit dans un texte, sous forme d'amendement ou dans l'exposé des motifs. Ils doivent aussi cibler les députés PS et écologistes, qui sont pivots, et anticiper la position de l'Intérieur.",
+     "sources": [
+      {
+       "titre": "Cybersécurité : préserver le chiffrement de bout en bout",
+       "media": "Construction BTP (communiqué Afnum)",
+       "url": "https://www.constructionbtp.com/reseaux-vrd/article/2026/10/22/156552/cybersecurite-preserver-chiffrement-bout-bout",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Loi NIS 2 : déprogrammée la veille de la séance, sans nouvelle date",
+       "media": "NosParlementaires",
+       "url": "https://nosparlementaires.fr/actualites/nis2-loi-cybersecurite-bloquee-assemblee-piratage-dgfip",
+       "date": "2026-10-07"
+      }
+     ]
+    },
+    {
+     "id": "numerique-taxe-gafam-15",
+     "titre": "PLF 2027 : la commission des finances porte la taxe GAFAM de 3 % à 15 %, une hausse à revoter en séance",
+     "date": "2026-10-09",
+     "resume": "Le 9 octobre, la commission des finances a adopté l'amendement d'Arnaud Bonnet (écologiste), contre l'avis du rapporteur général Philippe Juvin. Il porte le taux de la taxe sur les services numériques de 3 % à 15 % et relève le seuil de chiffre d'affaires mondial à 2 Md€. Le rendement passerait d'environ 890 M€ à près de 4 Md€ selon les estimations citées. La commission a ensuite rejeté l'ensemble de la partie recettes : la séance, ouverte le 13 octobre, repart donc du texte du gouvernement et la mesure doit être revotée. Le résultat en séance n'était pas connu au moment de la rédaction.",
+     "type": "amendement",
+     "acteurs": [
+      "Arnaud Bonnet (Écologiste)",
+      "Philippe Juvin (rapporteur général)",
+      "Commission des finances de l'Assemblée nationale",
+      "Gouvernement Lecornu"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Une majorité de circonstance réunissant la gauche et le RN peut voter une hausse en séance. Le gouvernement pourrait la retirer en cas de 49.3 ou en CMP, compte tenu du risque de rétorsions commerciales américaines. Un compromis autour de 6 % est plausible.",
+     "implications": "Les plateformes et leurs fédérations doivent chiffrer l'impact, puis suivre le vote de la première partie et la navette au Sénat. Les acteurs proches du seuil doivent vérifier l'effet de son relèvement à 2 Md€. Il faut aussi anticiper une répercussion des coûts sur les annonceurs.",
+     "sources": [
+      {
+       "titre": "PLF 2027 : la commission des finances rejette la partie « recettes » après avoir creusé le déficit d'environ 10 Md€",
+       "media": "Legifiscal",
+       "url": "https://www.legifiscal.fr/actualites-fiscales/4684-plf-2027-commission-finances-rejette-partie-recettes-creuse-deficit-environ-10-md.html",
+       "date": "2026-10-11"
+      },
+      {
+       "titre": "Les députés votent en commission pour quintupler la taxe Gafam",
+       "media": "Stratégies",
+       "url": "https://www.strategies.fr/actualites/culture-tech/LQ6731778C/les-deputes-votent-en-commission-pour-quintupler-la-taxe-gafam.html",
+       "date": "2026-10-09"
+      },
+      {
+       "titre": "Taxe Gafam à 15 % : le vote de la commission n'engage pas l'hémicycle",
+       "media": "Octet Numérique",
+       "url": "https://www.octet-numerique.fr/internet/taxe-gafam-15-pour-cent-vote-commission-ce-qui-change/",
+       "date": "2026-10-13"
+      }
+     ]
+    },
+    {
+     "id": "numerique-taxe-bande-passante",
+     "titre": "Signal faible : un amendement rejeté propose de taxer les « producteurs de données » à 0,055 € par Go",
+     "date": "2026-10-02",
+     "resume": "En commission des finances, l'amendement I-CF365 au PLF 2027 proposait de taxer les volumes de données acheminés par les fournisseurs d'accès, à 0,055 € par gigaoctet. Le montant aurait été plafonné en proportion du chiffre d'affaires de l'émetteur. L'amendement a été rejeté. Il reprend la logique de « juste part » que les opérateurs télécoms réclament aux grands émetteurs de trafic. La date retenue est celle, approximative, des dépôts en commission.",
+     "type": "amendement",
+     "acteurs": [
+      "Commission des finances de l'Assemblée nationale",
+      "Opérateurs télécoms",
+      "Grandes plateformes de streaming"
+     ],
+     "impact": 2,
+     "urgence": 1,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "L'idée pourrait revenir par amendement en séance ou au Sénat, en lien avec le futur Digital Networks Act européen. Elle montre que des parlementaires s'intéressent à une fiscalité du trafic au-delà de la taxe sur les services numériques.",
+     "implications": "Les opérateurs et les plateformes de contenu doivent suivre les dépôts d'amendements en séance et au Sénat. Ils doivent préparer un argumentaire sur la compatibilité de cette taxe avec la neutralité du net et le droit européen.",
+     "sources": [
+      {
+       "titre": "Amendement I-CF365 – PLF 2027",
+       "media": "Assemblée nationale",
+       "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/CION_FIN/CF365.pdf",
+       "date": "2026-10-02"
+      },
+      {
+       "titre": "Taxe télécoms, taxe GAFAM, taxe sur la bande passante : ce que le budget 2027 prépare pour les entreprises",
+       "media": "Kohen Avocats",
+       "url": "https://kohenavocats.com/taxe-bande-passante-producteurs-donnees-numeriques-plf-2027-entreprises/",
+       "date": "2026-10-12"
+      }
+     ]
+    },
+    {
+     "id": "numerique-data-centers-moratoire",
+     "titre": "Data centers : 14 collectifs appellent à « entrer en résistance » et demandent un moratoire",
+     "date": "2026-10-18",
+     "resume": "Le 18 octobre, près du site du projet de data center de Google à Châteauroux (Indre), 14 collectifs locaux ont lancé un appel commun. Ils demandent un moratoire et un débat démocratique sur les data centers. Parmi eux figurent Stop Campus IA (Fouju) et des collectifs de la Drôme et de Grenoble. L'appel conteste l'argument de la souveraineté numérique. Il vise notamment le campus de Fouju (1,4 GW, validé par le préfet de Seine-et-Marne) et le projet de SoftBank annoncé dans les Hauts-de-France.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "Collectif Ozans dire non",
+      "Stop Campus IA (Fouju)",
+      "Le nuage était sous nos pieds",
+      "Google"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "La contestation pourrait atteindre le Parlement par des amendements sur la planification des data centers, l'artificialisation des sols (ZAN) ou le tarif réduit d'accise sur l'électricité. Elle pourrait aussi passer par des recours contre les permis et devenir un thème de la campagne de 2027.",
+     "implications": "Les porteurs de projets et les fédérations doivent intégrer l'acceptabilité locale dans leur plaidoyer : concertation, emploi, récupération de la chaleur fatale. Ils doivent surveiller les recours et les amendements visant le tarif réduit d'accise.",
+     "sources": [
+      {
+       "titre": "Appel du 18 octobre à entrer en résistance contre les data centers",
+       "media": "Le nuage était sous nos pieds",
+       "url": "https://lenuageetaitsousnospieds.org/articles/2026-10-18-appel-du-18-octobre-a-entrer-en-resistance-contre-les-data-centers.html",
+       "date": "2026-10-18"
+      },
+      {
+       "titre": "« C'est 10 à 15 fois plus gros qu'un data center classique » : la contestation s'organise contre un gigantesque projet de centre de données pour l'IA",
+       "media": "France 3 Régions",
+       "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/c-est-10-a-15-fois-plus-gros-qu-un-data-center-classique-la-contestation-s-organise-contre-un-gigantesque-projet-de-centre-de-donnees-pour-l-ia-3407471.html",
+       "date": "2026-10"
+      },
+      {
+       "titre": "Le préfet de Seine-et-Marne a validé le projet Campus IA de Fouju (1,4 GW et 50 milliards €)",
+       "media": "DCmag",
+       "url": "https://dcmag.fr/le-prefet-de-seine-et-marne-a-valide-le-projet-campus-ia-de-fouju-14-gw-et-50-milliards-e/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "id": "numerique-reseaux-sociaux-mineurs-reecriture",
+     "titre": "Réseaux sociaux et moins de 15 ans : après la censure constitutionnelle, la réécriture du texte reste en attente",
+     "date": "2026-08-14",
+     "resume": "Par sa décision 2026-911 DC du 14 août, le Conseil constitutionnel a censuré l'article 1er de la loi portée par Laure Miller, qui interdisait les réseaux sociaux aux moins de 15 ans. Il a jugé cette interdiction disproportionnée au regard de la liberté d'expression, notamment parce que les parents ne pouvaient pas la lever. Emmanuel Macron a chargé Sébastien Lecornu d'une rédaction « juridiquement robuste ». Aucun dépôt de nouveau texte n'a été repéré au 23 octobre. La piste évoquée consiste à neutraliser les fonctionnalités nocives selon l'âge plutôt qu'à interdire totalement l'accès.",
+     "type": "décision juridictionnelle",
+     "acteurs": [
+      "Conseil constitutionnel",
+      "Sébastien Lecornu",
+      "Emmanuel Macron",
+      "Laure Miller (EPR)"
+     ],
+     "impact": 4,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Le nouveau texte intégrerait probablement une autorisation parentale et ciblerait des fonctionnalités précises. Il serait aligné sur le futur règlement européen. Un véhicule législatif pourrait apparaître fin 2026 ou début 2027, en concurrence avec le budget dans l'agenda.",
+     "implications": "Les plateformes et les associations familiales doivent se positionner dès maintenant sur le contrôle parental et la vérification d'âge. Ce second sujet est largement encadré par le droit européen (DSA).",
+     "sources": [
+      {
+       "titre": "Décision n° 2026-911 DC du 14 août 2026",
+       "media": "Conseil constitutionnel",
+       "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm",
+       "date": "2026-08-14"
+      },
+      {
+       "titre": "Réseaux sociaux : le Conseil constitutionnel censure l'interdiction aux moins de 15 ans, Sébastien Lecornu chargé de préparer un nouveau texte",
+       "media": "CNews",
+       "url": "https://www.cnews.fr/france/2026-08-14/reseaux-sociaux-le-conseil-constitutionnel-censure-linterdiction-aux-moins-de-15",
+       "date": "2026-08-14"
+      },
+      {
+       "titre": "Loi sur l'interdiction des réseaux sociaux aux moins de 15 ans : où mène la censure du Conseil constitutionnel ?",
+       "media": "The Conversation",
+       "url": "https://theconversation.com/loi-sur-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans-ou-mene-la-censure-du-conseil-constitutionnel-290011",
+       "date": "2026-08"
+      }
+     ]
+    },
+    {
+     "id": "numerique-kids-act-ue",
+     "titre": "« Kids Act » : la Commission prépare une majorité numérique européenne à 15 ans, au-delà des seuls réseaux sociaux",
+     "date": "2026-09-15",
+     "resume": "Selon un document de travail révélé par Contexte, le projet de règlement européen dit « Kids Act » fixerait une majorité numérique européenne à 15 ans. Il obligerait les fournisseurs à retirer leurs fonctionnalités les plus addictives, comme le défilement infini ou les recommandations fondées sur l'engagement. Son champ s'étendrait aux outils d'IA, aux systèmes d'exploitation et aux jeux vidéo en ligne. Il s'agit d'un document préparatoire ; le seuil et le calendrier d'adoption ne sont pas arrêtés.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Commission européenne",
+      "Ursula von der Leyen",
+      "Gouvernement français"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Paris devrait adosser sa réécriture nationale à ce règlement pour sécuriser juridiquement son dispositif. Les négociations au Conseil et au Parlement européen sur le seuil d'âge et le champ du texte (IA, systèmes d'exploitation) s'annoncent disputées.",
+     "implications": "Pour les éditeurs d'IA conversationnelle, de systèmes d'exploitation et de jeux vidéo, c'est une exposition réglementaire nouvelle. Il faut engager tôt le plaidoyer européen (consultation, eurodéputés français) et suivre l'articulation avec le DSA.",
+     "sources": [
+      {
+       "titre": "La Commission européenne souhaite étendre sa majorité numérique bien au-delà des réseaux sociaux",
+       "media": "Contexte",
+       "url": "https://www.contexte.com/fr/article/medias/la-commission-europeenne-souhaite-etendre-sa-majorite-numerique-bien-au-dela-des-reseaux-sociaux_277477",
+       "date": "2026-09-15"
+      },
+      {
+       "titre": "Pourquoi l'interdiction des réseaux sociaux aux moins de 15 ans reste un casse-tête en France et en Europe",
+       "media": "Touteleurope.eu",
+       "url": "https://www.touteleurope.eu/societe/pourquoi-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-voulue-par-la-france-est-un-casse-tete-europeen/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "id": "numerique-plateformes-bercy-objets-voles",
+     "titre": "Bercy réunit les plateformes (Vinted, Leboncoin, Amazon, Meta, TikTok) sur la revente d'objets pillés",
+     "date": "2026-10-19",
+     "resume": "Le 19 octobre, Serge Papin et Anne Le Hénanff ont réuni à Bercy des représentants de Vinted, Leboncoin, eBay, Amazon, TikTok et Meta, en présence des ministères de l'Intérieur et de la Justice. L'objectif était de limiter la revente en ligne d'objets volés lors de pillages. Les sources disponibles ne mentionnent pas d'engagements contraignants.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Anne Le Hénanff",
+      "Serge Papin",
+      "Vinted",
+      "Leboncoin",
+      "Amazon",
+      "Meta",
+      "TikTok"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "Le gouvernement privilégie la régulation négociée dans le cadre du DSA, notamment par les signaleurs de confiance. Il pourrait chercher à durcir les obligations de traçabilité des vendeurs par un amendement ou une charte.",
+     "implications": "Les places de marché doivent s'attendre à des demandes de chartes volontaires, de signalements renforcés et de coopération avec la police. Elles ont intérêt à documenter leurs dispositifs existants pour éviter une surenchère législative.",
+     "sources": [
+      {
+       "titre": "Objets volés pendant les pillages : ce que risquent les acheteurs sur Vinted ou Leboncoin",
+       "media": "Yahoo Finance France",
+       "url": "https://fr.finance.yahoo.com/actualites/objets-voles-pendant-pillages-risquent-052358591.html",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "numerique-brixhub-fuites-donnees",
+     "titre": "Fuites de données : la ministre du Numérique saisit la justice contre le moteur BrixHub",
+     "date": "2026-10-05",
+     "resume": "Anne Le Hénanff a saisi le procureur de la République de Paris, sur le fondement de l'article 40 du code de procédure pénale, au sujet de BrixHub. Ce moteur de recherche donne accès à des données personnelles issues de fuites. Cette démarche intervient après la révélation par la DGFiP, en août 2026, du détournement de données fiscales de quelque 678 000 contribuables.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Anne Le Hénanff",
+      "Parquet de Paris",
+      "DGFiP",
+      "CNIL"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "consensuel",
+     "signal_faible": false,
+     "anticipation": "La pression augmente pour accélérer le projet de loi Résilience et durcir les sanctions contre l'exploitation de données volées. Le gouvernement peut s'appuyer sur ce dossier pour obtenir la réinscription rapide de NIS 2.",
+     "implications": "Les organisations qui détiennent des données sensibles doivent s'attendre à des contrôles accrus de la CNIL et de l'ANSSI, ainsi qu'à des exigences renforcées en matière de notification des incidents.",
+     "sources": [
+      {
+       "titre": "Données personnelles : la ministre du Numérique saisit la justice contre BrixHub",
+       "media": "Yahoo! Actualités (AFP)",
+       "url": "https://fr.news.yahoo.com/donn%C3%A9es-personnelles-ministre-num%C3%A9rique-saisit-164314776.html",
+       "date": "2026-10-05"
+      }
+     ]
+    },
+    {
+     "id": "numerique-ai-act-omnibus-gouvernance",
+     "titre": "AI Act : obligations pour les systèmes à haut risque reportées à décembre 2027, autorité nationale de contrôle non désignée",
+     "date": "2026-07-27",
+     "resume": "Selon des sources spécialisées, l'omnibus numérique sur l'IA, adopté à l'été 2026, repousse au 2 décembre 2027 les obligations des systèmes d'IA à haut risque de l'annexe III. Les pratiques interdites restent applicables depuis février 2025. La gouvernance française de contrôle n'est toujours pas fixée. La date d'entrée en vigueur et les références de publication au JOUE restent à confirmer.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Commission européenne",
+      "Gouvernement français",
+      "CNIL",
+      "DGCCRF"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Un texte national (projet de loi ou ordonnance) devra désigner les autorités de surveillance du marché, ce qui ravivera la concurrence entre la CNIL, la DGCCRF et l'Arcom. Cet arbitrage pourrait coïncider avec la reprise des textes numériques début 2027.",
+     "implications": "Les entreprises gagnent un sursis sur les systèmes à haut risque, mais restent exposées dès maintenant sur les obligations de transparence et les sanctions. Il faut peser sur le choix de l'autorité nationale, qui fixera la doctrine de contrôle.",
+     "sources": [
+      {
+       "titre": "AI Act 2026 : guide de conformité pour les entreprises en France",
+       "media": "Secureprivacy",
+       "url": "https://secureprivacy.ai/fr/blog/ai-act-2026-guide-de-conformite-pour-les-entreprises-en-france",
+       "date": "2026"
+      },
+      {
+       "titre": "Omnibus numérique IA",
+       "media": "Donneespersonnelles.fr",
+       "url": "https://donneespersonnelles.fr/omnibus-numerique-ia",
+       "date": "2026"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Anne Le Hénanff",
+     "fonction": "Ministre déléguée chargée de l'Intelligence artificielle et du Numérique",
+     "position": "S'est engagée à ne pas affaiblir le chiffrement de bout en bout, tout en soutenant la suppression de l'article 16 bis. Agit contre l'exploitation des fuites de données et contre la revente d'objets volés sur les plateformes.",
+     "influence": 4
+    },
+    {
+     "nom": "Éric Bothorel",
+     "fonction": "Député EPR, rapporteur du projet de loi Résilience",
+     "position": "Pousse à une réinscription rapide du texte NIS 2 et soutient la suppression de l'article 16 bis.",
+     "influence": 3
+    },
+    {
+     "nom": "Philippe Latombe",
+     "fonction": "Député MoDem, président de la commission spéciale sur le projet de loi Résilience",
+     "position": "Attentif à la souveraineté numérique. Critique les freins du ministère de l'Intérieur au texte.",
+     "influence": 3
+    },
+    {
+     "nom": "Olivier Cadic",
+     "fonction": "Sénateur UC",
+     "position": "Auteur de l'article 16 bis, qui interdit d'imposer des portes dérobées dans le chiffrement.",
+     "influence": 3
+    },
+    {
+     "nom": "Arnaud Bonnet",
+     "fonction": "Député écologiste, membre de la commission des finances",
+     "position": "Auteur de l'amendement qui porte la taxe sur les services numériques à 15 %.",
+     "influence": 2
+    },
+    {
+     "nom": "Philippe Juvin",
+     "fonction": "Député DR, rapporteur général du budget à l'Assemblée nationale",
+     "position": "Opposé à la hausse de la taxe sur les services numériques.",
+     "influence": 4
+    },
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Chargé de réécrire l'interdiction des réseaux sociaux aux moins de 15 ans. Maîtrise l'agenda parlementaire et le recours éventuel au 49.3.",
+     "influence": 5
+    },
+    {
+     "nom": "Laure Miller",
+     "fonction": "Députée EPR",
+     "position": "Rapporteure du texte sur les réseaux sociaux et les mineurs, partiellement censuré le 14 août.",
+     "influence": 3
+    },
+    {
+     "nom": "Florent Boudié",
+     "fonction": "Député EPR, président de la commission des lois de l'Assemblée nationale",
+     "position": "Son rapport sur le chiffrement conclut qu'il n'existe pas d'alternative au chiffrement à grande échelle et recommande de renoncer aux obligations de déchiffrement.",
+     "influence": 3
+    },
+    {
+     "nom": "Ursula von der Leyen",
+     "fonction": "Présidente de la Commission européenne",
+     "position": "Porte le projet de majorité numérique européenne (Kids Act) et de vérification d'âge.",
+     "influence": 5
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-27",
+     "evenement": "Conférence des présidents de l'Assemblée nationale (réunion hebdomadaire) : possible réinscription du projet de loi Résilience",
+     "enjeu": "Calendrier de la transposition de NIS 2 et sort de l'article 16 bis sur le chiffrement"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Vote de la première partie puis de l'ensemble du PLF 2027 à l'Assemblée, puis transmission au Sénat",
+     "enjeu": "Maintien ou abandon de la hausse de la taxe sur les services numériques, et risque de recours au 49.3"
+    },
+    {
+     "date": "2027-01-01",
+     "evenement": "Échéance initialement prévue pour appliquer l'interdiction aux comptes existants des moins de 15 ans (dispositif censuré)",
+     "enjeu": "Nécessité d'un nouveau texte national ou d'une articulation avec le Kids Act européen"
+    },
+    {
+     "date": "2027-12-02",
+     "evenement": "Entrée en application des obligations de l'AI Act pour les systèmes à haut risque de l'annexe III, après report",
+     "enjeu": "Mise en conformité des entreprises et désignation des autorités nationales de contrôle"
+    }
+   ],
+   "mots_cles": [
+    "NIS 2",
+    "projet de loi Résilience",
+    "chiffrement de bout en bout",
+    "article 16 bis",
+    "taxe GAFAM",
+    "taxe sur les services numériques",
+    "PLF 2027",
+    "data centers",
+    "moratoire",
+    "Campus IA Fouju",
+    "réseaux sociaux moins de 15 ans",
+    "Conseil constitutionnel 2026-911 DC",
+    "Kids Act",
+    "majorité numérique",
+    "AI Act",
+    "omnibus numérique",
+    "DSA",
+    "souveraineté numérique",
+    "cybersécurité",
+    "Anne Le Hénanff"
+   ]
+  },
+  {
+   "theme": "agriculture",
+   "synthese": "Mi-fin octobre 2026, le débat agricole français se joue surtout dans le projet de loi de finances 2027 (PLF 2027). Le texte a été présenté le 1er octobre avec une mission « Agriculture et alimentation » d'environ 4 Md€, en légère baisse par rapport à 2026 (un peu plus de 4 Md€). Après un été de sécheresse et de canicules, l'exécutif fait passer ses réponses de crise par des amendements au budget : les prêts à taux zéro annoncés par Annie Genevard au Sommet de l'élevage (8 octobre, jusqu'à 2 Md€ d'encours) et le plan de relance de 500 à 700 M€ chiffré par Sébastien Lecornu (15 octobre). Leur sort dépend donc d'un vote budgétaire sans majorité assurée. Le 13 octobre, la commission des affaires économiques a rehaussé pour avis le volet agricole avec des amendements venus de tous les groupes : +500 M€ pour l'indemnité de solidarité nationale (ISN) sur un amendement RN, environ 60 M€ pour le FNGRA et +54 M€ pour le bio portés par LFI, 50 M€ d'aide exceptionnelle portés par Liot. Signe de la fragilité du texte, la commission des finances a rejeté la partie recettes le 9 octobre ; le vote solennel en séance était prévu le 20 octobre. À Bruxelles, la base de négociation irlandaise du 10 octobre sur le cadre financier pluriannuel (CFP) 2028-2034 garde l'enveloppe de la PAC proposée par la Commission, environ 20 % sous son niveau actuel, et ramène la réserve de crise de 6,3 à 3,9 Md€. Le Conseil Agriculture des 26 et 27 octobre (Luxembourg) vise une orientation générale partielle sur la PAC post-2027 ; une position partielle sur l'OCM a déjà été validée le 19 octobre. Sur les pesticides, le compromis du Conseil sur l'« Omnibus » (30 septembre) et la réintroduction par dérogation de l'acétamipride et de la flupyradifurone par la loi d'urgence agricole du 18 août 2026 nourrissent une contestation surtout environnementale : environ 15 000 personnes ont manifesté vers l'usine Syngenta le 3 octobre, selon les organisateurs. Le Mercosur est appliqué à titre provisoire depuis le 1er mai 2026, et l'avis de la Cour de justice de l'UE (CJUE) n'est pas attendu avant janvier 2027 : le sujet reste en arrière-plan. Note de vérification : faute de budget de recherche web, une partie des points (résultat du vote du 20 octobre, date du vote du Parlement européen sur l'Omnibus, crises sanitaires animales) n'a pas pu être confirmée.",
+   "temperature": 4,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "agriculture-plf2027-comeco-surenchere-transpartisane",
+     "titre": "PLF 2027 : la commission des affaires économiques rehausse pour avis le budget agricole avec des amendements de tous les groupes",
+     "date": "2026-10-13",
+     "resume": "Le 13 octobre, la commission des affaires économiques de l'Assemblée a examiné pour avis les crédits agricoles du PLF 2027. Elle a adopté de nombreux amendements de hausse. Le principal, d'Hélène Laporte (RN), ajoute 500 M€ à l'indemnité de solidarité nationale (ISN), avec un seuil unique de 30 % de pertes et une indemnisation à 90 % au-delà. Les autres : un peu plus de 60 M€ pour le Fonds national de gestion des risques en agriculture (FNGRA), sur un amendement de Manon Meunier (LFI) ; 54 M€ pour l'éco-régime bio (LFI) ; 50 M€ d'aide exceptionnelle via FranceAgriMer, sur un amendement de David Taupiac (Liot) ; l'aide à la relance des exploitations agricoles (Area) portée de 1,3 à 3 M€ par des amendements identiques PS, RN, Liot et LR ; +5 M€ pour l'Institut national de l'origine et de la qualité (Inao). Ces votes sont indicatifs : la séance repart du texte du gouvernement.",
+     "type": "amendement",
+     "acteurs": [
+      "Hélène Laporte (RN)",
+      "Manon Meunier (LFI)",
+      "David Taupiac (Liot)",
+      "Groupe PS",
+      "Groupe LR",
+      "Commission des affaires économiques de l'Assemblée nationale"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "En séance sur la mission « Agriculture », des majorités de circonstance (RN, LR, Liot, gauche) favorables aux hausses de crédits sont probables, notamment pour l'ISN. Le gouvernement risque d'être mis en minorité, ou de devoir reprendre une partie des amendements à son compte. Un recours au 49.3 ou des secondes délibérations restent possibles.",
+     "implications": "Il faut porter ses amendements auprès des rapporteurs et des groupes pivots (Liot, LR, RN) avant l'examen de la mission en séance, car les consensus transpartisans de la commission seront probablement redéposés. Le seuil de déclenchement de l'ISN est un enjeu majeur pour les filières sinistrées.",
+     "sources": [
+      {
+       "titre": "Budget 2027: en Coméco, les députés regonflent l'agriculture",
+       "media": "Agra Presse",
+       "url": "https://www.agra.fr/articles/budget-2027-en-comeco-les-deputes-regonflent-lagriculture",
+       "date": "2026-10-15"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-lecornu-plan-relance-500-700m",
+     "titre": "Lecornu chiffre le plan de relance agricole 2027 entre 500 et 700 M€, à faire passer par amendements au budget",
+     "date": "2026-10-15",
+     "resume": "Le 15 octobre, après une réunion de ministres à Matignon, le Premier ministre a chiffré le plan de relance agricole 2027 entre 500 et 700 M€. Le plan vise surtout l'adaptation au changement climatique. Lecornu parle d'une « somme indicative » : l'État doit « terminer à 5 % de déficit », et tout dépassement devra être compensé par des recettes ou des économies. Une partie des crédits est déjà inscrite au PLF 2027 ; le reste sera ajouté par amendements, et le volet fiscal reste à préciser. Le plan s'ajoute à environ 1,2 Md€ de mesures d'urgence déjà débloquées, surtout par redéploiement de crédits 2026. Les syndicats espéraient une enveloppe au moins égale à celle du plan d'urgence.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Annie Genevard",
+      "FNSEA"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Le gouvernement va déposer ses propres amendements agricoles en séance pour reprendre la main face aux hausses votées en commission. Le plafond de 700 M€ devient la ligne rouge budgétaire. Les mesures concrètes, dont un pacte sur la transmission, seront arbitrées au fil de la navette, ce qui laisse une fenêtre d'influence.",
+     "implications": "Les organisations doivent chiffrer leurs demandes dans l'enveloppe de 500 à 700 M€ et proposer des gages, condition posée par Matignon. Comme le véhicule est le PLF, l'adoption est soumise à un aléa politique fort.",
+     "sources": [
+      {
+       "titre": "Plan de relance agricole : Sébastien Lecornu annonce une enveloppe \"entre 500 et 700 millions d'euros\"",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/plan-de-relance-agricole-sebastien-lecornu-annonce-une-enveloppe-entre-500-et-700-millions-d-euros_8238724.html",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "Sébastien Lecornu annonce « entre 500 et 700 millions d'euros » prélevés sur le budget 2027 pour la relance agricole",
+       "media": "Public Sénat",
+       "url": "https://publicsenat.fr/actualites/economie/sebastien-lecornu-annonce-entre-500-et-700-millions-deuros-preleves-sur-le-budget-2027-pour-la-relance-agricole",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "Plan de relance agricole : Lecornu annonce une enveloppe « entre 500 et 700 M€ »",
+       "media": "Terre-net",
+       "url": "https://www.terre-net.fr/gouvernement/article/904850/lecornu-annonce-entre-500-et-700-millions-euros-pour-le-plan-de-relance-agricole",
+       "date": "2026-10-15"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-ptz-secheresse-sommet-elevage",
+     "titre": "Sommet de l'élevage : Genevard annonce 2 Md€ de prêts à taux zéro sécheresse, suspendus au vote du budget",
+     "date": "2026-10-08",
+     "resume": "Le 8 octobre à Cournon-d'Auvergne, la ministre Annie Genevard a annoncé des prêts à taux zéro pouvant atteindre 2 Md€ d'encours, pour l'achat de fourrage et d'intrants. L'État prendrait en charge les intérêts. La mesure doit passer par un amendement au PLF 2027, dont l'adoption est jugée incertaine selon l'AFP. Les autres annonces mobilisent des fonds déjà provisionnés : 21 M€ de réserve du fonds de réarmement et 235 M€ mis à disposition des préfets. La Coordination rurale a fermé son stand pendant la visite de la ministre. La Fédération nationale des producteurs de lait (FNPL) conteste l'indice satellitaire de pousse de l'herbe : il indique 30 % de pertes, contre 60 % sur le terrain selon elle.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Annie Genevard",
+      "FNSEA",
+      "Coordination rurale",
+      "FNPL"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "L'amendement « prêts à taux zéro » sera un test de la capacité du gouvernement à faire adopter ses mesures agricoles. La FNSEA, qui estime le coût pour l'État à environ 50 M€, pousse pour une application immédiate. Si le PLF s'enlise, une loi spéciale ou des voies réglementaires seront réclamées.",
+     "implications": "Il faut suivre le dépôt et le libellé de l'amendement gouvernemental (éligibilité, durée, plafonds). L'écart entre l'indice satellitaire et les pertes constatées sur le terrain est un argument de plaidoyer pour les filières d'élevage.",
+     "sources": [
+      {
+       "titre": "Prêts à taux zéro sécheresse : les annonces de Genevard au Sommet de l'élevage 2026",
+       "media": "Transformation laitière (AFP)",
+       "url": "https://www.transformation-laitiere.fr/prets-taux-zero-secheresse-genevard-sommet-elevage-2026/",
+       "date": "2026-10-08"
+      },
+      {
+       "titre": "Annie Genevard annonce de nouvelles mesures pour soulager les trésoreries",
+       "media": "La France Agricole",
+       "url": "https://www.lafranceagricole.fr/secheresse/article/904555/annie-genevard-annonce-de-nouvelles-mesures-pour-soulager-les-tresoreries",
+       "date": "2026-10-08"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-plf2027-recettes-rejet-fiscalite-agricole",
+     "titre": "PLF 2027 : la commission des finances rejette la partie recettes après avoir relevé le plafond de l'épargne de précaution agricole",
+     "date": "2026-10-09",
+     "resume": "Le 9 octobre au soir, la commission des finances a rejeté la première partie (recettes) du PLF 2027, par 31 voix contre 3 et 2 abstentions. Elle avait adopté plus de 200 amendements sur environ 1 800 déposés, pour une perte nette de recettes d'environ 9,6 Md€. Selon le rapporteur général Philippe Juvin, le déficit atteindrait 5,35 à 5,4 % du PIB, contre 5 % visés. Côté agricole, des amendements identiques portent le plafond de la déduction pour épargne de précaution (DEP) de 150 000 à 250 000 €. Le texte du gouvernement prévoit déjà un suramortissement de 40 % sur trois ans pour les bâtiments et installations agricoles. La séance publique a débuté le 13 octobre, avec un vote solennel sur la première partie prévu le 20 octobre (résultat non vérifié).",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Commission des finances de l'Assemblée nationale",
+      "Philippe Juvin",
+      "FNSEA",
+      "Jeunes Agriculteurs",
+      "Gouvernement Lecornu"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Comme la commission a rejeté la partie recettes, la séance repart du texte du gouvernement : les amendements agricoles doivent être redéposés. Le risque d'un recours au 49.3, ou d'un rejet puis d'une reprise au Sénat, rend les mesures fiscales agricoles (DEP, suramortissement) dépendantes du compromis final.",
+     "implications": "Il faut vérifier le sort des amendements fiscaux agricoles après le vote du 20 octobre et préparer la lecture au Sénat (rapporteurs « agriculture »), probablement plus favorable aux demandes de la FNSEA et des JA.",
+     "sources": [
+      {
+       "titre": "PLF 2027 : la commission des finances rejette la partie « recettes » après avoir creusé le déficit d'environ 10 Md€",
+       "media": "Légifiscal",
+       "url": "https://www.legifiscal.fr/actualites-fiscales/4684-plf-2027-commission-finances-rejette-partie-recettes-creuse-deficit-environ-10-md.html",
+       "date": "2026-10-09"
+      },
+      {
+       "titre": "Projet de loi de finances pour 2027 : le ministère de l'Agriculture finance les priorités agricoles",
+       "media": "Ministère de l'Agriculture",
+       "url": "https://agriculture.gouv.fr/projet-de-loi-de-finances-pour-2027-le-ministere-de-lagriculture-finance-les-priorites-agricoles",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-cfp-2028-2034-pac-boite-negociation",
+     "titre": "Budget de l'UE 2028-2034 : la base de négociation irlandaise garde l'enveloppe de la PAC proposée par la Commission (environ -20 % par rapport à aujourd'hui) et réduit la réserve de crise",
+     "date": "2026-10-10",
+     "resume": "Le 10 octobre, la présidence irlandaise a présenté une base de négociation du cadre financier pluriannuel (CFP) en baisse d'environ 140 Md€ (-8 %) par rapport à la proposition de la Commission. L'enveloppe de la PAC n'y est pas réduite par rapport à cette proposition, mais elle reste environ 20 % sous son niveau actuel. La réserve de crise passe de 6,3 à 3,9 Md€. La dégressivité des aides commencerait à 100 000 € (contre 20 000 € proposés par la Commission) et le plafonnement deviendrait facultatif à partir de 300 000 €. Copa-Cogeca, le Parlement européen et le commissaire Christophe Hansen critiquent le texte. Les chiffres entre crochets restent négociables.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Présidence irlandaise du Conseil de l'UE",
+      "Christophe Hansen",
+      "Copa-Cogeca",
+      "Parlement européen",
+      "Pays « frugaux »"
+     ],
+     "impact": 5,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Un accord global est espéré d'ici fin 2026, sans certitude. La France devrait défendre un budget agricole protégé. Le relèvement des seuils de dégressivité et de plafonnement est favorable aux grandes exploitations françaises, et donc à la ligne de la FNSEA.",
+     "implications": "Les organisations agricoles doivent cibler le Secrétariat général des affaires européennes (SGAE) et l'Élysée avant le Conseil européen de décembre. Le niveau de la réserve de crise et les taux de cofinancement national (15, 40 ou 60 %) auront un impact direct sur le budget de l'État et des régions.",
+     "sources": [
+      {
+       "titre": "Budget européen 2028-2034 : la Pac épargnée mais la réserve rabotée",
+       "media": "Agra Europe",
+       "url": "https://www.agra.fr/articles/budget-europeen-2028-2034-la-pac-epargnee-mais-la-reserve-rabotee",
+       "date": "2026-10-15"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-agrifish-26-27-octobre-position-pac",
+     "titre": "Conseil Agriculture des 26 et 27 octobre : les Vingt-Sept visent une orientation générale partielle sur la PAC post-2027",
+     "date": "2026-10-19",
+     "resume": "Les ministres de l'Agriculture se réunissent à Luxembourg les 26 et 27 octobre pour arrêter une orientation générale partielle sur la future PAC, sans les volets financiers renvoyés au cadre financier pluriannuel (CFP). Le 19 octobre, le Conseil a validé sa position de négociation partielle sur la révision de l'organisation commune des marchés (OCM), avec des interventions sectorielles obligatoires pour l'apiculture et les fruits et légumes, et sous conditions pour la viticulture. L'ordre du jour du Conseil prévoit aussi un débat sur le commerce (accord UE-Inde, réouverture partielle au Brésil pour la volaille et le miel).",
+     "type": "décision européenne",
+     "acteurs": [
+      "Annie Genevard",
+      "Conseil de l'UE (AGRIFISH)",
+      "Présidence irlandaise"
+     ],
+     "impact": 4,
+     "urgence": 5,
+     "tonalite": "consensuel",
+     "signal_faible": false,
+     "anticipation": "Une orientation générale partielle est probable dès fin octobre, ce qui ouvrirait les trilogues avec le Parlement européen. Les points sensibles (plafonnement, dégressivité) restent bloqués jusqu'à l'accord sur le CFP.",
+     "implications": "Les filières (fruits et légumes, apiculture, viticulture) doivent faire valoir au plus vite leurs demandes sur les interventions sectorielles, avant que la position du Conseil soit figée.",
+     "sources": [
+      {
+       "titre": "Conseil Agriculture : les Vingt-sept focalisés sur la Pac",
+       "media": "Agra Presse",
+       "url": "https://www.agra.fr/articles/conseil-agriculture-les-vingt-sept-focalises-sur-la-pac",
+       "date": "2026-10"
+      },
+      {
+       "titre": "Pac post 2027 : les Vingt-sept adoptent leur position de négociation partielle sur l'OCM",
+       "media": "Agra Presse",
+       "url": "https://www.agra.fr/lives/pac-post-2027-les-vingt-sept-adoptent-leur-position-de-negociation-partielle-sur-locm",
+       "date": "2026-10-19"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-omnibus-pesticides-conseil-compromis",
+     "titre": "Omnibus pesticides : le Conseil s'accorde pour allonger les autorisations, le Parlement européen doit encore se prononcer",
+     "date": "2026-09-30",
+     "resume": "Le 30 septembre, les États membres ont arrêté la position du Conseil sur l'« Omnibus X » sécurité des aliments. Les substances à faible risque auraient une autorisation sans limite de durée. Pour les autres, l'approbation passerait de 10 à 15 ans (première autorisation) et de 15 à 25 ans (renouvellement), et les délais de grâce d'un an et demi à trois ans. Selon Vert, l'acétamipride ne serait pas réexaminée avant 2043. La France s'y opposait jusqu'ici, mais son vote final n'est pas précisé. La date du vote du Parlement européen n'est pas confirmée.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Conseil de l'UE",
+      "Parlement européen",
+      "Générations Futures",
+      "Pollinis",
+      "Confédération paysanne"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Un trilogue s'ouvrira après le vote du Parlement. Les ONG présentent déjà le texte comme une « loi Duplomb européenne », et il pourrait susciter une résolution européenne ou des questions au gouvernement à l'Assemblée et au Sénat.",
+     "implications": "Pour les industriels de la phytopharmacie comme pour les ONG, c'est un enjeu réglementaire majeur de 2027, mais il reste peu couvert par la presse généraliste française. Il faut suivre la position de la France et le calendrier de la plénière.",
+     "sources": [
+      {
+       "titre": "«La parole des scientifiques est bafouée» : le Conseil européen s'accorde sur le prolongement des autorisations de nombreux pesticides",
+       "media": "Vert",
+       "url": "https://vert.eco/sante-environnement/la-parole-des-scientifiques-est-bafouee-le-conseil-europeen-saccorde-sur-le-prolongement-des-autorisations-de-nombreux-pesticides/",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Note d'actualité sur l'Omnibus X sur la sécurité alimentaire",
+       "media": "Sénat",
+       "url": "https://www.senat.fr/fileadmin/cru-1792049961/Europe_et_international/Europe/Notes/Note_actu_Omnibus_X_securite_alimentaire.pdf",
+       "date": "2026-07-02"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-mobilisation-syngenta-stop-pesticides",
+     "titre": "Environ 15 000 manifestants vers l'usine Syngenta (selon les organisateurs) : la contestation anti-pesticides se structure",
+     "date": "2026-10-03",
+     "resume": "Le 3 octobre, la Confédération paysanne, Cancer Colère, le Collectif de soutien aux victimes des pesticides de l'Ouest (CSVPO) et les Soulèvements de la terre ont manifesté depuis Gaillon (Eure) vers l'usine Syngenta de Saint-Pierre-la-Garenne. Le site voisin de Nufarm était aussi visé. Plus de cinquante organisations soutenaient l'action. Les organisateurs annoncent environ 15 000 participants et 25 tracteurs. Les cibles politiques affichées sont le retour des néonicotinoïdes et l'Omnibus X. Les organisateurs signalent que la préfecture a refusé le parcours initial et que des gaz lacrymogènes ont été tirés.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "Confédération paysanne",
+      "Soulèvements de la terre",
+      "Cancer Colère",
+      "CSVPO",
+      "Syngenta"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Un front « santé et environnement » se forme, reliant victimes des pesticides et paysans. Il devrait peser sur les débats autour des dérogations aux néonicotinoïdes et sur l'Omnibus, et pourrait être relayé par la gauche (LFI, écologistes) au Parlement.",
+     "implications": "Il y a un risque réputationnel pour les fabricants et pour les filières bénéficiaires des dérogations (noisette, betterave). Il faut anticiper des contentieux contre les textes d'application.",
+     "sources": [
+      {
+       "titre": "Paysan·nes et victimes des pesticides uni·es pour dire Stop aux pesticides !",
+       "media": "Confédération paysanne",
+       "url": "https://www.confederationpaysanne.fr/actu.php?id=16964",
+       "date": "2026-10-04"
+      },
+      {
+       "titre": "STOP PESTICIDES - Arrêtons SYNGENTA - Mobilisation internationale le 3 octobre 2026",
+       "media": "Confédération paysanne",
+       "url": "https://www.confederationpaysanne.fr/actu.php?id=16833",
+       "date": "2026-08"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-loi-urgence-neonicotinoides-mise-en-oeuvre",
+     "titre": "Loi d'urgence agricole : une mise en œuvre financée par le PLF 2027, et des dérogations aux néonicotinoïdes à appliquer",
+     "date": "2026-10-01",
+     "resume": "La loi d'urgence pour la protection et la souveraineté agricoles (UPSA) a été promulguée le 18 août 2026. Son article 2 quater, ajouté par le sénateur Laurent Duplomb et adopté en commission mixte paritaire le 16 juillet, réintroduit par dérogation l'acétamipride (noisettes) et la flupyradifurone (betteraves en enrobage, pommes, cerises). Selon le ministère, le PLF 2027 finance la mise en œuvre de cette loi ainsi que de la loi d'orientation agricole du 24 mars 2025 et de la loi du 11 août 2025 (dite loi « Entraves » ou loi Duplomb). Les textes d'application des dérogations n'ont pas pu être vérifiés.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Annie Genevard",
+      "Laurent Duplomb",
+      "Générations Futures",
+      "FNSEA",
+      "Jeunes Agriculteurs"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Prochaine étape : la publication des textes d'application des dérogations, avec des recours probables devant le Conseil d'État. Un rejet ou une réduction des crédits du PLF pourrait retarder certains volets de la loi.",
+     "implications": "Il faut suivre le Journal officiel et les consultations publiques. Pour les filières concernées (noisette, betterave, pomme, cerise), le calendrier détermine la campagne 2027.",
+     "sources": [
+      {
+       "titre": "Le Parlement réintroduit les pesticides de la loi Duplomb",
+       "media": "Reporterre",
+       "url": "https://reporterre.net/Le-Parlement-reintroduit-les-pesticides-de-la-loi-Duplomb",
+       "date": "2026-07-16"
+      },
+      {
+       "titre": "Projet de loi de finances pour 2027 : le ministère de l'Agriculture finance les priorités agricoles",
+       "media": "Ministère de l'Agriculture",
+       "url": "https://agriculture.gouv.fr/projet-de-loi-de-finances-pour-2027-le-ministere-de-lagriculture-finance-les-priorites-agricoles",
+       "date": "2026-10"
+      },
+      {
+       "titre": "Le budget de l'agriculture relativement préservé pour 2027",
+       "media": "Terre-net",
+       "url": "https://www.terre-net.fr/ministere-de-l-agriculture/article/904220/budget-2027-l-agriculture-preservee-mais-l-attente-reste-grande-dans-les-fermes",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "agriculture-mercosur-application-provisoire-cjue-2027",
+     "titre": "Mercosur : appliqué à titre provisoire depuis le 1er mai 2026, l'accord attend l'avis de la CJUE, pas avant 2027",
+     "date": "2026-04-30",
+     "resume": "L'accord commercial UE-Mercosur est appliqué à titre provisoire depuis le 1er mai 2026. Le Parlement européen avait pourtant voté le 21 janvier 2026 la saisine de la Cour de justice de l'UE (CJUE), par 334 voix contre 324 et 11 abstentions. Selon Toute l'Europe, la CJUE ne devrait pas se prononcer avant janvier 2027. Le Parlement a adopté en février 2026 des clauses de sauvegarde : enquête dès que les importations de produits sensibles dépassent de 5 % la moyenne de trois ans ou que leurs prix sont 5 % sous le prix intérieur, et mesures provisoires possibles après 21 jours. Aucune source d'octobre 2026 n'a été trouvée sur une demande française d'activation.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Commission européenne",
+      "Parlement européen",
+      "Cour de justice de l'UE",
+      "FNSEA",
+      "Confédération paysanne"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Le dossier peut ressurgir à tout moment : données d'importations (volaille, sucre, viande bovine) déclenchant une demande de sauvegarde, avis de la CJUE en 2027, ou mobilisations agricoles.",
+     "implications": "Il faut suivre les flux d'importation par filière pour être prêt à saisir la Commission. Le Mercosur reste un levier de mobilisation pour la FNSEA si la négociation budgétaire tourne mal.",
+     "sources": [
+      {
+       "titre": "L'accord commercial UE-Mercosur entre en application provisoire",
+       "media": "Représentation de la Commission européenne en France",
+       "url": "https://france.representation.ec.europa.eu/informations-et-evenements/informations/laccord-commercial-ue-mercosur-entre-en-application-provisoire-2026-04-30_fr",
+       "date": "2026-04-30"
+      },
+      {
+       "titre": "Accord UE–Mercosur : quel avenir après la saisine de la Cour de justice ?",
+       "media": "Toute l'Europe",
+       "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/accord-ue-mercosur-quel-avenir-apres-la-saisine-de-la-cour-de-justice/",
+       "date": "2026"
+      },
+      {
+       "titre": "Mercosur: les clauses de sauvegarde protégeant l'agriculture de l'UE votées",
+       "media": "Parlement européen",
+       "url": "https://www.europarl.europa.eu/news/fr/press-room/20260205IPR33618/mercosur-les-clauses-de-sauvegarde-protegeant-l-agriculture-de-l-ue-votees",
+       "date": "2026-02"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Annie Genevard",
+     "fonction": "Ministre de l'Agriculture",
+     "position": "Défend un budget « préservé » et des mesures de crise (prêts à taux zéro, fonds préfectoraux) qui dépendent du vote du PLF 2027",
+     "influence": 5
+    },
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Arbitre budgétaire : plan de relance agricole de 500 à 700 M€, à compenser au-delà, avec un objectif de 5 % de déficit",
+     "influence": 5
+    },
+    {
+     "nom": "Arnaud Rousseau",
+     "fonction": "Président de la FNSEA",
+     "position": "Juge les mesures insuffisantes ; réclame des prêts à taux zéro immédiats et un soutien massif face à la sécheresse ; privilégie la négociation budgétaire",
+     "influence": 4
+    },
+    {
+     "nom": "Hélène Laporte",
+     "fonction": "Députée RN",
+     "position": "Auteure de l'amendement de +500 M€ pour l'indemnité de solidarité nationale (ISN), adopté en commission des affaires économiques",
+     "influence": 3
+    },
+    {
+     "nom": "Manon Meunier",
+     "fonction": "Députée LFI",
+     "position": "Auteure de l'amendement FNGRA adopté en commission ; la LFI a aussi fait adopter l'amendement bio",
+     "influence": 3
+    },
+    {
+     "nom": "Laurent Duplomb",
+     "fonction": "Sénateur LR de la Haute-Loire",
+     "position": "Porteur de l'article 2 quater de la loi d'urgence agricole réintroduisant l'acétamipride et la flupyradifurone",
+     "influence": 4
+    },
+    {
+     "nom": "Christophe Hansen",
+     "fonction": "Commissaire européen à l'Agriculture",
+     "position": "Préoccupé par la base de négociation irlandaise du CFP 2028-2034",
+     "influence": 4
+    },
+    {
+     "nom": "Confédération paysanne",
+     "fonction": "Syndicat agricole",
+     "position": "Opposée aux néonicotinoïdes, à l'Omnibus et au Mercosur ; co-organisatrice de la mobilisation vers Syngenta le 3 octobre",
+     "influence": 3
+    },
+    {
+     "nom": "Coordination rurale",
+     "fonction": "Syndicat agricole",
+     "position": "A fermé son stand pendant la visite de la ministre au Sommet de l'élevage ; réclame un plan sécheresse plus massif",
+     "influence": 3
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-20",
+     "evenement": "Vote solennel prévu sur la première partie (recettes) du PLF 2027 à l'Assemblée nationale (résultat à vérifier)",
+     "enjeu": "Sort des mesures fiscales agricoles (plafond de la DEP, suramortissement) ; recours possible au 49.3"
+    },
+    {
+     "date": "2026-10-26",
+     "evenement": "Conseil Agriculture et pêche (AGRIFISH) à Luxembourg, 26-27 octobre",
+     "enjeu": "Orientation générale partielle du Conseil sur la PAC post-2027, hors volets financiers"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Examen en séance de la mission « Agriculture, alimentation, forêt et affaires rurales » du PLF 2027",
+     "enjeu": "Amendements sur l'ISN, les prêts à taux zéro et le plan de relance de 500 à 700 M€"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Position du Parlement européen sur l'Omnibus sécurité des aliments (pesticides), date non confirmée",
+     "enjeu": "Durée des autorisations de pesticides et marge des États pour interdire au niveau national"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Conseil européen et négociation du CFP 2028-2034",
+     "enjeu": "Enveloppe PAC, réserve de crise, dégressivité et plafonnement des aides"
+    },
+    {
+     "date": "2027-01",
+     "evenement": "Avis de la CJUE sur l'accord UE-Mercosur (pas attendu avant cette date)",
+     "enjeu": "Validité juridique de l'accord appliqué à titre provisoire"
+    }
+   ],
+   "mots_cles": [
+    "PLF 2027",
+    "mission Agriculture",
+    "indemnité de solidarité nationale",
+    "prêts à taux zéro",
+    "sécheresse",
+    "plan de relance agricole",
+    "épargne de précaution",
+    "PAC post-2027",
+    "CFP 2028-2034",
+    "réserve de crise",
+    "OCM",
+    "Omnibus pesticides",
+    "acétamipride",
+    "loi d'urgence agricole",
+    "Mercosur",
+    "clause de sauvegarde",
+    "FNSEA",
+    "Confédération paysanne",
+    "Syngenta"
+   ]
+  },
+  {
+   "theme": "securite-justice",
+   "synthese": "Fin octobre 2026, le thème sécurité-justice-immigration est très chaud. Trois séquences se superposent à six mois de la présidentielle. (1) L'ordre public est devenu un sujet de confrontation politique après la journée contre la vie chère du 17 octobre : entre 550 000 et 800 000 manifestants, des pillages, et environ 1 200 interpellations selon Matignon. Laurent Nuñez est fragilisé, puisque des élus LFI, écologistes et RN réclament sa démission. L'Assemblée a créé une commission d'enquête, que le RN boycotte depuis le 21 octobre. Gérald Darmanin a répondu le 22 octobre par une circulaire pénale de fermeté. La seconde journée de mobilisation, le 24 octobre, sera le prochain test. (2) Le terrorisme revient au premier plan avec la fusillade de Trappes et La Verrière du 23 octobre (un mort, cinq blessés). Le PNAT se serait saisi pour un mobile raciste, mais la qualification reste à confirmer. Le débat se déplace vers la menace d'ultradroite. (3) Le PLF 2027 sert de véhicule aux arbitrages. Le 21 octobre, la commission des finances a adopté un amendement qui transforme l'AME en aide médicale d'urgence, avec environ 600 M€ d'économies selon la presse. Ce vote n'engage pas la séance. Les crédits des missions Sécurités (18,2 Md€) et Justice (environ 11 Md€) augmentent. En toile de fond, le règlement européen « Retour » oblige à adapter le CESEDA. Le projet de loi sur les polices municipales risque de ne pas être voté avant la suspension des travaux, prévue fin février 2027. La population carcérale atteint un nouveau record, à 90 900 détenus au 1er octobre (+7 % sur un an). Côté juridictionnel, le Conseil constitutionnel a rendu le 22 octobre la décision QPC 2026-1228 sur le contrat d'engagement républicain. Depuis le 23 octobre, la loi SURE raccourcit les délais pour soulever les nullités d'instruction. Les grands textes pénaux de 2026 étant déjà promulgués, les arbitrages se jouent désormais par voie budgétaire, réglementaire, européenne et de contrôle parlementaire. Note de vérification : le quota de recherche web était épuisé, donc ce contrôle repose sur la cohérence interne des sources et non sur une vérification indépendante. Les éléments incohérents ou sans source ont été retirés ou nuancés.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "securite-justice-ame-commission-finances-plf2027",
+     "titre": "PLF 2027 : la commission des finances vote la transformation de l'AME en aide médicale d'urgence",
+     "date": "2026-10-21",
+     "resume": "Le 21 octobre 2026, la commission des finances de l'Assemblée a adopté un amendement au PLF 2027. Il réduirait de moitié le budget de l'AME et la recentrerait sur les soins urgents. La presse évoque environ 600 M€ d'économies sur une dépense d'environ 1,4 Md€. Guillaume Kasbarian (EPR) défend une logique budgétaire. Éric Coquerel (LFI), président de la commission, dénonce une alliance entre le bloc central et le RN. L'auteur exact de l'amendement et le décompte des voix n'ont pas été confirmés.",
+     "type": "amendement",
+     "acteurs": [
+      "Guillaume Kasbarian (EPR)",
+      "Éric Coquerel (LFI)",
+      "Rassemblement national",
+      "Commission des finances de l'Assemblée nationale"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "En première lecture du PLF, la séance repart du texte du gouvernement. L'amendement devra donc être redéposé lors de l'examen de la mission Santé (novembre). Un nouveau vote commun du bloc central et du RN reste possible. Le Sénat, majoritairement à droite, devrait aller dans le même sens. Si la réforme du panier de soins est jugée hors du champ d'une loi de finances, le Conseil constitutionnel pourrait la censurer comme cavalier budgétaire.",
+     "implications": "Fédérations hospitalières, ONG santé-migrants et ordres de santé : préparer dès maintenant des amendements de suppression et des notes d'impact (report des soins vers les urgences, coût hospitalier), et cibler les députés Horizons, MoDem et LIOT, dont les voix sont décisives. Acteurs favorables à la réforme : c'est le moment d'obtenir son inscription dans le texte final.",
+     "sources": [
+      {
+       "titre": "Les députés divisent par deux l'aide médicale d'État et la transforment en aide d'urgence",
+       "media": "Yahoo Actualités (dépêche)",
+       "url": "https://fr.finance.yahoo.com/actualites/d%C3%A9put%C3%A9s-divisent-deux-l-aide-160131060.html",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "[PLF 2027] En commission des finances de l'Assemblée, l'aide médicale de l'État inspire toujours autant la droite",
+       "media": "Contexte",
+       "url": "https://www.contexte.com/fr/actualite/sante/en-commission-des-finances-de-lassemblee-laide-medicale-de-letat-inspire-toujours-autant-la-droite_282304",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-17-octobre-nunez-fragilise",
+     "titre": "Violences du 17 octobre : Laurent Nuñez sous le feu croisé de la gauche et du RN",
+     "date": "2026-10-18",
+     "resume": "La journée contre la vie chère du 17 octobre a réuni entre 550 000 (ministère) et 800 000 (organisateurs) manifestants. Elle a été marquée par des pillages et des violences. L'exécutif fait état d'environ 1 200 interpellations et attribue les violences à l'ultragauche. Des responsables écologistes et LFI ainsi que des députés RN demandent la démission du ministre de l'Intérieur. Le PS demande plutôt un changement de doctrine du maintien de l'ordre.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Laurent Nuñez",
+      "Sébastien Lecornu",
+      "Marine Tondelier",
+      "Éric Coquerel",
+      "Franck Allisio",
+      "Laure Lavalette",
+      "Olivier Faure"
+     ],
+     "impact": 4,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La deuxième journée de mobilisation, le 24 octobre, est décisive. De nouveaux débordements fragiliseraient encore Laurent Nuñez et nourriraient l'hypothèse d'un remaniement. Il faut s'attendre à des questions au gouvernement très offensives et à une remise en cause du schéma national du maintien de l'ordre.",
+     "implications": "Anticiper une possible instabilité place Beauvau et reporter les rendez-vous de plaidoyer non urgents. Sécurité privée, commerce et assureurs : le contexte est favorable pour porter des demandes sur l'indemnisation des pillages et la protection des commerces.",
+     "sources": [
+      {
+       "titre": "\"Il n'y a pas d'autre issue que sa démission\": Laurent Nuñez sous le feu des critiques après les violences du 17 octobre",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/il-n-y-a-pas-d-autre-issue-que-sa-demission-laurent-nunez-sous-le-feu-des-critiques",
+       "date": "2026-10-18"
+      },
+      {
+       "titre": "Mobilisation massive en France contre la vie chère suivie de scènes de chaos",
+       "media": "France 24",
+       "url": "https://www.france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris",
+       "date": "2026-10-17"
+      },
+      {
+       "titre": "En direct - Mobilisation du 17 octobre : 800.000 participants selon les organisateurs, 550.000 selon Laurent Nuñez",
+       "media": "Europe 1",
+       "url": "https://www.europe1.fr/societe/en-direct-mobilisation-du-17-octobre-800000-participants-selon-les-organisateurs-550000-selon-laurent-nunez-1156250",
+       "date": "2026-10-17"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-commission-enquete-17-octobre-boycott-rn",
+     "titre": "Commission d'enquête sur le 17 octobre : le RN la boycotte, faute d'avoir obtenu un poste de rapporteur",
+     "date": "2026-10-21",
+     "resume": "L'Assemblée a créé une commission d'enquête sur les violences du 17 octobre. Elle est présidée par Vincent Caure (Renaissance), avec trois rapporteurs : Agnès Firmin Le Bodo (Horizons), Roger Vicot (PS) et Pouria Amirshahi (Écologiste). Le 21 octobre, Marine Le Pen a annoncé que le RN boycotterait la commission, qu'elle qualifie de « mascarade ». Elle reproche aux autres groupes de l'avoir écarté des postes de rapporteur.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Marine Le Pen",
+      "Vincent Caure",
+      "Agnès Firmin Le Bodo",
+      "Roger Vicot",
+      "Pouria Amirshahi",
+      "Yaël Braun-Pivet"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Sans le RN, la commission sera dominée par le bloc central et la gauche. Ses conclusions risquent de porter sur la doctrine du maintien de l'ordre plus que sur l'ultragauche. Le RN pourra ainsi la délégitimer en pleine pré-campagne présidentielle.",
+     "implications": "Syndicats de police, préfectures et acteurs du maintien de l'ordre seront auditionnés : préparer des contributions écrites. Les rapporteurs PS et écologiste pourraient porter des recommandations restrictives (LBD, nasses). Prendre contact rapidement avec les trois rapporteurs.",
+     "sources": [
+      {
+       "titre": "Violences du 17 octobre: le RN annonce son boycott de la commission d'enquête",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/violences-du-17-octobre-le-rn-annonce-son-boycott-de-la-commission-d-enquete-444138",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Le RN boycottera la commission d'enquête sur les événements du 17 octobre",
+       "media": "Front Populaire",
+       "url": "https://frontpopulaire.fr/politique/contents/le-rn-boycottera-la-commission-denquete-sur-les-evenements-du-17-octobre_tco_31950156",
+       "date": "2026-10-21"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-circulaire-darmanin-casseurs",
+     "titre": "Circulaire Darmanin : peines complémentaires systématiques requises contre les casseurs, dont la privation des droits civiques et le « bannissement numérique »",
+     "date": "2026-10-22",
+     "resume": "Dans une circulaire du 22 octobre 2026, le garde des Sceaux demande aux procureurs de requérir systématiquement des peines complémentaires contre les auteurs de violences et de dégradations. Parmi elles : interdiction de manifester, privation des droits civiques, interdiction d'exercer dans la fonction publique, fermeture de comptes sur les réseaux sociaux, interdiction du territoire pour les étrangers. L'annonce intervient deux jours avant la mobilisation du 24 octobre. Les chiffres judiciaires cités (2 700 gardes à vue, 217 incarcérations) diffèrent du bilan de 1 200 interpellations donné par Matignon et doivent être recoupés.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Gérald Darmanin",
+      "Parquets"
+     ],
+     "impact": 3,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Darmanin se positionne sur la fermeté avant la présidentielle. Il faut s'attendre à des contentieux sur le « bannissement numérique » (proportionnalité, liberté d'expression) et à des propositions de loi LR ou RN pour l'inscrire durablement dans le code pénal.",
+     "implications": "Plateformes numériques : se préparer à des demandes de fermeture de comptes. Barreaux et associations de défense des libertés publiques : terrain de contentieux et de plaidoyer.",
+     "sources": [
+      {
+       "titre": "Privation du droit de vote, professions interdites… : Gérald Darmanin demande aux procureurs de durcir leurs réquisitions contre les auteurs de violences urbaines",
+       "media": "L'Express / 6Médias (via Orange Actu)",
+       "url": "https://actu.orange.fr/politique/privation-du-droit-de-vote-professions-interdites-gerald-darmanin-demande-aux-procureurs-de-durcir-leurs-requisitions-contre-les-auteurs-de-violences-urbaines-l-express-via-6medias-CNT000002tlaD4.html",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Interdiction de manifester, suspension des droits civiques, bannissement numérique… Gérald Darmanin demande un durcissement des réquisitions contre les casseurs",
+       "media": "CNews",
+       "url": "https://www.cnews.fr/france/2026-10-22/interdiction-de-manifester-suspension-des-droits-civiques-bannissement-numerique",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-trappes-attentat-pnat",
+     "titre": "Fusillade de Trappes et La Verrière : le PNAT se serait saisi, piste d'un mobile raciste",
+     "date": "2026-10-23",
+     "resume": "Le 23 octobre 2026 au matin, un homme a tiré sur plusieurs sites de Trappes et de La Verrière (Yvelines). Une personne a été tuée et cinq blessées. Le suspect a été interpellé. Selon ICI, le PNAT se serait saisi en retenant un ciblage lié à l'origine ou à la religion des victimes. Les premières dépêches parlaient seulement d'une « observation » du PNAT : la qualification est à confirmer.",
+     "type": "autre",
+     "acteurs": [
+      "PNAT",
+      "Laurent Nuñez",
+      "Ali Rabeh"
+     ],
+     "impact": 4,
+     "urgence": 5,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Après Aubagne, cette attaque place la menace d'ultradroite au centre du débat. La gauche devrait demander des dissolutions de groupuscules et des moyens supplémentaires pour le renseignement intérieur. Des amendements au PLF 2027 sur les crédits de la DGSI sont possibles.",
+     "implications": "Associations musulmanes et antiracistes, élus de banlieue : s'attendre à des demandes de protection des lieux de culte et des équipements publics. Acteurs de la sécurité : un rehaussement de Vigipirate est possible. Plateformes : nouvelles exigences possibles de modération des contenus haineux.",
+     "sources": [
+      {
+       "titre": "Un mort et plusieurs blessés à Trappes et La Verrière après qu'un homme a ouvert le feu",
+       "media": "ICI (France Bleu)",
+       "url": "https://www.ici.fr/ile-de-france/yvelines-78/trappes/un-mort-et-plusieurs-blesses-a-trappes-et-la-verriere-apres-qu-un-homme-a-ouvert-le-feu-7844642",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-polices-municipales-enlisement",
+     "titre": "Projet de loi sur les polices municipales : risque d'abandon avant la présidentielle",
+     "date": "2026-09-10",
+     "resume": "Le projet de loi sur les polices municipales a été adopté par le Sénat début 2026 et examiné en commission des lois de l'Assemblée au printemps. Il n'a toujours pas été inscrit en séance. Depuis la mi-octobre, l'hémicycle est occupé par le PLF. Les associations d'élus réclament un calendrier, et les sénateurs veulent faire intervenir Gérard Larcher.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Laurent Nuñez",
+      "Laurent Panifous",
+      "Gérard Larcher",
+      "Associations d'élus"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Le Congrès des maires de novembre est le moment où Matignon pourrait annoncer une inscription en décembre ou en janvier, ou acter un report de fait. Une adoption avant la fin février suppose un ordre du jour très serré après le budget.",
+     "implications": "AMF, France urbaine, syndicats de policiers municipaux et fournisseurs d'équipements : se mobiliser au Congrès des maires pour obtenir une date. À défaut, reporter les demandes vers les programmes présidentiels.",
+     "sources": [
+      {
+       "titre": "Parlementaires et élus locaux craignent que le projet de loi sur les polices municipales passe à la trappe",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/parlementaire/parlementaires-et-elus-locaux-craignent-que-le-projet-de-loi-sur-les-polices-municipales-passe-a-la-trappe",
+       "date": "2026-09-10"
+      },
+      {
+       "titre": "Projet de loi police municipale : Laurent Nuñez précise ses intentions avant le débat à l'Assemblée nationale",
+       "media": "La Gazette des communes",
+       "url": "https://www.lagazettedescommunes.com/1034729/projet-de-loi-police-municipale-laurent-nunez-precise-ses-intentions-avant-le-debat-a-lassemblee-nationale/",
+       "date": "2026-09-01"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-reglement-retour-ue-adaptation-ceseda",
+     "titre": "Règlement européen « Retour » adopté : la France devra adapter le CESEDA",
+     "date": "2026-10-01",
+     "resume": "Le Conseil de l'UE a formellement adopté le règlement « Retour » le 1er octobre 2026, après le vote du Parlement européen. Le texte prévoit des durées de rétention allongées (jusqu'à 24 mois), des « hubs de retour » dans des pays tiers, de longues interdictions d'entrée et la fin du caractère automatiquement suspensif de certains recours. L'essentiel s'appliquera environ un an après l'entrée en vigueur. Les sources divergent sur la date de publication. Le même mois, une proposition de loi de gauche (n° 3259, déposée le 6 octobre) cherche au contraire à rétablir les protections contre l'OQTF.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Conseil de l'UE",
+      "Parlement européen",
+      "Laurent Nuñez",
+      "La Cimade",
+      "Gisti"
+     ],
+     "impact": 4,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Un projet de loi d'adaptation du CESEDA sera nécessaire d'ici fin 2027, probablement après la présidentielle. Le sujet devrait nourrir la surenchère LR et RN pendant la campagne. Des accords bilatéraux sur les hubs de retour pourraient être engagés par l'exécutif sans passer par le Parlement.",
+     "implications": "Associations de défense des étrangers, avocats en droit des étrangers et gestionnaires de CRA : préparer des positions sur l'adaptation du droit français. Surveiller toute annonce de Beauvau sur des accords avec des pays tiers.",
+     "sources": [
+      {
+       "titre": "Expulsions des étrangers sans papiers : le Conseil de l'UE adopte formellement le controversé \"Règlement retour\"",
+       "media": "InfoMigrants",
+       "url": "https://www.infomigrants.net/fr/post/74021/expulsions-des-etrangers-sans-papiers--le-conseil-de-lue-adopte-formellement-le-controverse-reglement-retour",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Suivi du « Règlement retour » (UE) sur l'expulsion des personnes étrangères en situation irrégulière",
+       "media": "Gisti",
+       "url": "https://www.gisti.org/spip.php?article7781",
+       "date": "2026-10-07"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-prisons-record-90900-detenus",
+     "titre": "Prisons : nouveau record avec 90 900 détenus au 1er octobre 2026 (+7 % en un an)",
+     "date": "2026-10-15",
+     "resume": "Selon les statistiques mensuelles publiées par le ministère de la Justice le 15 octobre 2026, environ 90 900 personnes étaient détenues au 1er octobre, soit 7 % de plus qu'un an plus tôt. Le PLF 2027 prévoit environ 11 Md€ pour la mission Justice (+460 M€ selon les annonces de juillet), avec des créations d'emplois dans la pénitentiaire. Le programme de places modulaires prend du retard.",
+     "type": "donnée économique",
+     "acteurs": [
+      "Ministère de la Justice",
+      "Gérald Darmanin",
+      "Direction de l'administration pénitentiaire",
+      "Contrôleur général des lieux de privation de liberté"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "neutre",
+     "signal_faible": false,
+     "anticipation": "Lors de l'examen de la mission Justice en séance (novembre), la gauche devrait proposer des amendements sur la régulation carcérale, et la droite demander d'accélérer les places modulaires. L'écart entre la fermeté pénale affichée et les capacités d'accueil devient un argument central de l'opposition.",
+     "implications": "Construction modulaire, surveillance électronique, gestion déléguée : des marchés à saisir. Syndicats pénitentiaires : arguments pour obtenir des effectifs. ONG : chiffres utilisables pour défendre un mécanisme de régulation carcérale.",
+     "sources": [
+      {
+       "titre": "Au 1er octobre 2026, + 7 % de personnes détenues sur un an",
+       "media": "Ministère de la Justice",
+       "url": "https://www.justice.gouv.fr/documentation/etudes-et-statistiques/au-1er-octobre-2026-7-personnes-detenues",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "Arbitrages budgétaires : Gérald Darmanin annonce 460 M€ supplémentaires pour la justice en 2027",
+       "media": "Le Monde du Droit",
+       "url": "https://www.lemondedudroit.fr/institutions/105198-arbitrages-budgetaires-gerald-darmanin-annonce-460-meur-supplementaires-pour-la-justice-en-2027.html",
+       "date": "2026-07-15"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-plf2027-mission-securites",
+     "titre": "PLF 2027 : la mission Sécurités portée à 18,2 Md€, une hausse surtout salariale",
+     "date": "2026-10-01",
+     "resume": "Le PLF 2027 propose 18,2 Md€ pour la mission Sécurités, contre environ 17,5 Md€ en loi de finances 2026, avec environ 1 234 ETP supplémentaires répartis entre la police et la gendarmerie. Selon Pandore, l'essentiel de la hausse finance la masse salariale, et les crédits d'équipement et d'investissement progressent peu. Le narcotrafic est affiché comme priorité.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Ministère de l'Intérieur",
+      "Commission des finances",
+      "Police nationale",
+      "Gendarmerie nationale"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "neutre",
+     "signal_faible": false,
+     "anticipation": "Après le 17 octobre, les crédits de maintien de l'ordre et d'équipement seront contestés en séance. La droite et le RN demanderont des hausses, la gauche des redéploiements vers la formation et le renseignement.",
+     "implications": "Industriels de la sécurité : porter dès maintenant des amendements sur les crédits hors masse salariale auprès des rapporteurs. Syndicats de police : levier sur l'immobilier et les équipements.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : hausse des effectifs, narcotrafic, incendies… Que propose le gouvernement en matière de sécurité intérieure ?",
+       "media": "CNews",
+       "url": "https://www.cnews.fr/france/2026-10-01/budget-2027-hausse-des-effectifs-narcotrafic-incendies-que-propose-le",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Budget 2027 : les moyens prévus pour la gendarmerie",
+       "media": "Pandore Gendarmerie",
+       "url": "https://www.pandore-gendarmerie.org/budget-2027-gendarmerie-emplois-credits-brigades/",
+       "date": "2026-10-10"
+      }
+     ]
+    },
+    {
+     "id": "securite-justice-qpc-cer-et-loi-sure-nullites",
+     "titre": "Contrat d'engagement républicain validé par le Conseil constitutionnel (QPC du 22 octobre) et délais de nullités raccourcis depuis le 23 octobre",
+     "date": "2026-10-22",
+     "resume": "Dans sa décision n° 2026-1228 QPC du 22 octobre 2026, le Conseil constitutionnel juge conforme une disposition du CESEDA. Elle écarte la consultation de la commission du titre de séjour lorsqu'une carte pluriannuelle est refusée ou retirée pour manquement au contrat d'engagement républicain. Par ailleurs, une disposition de la loi SURE (loi n° 2026-651 du 23 juillet 2026) s'applique depuis le 23 octobre : elle raccourcit de six à quatre mois le délai pour soulever les nullités d'instruction.",
+     "type": "décision juridictionnelle",
+     "acteurs": [
+      "Conseil constitutionnel",
+      "Conseil d'État",
+      "Barreaux"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "La validation consolide le levier « ordre public / valeurs » de la loi immigration de 2024. La réduction des délais de nullités pourrait susciter de nouvelles QPC portées par les barreaux.",
+     "implications": "Avocats pénalistes : adapter leurs pratiques au nouveau délai. Associations de défense des étrangers : se tourner vers le contrôle de conventionnalité pour contester le dispositif.",
+     "sources": [
+      {
+       "titre": "Décision n° 2026-1228 QPC du 22 octobre 2026",
+       "media": "Conseil constitutionnel",
+       "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261228QPC.htm",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Loi SURE : ce que la loi retient, ce que le Conseil a censuré",
+       "media": "Cabinet Minier Avocat",
+       "url": "https://minier-avocat-carpentras.fr/loi-sure/",
+       "date": "2026-08-01"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Laurent Nuñez",
+     "fonction": "Ministre de l'Intérieur",
+     "position": "Défend le maintien de l'ordre du 17 octobre et attribue les violences à l'ultragauche. Fragilisé par des demandes de démission venues de la gauche et du RN. Porte le projet de loi sur les polices municipales.",
+     "influence": 4
+    },
+    {
+     "nom": "Gérald Darmanin",
+     "fonction": "Garde des Sceaux, ministre de la Justice",
+     "position": "Ligne de fermeté pénale : circulaire du 22 octobre contre les casseurs, loi SURE. Budget Justice en hausse.",
+     "influence": 5
+    },
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Arbitre du PLF 2027, y compris sur l'AME. Met en avant le bilan des interpellations du 17 octobre.",
+     "influence": 5
+    },
+    {
+     "nom": "Marine Le Pen",
+     "fonction": "Présidente du groupe RN à l'Assemblée nationale",
+     "position": "A annoncé le boycott de la commission d'enquête sur le 17 octobre. Le RN soutient la restriction de l'AME.",
+     "influence": 5
+    },
+    {
+     "nom": "Guillaume Kasbarian",
+     "fonction": "Député EPR, commission des finances",
+     "position": "Défend la réduction de l'AME au nom des économies budgétaires.",
+     "influence": 3
+    },
+    {
+     "nom": "Éric Coquerel",
+     "fonction": "Député LFI, président de la commission des finances",
+     "position": "Opposé à la réforme de l'AME. Critique la gestion du maintien de l'ordre par Laurent Nuñez.",
+     "influence": 4
+    },
+    {
+     "nom": "Vincent Caure",
+     "fonction": "Député Renaissance, président de la commission d'enquête sur le 17 octobre",
+     "position": "Pilote le contrôle parlementaire du maintien de l'ordre.",
+     "influence": 3
+    },
+    {
+     "nom": "Marine Tondelier",
+     "fonction": "Secrétaire nationale des Écologistes",
+     "position": "Demande la démission de Laurent Nuñez.",
+     "influence": 3
+    },
+    {
+     "nom": "Gérard Larcher",
+     "fonction": "Président du Sénat",
+     "position": "Sollicité par les sénateurs pour obtenir l'inscription du projet de loi sur les polices municipales à l'Assemblée.",
+     "influence": 4
+    },
+    {
+     "nom": "Yaël Braun-Pivet",
+     "fonction": "Présidente de l'Assemblée nationale",
+     "position": "Mise en cause par le RN sur la répartition des postes de la commission d'enquête.",
+     "influence": 3
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-24",
+     "evenement": "Deuxième journée de mobilisation nationale contre la vie chère",
+     "enjeu": "Test pour Laurent Nuñez et pour la doctrine du maintien de l'ordre ; premières applications de la circulaire Darmanin"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Examen en séance à l'Assemblée des missions Santé (AME), Sécurités, Justice et Immigration du PLF 2027",
+     "enjeu": "Redépôt éventuel de l'amendement sur l'AME ; crédits de la police, de la gendarmerie et de la pénitentiaire"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Congrès des maires de France",
+     "enjeu": "Pression pour inscrire le projet de loi sur les polices municipales à l'ordre du jour"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Début des auditions de la commission d'enquête sur les violences du 17 octobre",
+     "enjeu": "Remise en cause de la doctrine du maintien de l'ordre, sans participation du RN"
+    },
+    {
+     "date": "2027-02",
+     "evenement": "Suspension prévue des travaux parlementaires en séance pour la campagne présidentielle",
+     "enjeu": "Date limite de fait pour adopter les textes régaliens en attente"
+    },
+    {
+     "date": "2027-10",
+     "evenement": "Application de l'essentiel du règlement européen « Retour » (date approximative)",
+     "enjeu": "Adaptation du CESEDA : durée de rétention, recours"
+    }
+   ],
+   "mots_cles": [
+    "AME",
+    "aide médicale d'urgence",
+    "PLF 2027",
+    "maintien de l'ordre",
+    "17 octobre",
+    "commission d'enquête",
+    "Laurent Nuñez",
+    "Gérald Darmanin",
+    "circulaire pénale",
+    "bannissement numérique",
+    "Trappes",
+    "PNAT",
+    "ultradroite",
+    "règlement Retour",
+    "CESEDA",
+    "OQTF",
+    "surpopulation carcérale",
+    "loi SURE",
+    "polices municipales",
+    "QPC 2026-1228",
+    "contrat d'engagement républicain",
+    "narcotrafic"
+   ]
+  },
+  {
+   "theme": "europe-international",
+   "synthese": "Mi/fin octobre 2026, le volet européen et international est dominé par trois dossiers liés entre eux. Le premier, vérifié, est le financement de l'Ukraine en 2027. Au Conseil européen de Bruxelles (sommet du 16 octobre), Volodymyr Zelensky a demandé au moins 70 Md€ supplémentaires pour 2027, en estimant à 155 Md€ le coût de la guerre l'an prochain. Ursula von der Leyen a reconnu que ce besoin « doit être couvert ». Le prêt de 90 Md€ pour 2026-2027 ne couvre en effet 2027 que partiellement. Emmanuel Macron a temporisé en jugant « trop tôt pour articuler un chiffre ». Le deuxième dossier est la négociation du CFP 2028-2034 (environ 2 000 Md€). Emmanuel Macron pousse pour conclure avant la présidentielle de 2027, ce qui politise le dossier. Sur le plan national, le prélèvement sur recettes au profit de l'UE (PSR-UE) du PLF 2027, fixé à 30,9 Md€, aurait été adopté de justesse à l'Assemblée le 14 octobre. Paris pousse aussi une préférence européenne stricte sur les crédits défense du futur CFP. Le troisième dossier est la sécurité régionale : l'après-FINUL au Liban (le mandat prend fin le 31 décembre 2026 selon la résolution 2790), le Golfe et le Proche-Orient. Sur le commerce, le cadre UE–États-Unis issu de Turnberry (plafond de 15 %) reste fragilisé par la menace de représailles américaines contre la régulation numérique de l'UE. Limites du fact-checking : le quota de recherches web de la session a été épuisé après une seule vérification. Seul le signal Ukraine/70 Md€ a été confirmé par des sources indépendantes. Les autres signaux reposent sur les sources de l'analyste, non revérifiées à cette étape. Les chiffres douteux ont été retirés et certains scores abaissés.",
+   "temperature": 4,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "europe-international-ukraine-trou-70-mds-2027",
+     "titre": "Ukraine : Kiev demande 70 Md€ de plus pour 2027, l'UE cherche comment les financer",
+     "date": "2026-10-16",
+     "resume": "Au sommet européen de Bruxelles du 16 octobre 2026, Volodymyr Zelensky a demandé « au moins 70 milliards d'euros de plus » pour 2027. Il estime le coût de la guerre à 155 Md€ l'an prochain. Ursula von der Leyen a indiqué que ce besoin devait être couvert et a appelé les partenaires à contribuer. Le prêt de 90 Md€ (2026-2027) ne couvre en effet 2027 que partiellement. Emmanuel Macron a jugé « trop tôt pour articuler un chiffre ». António Costa a exclu tout retrait du soutien ou tout allègement des sanctions. Aucune décision chiffrée n'a été prise.",
+     "type": "décision européenne",
+     "acteurs": [
+      "Emmanuel Macron",
+      "Volodymyr Zelensky",
+      "Ursula von der Leyen",
+      "António Costa",
+      "Commission européenne"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Des options de financement complémentaires sont attendues d'ici le Conseil européen de décembre : emprunt commun, recours aux avoirs russes immobilisés ou garanties nationales. Le débat français sur une garantie de l'État et sur les avoirs russes pourrait se rouvrir au Parlement pendant l'examen du PLF 2027.",
+     "implications": "Il faut anticiper des débats sur d'éventuelles garanties budgétaires nationales et suivre la position de Bercy sur les avoirs russes. Les industriels de défense doivent suivre les annonces de livraisons et de cessions à l'Ukraine.",
+     "sources": [
+      {
+       "titre": "Zelensky réclame à l'UE 70 milliards d'euros en plus en 2027",
+       "media": "La Télé (AFP)",
+       "url": "https://latele.ch/articles/zelensky-reclame-a-l-ue-70-milliards-d-euros-en-plus-en-2027",
+       "date": "2026-10-16"
+      },
+      {
+       "titre": "Zelenskyy calls for an additional 70 billion euros from the EU",
+       "media": "blue News",
+       "url": "https://www.bluewin.ch/en/news/international/zelenskyy-calls-for-an-additional-70-billion-euros-from-the-eu-li.3638508",
+       "date": "2026-10-16"
+      },
+      {
+       "titre": "Zelenski consigue respaldo europeo ante nueva disputa con Trump",
+       "media": "La Tribuna (AFP)",
+       "url": "https://www.latribuna.hn/2026/10/16/zelenski-consigue-respaldo-europeo-ante-nueva-disputa-con-trump/",
+       "date": "2026-10-16"
+      },
+      {
+       "titre": "Ukraine : la demande d'aide de 70 milliards d'euros de l'Ukraine sera étudiée, temporise Macron",
+       "media": "France 24",
+       "url": "https://www.france24.com/fr/europe/20261016-en-direct-ukraine-russie-reprise-frappes-raffineries-donald-trump-zelensky-poutine",
+       "date": "2026-10-16"
+      }
+     ]
+    },
+    {
+     "id": "europe-international-ukraine-clivage-presidentielle",
+     "titre": "L'aide à l'Ukraine devient un clivage de la présidentielle 2027 : Macron répond à Marine Le Pen",
+     "date": "2026-10-16",
+     "resume": "Selon la source de l'analyste (non revérifiée faute de quota), Emmanuel Macron a critiqué à l'issue du sommet la proposition de Marine Le Pen de supprimer l'aide à l'Ukraine. Il la juge dangereuse pour la sécurité de l'Europe. Le soutien à Kiev devient ainsi un marqueur de campagne.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Emmanuel Macron",
+      "Marine Le Pen",
+      "Rassemblement national"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Un durcissement des votes du RN est probable sur tout crédit ou toute garantie liés à l'Ukraine. L'exécutif cherchera à sécuriser des engagements pluriannuels avant l'échéance électorale.",
+     "implications": "Il faut cartographier les positions des groupes sur chaque véhicule budgétaire touchant l'Ukraine. Les arguments de souveraineté et de sécurité porteront davantage auprès de LR et du centre.",
+     "sources": [
+      {
+       "titre": "Ukraine : la demande d'aide de 70 milliards d'euros de l'Ukraine sera étudiée, temporise Macron",
+       "media": "France 24",
+       "url": "https://www.france24.com/fr/europe/20261016-en-direct-ukraine-russie-reprise-frappes-raffineries-donald-trump-zelensky-poutine",
+       "date": "2026-10-16"
+      }
+     ]
+    },
+    {
+     "id": "europe-international-cfp-accord-avant-2027",
+     "titre": "CFP 2028-2034 : Macron veut un accord avant 2027, le calendrier se politise",
+     "date": "2026-10-16",
+     "resume": "Selon une dépêche AFP relayée par Orange Actu, Emmanuel Macron a appelé à Bruxelles à conclure un accord sur le budget européen 2028-2034 (environ 2 000 Md€ proposés par la Commission) avant 2027. Des politistes interrogés par Atlantico jugent ce calendrier difficile, car les 27 défendent leurs enveloppes nationales (PAC, cohésion). Une critique de Marine Le Pen a été rapportée mais n'a pas pu être vérifiée.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Emmanuel Macron",
+      "Marine Le Pen",
+      "Présidence irlandaise du Conseil",
+      "Amis de la cohésion",
+      "Commission européenne"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La France vise une boîte de négociation chiffrée d'ici décembre 2026 sous présidence irlandaise. Un accord final avant le printemps 2027 reste incertain. Les arbitrages porteront sur la PAC, la cohésion, la défense et les ressources propres.",
+     "implications": "La fenêtre d'influence sur les plafonds PAC et cohésion et sur le Fonds de compétitivité se joue d'ici décembre. Les organisations agricoles et régionales doivent se positionner sur les plans de partenariat nationaux et régionaux.",
+     "sources": [
+      {
+       "titre": "A Bruxelles, Macron appelle à conclure un accord sur le budget européen avant 2027",
+       "media": "AFP / Orange Actu",
+       "url": "https://actu.orange.fr/economie/a-bruxelles-macron-appelle-a-conclure-un-accord-sur-le-budget-europeen-avant-2027-CNT000002sPIjq.html",
+       "date": "2026-10-16"
+      },
+      {
+       "titre": "Budget européen 2028-2034 : qui paie, qui profite de l'Europe ?",
+       "media": "Atlantico",
+       "url": "https://atlantico.fr/article/decryptage/sommet-europeen-derriere-les-grands-discours-la-vieille-logique-du-guichet",
+       "date": "2026-10-17"
+      }
+     ]
+    },
+    {
+     "id": "europe-international-psr-ue-plf2027-vote-serre",
+     "titre": "PLF 2027 : le prélèvement européen (30,9 Md€) adopté à l'Assemblée",
+     "date": "2026-10-14",
+     "resume": "Selon Localtis, les députés ont adopté le 14 octobre l'article du PLF 2027 qui fixe le prélèvement sur recettes au profit de l'UE à 30,9 Md€. Le RN, LFI et les communistes ont voté contre. Le décompte précis des voix n'a pas été confirmé par le scrutin officiel. La direction du budget anticipe une hausse de la contribution sous le futur CFP.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Philippe Juvin",
+      "RN",
+      "LFI",
+      "Assemblée nationale"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "L'article sera examiné au Sénat en novembre, où un débat sur la trajectoire de la contribution et sur les ressources propres est probable. La contestation de chaque transfert budgétaire européen devrait croître d'ici 2027.",
+     "implications": "Il faut préparer des arguments sur le solde net de la France et sur les ressources propres (amendes, CBAM). Le thème « l'Europe coûte cher » deviendra structurant dans les débats budgétaires.",
+     "sources": [
+      {
+       "titre": "Budget 2027 - La facture européenne continue de gonfler",
+       "media": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/budget-2027-la-facture-europeenne-continue-de-gonfler",
+       "date": "2026-10-15"
+      }
+     ]
+    },
+    {
+     "id": "europe-international-preference-europeenne-defense-cfp",
+     "titre": "Défense : Paris pousse une préférence européenne stricte dans le futur CFP, Berlin hésite",
+     "date": "2026-09-16",
+     "resume": "Selon une newsletter spécialisée, la France demande que les crédits défense et espace du CFP 2028-2034 soient soumis à des règles de préférence européenne plus strictes. L'Allemagne hésite, car elle redoute de perdre l'accès aux fournisseurs américains. Le Grand Continent (8 octobre) pointe la persistance des verrous nationaux dans la défense européenne. La France a signé en juin 2026 un prêt SAFE de 15,1 Md€.",
+     "type": "autre",
+     "acteurs": [
+      "Philippe Léglise-Costa",
+      "Emmanuel Macron",
+      "Allemagne",
+      "Catherine Vautrin"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Un arbitrage sur des seuils de contenu européen assortis d'exceptions limitées est probable dans la boîte de négociation du CFP. Le clivage franco-allemand se retrouvera dans le règlement du Fonds de compétitivité.",
+     "implications": "Pour la BITD française, l'enjeu est d'obtenir des seuils élevés de contenu UE. Les acteurs dépendants de composants américains doivent préparer des demandes de dérogation.",
+     "sources": [
+      {
+       "titre": "Paris veut que l'argent européen achète davantage européen",
+       "media": "EuroScope (Substack)",
+       "url": "https://tribuneuscope.substack.com/p/paris-veut-que-largent-europeen-achete",
+       "date": "2026-09-16"
+      },
+      {
+       "titre": "La défense européenne face au complexe bureaucratique-industriel national",
+       "media": "Le Grand Continent",
+       "url": "https://legrandcontinent.eu/fr/2026/10/08/la-defense-europeenne-face-au-complexe-bureaucratique-industriel-national/",
+       "date": "2026-10-08"
+      },
+      {
+       "titre": "Signature de l'accord de prêt européen Safe de 15,1 milliards d'euros",
+       "media": "Ministère des Armées (DGA)",
+       "url": "https://www.defense.gouv.fr/dga/actualites/signature-laccord-pret-europeen-safe-151-milliards-deuros",
+       "date": "2026-06-17"
+      }
+     ]
+    },
+    {
+     "id": "europe-international-liban-apres-finul",
+     "titre": "Liban : la France prépare l'après-FINUL",
+     "date": "2026-10-18",
+     "resume": "La résolution 2790 du Conseil de sécurité (août 2025) met fin au mandat de la FINUL le 31 décembre 2026, et le retrait doit suivre en 2027. Paris travaille à un dispositif de relais avec l'Italie et l'UE (mission PSDC). Washington et Israël sont réticents à un remplacement onusien. Selon L'Orient-Le Jour, Jean-Noël Barrot a plaidé à Beyrouth le 18 octobre pour un « nouveau cadre international ». La création formelle d'une mission « EUSM Liban » n'a pas pu être revérifiée.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Jean-Noël Barrot",
+      "Italie",
+      "Joseph Aoun",
+      "États-Unis",
+      "Israël",
+      "Conseil de l'UE"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Une décision sur le format de l'engagement militaire français au Sud-Liban à partir de 2027 est probable. Elle pourrait donner lieu à une information du Parlement (article 35 de la Constitution).",
+     "implications": "Les commissions Défense et Affaires étrangères vont être mobilisées. Les entreprises et les ONG présentes au Liban doivent anticiper un risque de vide sécuritaire au Sud-Liban.",
+     "sources": [
+      {
+       "titre": "À Beyrouth, Barrot espère un « nouveau cadre international » après le départ de la Finul",
+       "media": "L'Orient-Le Jour",
+       "url": "https://www.lorientlejour.com/article/1551246/a-beyrouth-barrot-espere-un-nouveau-cadre-international-apres-le-depart-de-la-finul.html",
+       "date": "2026-10-18"
+      },
+      {
+       "titre": "Participation de M. Jean-Noël Barrot au Conseil Affaires étrangères",
+       "media": "Représentation permanente de la France auprès de l'UE",
+       "url": "https://ue.diplomatie.gouv.fr/participation-de-m-jean-noel-barrot-au-conseil-affaires-etrangeres-0",
+       "date": "2026-10-12"
+      }
+     ]
+    },
+    {
+     "id": "europe-international-colonies-interdiction-produits",
+     "titre": "Cisjordanie : la France annonce une mesure nationale contre les produits des colonies",
+     "date": "2026-10-01",
+     "resume": "Selon le compte rendu du point de presse du Quai d'Orsay du 1er octobre (non revérifié faute de quota), la France aurait pris une mesure nationale visant les produits issus des colonies israéliennes en Cisjordanie, avec plusieurs partenaires dont le Royaume-Uni et le Canada. L'annonce a été peu médiatisée. La portée juridique exacte de la mesure reste à confirmer.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Ministère de l'Europe et des Affaires étrangères",
+      "Royaume-Uni",
+      "Canada",
+      "Israël"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "La France pourrait recourir davantage à des « coalitions de volontaires » hors cadre UE sur le Proche-Orient. Des questions écrites sur la mise en œuvre douanière sont à prévoir.",
+     "implications": "Les importateurs doivent vérifier la traçabilité de l'origine des produits. Il faut suivre le texte d'application (DGDDI) et d'éventuels recours.",
+     "sources": [
+      {
+       "titre": "Conférence de presse du porte-parole du 1er octobre 2026",
+       "media": "Ministère de l'Europe et des Affaires étrangères",
+       "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/conference-de-presse-du-porte-parole-du-1-octobre-2026",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "europe-international-golfe-ormuz-deploiement",
+     "titre": "Golfe : déploiement français « défensif » en Arabie saoudite, Ormuz en discussion à l'ONU",
+     "date": "2026-10-01",
+     "resume": "Selon le point de presse du Quai d'Orsay du 1er octobre (non revérifié faute de quota), Paris va envoyer des moyens militaires en Arabie saoudite pour protéger des infrastructures énergétiques. La posture est présentée comme strictement défensive. Une résolution du Conseil de sécurité sur la liberté de navigation dans le détroit d'Ormuz serait en discussion.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Ministère de l'Europe et des Affaires étrangères",
+      "Ministère des Armées",
+      "Arabie saoudite",
+      "États-Unis",
+      "Iran"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Des questions au gouvernement sur le cadre juridique de l'engagement sont probables. Un éventuel déstockage des réserves stratégiques de carburant pourrait peser sur le débat sur les prix à la pompe.",
+     "implications": "Les énergéticiens et les transporteurs doivent suivre l'évolution de la situation à Ormuz et toute décision sur les réserves stratégiques.",
+     "sources": [
+      {
+       "titre": "Conférence de presse du porte-parole du 1er octobre 2026",
+       "media": "Ministère de l'Europe et des Affaires étrangères",
+       "url": "https://www.diplomatie.gouv.fr/fr/presse-et-ressources/decouvrir-et-informer/actualites/conference-de-presse-du-porte-parole-du-1-octobre-2026",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "europe-international-commerce-ue-usa-divisions",
+     "titre": "Commerce UE–États-Unis : cadre à 15 % en place, mais menace de représailles numériques",
+     "date": "2026-10-22",
+     "resume": "Le cadre commercial UE–États-Unis issu de l'accord de Turnberry (juillet 2025) et de la déclaration conjointe d'août 2025 plafonne la plupart des droits américains à 15 %. Après une amende infligée à Google par la Commission (montant non confirmé, les sources divergent), Donald Trump a menacé l'UE de nouveaux tarifs. Les États membres restent divisés entre ligne ferme et apaisement. Une réunion informelle des ministres du Commerce de l'UE est prévue les 22 et 23 octobre (date annoncée sur le site du Conseil, non revérifiée).",
+     "type": "décision européenne",
+     "acteurs": [
+      "Commission européenne",
+      "Maroš Šefčovič",
+      "Donald Trump",
+      "Allemagne",
+      "Italie",
+      "Irlande"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Tout nouveau tarif lié au DMA ou au DSA rouvrirait l'accord de Turnberry et relancerait le débat sur l'instrument anti-coercition, que Paris soutient.",
+     "implications": "Les filières exportatrices (vins et spiritueux, luxe, aéronautique) doivent préparer des scénarios de représailles. Les acteurs du numérique sont exposés à un marchandage entre régulation et tarifs.",
+     "sources": [
+      {
+       "titre": "L'UE accueille les nouveaux droits de douane états-uniens avec soulagement",
+       "media": "La Libre / Belga",
+       "url": "https://www.lalibre.be/dernieres-depeches/2026/07/24/droits-de-douane-lue-accueille-les-nouveaux-droits-de-douane-etats-uniens-avec-soulagement-G2S6Z4IS6FEKTMSLKIZSIYIN3I/",
+       "date": "2026-07-24"
+      },
+      {
+       "titre": "Informal meeting of trade ministers",
+       "media": "Conseil de l'UE (Consilium)",
+       "url": "https://www.consilium.europa.eu/en/meetings/fac/2026/10/22-23/",
+       "date": "2026-10-22"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Emmanuel Macron",
+     "fonction": "Président de la République",
+     "position": "Il veut un accord sur le CFP avant 2027, maintient le soutien à l'Ukraine sans s'engager sur un chiffre pour 2027 et défend la préférence européenne en matière de défense.",
+     "influence": 5
+    },
+    {
+     "nom": "Jean-Noël Barrot",
+     "fonction": "Ministre de l'Europe et des Affaires étrangères",
+     "position": "Il pilote la préparation de l'après-FINUL au Liban et plaide pour un « nouveau cadre international ».",
+     "influence": 4
+    },
+    {
+     "nom": "Marine Le Pen",
+     "fonction": "Présidente du groupe RN à l'Assemblée nationale",
+     "position": "Elle est hostile à la poursuite de l'aide à l'Ukraine et à une adoption du CFP avant la présidentielle (positions rapportées, à confirmer).",
+     "influence": 5
+    },
+    {
+     "nom": "Ursula von der Leyen",
+     "fonction": "Présidente de la Commission européenne",
+     "position": "Elle estime que le besoin de 70 Md€ de l'Ukraine pour 2027 doit être couvert et appelle les partenaires à contribuer.",
+     "influence": 5
+    },
+    {
+     "nom": "António Costa",
+     "fonction": "Président du Conseil européen",
+     "position": "Il exclut tout retrait du soutien à l'Ukraine et tout allègement des sanctions contre la Russie.",
+     "influence": 4
+    },
+    {
+     "nom": "Volodymyr Zelensky",
+     "fonction": "Président de l'Ukraine",
+     "position": "Il demande au moins 70 Md€ supplémentaires à l'UE pour 2027.",
+     "influence": 4
+    },
+    {
+     "nom": "Philippe Léglise-Costa",
+     "fonction": "Représentant permanent de la France auprès de l'UE",
+     "position": "Il porte au Coreper la ligne française sur le CFP, dont la préférence européenne en matière de défense.",
+     "influence": 3
+    },
+    {
+     "nom": "Philippe Juvin",
+     "fonction": "Rapporteur général du budget à l'Assemblée nationale",
+     "position": "Il suit l'article du PLF 2027 sur le prélèvement européen.",
+     "influence": 3
+    },
+    {
+     "nom": "Catherine Vautrin",
+     "fonction": "Ministre des Armées",
+     "position": "Elle soutient la BITD et les programmes européens, dont le prêt SAFE de 15,1 Md€.",
+     "influence": 3
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-23",
+     "evenement": "Fin de la réunion informelle des ministres du Commerce de l'UE (à confirmer)",
+     "enjeu": "Ligne commune face aux menaces tarifaires américaines."
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Examen au Sénat de l'article du PLF 2027 sur le prélèvement européen (PSR-UE)",
+     "enjeu": "Montant de la contribution française (30,9 Md€) et débat sur les ressources propres."
+    },
+    {
+     "date": "2026-11-03",
+     "evenement": "Élections de mi-mandat aux États-Unis",
+     "enjeu": "Impact sur la politique américaine envers l'Ukraine et sur la politique commerciale face à l'UE."
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Conseil européen de décembre (date à confirmer)",
+     "enjeu": "Boîte de négociation du CFP 2028-2034 et financement de l'Ukraine en 2027."
+    },
+    {
+     "date": "2026-12-31",
+     "evenement": "Fin du mandat de la FINUL (résolution 2790), retrait ensuite",
+     "enjeu": "Dispositif de relais (Italie, UE) et format de l'engagement militaire français au Sud-Liban."
+    },
+    {
+     "date": "2027-04",
+     "evenement": "Élection présidentielle française (1er tour, date approximative)",
+     "enjeu": "Horizon politique qui conditionne le calendrier du CFP et la pérennité de l'aide à l'Ukraine."
+    }
+   ],
+   "mots_cles": [
+    "Conseil européen",
+    "CFP 2028-2034",
+    "budget européen",
+    "prélèvement sur recettes UE",
+    "PLF 2027",
+    "Ukraine",
+    "70 milliards",
+    "prêt de 90 milliards",
+    "avoirs russes",
+    "préférence européenne",
+    "SAFE",
+    "défense européenne",
+    "FINUL",
+    "Liban",
+    "Cisjordanie",
+    "Ormuz",
+    "droits de douane",
+    "Turnberry",
+    "instrument anti-coercition",
+    "présidentielle 2027",
+    "Rassemblement national"
+   ]
+  },
+  {
+   "theme": "defense",
+   "synthese": "Fin octobre 2026, la défense est le seul grand poste de l'État épargné par la cure budgétaire du PLF 2027. Le texte a été présenté en Conseil des ministres le 1er octobre et déposé à l'Assemblée le 6 octobre. Il prévoit un effort de 43 Md€ (54 Md€ avec les mesures déjà engagées) pour ramener le déficit à 5 % du PIB. Selon le ministère des Armées (8 octobre), la mission « Défense » atteint 63,4 Md€ hors pensions, soit +6,5 Md€ (+11,4 %). Les plafonds de juillet affichaient +6,4 Md€. C'est la quatrième annuité de la LPM 2024-2030, actualisée par la loi du 16 août 2026 avec 36 Md€ supplémentaires. Le cycle parlementaire est engagé. La commission de la défense de l'Assemblée a entendu, du 8 au 15 octobre, le CEMA, les trois chefs d'état-major, le CSFM, le SGA, la DGA et les APNM. Elle a examiné les avis budgétaires et voté les crédits le 21 octobre, mais le résultat n'est pas publié à ce stade. Le consensus sur le réarmement est large ; la conflictualité porte sur quatre sujets. Le premier est la sincérité de l'exécution : annulation de 50 M€ par le décret du 10 septembre 2026 et report de charges d'environ 20 %. Le deuxième est la souveraineté industrielle : SCAF, et précédent de l'amendement Lachaud adopté en commission des finances en novembre 2025. Le troisième est la trajectoire après 2028, jugée insuffisante par le Sénat au regard de l'objectif OTAN de 3,5 % du PIB en 2035, que la ministre renvoie à la présidentielle de 2027. Le quatrième est la montée en charge du service national volontaire : environ 3 000 jeunes en 2026 et 4 000 en 2027. Limite : le quota de recherche web a été épuisé pendant la vérification. Les sources primaires (ministère, Assemblée, Sénat, Public Sénat) ont été vérifiées directement ; l'actualité industrielle d'octobre et le résultat du vote du 21 octobre ne l'ont pas été.",
+   "temperature": 3,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "defense-plf2027-sanctuarisation-armees",
+     "titre": "PLF 2027 : +6,5 Md€ pour les Armées, seul ministère hors de la diète",
+     "date": "2026-10-08",
+     "resume": "Le ministère des Armées présente une mission « Défense » à 63,4 Md€ hors pensions dans le PLF 2027, soit +6,5 Md€ (+11,4 %) par rapport à 2026. L'enveloppe comprend 7,9 Md€ pour la dissuasion, 17,2 Md€ pour les programmes à effet majeur hors dissuasion, 9,4 Md€ pour la préparation et l'emploi des forces et 2 150 emplois supplémentaires. Le document de plafonds de juillet 2026 annonçait +6,4 Md€ pour un total de 63,4 Md€, presque le double de 2017 (33,2 Md€). Cette hausse intervient alors que le PLF prévoit un effort global de 43 Md€.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Catherine Vautrin",
+      "Alice Rufo",
+      "Ministère des Armées"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "consensuel",
+     "signal_faible": false,
+     "anticipation": "Les crédits Défense devraient être adoptés sans remise en cause de leur montant global, le soutien au réarmement étant large. La défense deviendra en revanche un argument dans le débat sur les économies imposées aux autres missions. Il faut s'attendre à des amendements de redéploiement interne plutôt qu'à des coupes.",
+     "implications": "Les organisations dépendant d'autres missions doivent anticiper un effet d'éviction. Elles ont intérêt à argumenter en complémentarité avec l'effort de défense (résilience, cohésion nationale, recherche duale). Pour la BITD, la fenêtre est favorable pour sécuriser des lignes de commande en 2027.",
+     "sources": [
+      {
+       "titre": "Projet de loi de finances des Armées 2027 : LPM année 4",
+       "media": "Ministère des Armées (defense.gouv.fr)",
+       "url": "https://www.defense.gouv.fr/ministere/politique-defense/loi-programmation-militaire-2024-2030/projet-loi-finances-armees-2027-lpm-annee-4",
+       "date": "2026-10-08"
+      },
+      {
+       "titre": "Tiré à part PLF 2027 (plafonds de dépenses)",
+       "media": "Focus 2030 (document gouvernemental)",
+       "url": "https://focus2030.org/wp-content/uploads/2026/07/Tire-a-part-PLF2027.pdf",
+       "date": "2026-07"
+      },
+      {
+       "titre": "Présentation du budget 2027 par Sébastien Lecornu en Conseil des ministres",
+       "media": "Le Club des juristes",
+       "url": "https://www.leclubdesjuristes.com/?p=17567",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "defense-vote-credits-commission-21-octobre",
+     "titre": "Vote des crédits Défense en commission le 21 octobre : risque de répétition de l'épisode « avion souverain » de 2025",
+     "date": "2026-10-21",
+     "resume": "Le 21 octobre 2026, la commission de la défense de l'Assemblée a examiné le matin les avis budgétaires sur le PLF 2027 (n° 3210). L'après-midi, elle a voté les crédits des missions « Sécurités », « Défense » et « Monde combattant, mémoire et liens avec la Nation ». Le résultat du vote n'est pas publié à ce stade. Précédent : le 5 novembre 2025, la commission des finances a adopté l'amendement II-CF905 de Bastien Lachaud (LFI), qui réaffecte 1,2 Md€ vers une ligne « avion du futur souverain ». En réaction, EPR, DR, HOR, Dem, LIOT et le rapporteur spécial se sont abstenus sur les crédits.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Commission de la défense nationale de l'Assemblée",
+      "Bastien Lachaud",
+      "LFI-NFP",
+      "Renaissance (EPR)",
+      "Droite républicaine",
+      "Christophe Plassard"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "En séance, sur la mission Défense (probablement en novembre), des amendements de souveraineté industrielle sont à anticiper : avion souverain, SCAF. Ils pourraient bénéficier de convergences ponctuelles contre le bloc central. Le gouvernement pourrait avoir à les neutraliser en séance ou au Sénat.",
+     "implications": "Les industriels concernés par les programmes en coopération (SCAF, MGCS) doivent préparer des notes aux rapporteurs pour avis et suivre le dérouleur des amendements en séance. Il faut se procurer le compte rendu de la réunion du 21 octobre dès sa publication.",
+     "sources": [
+      {
+       "titre": "Actualités - Commission de la défense nationale et des forces armées",
+       "media": "Assemblée nationale",
+       "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/defense/actualites",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Compte rendu commission des finances n° 022 - examen des crédits Défense PLF 2026",
+       "media": "Assemblée nationale",
+       "url": "https://www.assemblee-nationale.fr/dyn/opendata/CRCANR5L17S2026PO59048N022.html",
+       "date": "2025-11-05"
+      }
+     ]
+    },
+    {
+     "id": "defense-annulations-credits-report-charges",
+     "titre": "Annulations de crédits 2026 et report de charges : la sincérité de l'exécution devient la ligne d'attaque",
+     "date": "2026-10-18",
+     "resume": "Le décret n° 2026-857 du 10 septembre 2026 annule 50 M€ de crédits de paiement sur la mission Défense : 40 M€ sur le programme 144 et 10 M€ sur le programme 212. Ce mouvement s'inscrit dans une annulation de 500 M€ sur l'ensemble de l'État. La LPM actualisée (loi du 16 août 2026) vise seulement à ramener le report de charges de 20 % à 19 % des crédits hors personnel entre 2026 et 2027. Le Pandore souligne qu'il s'agit d'« un objectif, pas d'un résultat d'exécution ». Il relève aussi que les documents budgétaires ne permettent pas de vérifier si les coupes de 2026 sont compensées en 2027.",
+     "type": "donnée économique",
+     "acteurs": [
+      "Gouvernement",
+      "Direction du budget",
+      "Rapporteurs spéciaux Défense",
+      "Le Pandore"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Les rapporteurs spéciaux et le Sénat devraient exiger un suivi des annulations et des reports. Cette exigence pourrait passer par des amendements de demande de rapport ou s'exprimer lors du PLF de fin de gestion 2026.",
+     "implications": "C'est un argument utile pour les acteurs qui plaident pour un « verrou » contre les annulations en gestion. Il faut suivre le PLF de fin de gestion 2026 : de nouvelles annulations sur la Défense fragiliseraient le discours de sanctuarisation.",
+     "sources": [
+      {
+       "titre": "Budget Défense 2027 : la hausse répare-t-elle les coupes de 2026 ?",
+       "media": "Le Pandore et la Gendarmerie",
+       "url": "https://www.pandore-gendarmerie.org/budget-defense-2027-commission-affaires-etrangeres/",
+       "date": "2026-10-18"
+      }
+     ]
+    },
+    {
+     "id": "defense-trajectoire-post-2028-presidentielle",
+     "titre": "Trajectoire LPM après 2028 : surmarches nulles en 2030 et objectif de 3,5 % renvoyé à la présidentielle",
+     "date": "2026-05-26",
+     "resume": "La LPM actualisée ajoute 36 Md€ sur 2024-2030 aux 413 Md€ initialement prévus. Les surmarches décroissent : +3,5 Md€ en 2026, +3 Md€ en 2027, +1,5 Md€ en 2028, +1 Md€ en 2029 et rien en 2030. Dans son avis n° 654 du 26 mai 2026 au nom de la commission des finances du Sénat, Dominique de Legge juge que la trajectoire ne permet pas de progresser au rythme nécessaire vers 3,5 % du PIB en 2035. Il estime aussi qu'une partie de la hausse relève de la « sincérisation » : OPEX, personnel, rattrapage d'annulations. Le 28 avril, Cédric Perrin (LR) s'était dit « déçu et inquiet » ; Catherine Vautrin a renvoyé la question des 3,5 % à la présidentielle de 2027.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Dominique de Legge",
+      "Cédric Perrin",
+      "Catherine Vautrin",
+      "Commission des finances du Sénat"
+     ],
+     "impact": 4,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le PLF 2027 est le dernier budget avant la présidentielle. La droite sénatoriale devrait s'en servir pour marquer sa différence, avec des rapports critiques et un appel à une nouvelle LPM dès 2027-2028. Le niveau de l'effort de défense deviendra un marqueur programmatique des candidats.",
+     "implications": "Les plaidoyers doivent viser les équipes programmatiques de la présidentielle 2027. Il faut aussi se positionner tôt sur la prochaine LPM et sur ses modalités de financement (dette, fonds européens, épargne).",
+     "sources": [
+      {
+       "titre": "Projet de loi actualisant la programmation militaire pour les années 2024 à 2030 - avis n° 654",
+       "media": "Sénat",
+       "url": "https://www.senat.fr/rap/a25-654/a25-6542.html",
+       "date": "2026-05-26"
+      },
+      {
+       "titre": "Loi de programmation militaire actualisée : 36 milliards de plus pour répondre « aux nouvelles menaces », défend Catherine Vautrin",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/international/loi-de-programmation-militaire-actualisee-36-milliards-de-plus-pour-repondre-aux-nouvelles-menaces-defend-catherine-vautrin",
+       "date": "2026-04-29"
+      }
+     ]
+    },
+    {
+     "id": "defense-sequence-auditions-chefs-etat-major-dga",
+     "titre": "Séquence d'auditions PLF 2027 : CEMA, chefs d'état-major, DGA et associations de militaires",
+     "date": "2026-10-15",
+     "resume": "La commission de la défense de l'Assemblée a entendu les ministres Catherine Vautrin et Alice Rufo, puis le CEMA, le général Fabien Mandon, le 8 octobre. Le 14 octobre, elle a auditionné l'amiral Christophe Cluzel (Marine), le général Jérôme Bellanger (armée de l'Air et de l'Espace), le général Jacques de Montgros (armée de Terre) et le CSFM. Le 15 octobre, ont suivi le SGA Christophe Mauriet, le DGA Patrick Pailloux et les APNM. Les comptes rendus n'étaient pas encore disponibles, donc le contenu des déclarations n'est pas confirmé.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Catherine Vautrin",
+      "Alice Rufo",
+      "Fabien Mandon",
+      "Christophe Cluzel",
+      "Jérôme Bellanger",
+      "Jacques de Montgros",
+      "Patrick Pailloux",
+      "Christophe Mauriet",
+      "CSFM",
+      "APNM"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "neutre",
+     "signal_faible": false,
+     "anticipation": "Les messages des chefs d'état-major (cadences, munitions, drones, fidélisation) et de la DGA (commandes) alimenteront les rapports pour avis. Les points de tension remontés par le CSFM et les APNM (condition militaire, logement) peuvent devenir des amendements en séance.",
+     "implications": "Il faut extraire des comptes rendus les besoins non couverts cités par les chefs militaires, qui sont les arguments les plus légitimes pour des amendements de redéploiement. La DGA est l'interlocuteur clé sur le calendrier des commandes 2027.",
+     "sources": [
+      {
+       "titre": "Actualités - Commission de la défense nationale et des forces armées",
+       "media": "Assemblée nationale",
+       "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/defense/actualites",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "Commission de la défense : Mme Catherine Vautrin et Mme Alice Rufo, ministres ; M. Guillaume Ollagnier (DGRIS) - 8 octobre 2026",
+       "media": "Vidéos de l'Assemblée nationale",
+       "url": "https://videos.assemblee-nationale.fr/video.19518294_6ac73d68d18f8.commission-de-la-defense--mme-catherine-vautrin-et-mme-alice-rufo-ministres--m-guillaume-ollagni-8-octobre-2026",
+       "date": "2026-10-08"
+      }
+     ]
+    },
+    {
+     "id": "defense-service-national-montee-en-charge",
+     "titre": "Service national volontaire : première cohorte en cours d'incorporation, 4 000 jeunes prévus en 2027",
+     "date": "2026-10-08",
+     "resume": "Le nouveau service national militaire volontaire dure dix mois. Sa première cohorte, d'environ 3 000 jeunes, est incorporée de septembre à novembre 2026 : 1 800 dans l'armée de Terre, 600 dans la Marine et 600 dans l'armée de l'Air et de l'Espace. La solde est d'au moins 800 € brut par mois, logement, repas et équipement étant pris en charge. Le PLF 2027 prévoit 4 000 appelés, sur une trajectoire de 10 000 en 2030 et d'environ 50 000 vers 2035.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Ministère des Armées",
+      "Alice Rufo",
+      "Armée de Terre",
+      "Marine nationale",
+      "Armée de l'Air et de l'Espace"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "consensuel",
+     "signal_faible": false,
+     "anticipation": "Les premiers retours (remplissage, abandons, capacité d'encadrement et d'hébergement) seront scrutés lors de l'examen des crédits et des auditions du 28 octobre. Un dispositif sous-dimensionné ou peu attractif relancerait le débat sur une forme plus contraignante de service.",
+     "implications": "Les collectivités, les acteurs de la jeunesse et de l'insertion et les employeurs peuvent se positionner dès maintenant comme partenaires de la montée en charge vers 10 000 jeunes en 2030.",
+     "sources": [
+      {
+       "titre": "Projet de loi de finances des Armées 2027 : LPM année 4",
+       "media": "Ministère des Armées (defense.gouv.fr)",
+       "url": "https://www.defense.gouv.fr/ministere/politique-defense/loi-programmation-militaire-2024-2030/projet-loi-finances-armees-2027-lpm-annee-4",
+       "date": "2026-10-08"
+      },
+      {
+       "titre": "Service national : un engagement militaire de dix mois pour les jeunes",
+       "media": "CIDJ",
+       "url": "https://www.cidj.com/s-engager/s-engager-pour-une-cause/service-national-un-engagement-militaire-de-dix-mois-pour-les-jeunes",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "id": "defense-auditions-cohesion-nationale-28-octobre",
+     "titre": "Auditions « Liens avec la Nation, mémoire et résilience » le 28 octobre : la résilience entre dans le champ parlementaire",
+     "date": "2026-10-28",
+     "resume": "Le 28 octobre 2026, la commission de la défense de l'Assemblée tiendra des auditions sur le thème « Liens avec la Nation, mémoire et résilience ». Le matin, elle entendra le général (2S) Thierry Burkhard, délégué national de l'ordre de la Libération, et Thomas Ottenheimer, maire de Vassieux-en-Vercors. Ensuite viendront le général Patrice Bellon (État-major des armées), Anne Padier-Savouroux (Éducation nationale) et Gilbert Borjon (ministère des Armées et des Anciens combattants). Ces auditions, encore à venir et peu médiatisées, traduisent un élargissement du travail de la commission à la résilience de la société.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Commission de la défense de l'Assemblée",
+      "Thierry Burkhard",
+      "Patrice Bellon",
+      "Ministère de l'Éducation nationale"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "Ces auditions peuvent préfigurer une mission d'information ou une initiative sur la résilience nationale et l'articulation entre école et défense (JDC, service national), débat structurant avant la présidentielle.",
+     "implications": "Les fédérations éducatives, associations mémorielles, acteurs de la protection civile et collectivités ont une fenêtre pour adresser des contributions écrites aux rapporteurs.",
+     "sources": [
+      {
+       "titre": "Actualités - Commission de la défense nationale et des forces armées",
+       "media": "Assemblée nationale",
+       "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/defense/actualites",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "id": "defense-bitd-cadences-commandes",
+     "titre": "BITD : commandes record attendues, mais la tension sur les capacités de production persiste",
+     "date": "2026-04",
+     "resume": "Selon L'Usine Nouvelle (avril 2026), la DGA prévoit d'engager 42 Md€ de commandes en 2026, près de trois fois la moyenne de 2017-2022. KNDS vise 8 canons Caesar par mois. L'Insee décrit un appareil de production sous tension, concentré sur quelques grands maîtres d'œuvre. Ces chiffres n'ont pas pu être revérifiés pendant le fact-checking, faute de quota de recherche, et aucune donnée industrielle d'octobre 2026 n'est confirmée.",
+     "type": "donnée économique",
+     "acteurs": [
+      "DGA",
+      "Patrick Pailloux",
+      "KNDS",
+      "Thales",
+      "MBDA",
+      "Naval Group",
+      "Dassault Aviation",
+      "Insee"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Le débat parlementaire de l'automne devrait porter moins sur le volume des crédits que sur la capacité à les transformer en livraisons : délais, goulots chez les PME, financement de la BITD, épargne fléchée.",
+     "implications": "Il faut documenter les goulets d'étranglement (main-d'œuvre, matières, financement) avec des données chiffrées pour les rapporteurs pour avis « Équipement des forces ». Les PME et ETI ont intérêt à se coordonner via le GICAT, le GIFAS et le GICAN.",
+     "sources": [
+      {
+       "titre": "Un « nouveau paradigme » : comment l'effort de guerre bouleverse l'écosystème de la défense en France",
+       "media": "L'Usine Nouvelle",
+       "url": "https://www.usinenouvelle.com/economie-de-guerre/un-nouveau-paradigme-comment-leffort-de-guerre-bouleverse-lecosysteme-de-la-defense-en-france.NZ3BNTVQOBIXNCODQLNHB6CTEM.html",
+       "date": "2026-04"
+      },
+      {
+       "titre": "L'industrie de défense française : un appareil de production sous tensions",
+       "media": "Blog de l'Insee",
+       "url": "https://blog.insee.fr/l-industrie-de-defense-francaise-sous-tensions/",
+       "date": "2026"
+      }
+     ]
+    },
+    {
+     "id": "defense-contrainte-budgetaire-arbitrage-global",
+     "titre": "Cadre budgétaire contraint : la défense au cœur de l'arbitrage « dépenses plutôt qu'impôts »",
+     "date": "2026-10-01",
+     "resume": "Le PLF 2027, présenté en Conseil des ministres le 1er octobre 2026 par Sébastien Lecornu et déposé le 6 octobre, vise un effort de 43 Md€ (54 Md€ avec la montée en charge des mesures antérieures) pour ramener le déficit à 5 % du PIB. La hausse des Armées est la plus forte du budget, alors que la priorité est donnée à la réduction de la dépense. Des syndicats et des économistes relèvent que l'effort militaire contraint les choix publics.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Gouvernement",
+      "CFDT",
+      "Solidaires"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La gauche devrait opposer la hausse militaire aux coupes sociales lors de l'examen de la seconde partie. Le sort global du texte (adoption, 49.3, censure) reste incertain et conditionne l'exécution de la surmarche 2027.",
+     "implications": "En cas de blocage du PLF (loi spéciale, services votés), la surmarche 2027 serait retardée : les industriels doivent intégrer ce scénario dans leur planification de trésorerie. Pour les autres secteurs, il faut préparer un argumentaire face à l'effet d'éviction.",
+     "sources": [
+      {
+       "titre": "Présentation du budget 2027 par Sébastien Lecornu en Conseil des ministres",
+       "media": "Le Club des juristes",
+       "url": "https://www.leclubdesjuristes.com/?p=17567",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Budget 2027 : 6,4 milliards pour les Armées, priorité à la réduction des dépenses plutôt qu'à l'impôt",
+       "media": "Renseignement Économique",
+       "url": "https://renseignementeconomique.fr/budget-2027-6-4-milliards-pour-les-armees-priorite-a-la-reduction-des-depenses-plutot-qu-a-l-impot",
+       "date": "2026-08-30"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Catherine Vautrin",
+     "fonction": "Ministre des Armées",
+     "position": "Défend +6,5 Md€ en 2027 et le doublement du budget depuis 2017 ; renvoie l'objectif de 3,5 % du PIB à la présidentielle 2027.",
+     "influence": 5
+    },
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Priorité à la réduction de la dépense plutôt qu'à l'impôt ; Armées épargnées dans le PLF 2027.",
+     "influence": 5
+    },
+    {
+     "nom": "Alice Rufo",
+     "fonction": "Ministre déléguée auprès de la ministre des Armées",
+     "position": "Coporte le PLF 2027 Défense devant les commissions (auditionnée le 8 octobre).",
+     "influence": 3
+    },
+    {
+     "nom": "Général Fabien Mandon",
+     "fonction": "Chef d'état-major des Armées",
+     "position": "Auditionné le 8 octobre sur le PLF 2027 ; contenu non vérifié.",
+     "influence": 4
+    },
+    {
+     "nom": "Patrick Pailloux",
+     "fonction": "Délégué général pour l'armement (DGA)",
+     "position": "Pilote les commandes d'équipements ; auditionné le 15 octobre.",
+     "influence": 4
+    },
+    {
+     "nom": "Cédric Perrin",
+     "fonction": "Sénateur LR, président de la commission des affaires étrangères et de la défense du Sénat",
+     "position": "Juge la trajectoire LPM insuffisante (ralentissement après 2027, décrochage face à l'Allemagne, en deçà de 3,5 % du PIB).",
+     "influence": 4
+    },
+    {
+     "nom": "Dominique de Legge",
+     "fonction": "Sénateur, rapporteur pour avis de la commission des finances du Sénat sur la LPM actualisée",
+     "position": "Estime qu'une partie de la hausse relève de la « sincérisation » ; trajectoire insuffisante pour 3,5 % du PIB en 2035.",
+     "influence": 3
+    },
+    {
+     "nom": "Bastien Lachaud",
+     "fonction": "Député LFI-NFP",
+     "position": "Auteur de l'amendement « avion du futur souverain » (1,2 Md€) adopté en commission des finances en novembre 2025 ; critique le SCAF.",
+     "influence": 3
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-21",
+     "evenement": "Examen des avis budgétaires et vote des crédits Défense, Sécurités et Monde combattant en commission de la défense de l'Assemblée",
+     "enjeu": "Premiers amendements ; résultat non publié à vérifier"
+    },
+    {
+     "date": "2026-10-28",
+     "evenement": "Auditions « Liens avec la Nation, mémoire et résilience » (commission de la défense de l'Assemblée)",
+     "enjeu": "Cadrage parlementaire de la résilience et du service national"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Fin des incorporations de la première cohorte du service national volontaire",
+     "enjeu": "Premier bilan d'attractivité et de capacité d'accueil"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Examen en séance de la mission Défense du PLF 2027 à l'Assemblée (date à confirmer)",
+     "enjeu": "Amendements de redéploiement et de souveraineté industrielle"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Examen au Sénat et fin du délai constitutionnel de 70 jours pour le PLF 2027",
+     "enjeu": "Rapports critiques de la droite sénatoriale ; adoption ou blocage du budget"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Projet de loi de finances de fin de gestion 2026",
+     "enjeu": "Éventuelles nouvelles annulations sur la mission Défense et report de charges"
+    },
+    {
+     "date": "2027-04",
+     "evenement": "Élection présidentielle",
+     "enjeu": "Objectif de 3,5 % du PIB, prochaine LPM et financement de l'effort de défense"
+    }
+   ],
+   "mots_cles": [
+    "PLF 2027",
+    "mission Défense",
+    "LPM 2024-2030 actualisée",
+    "surmarche",
+    "report de charges",
+    "annulations de crédits",
+    "service national volontaire",
+    "BITD",
+    "SCAF",
+    "avion souverain",
+    "DGA",
+    "3,5 % du PIB",
+    "sincérisation",
+    "commission de la défense"
+   ]
+  },
+  {
+   "theme": "economie-industrie",
+   "synthese": "Mi/fin octobre 2026, le thème économie-industrie est dominé par l'examen du projet de loi de finances pour 2027, déposé le 2026-10-01. Sébastien Lecornu le présente comme un budget « réversible », à quelques mois de la présidentielle. La conjoncture se dégrade. Le gouvernement retient 0,5 % de croissance en 2026 et 1 % en 2027, avec un déficit de 5,4 % du PIB en 2026 visé à 5 % en 2027. Patrick Martin (MEDEF) parle d'une « légère récession ». Le choc énergétique fait remonter l'inflation à 3,1 % en septembre selon l'Insee, loin de l'hypothèse de 1,8 % retenue pour 2027. La BCE a relevé ses taux à deux reprises (taux de dépôt à 2,50 % depuis le 2026-09-16), ce qui alourdit la charge de la dette. Les défaillances d'entreprises restent à un niveau record, autour de 70 000 à 72 000 sur 12 mois. Leur hausse ralentit, mais les TPE et la restauration restent fragiles. Le débat parlementaire se concentre sur trois fronts : la surtaxe d'IS des grands groupes, reconduite mais réduite (environ 7,3 à environ 5 Md€) ; la réforme des allègements de cotisations (intéressement et participation dans l'assiette, gel sur les bas salaires) ; la hausse de la taxe sur les infrastructures de transport longue distance. Les mesures pro-industrie (C3IV élargi, suramortissement, Pacte Papin) forment un socle de consensus probable. AVERTISSEMENT FACT-CHECK : le quota de recherches web de la session était épuisé au moment de la vérification, aucune recherche n'a pu aboutir. La relecture a donc porté uniquement sur la cohérence interne (dates, chiffres, fonctions, calendrier institutionnel connu). Les chiffres sont repris des sources citées par l'analyste et n'ont pas été recoupés de façon indépendante. Une affirmation dont la source était inaccessible a été retirée, et certains scores ont été abaissés.",
+   "temperature": 4,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "eco-plf2027-surtaxe-is-reduite",
+     "titre": "PLF 2027 : la surtaxe d'IS des grands groupes reconduite mais réduite d'environ 30 %",
+     "date": "2026-10-01",
+     "resume": "Le PLF 2027 présenté le 2026-10-01 reconduit la contribution exceptionnelle sur les bénéfices des grandes entreprises (CA en France supérieur à 1 Md€), avec un rendement ramené d'environ 7,3 Md€ à environ 5 Md€ (5 ou 5,2 Md€ selon les sources). D'après les sources citées, les taux passent de 20,6 % à 15,7 % entre 1 et 3 Md€ de CA, et de 41,2 % à 31,4 % au-delà. Environ 400 entreprises seraient redevables. L'Afep réclamait la suppression de la surtaxe. Chiffres non recoupés de façon indépendante (recherche web indisponible).",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Roland Lescure",
+      "Philippe Juvin",
+      "Afep",
+      "MEDEF"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La surtaxe sera l'un des terrains d'amendements les plus disputés en première partie. La gauche voudra la maintenir ou la durcir, LR et le patronat voudront la supprimer ou dater son extinction. Le Sénat devrait chercher à l'alléger davantage.",
+     "implications": "Les grands groupes doivent préparer des amendements de repli (seuils, extinction datée, base de calcul) et cibler le rapporteur général et le Sénat. Il faut aussi chiffrer l'impact par entreprise pour les argumentaires.",
+     "sources": [
+      {
+       "titre": "Ils réclamaient sa suppression : la surtaxe sur les grands groupes, dont ceux du CAC 40, sera réduite de 30 % dans le budget 2027",
+       "media": "Tradingsat / BFM Bourse",
+       "url": "https://www.tradingsat.com/actualites/marches-financiers/ils-reclamaient-sa-suppression-la-surtaxe-sur-les-grands-groupes-dont-ceux-du-cac-40-sera-reduite-de-30-dans-le-budget-2027-1170981.html",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "PLF 2027 : retour de la contribution exceptionnelle sur les bénéfices des grandes entreprises confirmé",
+       "media": "LégiFiscal",
+       "url": "https://www.legifiscal.fr/actualites-fiscales/4612-plf-2027-retour-contribution-exceptionnelle-benefices-grandes-entreprises-confirme.html",
+       "date": "2026-08-25"
+      },
+      {
+       "titre": "PLF 2027 : dépôt à l'Assemblée nationale",
+       "media": "Le Monde du Droit",
+       "url": "https://www.lemondedudroit.fr/fiscal/310-finances-publiques/106025-plf-2027-depot-a-l-an.html",
+       "date": "2026-10-02"
+      }
+     ]
+    },
+    {
+     "id": "eco-medef-offensive-allegements",
+     "titre": "Le MEDEF chiffre à près de 20 Md€ la charge du budget 2027 pour les entreprises et cible la réforme des allègements de cotisations",
+     "date": "2026-10-02",
+     "resume": "Sur Radio Classique, Patrick Martin a estimé à près de 20 Md€ les prélèvements et pertes d'allègements visant les entreprises. Ce chiffre est une estimation du MEDEF, pas une donnée budgétaire. Il juge « absurde » l'intégration de l'intéressement et de la participation dans l'assiette des allègements, ainsi que le gel des allègements sur les bas salaires (environ 6,6 Md€ au total selon le MEDEF). Il évoque une « légère récession » et anticipe des débats budgétaires plus difficiles qu'en 2026 à cause de la présidentielle.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Patrick Martin",
+      "MEDEF"
+     ],
+     "impact": 3,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La bataille se déplacera sur le PLFSS 2027, avec des amendements de suppression de la mesure sur l'intéressement et la participation (LR, centre, une partie d'Ensemble). Le gouvernement pourrait céder sur ce point pour préserver le gel sur les bas salaires.",
+     "implications": "Les organisations doivent dissocier les deux mesures dans leur plaidoyer. L'argument du « partage de la valeur » est plus audible que la défense globale des allègements. Des coalitions avec les syndicats de salariés sont possibles sur l'épargne salariale.",
+     "sources": [
+      {
+       "titre": "« C'est absurde » : le Medef s'alarme face aux nouvelles taxes visant les entreprises dans le budget 2027",
+       "media": "Econostrum",
+       "url": "https://econostrum.info/?p=142617",
+       "date": "2026-10-02"
+      },
+      {
+       "titre": "Le patron du Medef inquiet du sort réservé aux entreprises dans le budget 2027 (contexte, antérieur au dépôt du PLF)",
+       "media": "Moneyvox",
+       "url": "https://www.moneyvox.fr/actu/107492/le-patron-du-medef-inquiet-du-sort-reserve-aux-entreprises-dans-le-budget-2027",
+       "date": "2026-08-29"
+      }
+     ]
+    },
+    {
+     "id": "eco-hypotheses-macro-plf-inflation-ecart",
+     "titre": "Hypothèses macro du PLF 2027 fragilisées : inflation 2027 retenue à 1,8 % alors que l'inflation atteint 3,1 % en septembre",
+     "date": "2026-10-15",
+     "resume": "Le PLF 2027 retient une croissance de 0,5 % en 2026 et de 1 % en 2027, une inflation de 1,8 % en 2027 et un déficit ramené de 5,4 % à 5 % du PIB. Le 2026-10-15, l'Insee a publié une inflation définitive de 3,1 % sur un an en septembre, avec l'énergie à +21,3 % selon les sources citées. L'écart avec l'hypothèse budgétaire est significatif. L'avis du Haut Conseil des finances publiques sur ce point n'a pas été documenté.",
+     "type": "donnée économique",
+     "acteurs": [
+      "Insee",
+      "Gouvernement",
+      "Haut Conseil des finances publiques",
+      "BCE"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Le scénario macro deviendra un argument d'opposition (« budget insincère ») et un levier de renégociation en navette. Une inflation persistante renchérit la charge de la dette et les indexations. Une révision des hypothèses en cours d'examen n'est pas exclue.",
+     "implications": "Il faut intégrer l'écart d'inflation dans les argumentaires : coût des indexations, revalorisation du Smic et gel des allègements, prix de l'énergie pour l'industrie. L'avis du HCFP et les rapports de la commission des finances sont à suivre.",
+     "sources": [
+      {
+       "titre": "Présentation du PLF 2027",
+       "media": "LégiFiscal",
+       "url": "https://www.legifiscal.fr/actualites-fiscales/4656-presentation-plf-2027.html",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Indice des prix à la consommation – résultats définitifs (septembre 2026)",
+       "media": "Insee",
+       "url": "https://www.insee.fr/fr/statistiques/9080209",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "France : l'inflation révisée en hausse pour septembre",
+       "media": "Option Finance / Zonebourse",
+       "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-15-france-linflation-revisee-en-hausse-pour-septembre.html",
+       "date": "2026-10-15"
+      }
+     ]
+    },
+    {
+     "id": "eco-bce-hausse-taux-29-octobre",
+     "titre": "BCE : deuxième hausse de taux depuis juin (dépôt à 2,50 %), prochaine réunion le 29 octobre",
+     "date": "2026-09-10",
+     "resume": "Le 2026-09-10, la BCE a relevé ses trois taux directeurs de 25 points de base, après une première hausse le 2026-06-11. Depuis le 2026-09-16, le taux de dépôt est à 2,50 %, le refinancement à 2,65 % et le prêt marginal à 2,90 %. La hausse est motivée par une inflation de la zone euro tirée par l'énergie. La prochaine réunion de politique monétaire se tient le 2026-10-29, sans nouvelles projections. Les anticipations de marché sur une nouvelle hausse proviennent de sources non officielles.",
+     "type": "décision européenne",
+     "acteurs": [
+      "BCE",
+      "Christine Lagarde",
+      "Banque de France"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Une hausse le 29 octobre ou en décembre alourdirait la charge de la dette, déjà en forte progression dans le PLF 2027. Cela renforcerait la pression des « faucons » budgétaires et pèserait sur l'immobilier, la construction et les PME.",
+     "implications": "Il faut anticiper un débat sur la soutenabilité de la dette et intégrer le coût du crédit dans les plaidoyers sectoriels (BTP, immobilier, PME). La conférence de presse du 29 octobre est à suivre.",
+     "sources": [
+      {
+       "titre": "Hausse des taux de la BCE à 2,5 % : quel impact ?",
+       "media": "Auguste Patrimoine",
+       "url": "https://www.auguste-patrimoine.fr/blog/hausse-taux-bce-septembre-2026",
+       "date": "2026-09"
+      },
+      {
+       "titre": "Décisions de politique monétaire – 11 juin 2026",
+       "media": "Banque de France / BCE",
+       "url": "https://www.banque-france.fr/system/files/2026-06/ecb.mp260611.fr_.pdf",
+       "date": "2026-06-11"
+      }
+     ]
+    },
+    {
+     "id": "eco-defaillances-plateau-tpe",
+     "titre": "Défaillances : la hausse ralentit au T3 mais le niveau reste record, les TPE en première ligne",
+     "date": "2026-10-13",
+     "resume": "Selon Altares, cité par TPE Actu, 14 652 défaillances ont été enregistrées au T3 2026 (+0,5 % sur un an), et le cumul sur 12 mois approche 72 000. Les structures de moins de 3 salariés représentent près de 75 % des procédures. La restauration rapide, le commerce alimentaire et les débits de boissons sont les plus touchés, tandis que l'industrie manufacturière recule. La Banque de France compte 70 766 défaillances à fin août sur 12 mois, un niveau stable mais supérieur à la moyenne 2010-2019.",
+     "type": "donnée économique",
+     "acteurs": [
+      "Altares",
+      "Thierry Millon",
+      "Banque de France"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "neutre",
+     "signal_faible": false,
+     "anticipation": "Ces chiffres alimenteront les amendements en faveur des TPE et de la restauration (étalement des dettes fiscales et sociales, prévention). Ils serviront aussi à contester le gel des allègements sur les bas salaires.",
+     "implications": "Les organisations de TPE et PME (CPME, U2P, UMIH) disposent d'une base chiffrée pour un plaidoyer ciblé. La prochaine publication de la Banque de France est à surveiller.",
+     "sources": [
+      {
+       "titre": "Défaillances d'entreprises : l'accalmie qui laisse les plus petites dans le rouge",
+       "media": "TPE Actu",
+       "url": "https://tpeactu.fr/2026/10/13/defaillances-entreprises-t3-2026-altares-tpe/",
+       "date": "2026-10-13"
+      },
+      {
+       "titre": "Défaillances d'entreprises – 2026-08 : à fin août, le nombre de défaillances reste stable",
+       "media": "Banque de France",
+       "url": "https://www.banque-france.fr/fr/publications-et-statistiques/statistiques/defaillances-dentreprises-2026-08",
+       "date": "2026-10-09"
+      },
+      {
+       "titre": "Défaillances entreprises BTP T3 2026",
+       "media": "Batiweb",
+       "url": "https://www.batiweb.com/actualites/conjoncture/defaillances-entreprises-btp-t3-2026-49425",
+       "date": "2026-10-13"
+      }
+     ]
+    },
+    {
+     "id": "eco-budget-reversible-presidentielle",
+     "titre": "Lecornu assume un budget 2027 « réversible », sous l'ombre de la présidentielle",
+     "date": "2026-08-29",
+     "resume": "Dans une interview au Parisien rapportée par LégiFiscal, Sébastien Lecornu a présenté le budget 2027 comme un budget « de premier semestre », dont plusieurs mesures seraient « réversibles » par la majorité issue des élections de 2027. Il a jugé qu'une absence de loi de finances serait « gravissime ». Le gouvernement ne dispose pas de majorité stable à l'Assemblée. (Une déclaration prêtée au président du MEDEF dans l'analyse initiale a été retirée car sa source était inaccessible.)",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Sébastien Lecornu"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Le caractère « réversible » incite chaque groupe à utiliser le PLF comme vitrine programmatique pour 2027 plutôt qu'à rechercher un compromis. Le risque d'un recours au 49.3 ou à une loi spéciale augmente.",
+     "implications": "Il faut adapter la stratégie d'influence à l'horizon électoral : travailler les programmes présidentiels en parallèle du PLF et privilégier des mesures datées ou réversibles.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : Sébastien Lecornu esquisse un PLF 2027 « réversible »",
+       "media": "LégiFiscal",
+       "url": "https://www.legifiscal.fr/actualites-fiscales/4620-budget-2027-sebastien-lecornu-esquisse-plf-2027-reversible.html",
+       "date": "2026-08-30"
+      }
+     ]
+    },
+    {
+     "id": "eco-plf2027-mesures-industrie-consensus",
+     "titre": "Volet industrie du PLF 2027 : C3IV élargi, suramortissement et Pacte Papin, socle de consensus potentiel",
+     "date": "2026-10-01",
+     "resume": "Selon la présentation du PLF 2027 rapportée par LégiFiscal, le crédit d'impôt investissements industries vertes (C3IV) serait étendu à de nouvelles filières (réseaux électriques, batteries, aimants permanents notamment). Le texte créerait un suramortissement temporaire pour les PME et ETI investissant dans la robotique, l'impression 3D et l'IA. Un « Pacte Papin » faciliterait la reprise de TPE et PME, notamment par les salariés. Le CIR et le pacte Dutreil seraient préservés. Les paramètres précis restent à confirmer dans le texte déposé.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Roland Lescure",
+      "Gouvernement"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "consensuel",
+     "signal_faible": true,
+     "anticipation": "Ces articles devraient être adoptés largement, mais serviront de véhicules à amendements d'élargissement (périmètre du C3IV, taux et durée du suramortissement, critères du Pacte Papin). Le pacte Dutreil pourrait être visé par des amendements de gauche.",
+     "implications": "Il existe une fenêtre d'opportunité pour les filières industrielles : proposer des amendements d'extension chiffrés et peu coûteux sur des articles consensuels.",
+     "sources": [
+      {
+       "titre": "Présentation du PLF 2027",
+       "media": "LégiFiscal",
+       "url": "https://www.legifiscal.fr/actualites-fiscales/4656-presentation-plf-2027.html",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "eco-taxe-transport-longue-distance",
+     "titre": "Taxe sur les infrastructures de transport longue distance fortement relevée : autoroutes et aéroports en première ligne",
+     "date": "2026-10-01",
+     "resume": "Le PLF 2027 relèverait la taxe sur l'exploitation des infrastructures de transport de longue distance (concessions autoroutières, grands aéroports), créée en 2024 au taux de 4,6 %. Selon les sources citées, son taux pourrait aller jusqu'à 12,2 % et son rendement passer d'environ 600 M€ à environ 1,4 Md€. Le texte prévoirait aussi un prélèvement sur le kérosène pour financer les carburants d'aviation durables et une extension de la taxe sucre. Paramètres non recoupés de façon indépendante.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Gouvernement",
+      "Concessionnaires d'autoroutes",
+      "Aéroports"
+     ],
+     "impact": 3,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Cette mesure peu médiatisée pourrait susciter un contentieux (contrats de concession, égalité devant l'impôt) et des amendements de modulation au Sénat. La gauche et une partie du centre devraient la soutenir comme taxation de « rentes ».",
+     "implications": "Les secteurs concessifs et aéroportuaires doivent préparer un argumentaire juridique et économique et anticiper une saisine du Conseil constitutionnel. Les filières agroalimentaires sont concernées par l'extension de la taxe sucre.",
+     "sources": [
+      {
+       "titre": "Ils réclamaient sa suppression : la surtaxe sur les grands groupes, dont ceux du CAC 40, sera réduite de 30 % dans le budget 2027",
+       "media": "Tradingsat / BFM Bourse",
+       "url": "https://www.tradingsat.com/actualites/marches-financiers/ils-reclamaient-sa-suppression-la-surtaxe-sur-les-grands-groupes-dont-ceux-du-cac-40-sera-reduite-de-30-dans-le-budget-2027-1170981.html",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "« C'est absurde » : le Medef s'alarme face aux nouvelles taxes visant les entreprises dans le budget 2027",
+       "media": "Econostrum",
+       "url": "https://econostrum.info/?p=142617",
+       "date": "2026-10-02"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Défend un budget 2027 « réversible » et une surtaxe d'IS allégée mais maintenue ; met en garde contre l'absence de loi de finances.",
+     "influence": 5
+    },
+    {
+     "nom": "Roland Lescure",
+     "fonction": "Ministre de l'Économie et des Finances",
+     "position": "Porte le PLF 2027, dont le maintien d'une contribution exceptionnelle réduite sur les grandes entreprises.",
+     "influence": 5
+    },
+    {
+     "nom": "David Amiel",
+     "fonction": "Ministre co-présentant le PLF 2027 (portefeuille exact à confirmer, présenté comme chargé des comptes publics par LégiFiscal)",
+     "position": "Co-présente le PLF 2027 et la trajectoire de déficit à 5 % du PIB.",
+     "influence": 3
+    },
+    {
+     "nom": "Philippe Juvin",
+     "fonction": "Député LR, rapporteur général de la commission des finances de l'Assemblée nationale",
+     "position": "Pivot de l'examen du PLF ; sa position sur la surtaxe n'est pas documentée.",
+     "influence": 4
+    },
+    {
+     "nom": "Patrick Martin",
+     "fonction": "Président du MEDEF",
+     "position": "Très critique : près de 20 Md€ de charges nouvelles selon le MEDEF ; opposé à la surtaxe et à la réforme des allègements.",
+     "influence": 4
+    },
+    {
+     "nom": "Afep",
+     "fonction": "Association française des entreprises privées (grandes entreprises)",
+     "position": "Réclame la suppression de la surtaxe d'IS sur les grands groupes.",
+     "influence": 3
+    },
+    {
+     "nom": "Christine Lagarde",
+     "fonction": "Présidente de la BCE",
+     "position": "Durcissement monétaire depuis juin 2026 face à l'inflation énergétique ; décisions réunion par réunion.",
+     "influence": 4
+    },
+    {
+     "nom": "Thierry Millon",
+     "fonction": "Directeur des études, Altares",
+     "position": "Le rythme des défaillances ralentit mais la fragilité financière des petites entreprises persiste.",
+     "influence": 2
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-29",
+     "evenement": "Réunion de politique monétaire de la BCE (sans projections)",
+     "enjeu": "Éventuelle troisième hausse de taux ; impact sur la charge de la dette et le crédit aux entreprises."
+    },
+    {
+     "date": "2026-10",
+     "evenement": "Fin octobre : estimations provisoires de l'Insee (inflation d'octobre, PIB du T3), date exacte non vérifiée",
+     "enjeu": "Confirmation ou non de la « légère récession » et de l'écart avec les hypothèses du PLF."
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Vote de la première partie du PLF 2027 à l'Assemblée nationale (calendrier exact non vérifié)",
+     "enjeu": "Sort de la surtaxe d'IS, de la taxe sur le transport longue distance et des mesures industrie."
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Publication de la Banque de France sur les défaillances à fin septembre 2026",
+     "enjeu": "Confirmation du plateau ou nouvelle hausse ; arguments pour les mesures TPE."
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Résultats définitifs de l'inflation d'octobre (Insee), mi-novembre, date exacte non vérifiée",
+     "enjeu": "Persistance de l'inflation énergétique et crédibilité de l'hypothèse de 1,8 % pour 2027."
+    },
+    {
+     "date": "2026-12-17",
+     "evenement": "Réunion de la BCE avec projections actualisées",
+     "enjeu": "Trajectoire des taux pour 2027 ; coût de la dette française."
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Fin du délai constitutionnel d'examen du PLF 2027 (70 jours) : adoption, 49.3 ou loi spéciale",
+     "enjeu": "Adoption d'un budget dans une Assemblée sans majorité stable, à l'approche de la présidentielle."
+    }
+   ],
+   "mots_cles": [
+    "PLF 2027",
+    "surtaxe IS",
+    "contribution exceptionnelle grandes entreprises",
+    "allègements de cotisations",
+    "intéressement participation",
+    "MEDEF",
+    "Afep",
+    "inflation",
+    "énergie",
+    "BCE",
+    "taux de dépôt 2,50 %",
+    "charge de la dette",
+    "défaillances d'entreprises",
+    "Altares",
+    "TPE",
+    "C3IV",
+    "suramortissement",
+    "Pacte Papin",
+    "taxe transport longue distance",
+    "budget réversible",
+    "Lecornu"
+   ]
+  },
+  {
+   "theme": "territoires",
+   "synthese": "À la mi/fin octobre 2026, le thème « territoires » est dominé par l'affrontement budgétaire entre l'État et les collectivités sur le PLF 2027. Le gouvernement Lecornu chiffre l'effort demandé aux collectivités à 5,4-5,5 Md€. Jean-François Debat, président du CFL, l'évalue à au moins 7 Md€ en ajoutant 1,2 Md€ de hausse des cotisations CNRACL, et les associations d'élus à au moins 7,5 Md€. L'effort repose sur deux mesures. La première est une nouvelle contribution progressive (CPEB, 2,5 Md€) qui remplace le Dilico : elle touche environ 40 % des communes, tous les EPCI de métropole et 60 % des départements, et exonère les régions. La seconde est une coupe de 2,1 Md€ du FCTVA, dont le taux de droit commun passe à 11,404 %. Le front des élus est presque uni : sept associations ont signé une déclaration commune le 14 octobre, sans l'AMRF. Les départements sont en rupture ouverte avec Matignon depuis l'absence du Premier ministre aux 95es Assises, le 16 octobre. Au Parlement, la commission des finances de l'Assemblée a supprimé la CPEB et rejeté le volet recettes le 9 octobre. Au Sénat, la commission des finances, conduite par sa nouvelle rapporteure générale Christine Lavarde, refuse de toucher au FCTVA. Le recours au 49.3 (ou à des ordonnances) devient le scénario central, avec un réarbitrage du volet collectivités au Sénat. Les dossiers institutionnels piétinent : la révision constitutionnelle sur la Corse, adoptée en commission des lois de l'Assemblée le 2 juin, n'a pas de date connue d'examen. Le texte sur la Nouvelle-Calédonie (Bougival) attend sa deuxième lecture au Sénat depuis son rejet par l'Assemblée le 2 avril. Côté logement, l'État a desserré la contrainte sur les HLM (RLS maintenue à 900 M€) et annonce un projet de loi « Relance et décentralisation du logement ». En outre-mer, une sécheresse historique en Guyane a conduit à déclencher le plan ORSEC le 22 octobre. Note de fact-checking : le quota de recherche web était épuisé, la vérification s'est donc faite par lecture directe des sources citées. Les volets transports et outre-mer hors Guyane restent peu couverts.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "territoires-cpeb-fctva-plf2027",
+     "titre": "PLF 2027 : la CPEB remplace le Dilico et le FCTVA est amputé de 2,1 Md€",
+     "date": "2026-10-01",
+     "resume": "Le volet collectivités du PLF 2027 a été présenté au CFL le 30 septembre 2026, avant le conseil des ministres du 1er octobre. Il crée une « contribution progressive des collectivités à l'effort budgétaire » (CPEB) de 2,5 Md€ qui remplace le Dilico. Elle touche environ 40 % des communes (14 000), tous les EPCI de métropole et 60 % des départements, mais pas les régions. Son taux va de 0 à 2 % des recettes réelles de fonctionnement 2024, et jusqu'à 3 % pour les 2 % de communes les plus riches. Le texte réduit aussi le FCTVA de 2,1 Md€ : le taux forfaitaire passe à 11,404 %, le taux de 16,404 % étant maintenu pour la voirie et les dépenses vertes. Les remboursements du Dilico sont étalés sur cinq ans au lieu de trois. Le gouvernement chiffre l'effort à 5,4-5,5 Md€, le président du CFL Jean-François Debat à au moins 7 Md€ en incluant 1,2 Md€ de hausse de la CNRACL. Il parle d'une « véritable purge ».",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Gouvernement",
+      "David Amiel",
+      "Françoise Gatel",
+      "Jean-François Debat",
+      "Comité des finances locales"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La CPEB et l'article 35 (FCTVA) seront les deux principaux champs de bataille du texte. David Amiel s'est dit ouvert sur les « modalités de contribution à l'effort » mais inflexible sur l'objectif de déficit à 5 % du PIB en 2027. Il faut donc s'attendre à un réaménagement de la répartition (seuils, bouclier, exonérations) plutôt qu'à une baisse nette de l'enveloppe.",
+     "implications": "Il faut chiffrer dès maintenant l'exposition de chaque collectivité cliente à la CPEB et à la baisse du FCTVA, et préparer des amendements « clés en main » : plafond de l'effort, élargissement du taux bonifié du FCTVA, retour à un remboursement du Dilico sur trois ans. La fenêtre utile se situe à l'Assemblée en seconde partie (à partir du 27 octobre), puis au Sénat.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : le gouvernement remplace le Dilico par un nouveau prélèvement et ampute sévèrement le FCTVA",
+       "media": "Maire-info",
+       "url": "https://www.maire-info.com/article.php?id=31134",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Budget 2027 : les collectivités appelées à un effort de 5,4 milliards d'euros",
+       "media": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/budget-2027-les-collectivites-appelees-un-effort-de-54-milliards-deuros",
+       "date": "2026-09-30"
+      },
+      {
+       "titre": "PLF 2027 : 5,5 Mds€ d'efforts demandés aux collectivités locales !",
+       "media": "WEKA",
+       "url": "https://www.weka.fr/actualite/?p=220506",
+       "date": "2026-10-02"
+      }
+     ]
+    },
+    {
+     "id": "territoires-commission-finances-an-supprime-cpeb",
+     "titre": "La commission des finances de l'Assemblée supprime la CPEB et rejette le volet recettes",
+     "date": "2026-10-09",
+     "resume": "Selon Localtis, la commission des finances de l'Assemblée nationale a supprimé la CPEB le 9 octobre 2026, puis rejeté en bloc la première partie (recettes) du PLF 2027. Le débat en séance s'est ouvert le 13 octobre. D'après WEKA, le calendrier prévisionnel fixait le vote sur la première partie au 20 octobre, l'examen de la seconde partie à partir du 27 octobre et le vote sur l'ensemble au 17 novembre. Le résultat du vote du 20 octobre n'a pas pu être vérifié.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Commission des finances de l'Assemblée nationale",
+      "Gouvernement"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le rejet en commission montre qu'il n'y a pas de majorité pour le prélèvement en l'état. Comme le texte revient en séance dans sa version gouvernementale, la probabilité d'un 49.3 retenant une partie des amendements, comme les ajustements de la CPEB, augmente.",
+     "implications": "Il faut repérer les groupes auteurs des amendements de suppression pour savoir lesquels pourraient être repris dans un texte soumis au 49.3. Il faut aussi orienter le travail d'influence vers les cabinets de Bercy (Comptes publics) et de Matignon plutôt que vers les seuls votes en séance.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : les ponctions sur les collectivités vont affecter « la vie des habitants », dénonce France urbaine",
+       "media": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/budget-2027-les-ponctions-sur-les-collectivites-vont-affecter-la-vie-des-habitants-denonce-france",
+       "date": "2026-10-14"
+      },
+      {
+       "titre": "PLF 2027 : 5,5 Mds€ d'efforts demandés aux collectivités locales !",
+       "media": "WEKA",
+       "url": "https://www.weka.fr/actualite/?p=220506",
+       "date": "2026-10-02"
+      }
+     ]
+    },
+    {
+     "id": "territoires-front-commun-elus-sans-amrf",
+     "titre": "Front commun des associations d'élus contre une « purge financière » de 7,5 Md€, l'AMRF fait bande à part",
+     "date": "2026-10-14",
+     "resume": "Le 14 octobre 2026, sept associations ont publié une déclaration commune qui dénonce une « purge financière sans précédent d'au moins 7,5 milliards d'euros » : Régions de France, Départements de France, l'AMF, France urbaine, Intercommunalités de France, Villes de France et l'APVF. Pour France urbaine, Michaël Delafosse qualifie la baisse du FCTVA de « ligne rouge » et propose un « bouclier » qui plafonnerait l'effort de chaque collectivité à 2 % de ses recettes réelles de fonctionnement. L'AMRF, présidée depuis le 10 octobre par l'ex-ministre Michel Fournier, ne signe pas. Elle dit partager l'essentiel des préoccupations mais estime que le texte ne distingue pas assez les effets selon les territoires.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "AMF",
+      "Régions de France",
+      "Départements de France",
+      "France urbaine",
+      "Intercommunalités de France",
+      "Villes de France",
+      "APVF",
+      "AMRF",
+      "Michel Fournier",
+      "Michaël Delafosse"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "La défection de l'AMRF ouvre au gouvernement une ligne de fracture urbain/rural à exploiter. La CPEB, qui épargne environ 60 % des communes, peut être défendue comme un outil de péréquation, avec des compensations ciblées sur la ruralité pour diviser le front. Le « bouclier à 2 % » de France urbaine est un compromis plausible.",
+     "implications": "Les organisations qui représentent des collectivités urbaines ou des EPCI doivent s'attendre à porter une part croissante de l'effort. Les acteurs ruraux disposent d'un levier de négociation. La proposition de plafond d'effort à 2 % est à suivre comme amendement transpartisan possible.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : les associations d'élus locaux font bloc contre les ponctions sur les collectivités",
+       "media": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/budget-2027-les-associations-delus-locaux-font-bloc-contre-les-ponctions-sur-les-collectivites",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "Budget 2027 : les ponctions sur les collectivités vont affecter « la vie des habitants », dénonce France urbaine",
+       "media": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/budget-2027-les-ponctions-sur-les-collectivites-vont-affecter-la-vie-des-habitants-denonce-france",
+       "date": "2026-10-14"
+      }
+     ]
+    },
+    {
+     "id": "territoires-departements-rupture-lecornu",
+     "titre": "Rupture entre les départements et Matignon après l'absence de Lecornu aux Assises",
+     "date": "2026-10-16",
+     "resume": "Le Premier ministre Sébastien Lecornu ne s'est pas rendu aux 95es Assises des départements de France (14-16 octobre). Dans une lettre envoyée la veille, il invoque une « succession de crises » et invite les départements à Matignon le 16 novembre. Une grande partie des élus a quitté la salle pendant le discours de clôture de Françoise Gatel. François Sauvadet, président de Départements de France, a jugé la méthode « détestable » et affirmé : « Depuis juillet, je n'ai pas eu un seul contact avec le Premier ministre ». Il demande de porter à 50 % le concours de l'État aux AIS. Le PLF prévoit environ 1,8 Md€ d'économies sur les départements (1,868 Md€ selon Départements de France), dont 551 M€ de CPEB, et ramène le fonds de sauvegarde de 600 à 100 M€.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "François Sauvadet",
+      "Départements de France",
+      "Françoise Gatel"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La réunion du 16 novembre à Matignon est le prochain point d'arbitrage. Une concession probable porterait sur le fonds de sauvegarde ou sur la part de l'État dans les AIS (RSA, APA, PCH). Le Sénat relaiera ces demandes lors de l'examen du PLF.",
+     "implications": "Il faut anticiper des tensions sur les politiques départementales (social, collèges, routes) et des reports d'investissements. Les acteurs dépendant des financements départementaux doivent préparer des scénarios de gel et intégrer la date du 16 novembre à leur calendrier de plaidoyer.",
+     "sources": [
+      {
+       "titre": "« Méthode détestable », colère, tensions : François Sauvadet répond à l'absence de Sébastien Lecornu aux Assises des départements de France",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/methode-detestable-colere-tensions-francois-sauvadet-repond-a-labsence-de-sebastien-lecornu-aux-assises-des-departements-de-france",
+       "date": "2026-10-16"
+      },
+      {
+       "titre": "« J'hésite entre découragement et rébellion » : François Sauvadet dénonce un prélèvement « insupportable » de 1,8 milliard d'euros",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/territoires/jhesite-entre-decouragement-et-rebellion-francois-sauvadet-denonce-un-prelevement-insupportable-de-18-milliard-deuros-par",
+       "date": "2026-10-07"
+      }
+     ]
+    },
+    {
+     "id": "territoires-senat-ligne-rouge-fctva",
+     "titre": "Au Sénat, une ligne rouge transpartisane sur le FCTVA et le niveau de l'effort",
+     "date": "2026-10-07",
+     "resume": "Le 7 octobre 2026, la commission des finances du Sénat a auditionné Roland Lescure (Économie) et David Amiel (Comptes publics). Les critiques transpartisanes ont porté sur l'effort net de 5,5 Md€ demandé aux collectivités. Christine Lavarde (LR), qui venait de succéder à Jean-François Husson comme rapporteure générale, conteste le cadrage macroéconomique : le 14 octobre, elle évoquait un « château avec des fondations en sable ». Bernard Delcros (UC) accepte une contribution « juste » et d'un niveau acceptable, Jean-Baptiste Lemoyne (RDPI) exige des aménagements, et les sénateurs refusent de toucher au FCTVA (article 35). En 2026, l'effort avait été ramené à 2 Md€, notamment sous la pression du Sénat.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Christine Lavarde",
+      "Bernard Delcros",
+      "Jean-Baptiste Lemoyne",
+      "Pierre Barros",
+      "Roland Lescure",
+      "David Amiel",
+      "Commission des finances du Sénat"
+     ],
+     "impact": 5,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Au Sénat, il faut s'attendre à une réécriture de l'article 35 (FCTVA) et à une baisse sensible de l'effort, sur le modèle de 2026. Christine Lavarde sera la figure pivot de cette réécriture et des arbitrages en CMP.",
+     "implications": "Il faut cibler dès maintenant la rapporteure générale et les rapporteurs spéciaux de la mission « Relations avec les collectivités territoriales », avec des amendements chiffrés. Le Sénat reste le lieu le plus réceptif aux demandes des collectivités.",
+     "sources": [
+      {
+       "titre": "Collectivités locales, niveau de l'effort ou encore fiscalité : les premiers signes de mécontentement à l'égard du budget 2027 se font jour au Sénat",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/economie/collectivites-locales-niveau-de-leffort-ou-encore-fiscalite-les-premiers-signes-de-mecontentement-a-legard-du-budget-2027-se-font-jour-au-senat",
+       "date": "2026-10-07"
+      },
+      {
+       "titre": "Projet de loi de finances 2027 : « On va construire un château avec des fondations en sable », avertit la rapporteure générale du budget au Sénat",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/projet-de-loi-de-finances-2027-on-va-construire-un-chateau-avec-des-fondations-en-sable-avertit-la-rapporteure-generale-du-budget-au-senat",
+       "date": "2026-10-14"
+      }
+     ]
+    },
+    {
+     "id": "territoires-49-3-barnier",
+     "titre": "Michel Barnier juge un 49.3 inévitable pour le budget 2027",
+     "date": "2026-10-22",
+     "resume": "L'ancien Premier ministre Michel Barnier estime que le budget 2027 devra passer par le 49.3 ou par ordonnances, et privilégie le 49.3. Il doute d'un accord avec le PS, alors que c'est un accord avec ce groupe qui avait permis au gouvernement Lecornu de faire passer le budget 2026 par 49.3. Le PLF prévoit près de 54 Md€ d'économies. Le 1er octobre, le ministre des Relations avec le Parlement, Laurent Panifous, avait déclaré « nous n'excluons rien y compris le 49.3 ».",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Michel Barnier",
+      "Laurent Panifous",
+      "Gouvernement Lecornu",
+      "Parti socialiste"
+     ],
+     "impact": 3,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Une adoption par 49.3, avec une sélection d'amendements, est probable. Le contenu final du volet collectivités dépendra surtout de la négociation avec le PS et le Sénat. Le risque de censure et le recours aux ordonnances restent ouverts.",
+     "implications": "Il faut concentrer le plaidoyer sur les arbitrages de Matignon et de Bercy (choix des amendements retenus) et préparer des scénarios de repli en cas de budget par ordonnances.",
+     "sources": [
+      {
+       "titre": "Budget 2027 : « On devra procéder par 49.3 », assure Michel Barnier",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-on-devra-proceder-par-49-3-assure-michel-barnier",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Budget : le recours au 49-3 dépendra de la qualité des débats parlementaires, prévient le ministre des Relations avec le Parlement",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/parlementaire/budget-le-recours-au-49-3-dependra-de-la-qualite-des-debats-parlementaires-previent-le-ministre-des-relations-avec-le-parlement",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "territoires-cour-comptes-fpt-140000",
+     "titre": "La Cour des comptes demande 140 000 emplois territoriaux en moins",
+     "date": "2026-09-23",
+     "resume": "Dans une note datée du 21 septembre 2026, la Cour des comptes préconise de réduire de 140 000 agents les effectifs de la fonction publique territoriale, surtout dans le bloc communal, pour revenir au niveau de 2014. Elle compte en supprimer 54 000 en appliquant les 1 607 heures et en réduisant l'absentéisme, et le reste par le non-remplacement des départs. Elle recommande aussi de ralentir l'évolution des carrières. Maire-info relève des écarts avec la DGCL : celle-ci mesure une hausse des effectifs de 4 % entre 2014 et 2024, contre 10,3 % entre 2012 et 2024 pour la Cour.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Cour des comptes",
+      "DGCL",
+      "Employeurs territoriaux",
+      "Syndicats de la fonction publique territoriale"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Ce rapport fournit un argumentaire aux partisans d'économies sur les collectivités. Des amendements sur les effectifs ou sur une norme d'évolution de la masse salariale locale pourraient apparaître dans le PLF ou dans les programmes présidentiels de 2027.",
+     "implications": "Il faut préparer des contre-argumentaires chiffrés (données DGCL, effet CNRACL) et surveiller la reprise de ces recommandations dans les amendements et les programmes de 2027.",
+     "sources": [
+      {
+       "titre": "La Cour des comptes demande une baisse de 140 000 emplois dans la fonction publique territoriale et un ralentissement de l'évolution des carrières",
+       "media": "Maire-info",
+       "url": "https://www.maire-info.com/article.php?id=31104",
+       "date": "2026-09-23"
+      }
+     ]
+    },
+    {
+     "id": "territoires-corse-autonomie-senat-attente",
+     "titre": "Autonomie de la Corse : la révision constitutionnelle toujours sans date au Sénat, le scepticisme gagne",
+     "date": "2026-10-22",
+     "resume": "Le projet de loi constitutionnelle « pour une Corse autonome au sein de la République » a été adopté le 2 juin 2026 par la commission des lois de l'Assemblée (rapporteur Florent Boudié), par 20 voix contre 6 et 6 abstentions. Dès mars, le sénateur Jean-Jacques Panunzi n'attendait pas d'examen au Sénat avant octobre et évoquait une « boîte de Pandore ». Le 22 octobre, sur Public Sénat, le sénateur PS Mickaël Vallet a critiqué un Parlement consulté « en fin de course » et un achat « sur promesse ». Nos sources ne confirment aucune date d'inscription au Sénat.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Mickaël Vallet",
+      "Jean-Jacques Panunzi",
+      "Françoise Gatel",
+      "Florent Boudié",
+      "Élus nationalistes corses"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "La saturation du calendrier budgétaire et l'approche de la présidentielle rendent improbable une réunion du Congrès (majorité des 3/5) avant 2027. Panunzi lui-même ne voyait pas d'aboutissement complet, lois organiques comprises, avant fin 2027 ou 2028.",
+     "implications": "Les acteurs corses doivent anticiper un report probable et ne pas bâtir de stratégie sur une adoption rapide. Il faut surveiller l'ordre du jour du Sénat.",
+     "sources": [
+      {
+       "titre": "La Corse sera-t-elle bientôt autonome ?",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/emission/bonjour-chez-vous/la-corse-sera-t-elle-bientot-autonome-e0",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Autonomie : l'examen du projet de révision constitutionnelle relatif à la Corse à nouveau repoussé",
+       "media": "Corse Net Infos",
+       "url": "https://www.corsenetinfos.corsica/Autonomie-l-examen-du-projet-de-revision-constitutionnelle-relatif-a-la-Corse-a-nouveau-repousse_a89890.html",
+       "date": "2026-03-26"
+      },
+      {
+       "titre": "Quelle autonomie pour la Corse ? Premier feu vert pour une réforme constitutionnelle au Parlement",
+       "media": "Maire-info",
+       "url": "https://www.maire-info.com/parlement/quelle-autonomie-pour-la-corse-premier-feu-vert-pour-une-reforme-constitutionnelle-au-parlement-article-30847",
+       "date": "2026-06-03"
+      }
+     ]
+    },
+    {
+     "id": "territoires-nouvelle-caledonie-bougival-enlise",
+     "titre": "Nouvelle-Calédonie : la révision constitutionnelle de Bougival enlisée en deuxième lecture",
+     "date": "2026-10-23",
+     "resume": "Le projet de loi constitutionnelle relatif à la Nouvelle-Calédonie, qui traduit l'accord de Bougival, a été déposé au Sénat le 14 octobre 2025. Le Sénat l'a adopté le 24 février 2026 et l'Assemblée nationale l'a rejeté en séance le 2 avril 2026. Il est revenu au Sénat en deuxième lecture le 3 avril. Au 23 octobre 2026, le dossier législatif ne mentionne aucune étape ultérieure. Il s'agit d'un constat d'enlisement procédural : aucune actualité d'octobre 2026 ne confirme une relance.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Naïma Moutchou",
+      "Sénat",
+      "Assemblée nationale",
+      "Signataires de l'accord de Bougival"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Le blocage prolonge le statu quo institutionnel issu de l'accord de Nouméa et repousse la question du corps électoral et des élections provinciales. Un texte de report ou de transition pourrait devenir nécessaire avant la présidentielle.",
+     "implications": "Les acteurs ayant des intérêts en Nouvelle-Calédonie (nickel, énergie, finances locales) doivent intégrer une incertitude institutionnelle durable. Il faut surveiller l'ordre du jour du Sénat et les éventuels textes organiques de report.",
+     "sources": [
+      {
+       "titre": "Projet de loi constitutionnelle relatif à la Nouvelle-Calédonie - Dossier législatif",
+       "media": "Assemblée nationale",
+       "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52984",
+       "date": "2026-04-03"
+      },
+      {
+       "titre": "Projet de loi constitutionnelle relatif à la Nouvelle-Calédonie",
+       "media": "Sénat",
+       "url": "https://www.senat.fr/leg/pjl25-023.html",
+       "date": "2025-10-14"
+      }
+     ]
+    },
+    {
+     "id": "territoires-logement-hlm-rls-loi-relance",
+     "titre": "Logement : 500 M€ d'allègements reconduits pour les HLM et projet de loi « Relance et décentralisation du logement »",
+     "date": "2026-09-25",
+     "resume": "Au congrès de l'USH, le 25 septembre 2026, le ministre de la Ville et du Logement Vincent Jeanbrun a annoncé deux mesures pour 2027 : la RLS reste à 900 M€ et la contribution des bailleurs au FNAP à 275 M€, comme en 2026. Cela représente 500 M€ d'allègements par rapport à la trajectoire de référence. Il a aussi annoncé un projet de loi « Relance et Décentralisation du Logement » et 10 Md€ de prêts de la Banque des Territoires pour le logement intermédiaire. Le calendrier du projet de loi n'est pas précisé.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Vincent Jeanbrun",
+      "Union sociale pour l'habitat",
+      "Banque des Territoires",
+      "Stéphane Le Foll"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "consensuel",
+     "signal_faible": true,
+     "anticipation": "Le futur texte devrait rouvrir le débat sur le transfert de compétences logement vers les intercommunalités, au moment où celles-ci sont toutes ponctionnées par la CPEB. France urbaine et Intercommunalités de France exploiteront ce paradoxe.",
+     "implications": "Les bailleurs sociaux obtiennent un répit en 2027, mais le soutien des collectivités se contracte : à Le Mans, Stéphane Le Foll annonce la fin d'une aide de 3 M€ aux bailleurs. Il faut se positionner tôt sur le contenu du projet de loi, en particulier sur la délégation des compétences.",
+     "sources": [
+      {
+       "titre": "HLM : 500 millions d'allègements reconduits en 2027",
+       "media": "MySweetImmo",
+       "url": "https://www.mysweetimmo.com/2026/09/25/hlm-500-millions-dallegements-reconduits-en-2027/",
+       "date": "2026-09-25"
+      },
+      {
+       "titre": "Budget 2027 : les ponctions sur les collectivités vont affecter « la vie des habitants », dénonce France urbaine",
+       "media": "Banque des Territoires (Localtis)",
+       "url": "https://www.banquedesterritoires.fr/budget-2027-les-ponctions-sur-les-collectivites-vont-affecter-la-vie-des-habitants-denonce-france",
+       "date": "2026-10-14"
+      }
+     ]
+    },
+    {
+     "id": "territoires-municipales-annulations",
+     "titre": "Annulations en série d'élections municipales de 2026 dans plusieurs villes",
+     "date": "2026-09-30",
+     "resume": "Les tribunaux administratifs ont annulé les élections municipales de 2026 à Vénissieux, Vaulx-en-Velin, Montargis et Étampes. Des rapporteurs publics ont demandé l'annulation à Saint-Fons, Noisy-le-Sec et Poissy, et une annulation partielle est en jeu à Villetaneuse. Les motifs vont de l'inéligibilité d'une tête de liste et d'omissions de nationalité ou de mentions manuscrites dans les candidatures à des signatures suspectes sur les listes d'émargement et à une vidéo diffamatoire. Les maires de Vénissieux, Vaulx-en-Velin et Saint-Fons comptent saisir le Conseil d'État. Maire-info pointe la baisse des effectifs de contrôle en préfecture.",
+     "type": "décision juridictionnelle",
+     "acteurs": [
+      "Tribunaux administratifs",
+      "Conseil d'État",
+      "Préfectures",
+      "Maires de Vénissieux, Vaulx-en-Velin, Saint-Fons"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Les recours devant le Conseil d'État prendront des mois. D'éventuelles élections partielles pourraient tomber en précampagne de 2027 et servir de tests locaux. Un renforcement législatif du contrôle des candidatures est possible.",
+     "implications": "Il faut cartographier les communes concernées, où les interlocuteurs et les délibérations risquent d'être instables, et suivre les décisions du Conseil d'État.",
+     "sources": [
+      {
+       "titre": "Les élections municipales en passe d'être annulées dans plusieurs grandes communes",
+       "media": "Maire-info",
+       "url": "https://www.maire-info.com/article.php?id=31129",
+       "date": "2026-09-30"
+      }
+     ]
+    },
+    {
+     "id": "territoires-guyane-secheresse-orsec",
+     "titre": "Guyane : sécheresse historique, plan ORSEC et pont aérien pour 40 000 habitants",
+     "date": "2026-10-22",
+     "resume": "Le 22 octobre 2026, le préfet de Guyane Antoine Poussier a déclenché le plan ORSEC face à une sécheresse exceptionnelle : septembre n'a reçu que 2,9 mm de pluie, contre 18 mm en moyenne sur 1991-2020. Environ 40 000 habitants de communes isolées sont touchés (Maripasoula, Papaïchton, Grand-Santi, Camopi). Un pont aérien de 100 t de fret par semaine est mis en place, avec des avions privés et trois Casa de l'armée, et la Répression des fraudes contrôlera les prix. Jean-Paul Fereira, président par intérim de la CTG, maintient le fret subventionné à 50 centimes par kilo. La saison sèche pourrait durer jusqu'au début de 2027 (« El Niño record »).",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Antoine Poussier",
+      "Collectivité territoriale de Guyane",
+      "Jean-Paul Fereira",
+      "Armées",
+      "DGCCRF"
+     ],
+     "impact": 3,
+     "urgence": 4,
+     "tonalite": "neutre",
+     "signal_faible": true,
+     "anticipation": "La crise devrait nourrir des amendements sur la mission « Outre-mer » du PLF 2027 (continuité territoriale, fret, eau potable) et relancer le thème de la vie chère lors de l'examen de la seconde partie, à partir du 27 octobre.",
+     "implications": "Les acteurs des transports, de l'eau et de la distribution outre-mer doivent anticiper des contrôles de prix et des demandes de financement d'urgence. C'est une fenêtre de plaidoyer pour l'adaptation climatique des territoires isolés.",
+     "sources": [
+      {
+       "titre": "Sécheresse en Guyane : pont aérien pour ravitailler les communes isolées",
+       "media": "Maire-info (AFP)",
+       "url": "https://www.maire-info.com/catastrophes/sa-cheresse-en-guyane-pont-aa-rien-pour-ravitailler-les-communes-isola-es-art26-31215",
+       "date": "2026-10-23"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Défend l'effort demandé aux collectivités. Il est en rupture avec les départements après son absence aux Assises et les a invités à Matignon le 16 novembre.",
+     "influence": 5
+    },
+    {
+     "nom": "David Amiel",
+     "fonction": "Ministre des Comptes publics",
+     "position": "Ouvert sur les « modalités » de la contribution, inflexible sur l'objectif de déficit à 5 % du PIB en 2027.",
+     "influence": 5
+    },
+    {
+     "nom": "Françoise Gatel",
+     "fonction": "Ministre de l'Aménagement du territoire et de la Décentralisation",
+     "position": "Co-porte le volet collectivités et défend une contribution « simple » et « juste ». Les régions sont exonérées de la CPEB.",
+     "influence": 4
+    },
+    {
+     "nom": "Christine Lavarde",
+     "fonction": "Rapporteure générale du budget au Sénat (LR), depuis octobre 2026",
+     "position": "Conteste le cadrage macroéconomique. Elle sera le pivot de la réécriture du volet collectivités au Sénat.",
+     "influence": 5
+    },
+    {
+     "nom": "Jean-François Debat",
+     "fonction": "Président du Comité des finances locales, maire de Bourg-en-Bresse",
+     "position": "Parle d'une « véritable purge » et chiffre l'effort à au moins 7 Md€ (CNRACL incluse). Pour lui, la CPEB est un « Dilico non remboursable ».",
+     "influence": 4
+    },
+    {
+     "nom": "François Sauvadet",
+     "fonction": "Président de Départements de France",
+     "position": "Est en opposition frontale au prélèvement d'environ 1,8 Md€ sur les départements et demande de porter à 50 % le concours de l'État aux AIS.",
+     "influence": 4
+    },
+    {
+     "nom": "Michaël Delafosse",
+     "fonction": "Maire de Montpellier, vice-président délégué aux finances de France urbaine",
+     "position": "Juge la baisse du FCTVA une « ligne rouge » et propose un bouclier plafonnant l'effort à 2 % des RRF.",
+     "influence": 3
+    },
+    {
+     "nom": "Michel Fournier",
+     "fonction": "Président de l'AMRF (depuis le 10 octobre 2026), ex-ministre délégué à la Ruralité",
+     "position": "Ne signe pas la déclaration commune et réclame une meilleure différenciation territoriale des mesures.",
+     "influence": 2
+    },
+    {
+     "nom": "Vincent Jeanbrun",
+     "fonction": "Ministre de la Ville et du Logement",
+     "position": "Maintient la RLS à 900 M€ et annonce un projet de loi « Relance et décentralisation du logement ».",
+     "influence": 3
+    },
+    {
+     "nom": "Laurent Panifous",
+     "fonction": "Ministre chargé des Relations avec le Parlement",
+     "position": "« Nous n'excluons rien y compris le 49.3 ».",
+     "influence": 3
+    },
+    {
+     "nom": "Jean-Jacques Panunzi",
+     "fonction": "Sénateur de Corse-du-Sud",
+     "position": "Sceptique sur la révision constitutionnelle corse (« boîte de Pandore »), il anticipait des reports au Sénat.",
+     "influence": 2
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-27",
+     "evenement": "Début de l'examen de la seconde partie (dépenses) du PLF 2027 à l'Assemblée nationale (calendrier prévisionnel)",
+     "enjeu": "Examen des missions « Relations avec les collectivités territoriales », « Outre-mer » et des crédits logement. La CPEB et le FCTVA reviennent dans le débat."
+    },
+    {
+     "date": "2026-11-16",
+     "evenement": "Rencontre entre Départements de France et le Premier ministre à Matignon",
+     "enjeu": "Concessions possibles sur le prélèvement de 1,8 Md€, sur le fonds de sauvegarde et sur le financement des AIS."
+    },
+    {
+     "date": "2026-11-17",
+     "evenement": "Vote sur l'ensemble du PLF 2027 à l'Assemblée nationale (calendrier prévisionnel)",
+     "enjeu": "Risque de 49.3 et de motion de censure. Le texte transmis au Sénat en dépend."
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Examen du PLF 2027 au Sénat",
+     "enjeu": "Réécriture attendue de l'article 35 (FCTVA) et de la CPEB sous l'impulsion de la rapporteure générale Christine Lavarde."
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Fenêtre éventuelle pour l'examen au Sénat de la révision constitutionnelle corse et de la deuxième lecture du texte sur la Nouvelle-Calédonie (non confirmée)",
+     "enjeu": "Sans inscription à l'ordre du jour, un Congrès avant la présidentielle de 2027 devient très improbable."
+    }
+   ],
+   "mots_cles": [
+    "PLF 2027",
+    "CPEB",
+    "Dilico",
+    "FCTVA",
+    "Comité des finances locales",
+    "Départements de France",
+    "France urbaine",
+    "AMRF",
+    "49.3",
+    "Christine Lavarde",
+    "Corse autonomie",
+    "Nouvelle-Calédonie Bougival",
+    "RLS",
+    "logement social",
+    "décentralisation du logement",
+    "Cour des comptes fonction publique territoriale",
+    "Guyane sécheresse",
+    "élections municipales annulées"
+   ]
+  },
+  {
+   "theme": "education-culture-medias",
+   "synthese": "Fin octobre 2026, le thème est dominé par une crise de la jeunesse d'une ampleur inédite. Les blocages lycéens, commencés fin septembre (cellule de crise à Matignon dès le 1er octobre), se sont étendus au supérieur : selon des chiffres syndicaux rapportés par L'Etudiant, près de 90 % des universités étaient bloquées ou fermées préventivement le 13 octobre. Les revendications portent sur les professeurs non remplacés, le bâti vétuste et inadapté aux canicules, Parcoursup, et des plans de 10 Md€ réclamés par les organisations de jeunesse. Après les violences du 17 octobre, la réponse publique a basculé vers le maintien de l'ordre : allocution d'Emmanuel Macron le 18 octobre (16,7 millions de téléspectateurs), interdictions de manifester et couvre-feux localisés, appel le 22 octobre à éviter toute manifestation avant le 24 octobre. Les « premières décisions » que Sébastien Lecornu a annoncées pour fin octobre, dont des propositions sur Parcoursup, risquent d'être éclipsées ou, au contraire, de servir de gage d'apaisement. Le PLF 2027 est en cours d'examen : partie recettes votée le 20 octobre, vote solennel vers le 27 novembre. Le budget de l'Éducation nationale paraît préservé (environ 64 à 65,5 Md€, +1,1 à 1,2 Md€), mais le texte supprime 1 588 postes d'enseignants et la mission Enseignement scolaire recule en volume (-374 M€, selon France Épargne). La Culture recule d'environ 0,6 %, avec des baisses ciblées sur le Pass Culture (-20 M€) et France Télévisions (-47 M€). L'audiovisuel public est attaqué par le RN, avec un amendement d'appel de -3 Md€, et par un député EPR, Guillaume Kasbarian. L'exécutif avance par décret : un décret sur l'impartialité a été annoncé le 21 octobre, et le plafond publicitaire de Radio France est fixé à 70 M€ (JO du 20 octobre). Note de fact-checking : la plupart des faits ont été recoupés en lisant directement les sources (Public Sénat, LCP, CB News, L'Etudiant, Sud Radio, France Épargne). Plusieurs détails non vérifiables ont été retirés, et le quota de recherches web a été épuisé en cours de vérification.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "educ-plf2027-postes-enseignants",
+     "titre": "PLF 2027 : budget de l'Éducation en hausse affichée, mais 1 588 postes d'enseignants supprimés et baisse en volume",
+     "date": "2026-10-01",
+     "resume": "Présenté le 1er octobre, le PLF 2027 porte le budget de l'Éducation nationale à un peu plus de 64 Md€ selon le ministre (65,53 Md€ selon L'Etudiant), soit +1,1 à 1,2 Md€. Il supprime 1 588 postes d'enseignants, dont 1 250 dans le public, contre environ 4 000 en 2026. Il crée 1 300 postes d'AESH, 200 de CPE et 300 de personnels médico-sociaux. Selon France Épargne, la mission Enseignement scolaire (90,86 Md€ y compris pensions, +1,24 Md€) perd 374 M€ en volume avec une inflation de 1,8 %, et le second degré public 438 M€. Édouard Geffray affirme que « la priorité à l'éducation est objectivement préservée ». Il a retiré dès le soir même la contribution de 270 € (CPGE) et de 178 € (BTS), et a indiqué que les suppressions de postes pourraient être revues par amendement gouvernemental.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Édouard Geffray",
+      "Philippe Baptiste",
+      "Sébastien Lecornu",
+      "SNES-FSU",
+      "LFI"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La partie dépenses doit être examinée à l'Assemblée à partir de fin octobre ou début novembre. Le gouvernement pourrait lui-même amender à la baisse les suppressions de postes, ce que LCP a évoqué en lien avec les annonces de sortie de crise. La gauche déposera des amendements de rétablissement. Le retrait immédiat de la contribution CPGE/BTS montre que l'exécutif est prêt à céder vite sur les mesures visibles qui touchent les jeunes.",
+     "implications": "Les organisations du secteur éducatif ont une fenêtre pour proposer des amendements de redéploiement. Le chiffrage de la « baisse en volume » par France Épargne peut appuyer un plaidoyer. Un amendement gouvernemental sur les postes est à surveiller, d'autant que le ministre a exclu toute suppression au lycée.",
+     "sources": [
+      {
+       "titre": "Budget éducation 2027 : « On ne fait pas d'économies sur la jeunesse », assure le ministre Édouard Geffray",
+       "media": "Sud Radio / AFP",
+       "url": "https://www.sudradio.fr/societe/budget-education-2027-on-ne-fait-pas-deconomies-sur-la-jeunesse-assure-le-ministre-edouard-geffray",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Dans un contexte de mobilisation de la jeunesse, le gouvernement présente son projet de loi de finances pour l'année 2027",
+       "media": "L'Etudiant / EducPros",
+       "url": "https://www.letudiant.fr/educpros/enquetes/dans-un-contexte-de-mobilisation-de-la-jeunesse-le-gouvernement-presente-son-projet-de-loi-finances-pour-l-annee-2027.html",
+       "date": "2026-10-07"
+      },
+      {
+       "titre": "Budget 2027 : l'Éducation nationale gagne 1,24 milliard mais perd 374 millions face à l'inflation",
+       "media": "France Épargne",
+       "url": "https://www.france-epargne.fr/news/budget-2027-leducation-nationale-gagne-124-milliard-mais-perd-374-millions-face-a-linflation",
+       "date": "2026-10-20"
+      },
+      {
+       "titre": "Budget de l'Éducation : Édouard Geffray sous le feu des critiques lors d'une audition à l'Assemblée",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-l-education-edouard-geffray-sous-le-feu-des-critiques-lors-d-une-audition-a-l",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "educ-mouvement-lyceen-concertation",
+     "titre": "Mouvement lycéen : cellule de crise à Matignon, redéploiement de 3 000 remplaçants jugé insuffisant, proviseurs mobilisés",
+     "date": "2026-10-15",
+     "resume": "Les blocages ont débuté fin septembre. Le 1er octobre, Sébastien Lecornu a convoqué une cellule de crise. Le 8 octobre, le ministère recensait 375 établissements sur 3 700 dont les cours étaient totalement ou partiellement suspendus, et la mobilisation du 6 octobre avait réuni entre 266 000 et 450 000 personnes. Le 13 octobre (« acte V »), elle a réuni entre 161 000 et 480 000 manifestants. Le gouvernement a annoncé le redéploiement de 3 000 enseignants remplaçants titulaires, qui n'a pas convaincu. L'USL et Les Lycéens! (qui dénoncent des « miettes ») appellent à poursuivre le mouvement, tandis que Renouveau lycéen salue « quelques avancées » sur la représentation lycéenne. Le principal syndicat de proviseurs a mené une « opération rideaux » le 15 octobre. Édouard Geffray dénombre 37 établissements partiellement incendiés et environ 150 personnels blessés.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "Édouard Geffray",
+      "Sébastien Lecornu",
+      "Union syndicale lycéenne",
+      "Les Lycéens!",
+      "Renouveau lycéen",
+      "syndicat des proviseurs"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Sébastien Lecornu a renvoyé les « premières décisions » à fin octobre. Un paquet de mesures est attendu sur le remplacement, l'orientation (Parcoursup), le bâti et la représentation lycéenne, sans moyens nouveaux massifs. L'appel des proviseurs ouvre un second front, celui des personnels de direction.",
+     "implications": "Les mesures de fin octobre passeront probablement par des amendements gouvernementaux au PLF ou par voie réglementaire. Les acteurs qui veulent peser doivent transmettre leurs propositions aux cabinets (Matignon, rue de Grenelle) avant la fin du mois.",
+     "sources": [
+      {
+       "titre": "Blocages des lycées : Sébastien Lecornu convoque une cellule de crise à 13 heures",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/education/blocus-lyceen-sebastien-lecornu-convoque-une-cellule-de-crise-a-13-heures",
+       "date": "2026-10-01"
+      },
+      {
+       "titre": "Mouvements lycéens : le point sur les mobilisations et blocages",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/societe/mouvements-lyceens-le-point-sur-les-mobilisations-et-blocages",
+       "date": "2026-10-08"
+      },
+      {
+       "titre": "Mouvement lycéen : « Combien de mains arrachées avant que le pouvoir en place agisse pour notre futur à tous ? »",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/education/mouvement-lyceen-combien-de-mains-arrachees-avant-que-le-pouvoir-en-place-agisse-pour-notre-futur-a-tous-declarent-des-etudiants-devant-hec-bloquee-pour-la-premiere",
+       "date": "2026-10-15"
+      },
+      {
+       "titre": "Lycées : 35 % des 3 000 professeurs remplaçants déjà déployés, indique Édouard Geffray",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/lycees-35-des-3000-professeurs-remplacants-deja-deployes-indique-edouard-geffray-443766",
+       "date": "2026-10"
+      }
+     ]
+    },
+    {
+     "id": "educ-esr-mobilisation-universites",
+     "titre": "La contestation gagne le supérieur : 10 Md€ réclamés par l'Union étudiante, 8 + 8 Md€ par le Snesup-FSU",
+     "date": "2026-10-19",
+     "resume": "Selon des chiffres syndicaux, près de 90 % des universités étaient « bloquées » ou « fermées préventivement » le 13 octobre, et le mouvement touche des écoles comme HEC et l'ENPC. L'Union étudiante réclame 10 Md€ pour l'éducation et la jeunesse. Le Snesup-FSU demande 8 Md€ pour le supérieur et 8 Md€ pour la recherche, en invoquant +40 000 puis +30 000 étudiants sans financement correspondant. Le PLF 2027 accorde 29,5 Md€ à l'ESR (+500 M€) et 93 M€ supplémentaires aux Crous. Il prévoit un « droit d'option » entre APL et avantage de quotient familial pour les foyers aisés, censé rapporter 72 M€ à partir de septembre 2027.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "Union étudiante",
+      "Snesup-FSU",
+      "Philippe Baptiste"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le « droit d'option » APL et les COMP, prévus sans montant, sont des cibles probables d'amendements lors de l'examen de la mission ESR. Des concessions sur la vie étudiante (Crous, APL) sont plus probables qu'une hausse des dotations des universités.",
+     "implications": "Les établissements et réseaux du supérieur doivent chiffrer l'effet des hausses d'effectifs et défendre le financement des COMP. La mesure APL est un point de fragilité politique à surveiller.",
+     "sources": [
+      {
+       "titre": "La mobilisation lycéenne gagne la communauté étudiante",
+       "media": "L'Etudiant / EducPros",
+       "url": "https://www.letudiant.fr/educpros/actualite/la-mobilisation-lyceenne-gagne-la-communaute-etudiante.html",
+       "date": "2026-10-19"
+      },
+      {
+       "titre": "Dans un contexte de mobilisation de la jeunesse, le gouvernement présente son projet de loi de finances pour l'année 2027",
+       "media": "L'Etudiant / EducPros",
+       "url": "https://www.letudiant.fr/educpros/enquetes/dans-un-contexte-de-mobilisation-de-la-jeunesse-le-gouvernement-presente-son-projet-de-loi-finances-pour-l-annee-2027.html",
+       "date": "2026-10-07"
+      }
+     ]
+    },
+    {
+     "id": "educ-parcoursup-reforme-transpartisane",
+     "titre": "Parcoursup : Lecornu demande des propositions avant fin octobre, une critique transpartisane émerge au Sénat",
+     "date": "2026-10-05",
+     "resume": "Dans une lettre à ses ministres envoyée le 4 octobre au soir, Sébastien Lecornu demande des propositions pour améliorer Parcoursup avant fin octobre, en vue de la campagne 2027, afin que chaque candidat comprenne les critères retenus. Le 6 octobre, sur RMC-BFMTV, Gérard Larcher (LR) a évoqué le « caractère chaotique » de la plateforme. Max Brisson (LR) plaide pour l'abandonner au profit de critères fixés par chaque université. Pierre Ouzoulias (PCF) juge la suppression impossible mais propose la publicité des critères, l'anonymisation du lycée d'origine et le retour à la hiérarchie des vœux. La porte-parole Maud Bregeon affirme que Parcoursup « fonctionne » et juge sa suppression « une solution de facilité ». Jean-Luc Mélenchon, François Ruffin et Dominique de Villepin demandent sa suppression.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Gérard Larcher",
+      "Max Brisson",
+      "Pierre Ouzoulias",
+      "Maud Bregeon",
+      "Philippe Baptiste",
+      "Jean-Luc Mélenchon",
+      "François Ruffin",
+      "Dominique de Villepin"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "Un arbitrage est attendu fin octobre : maintien de la plateforme avec un paquet transparence (publication des critères, accompagnement à l'orientation, éventuellement anonymisation). Une initiative sénatoriale de cadrage est plausible, dans la lignée des travaux Grosperrin-Joissains de 2019. La suppression devient un marqueur de campagne présidentielle.",
+     "implications": "Les établissements du supérieur doivent anticiper une obligation renforcée de publier leurs critères d'admission dès la campagne 2027. Le Sénat, en particulier la commission de la culture, est un point d'entrée privilégié.",
+     "sources": [
+      {
+       "titre": "Algorithmes « discriminatoires », système « opaque et hypocrite » : faut-il supprimer Parcoursup ?",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/education/algorithmes-discriminatoires-systeme-opaque-et-hypocrite-faut-il-supprimer-parcoursup",
+       "date": "2026-10-05"
+      }
+     ]
+    },
+    {
+     "id": "educ-bascule-securitaire-17-octobre",
+     "titre": "Après le 17 octobre, la réponse de l'exécutif bascule vers l'ordre public et éclipse l'agenda éducatif",
+     "date": "2026-10-22",
+     "resume": "Emmanuel Macron attribue les violences du 17 octobre à des groupes d'ultragauche, auteurs d'actes « politiques et même séditieux ». Son allocution du 18 octobre (16,7 millions de téléspectateurs, selon Médiamétrie) a annoncé des interdictions de manifester et des couvre-feux localisés. Le 22 octobre, il a déclaré que « la recommandation générale, c'est qu'il n'y ait pas de manifestation dans les jours à venir » avant le 24 octobre. Le tribunal administratif de Paris a annulé le même jour une interdiction de cortège. Toujours le 22 octobre, la réunion des partis à Matignon a été jugée « technique » par la gauche (Tondelier, Glucksmann, Roussel), et Manuel Bompard affirme que les revendications des jeunes n'y ont pas été abordées. Bruno Retailleau (LR) réclame l'état d'urgence.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Emmanuel Macron",
+      "Sébastien Lecornu",
+      "Laurent Nuñez",
+      "Bruno Retailleau",
+      "Marine Tondelier",
+      "Manuel Bompard",
+      "Raphaël Glucksmann",
+      "Fabien Roussel"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le 24 octobre sert de test. Si le calme revient, l'exécutif pourrait présenter des mesures éducatives fin octobre comme une « sortie de crise ». Sinon, la priorité sécuritaire et la demande d'état d'urgence de LR risquent de geler les arbitrages éducatifs et de durcir le débat budgétaire. La multiplication des interdictions expose l'exécutif à des annulations par le juge administratif.",
+     "implications": "Il faut adapter le calendrier et le ton du plaidoyer : éviter toute association aux mobilisations, et présenter les propositions éducatives comme des leviers d'apaisement auprès de Matignon et de la rue de Grenelle.",
+     "sources": [
+      {
+       "titre": "« La recommandation générale, c'est qu'il n'y ait pas de manifestation dans les jours à venir » : Emmanuel Macron durcit le ton avant le 24 octobre",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/la-recommandation-generale-cest-quil-ny-ait-pas-de-manifestation-dans-les-jours-a-venir-emmanuel-macron-durcit-le-ton-avant-le-24-octobre",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Réunion des partis politiques à Matignon : « De qui se moque-t-on ? On a assisté à une réunion technique », déplore la gauche",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/politique/reunion-des-partis-politiques-a-matignon-de-qui-se-moque-t-on-on-a-assiste-a-une-reunion-technique-deplore-la-gauche",
+       "date": "2026-10-22"
+      },
+      {
+       "titre": "Audience : l'allocution de Macron réunit 16,7 millions de téléspectateurs",
+       "media": "Stéphane Larue (Médiamétrie)",
+       "url": "https://stephanelarue.com/audience-lallocution-de-macron-reunit-167-millions-de-telespectateurs/",
+       "date": "2026-10-19"
+      }
+     ]
+    },
+    {
+     "id": "culture-budget-2027-pegard-audition",
+     "titre": "Budget Culture 2027 en baisse d'environ 0,6 % : Pass Culture -20 M€, France Télévisions -47 M€, audition tendue de Catherine Pégard",
+     "date": "2026-10-22",
+     "resume": "Auditionnée le 22 octobre par la commission des affaires culturelles de l'Assemblée, la ministre Catherine Pégard a défendu un budget en recul d'environ 0,6 %. Les opérateurs de la création restent quasi stables à 364 M€, le fonds national pour l'emploi dans le spectacle est pérennisé à 39 M€, et les grands chantiers sont maintenus. Le Pass Culture perd en revanche 20 M€, ce que Steevy Gustave déplore, et France Télévisions 47 M€. L'audition a été interrompue deux fois après des échanges vifs entre Aymeric Caron (LFI) et Caroline Parmentier (RN) sur l'orientation politique de l'audiovisuel public.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Catherine Pégard",
+      "Sophie Taillé-Polian",
+      "Steevy Gustave",
+      "Aymeric Caron",
+      "Caroline Parmentier"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La gauche devrait déposer des amendements sur le Pass Culture et France Télévisions, mais l'effort global n'est pas contesté frontalement. La ligne de clivage se déplace vers l'impartialité des médias publics, ce qui annonce des débats idéologiques lors de l'examen de la mission Médias.",
+     "implications": "Pour les acteurs culturels, la baisse reste contenue : le plaidoyer doit porter sur le fléchage du Pass Culture (part collective, éducation artistique) plutôt que sur son volume global. Pour la filière audiovisuelle, l'emploi chez les producteurs qui dépendent de France Télévisions devient un argument.",
+     "sources": [
+      {
+       "titre": "Budget de la Culture en baisse : Catherine Pégard face aux critiques des députés",
+       "media": "LCP",
+       "url": "https://lcp.fr/actualites/budget-de-la-culture-en-baisse-catherine-pegard-face-aux-critiques-des-deputes-444171",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "medias-amendements-plf-audiovisuel-public",
+     "titre": "PLF 2027 : le RN et un député EPR déposent des amendements pour réduire massivement les crédits de France Télévisions et de Radio France",
+     "date": "2026-10-19",
+     "resume": "Sur 19 amendements médias déposés entre le 15 et le 17 octobre, ceux de Guillaume Kasbarian (EPR) retirent 2,229 Md€ à France Télévisions (II-2006) et 545,6 M€ à Radio France (II-2009). Ils ne conservent qu'une chaîne d'information télévisée (150 M€) et une radio d'information (100 M€), le reste étant ouvert au privé. Jean-Philippe Tanguy (RN) dépose un amendement d'appel (II-690) supprimant 3,024 Md€ de crédits, et un amendement de repli (II-689) de -154 M€ (-100 M€ pour France Télévisions, -54 M€ pour Radio France). À gauche, LFI propose un programme d'aide à la presse de 260 M€ (II-868), financé par redéploiement, dont environ 84 M€ pris sur la ligne AFP. Le GDR (Soumya Bourouaha) propose plusieurs fonds pour le pluralisme, les déserts informationnels et l'IA. Aucun amendement n'était adopté au 19 octobre.",
+     "type": "amendement",
+     "acteurs": [
+      "Guillaume Kasbarian",
+      "Jean-Philippe Tanguy",
+      "Soumya Bourouaha",
+      "Rassemblement national",
+      "Ensemble pour la République",
+      "LFI"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Les amendements maximalistes ont peu de chances d'être adoptés en l'état. La convergence entre un député EPR et le RN sur un recentrage du service public sur l'information prépare toutefois un débat de programme pour la présidentielle de 2027. L'amendement de repli II-689 (-154 M€) pourrait trouver une majorité de circonstance en séance.",
+     "implications": "France Télévisions, Radio France et les producteurs doivent préparer un argumentaire contre le scénario d'un recentrage sur l'information et identifier les députés hésitants du bloc central. Il faut suivre le sort de l'amendement II-689.",
+     "sources": [
+      {
+       "titre": "PLF 2027 : les députés déposent 19 amendements pour réformer le financement des médias",
+       "media": "CB News",
+       "url": "https://www.cbnews.fr/medias/plf-2027-les-deputes-deposent-19-amendements-reformer-financement-medias",
+       "date": "2026-10-19"
+      }
+     ]
+    },
+    {
+     "id": "medias-taxe-pub-numerique-presse-transpartisane",
+     "titre": "Signal faible : amendement transpartisan EPR-PS pour une taxe sur la publicité au profit de la presse d'information",
+     "date": "2026-10-17",
+     "resume": "L'amendement I-1887, cosigné par Jean-René Cazeneuve et Christophe Marion (EPR) et par Jacques Oberti (PS), crée une taxe annuelle de 0,5 % du chiffre d'affaires des annonceurs qui dépensent au moins 1 M€ par an en publicité en France. Les annonceurs en seraient exonérés s'ils consacrent une part de leurs dépenses numériques, fixée par décret dans la limite de 15 %, à la presse d'information politique et générale en ligne. Une première version au taux de 0,25 %, déposée le 9 octobre, avait été déclarée irrecevable. L'amendement relève de la première partie du PLF, votée le 20 octobre, et son sort n'a pas été vérifié.",
+     "type": "amendement",
+     "acteurs": [
+      "Jean-René Cazeneuve",
+      "Christophe Marion",
+      "Jacques Oberti",
+      "éditeurs de presse IPG",
+      "annonceurs"
+     ],
+     "impact": 2,
+     "urgence": 2,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "La coalition EPR-PS rend le dispositif politiquement viable à moyen terme. S'il n'aboutit pas dans le PLF 2027, il devrait réapparaître au Sénat, dans un texte dédié ou dans les programmes de 2027. Les annonceurs et les plateformes vont se mobiliser contre.",
+     "implications": "Les éditeurs de presse ont un véhicule à soutenir. Les annonceurs et les agences doivent anticiper une obligation de fléchage d'une partie de leurs investissements numériques. Il faut vérifier le sort de l'amendement dans la première partie adoptée le 20 octobre.",
+     "sources": [
+      {
+       "titre": "PLF 2027 : les députés déposent 19 amendements pour réformer le financement des médias",
+       "media": "CB News",
+       "url": "https://www.cbnews.fr/medias/plf-2027-les-deputes-deposent-19-amendements-reformer-financement-medias",
+       "date": "2026-10-19"
+      }
+     ]
+    },
+    {
+     "id": "medias-decrets-impartialite-plafond-radio-france",
+     "titre": "L'exécutif réforme l'audiovisuel public par décret : impartialité (rapport Lasserre) et plafond publicitaire de Radio France à 70 M€",
+     "date": "2026-10-21",
+     "resume": "Le 21 octobre, le ministère de la Culture a annoncé un décret modifiant les cahiers des charges de France Télévisions, Radio France et France Médias Monde. Le texte renforce le rôle des comités d'éthique et des médiateurs, impose une charte éditoriale publiée assortie d'une procédure de plaintes, et prévoit une étude annuelle sur la perception de l'impartialité. Il s'inscrit dans le sillage du rapport de Bruno Lasserre remis à l'Arcom le 29 mai (17 recommandations). Par ailleurs, un décret publié au JO le 20 octobre plafonne à 70 M€ par an l'ensemble des recettes de publicité, de parrainage et de messages d'intérêt général de Radio France, qui en a réalisé 66,6 M€ en 2025. L'Alliance de la Radio, présidée par Constance Benqué, réclame un plafond de 52 M€ et n'exclut aucun recours.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Catherine Pégard",
+      "Bruno Lasserre",
+      "Arcom",
+      "Radio France",
+      "Alliance de la Radio",
+      "Constance Benqué"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "L'exécutif passe par le réglementaire pour répondre aux critiques sur l'impartialité, sans rouvrir de loi. Un contentieux des radios privées devant le Conseil d'État est plausible : l'Alliance l'a déjà saisi fin septembre sur des réattributions de fréquences FM.",
+     "implications": "Les médias publics doivent préparer leurs chartes et leurs procédures de plaintes. Les radios privées disposent d'un angle contentieux. L'impartialité devient un sujet récurrent de contrôle parlementaire jusqu'à la présidentielle.",
+     "sources": [
+      {
+       "titre": "Impartialité : le gouvernement renforce les garde-fous pour 3 sociétés de l'audiovisuel public",
+       "media": "CB News",
+       "url": "https://www.cbnews.fr/medias/impartialite-gouvernement-renforce-les-garde-fous-3-societes-audiovisuel-public",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "L'Alliance de la Radio critique le nouveau plafond publicitaire de Radio France",
+       "media": "CB News / AFP",
+       "url": "https://www.cbnews.fr/medias/alliance-radio-critique-nouveau-plafond-publicitaire-radio-france",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "educ-bati-scolaire-climat-collectivites",
+     "titre": "Signal faible : le bâti scolaire face au climat devient un enjeu État-collectivités, alors que le plan canicule est ramené à 20 M€",
+     "date": "2026-10-05",
+     "resume": "La vétusté des établissements et les conditions d'étude pendant les canicules font partie des déclencheurs du mouvement lycéen. Selon l'I4CE, rénover 40 000 écoles en dix ans exigerait environ 4 Md€ par an, hors collèges et lycées. Le plan canicule, annoncé à 60 M€ en juin, a été ramené à 20 M€ en septembre, 40 M€ ayant été gelés. Le programme ACTEE vise désormais 2 500 établissements prioritaires au lieu de 12 500 écoles. Régions de France (Carole Delga) dénonce une baisse d'environ 1 Md€ des budgets régionaux en 2027. Les élus jugent « en trompe-l'œil » la hausse du Fonds vert à 1 Md€. Sébastien Lecornu demande que l'État et les régions ne se renvoient pas la responsabilité.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "I4CE",
+      "Régions de France",
+      "Carole Delga",
+      "France urbaine",
+      "Nathalie Appéré"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": true,
+     "anticipation": "Le bâti scolaire est l'une des rares revendications chiffrables et consensuelles. Il figurera probablement dans les annonces de fin octobre, par exemple sous forme de dégel du plan canicule ou de fléchage du Fonds vert et de la DSIL. Le Sénat devrait porter des amendements de visibilité pluriannuelle.",
+     "implications": "Les associations d'élus et les acteurs de la rénovation énergétique ont une fenêtre pour proposer un fonds pluriannuel pour le bâti scolaire via des amendements sénatoriaux au PLF.",
+     "sources": [
+      {
+       "titre": "Des milliards d'euros nécessaires chaque année pour adapter les bâtiments scolaires au changement climatique",
+       "media": "Public Sénat",
+       "url": "https://www.publicsenat.fr/actualites/education/des-milliards-deuros-necessaires-chaque-annee-pour-adapter-les-batiments-scolaires-au-changement-climatique",
+       "date": "2026-10-05"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Édouard Geffray",
+     "fonction": "Ministre de l'Éducation nationale",
+     "position": "Défend un budget qui « préserve objectivement la priorité à l'éducation », redéploie 3 000 remplaçants et laisse ouverte une révision des suppressions de postes",
+     "influence": 4
+    },
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Pilote la sortie de crise (cellule de crise le 1er octobre, premières décisions fin octobre) et demande des propositions sur la transparence de Parcoursup",
+     "influence": 5
+    },
+    {
+     "nom": "Emmanuel Macron",
+     "fonction": "Président de la République",
+     "position": "Recentre la réponse sur l'ordre public après le 17 octobre et entend interdire les manifestations non syndicales partout où c'est possible",
+     "influence": 5
+    },
+    {
+     "nom": "Philippe Baptiste",
+     "fonction": "Ministre de l'Enseignement supérieur et de la Recherche",
+     "position": "Porte le budget ESR du PLF 2027 (29,5 Md€, +500 M€) et participe aux rencontres avec les syndicats lycéens",
+     "influence": 3
+    },
+    {
+     "nom": "Catherine Pégard",
+     "fonction": "Ministre de la Culture",
+     "position": "Défend un budget Culture en légère baisse et avance par décret sur l'impartialité de l'audiovisuel public",
+     "influence": 4
+    },
+    {
+     "nom": "Gérard Larcher",
+     "fonction": "Président du Sénat (LR)",
+     "position": "Évoque le « caractère chaotique » de Parcoursup, ce qui ouvre la voie à une initiative sénatoriale",
+     "influence": 4
+    },
+    {
+     "nom": "Guillaume Kasbarian",
+     "fonction": "Député EPR",
+     "position": "Propose de réduire fortement les crédits de France Télévisions et de Radio France pour recentrer le service public sur l'information",
+     "influence": 3
+    },
+    {
+     "nom": "Jean-Philippe Tanguy",
+     "fonction": "Député RN",
+     "position": "Dépose un amendement d'appel de -3,024 Md€ sur l'audiovisuel public et un amendement de repli de -154 M€",
+     "influence": 3
+    },
+    {
+     "nom": "Union syndicale lycéenne",
+     "fonction": "Syndicat lycéen",
+     "position": "Insatisfaite des réponses gouvernementales, appelle à poursuivre la mobilisation",
+     "influence": 3
+    },
+    {
+     "nom": "Union étudiante",
+     "fonction": "Syndicat étudiant",
+     "position": "Réclame 10 Md€ pour l'éducation et la jeunesse et revendique des blocages massifs dans les universités",
+     "influence": 3
+    },
+    {
+     "nom": "Alliance de la Radio",
+     "fonction": "Organisation des radios privées (présidée par Constance Benqué)",
+     "position": "Conteste le plafond publicitaire de 70 M€ de Radio France, réclame 52 M€ et n'exclut aucun recours",
+     "influence": 2
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-24",
+     "evenement": "Journée de manifestations sous restrictions (interdictions à Lyon, parcours Bastille-Nation à Paris)",
+     "enjeu": "Test de la désescalade, qui conditionne la place des mesures éducatives dans la réponse de l'exécutif"
+    },
+    {
+     "date": "2026-10",
+     "evenement": "Premières décisions du Premier ministre sur le mouvement lycéen et propositions ministérielles sur Parcoursup (avant fin octobre)",
+     "enjeu": "Paquet de sortie de crise : remplacements, orientation, transparence de Parcoursup, bâti, et éventuelle révision des suppressions de postes"
+    },
+    {
+     "date": "2026-11",
+     "evenement": "Examen de la partie dépenses du PLF 2027 à l'Assemblée (missions Enseignement scolaire, ESR, Culture, Médias)",
+     "enjeu": "Sort des 1 588 suppressions de postes, du Pass Culture, des crédits de France Télévisions et de Radio France et des amendements presse"
+    },
+    {
+     "date": "2026-11-27",
+     "evenement": "Vote solennel sur l'ensemble du PLF 2027 à l'Assemblée (date approximative)",
+     "enjeu": "Risque de censure et recours éventuel au 49.3"
+    },
+    {
+     "date": "2026-12",
+     "evenement": "Expiration du délai constitutionnel de 70 jours d'examen du PLF (déposé le 1er octobre)",
+     "enjeu": "Possible mise en œuvre par ordonnance faute d'accord parlementaire"
+    },
+    {
+     "date": "2027-05-02",
+     "evenement": "Second tour de l'élection présidentielle",
+     "enjeu": "Parcoursup, l'audiovisuel public et le budget de l'éducation deviennent des marqueurs de campagne"
+    }
+   ],
+   "mots_cles": [
+    "PLF 2027",
+    "suppressions de postes enseignants",
+    "mouvement lycéen",
+    "Parcoursup",
+    "blocages universités",
+    "bâti scolaire",
+    "Pass Culture",
+    "France Télévisions",
+    "Radio France",
+    "impartialité audiovisuel public",
+    "taxe publicité presse",
+    "Arcom",
+    "Édouard Geffray",
+    "Catherine Pégard"
+   ]
+  },
+  {
+   "theme": "opinion",
+   "synthese": "Mi/fin octobre 2026, le climat social français est au plus haut niveau de tension depuis le début du quinquennat. La journée du samedi 17 octobre contre la vie chère a été suivie de violences et de pillages dans plusieurs grandes villes. Laurent Nuñez a reconnu le lundi 19 octobre une « perte de contrôle ». Selon Elabe (21 octobre), 93 % des Français jugent légitimes les revendications sur le pouvoir d'achat, mais 91 % condamnent les violences et 74 % estiment que les autorités ont été dépassées. Cette séquence prolonge un mouvement lycéen approuvé par 55 % des Français début octobre (Elabe/BFMTV). L'exécutif l'aborde affaibli : dans l'Observatoire politique Elabe/Les Échos d'octobre, la confiance dans Emmanuel Macron tombe à 17 % (-3 points) et celle dans Sébastien Lecornu à 19 % (-4 points), son plus bas niveau. La réponse d'ordre public est devenue un objet politique et juridique. Le 22 octobre, le président a recommandé de ne pas manifester, de réserver des tracés alternatifs aux cortèges syndicaux et d'interdire ailleurs « partout où on le peut ». Adelico et le Syndicat de la magistrature ont aussitôt saisi le Conseil d'État en référé-liberté. Pour le 24 octobre, 70 000 policiers et gendarmes sont mobilisés, contre 60 000 le 17. Une contre-manifestation de 20 000 à 30 000 personnes est attendue à Orléans en marge du congrès du RN. L'opinion est ambivalente. Elle juge les revendications légitimes, mais soutient massivement les mesures de fermeté : 74 % pour des interdictions temporaires de rassemblements, 71 % pour l'état d'urgence dans les zones touchées. 68 % estiment que LFI a contribué au climat de violences, et Marine Le Pen arrive en tête de la confiance sur la sécurité (39 %). Le 23 octobre, l'Assemblée a rejeté le volet recettes du PLFSS 2027 par 115 voix, ce qui montre la fragilité budgétaire. La CGT appelle à généraliser la grève le 5 novembre, et la présidentielle de 2027 structure tous les positionnements. Méthode : la recherche web étant indisponible, la vérification a consisté à relire directement les pages franceinfo et Elabe citées. Tous les chiffres conservés y figurent. Deux éléments ont été retirés faute de confirmation : un taux d'approbation de 69 % de la mobilisation du 17 octobre et l'incendie de l'hôtel de ville de Limoges. Les fiches techniques des sondages (échantillon, dates de terrain) ne sont pas accessibles.",
+   "temperature": 5,
+   "tendance": "hausse",
+   "signaux": [
+    {
+     "id": "opinion-mobilisation-17-octobre-vie-chere",
+     "titre": "Mobilisation du 17 octobre contre la vie chère : les revendications font consensus, mais les violences basculent le récit",
+     "date": "2026-10-17",
+     "resume": "Le samedi 17 octobre, la journée de mobilisation contre la vie chère a été marquée par des violences et des pillages dans plusieurs grandes villes. Laurent Nuñez a reconnu le lundi suivant une « perte de contrôle ». Selon franceinfo, environ 2 400 personnes ont été interpellées le 17 et près de 500 dans les jours suivants. Huit enquêtes IGPN sont ouvertes, un chiffre encore à confirmer. Selon Elabe (21 octobre), 93 % des Français jugent légitimes les revendications sur le pouvoir d'achat, 91 % condamnent les violences et 74 % estiment que les autorités ont été dépassées.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "Emmanuel Macron",
+      "Laurent Nuñez",
+      "Sébastien Lecornu",
+      "Elabe"
+     ],
+     "impact": 5,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La légitimité de la revendication sur le pouvoir d'achat va peser sur les arbitrages du PLF et du PLFSS 2027 : il deviendra difficile de défendre au Parlement des mesures perçues comme pesant sur les ménages. En parallèle, la droite et le RN vont pousser la surenchère sécuritaire.",
+     "implications": "Toute mesure fiscale ou tarifaire visible (énergie, carburants, prélèvements sociaux) devient politiquement inflammable. Il faut ajuster les messages de plaidoyer au thème du pouvoir d'achat et éviter toute exposition publique sur des hausses de prix.",
+     "sources": [
+      {
+       "titre": "Blindés, unités d'élite, 70 000 policiers et gendarmes : Laurent Nuñez détaille l'important dispositif de sécurité mobilisé pour les manifestations du 24 octobre",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "Les Français, les manifestations du 17 octobre et les violences",
+       "media": "Elabe",
+       "url": "https://elabe.fr/manifestations-17-octobre/",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Mobilisation du 17 octobre : Emmanuel Macron appelle au calme et au respect",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/politique/emmanuel-macron/mobilisation-du-17-octobre-emmanuel-macron-appelle-au-calme-et-au-respect_8240899.html",
+       "date": "2026-10-16"
+      }
+     ]
+    },
+    {
+     "id": "opinion-barometre-confiance-macron-lecornu-plus-bas",
+     "titre": "Baromètre Elabe/Les Échos : Lecornu à 19 % de confiance, son plus bas niveau, et décrochage chez les électeurs de droite",
+     "date": "2026-10-01",
+     "resume": "Dans l'Observatoire politique Elabe pour Les Échos d'octobre 2026 (date de publication exacte non affichée), 17 % des Français font confiance à Emmanuel Macron (-3 points en un mois, -7 en deux mois). Sa confiance tombe à 43 % chez ses propres électeurs du premier tour (-12). Sébastien Lecornu est à 19 % (-4 points), son plus bas niveau et sa plus forte baisse depuis son arrivée à Matignon. Il recule nettement chez les électeurs de droite (29 %, -26) et n'est plus qu'à 50 % chez les électeurs de Macron au premier tour. Jordan Bardella et Marine Le Pen sont en tête des bonnes opinions (37 %), et Édouard Philippe progresse à 30 % (+4).",
+     "type": "sondage",
+     "acteurs": [
+      "Emmanuel Macron",
+      "Sébastien Lecornu",
+      "Jordan Bardella",
+      "Marine Le Pen",
+      "Édouard Philippe",
+      "Les Échos",
+      "Elabe"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": false,
+     "anticipation": "La perte de l'électorat de droite fragilise le soutien des LR au gouvernement, déjà visible dans leur vote contre les recettes du PLFSS. Le risque de censure ou de non-adoption des textes budgétaires augmente, et les présidentiables (Philippe en tête) vont se démarquer davantage de l'exécutif.",
+     "implications": "Le gouvernement a peu de capital politique pour porter des réformes coûteuses en opinion. Il faut cibler les interlocuteurs parlementaires (LR, Horizons) qui prennent leurs distances plutôt que miser uniquement sur Matignon.",
+     "sources": [
+      {
+       "titre": "L'Observatoire politique – Octobre 2026",
+       "media": "Elabe / Les Échos",
+       "url": "https://elabe.fr/lobservatoire-politique-octobre-2026/",
+       "date": "2026-10-01"
+      }
+     ]
+    },
+    {
+     "id": "opinion-interdictions-manifestations-refere-conseil-etat",
+     "titre": "Interdictions de manifester hors cortèges syndicaux : référé-liberté devant le Conseil d'État contre la ligne présidentielle",
+     "date": "2026-10-22",
+     "resume": "Le 22 octobre à la mi-journée, à l'issue d'un conseil de sécurité, Emmanuel Macron a recommandé de ne pas manifester dans les jours suivants. Il a précisé que les préfets proposeraient des tracés alternatifs aux seuls cortèges syndicaux et que les autres manifestations seraient interdites « partout où on le peut ». Le soir même, l'Association de défense des libertés constitutionnelles (Adelico) et le Syndicat de la magistrature ont déposé un référé-liberté devant le Conseil d'État. Ils invoquent l'incompétence du président, une atteinte à la liberté de manifester et une discrimination entre organisateurs. Le Conseil d'État dispose de 48 heures pour statuer. L'exécutif répond que le préfet reste seul décisionnaire.",
+     "type": "décision juridictionnelle",
+     "acteurs": [
+      "Emmanuel Macron",
+      "Conseil d'État",
+      "Adelico",
+      "Syndicat de la magistrature",
+      "préfets"
+     ],
+     "impact": 4,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "L'ordonnance du Conseil d'État cadrera la marge de manœuvre de l'exécutif pour les prochaines journées, dont la grève du 5 novembre. Le juge peut aussi rejeter la requête au motif que les déclarations présidentielles ne constituent pas une décision. Une censure fragiliserait l'Élysée. Une validation légitimerait des interdictions larges et pourrait inspirer une initiative législative de la droite sur l'encadrement des manifestations.",
+     "implications": "Il faut suivre l'ordonnance et ses motifs. Les organisations qui prévoient des événements publics ou des rassemblements doivent anticiper des arrêtés préfectoraux restrictifs.",
+     "sources": [
+      {
+       "titre": "INFO FRANCEINFO. Un recours déposé devant le Conseil d'État après les déclarations d'Emmanuel Macron sur l'interdiction de certaines manifestations",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/politique/emmanuel-macron/info-franceinfo-un-recours-depose-devant-le-conseil-d-etat-apres-les-declarations-d-emmanuel-macron-sur-l-interdiction-de-certaines-manifestations_8249314.html",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "opinion-cgt-greve-5-novembre-binet",
+     "titre": "La CGT dénonce un « tournant inquiétant » et appelle à généraliser la grève le 5 novembre",
+     "date": "2026-10-23",
+     "resume": "Sur franceinfo le 23 octobre, Sophie Binet (CGT) a jugé que les interdictions de manifester marquaient « un tournant qui est inquiétant ». Selon elle, les syndicats ne peuvent pas avoir « le monopole du droit à manifester ». Elle a ajouté qu'il « suffit de répondre immédiatement aux revendications » pour éviter les manifestations du week-end. Elle cite des cortèges non autorisés à Caen, Chambéry et Perpignan, alors que celui de la CGT à Paris est autorisé. La CGT appelle l'ensemble des salariés à « généraliser la grève » le 5 novembre.",
+     "type": "mobilisation sociale",
+     "acteurs": [
+      "Sophie Binet",
+      "CGT",
+      "gouvernement Lecornu"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Le 5 novembre est le prochain test de la capacité syndicale à canaliser la colère. Cette date précède l'examen du PLFSS au Sénat, à partir du 9 novembre. Le gouvernement pourrait ouvrir des concessions ciblées sur le pouvoir d'achat ou, au contraire, durcir sa ligne.",
+     "implications": "Il faut prévoir des perturbations (transports, services publics, logistique) autour du 5 novembre. Toute concession sur le pouvoir d'achat pourrait être financée par des mesures sectorielles : il faut se préparer à défendre ses positions au Sénat.",
+     "sources": [
+      {
+       "titre": "Interdiction de manifester : « C'est un tournant qui est inquiétant », réagit la secrétaire générale de la CGT Sophie Binet",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/interdiction-de-manifester-c-est-un-tournant-qui-est-inquietant-reagit-la-secretaire-generale-de-la-cgt-sophie-binet_8250268.html",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "id": "opinion-24-octobre-dispositif-orleans-congres-rn",
+     "titre": "24 octobre : 70 000 forces de l'ordre et contre-manifestation face au congrès du RN à Orléans",
+     "date": "2026-10-23",
+     "resume": "Pour la journée du 24 octobre, Laurent Nuñez annonce 70 000 policiers et gendarmes, contre 60 000 le 17 octobre. Le dispositif comprend une vingtaine de blindés Centaure et une quinzaine de canons à eau. Le Raid, le GIGN et la BRI protégeront notamment les bâtiments publics. L'usage du LBD reste autorisé dans le cadre légal et sous réserve de proportionnalité. À Orléans, où le RN tient son congrès (environ 10 000 personnes attendues), la préfecture prévoit 20 000 à 30 000 contre-manifestants, dont 2 000 à 3 000 « perturbateurs », face à 3 000 policiers et gendarmes. Les transports publics y seront suspendus toute la journée de samedi.",
+     "type": "annonce gouvernementale",
+     "acteurs": [
+      "Laurent Nuñez",
+      "Rassemblement national",
+      "préfecture du Loiret",
+      "mouvements antifascistes"
+     ],
+     "impact": 4,
+     "urgence": 5,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "L'issue du 24 octobre déterminera le rapport de force. De nouveaux incidents renforceraient la demande d'état d'urgence portée par LR et la stature d'ordre du RN. Un déroulé calme permettrait à l'exécutif de reprendre la main avant le 5 novembre.",
+     "implications": "Il faut faire un bilan dès le 25 octobre et ajuster les messages publics. Les organisations implantées à Orléans ou dans les grandes métropoles doivent anticiper les fermetures et les restrictions de circulation.",
+     "sources": [
+      {
+       "titre": "Blindés, unités d'élite, 70 000 policiers et gendarmes : Laurent Nuñez détaille l'important dispositif de sécurité mobilisé pour les manifestations du 24 octobre",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html",
+       "date": "2026-10-23"
+      },
+      {
+       "titre": "À Orléans, tension maximale avant les manifestations de samedi et le congrès annuel du Rassemblement national",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/france/centre-val-de-loire/loiret/orleans/a-orleans-tension-maximale-avant-les-manifestations-de-samedi-et-le-congres-annuel-du-rassemblement-national_8250910.html",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "id": "opinion-matignon-reunion-partis-lignes-rouges",
+     "titre": "Réunion des partis à Matignon : les lignes de fracture se figent, Retailleau réclame l'état d'urgence",
+     "date": "2026-10-22",
+     "resume": "Le jeudi 22 octobre, Sébastien Lecornu a réuni les partis après les violences du 17 octobre. Les représentants de LFI sont partis avant la fin ; Manuel Bompard a dénoncé une réunion « technique » qui a fait « perdre du temps au pays ». Marine Tondelier se dit « encore plus inquiète et en colère ». Raphaël Glucksmann regrette l'absence de « réponses claires » sur le « fiasco sécuritaire » et défend l'abrogation de Parcoursup. Bruno Retailleau (LR) réclame à nouveau l'état d'urgence, refusé par l'exécutif, et met en cause l'organisation du second tour de la présidentielle le 2 mai, au lendemain du 1er-Mai. Edwige Diaz (RN) indique que le gouvernement a garanti la tenue du congrès d'Orléans dans de bonnes conditions.",
+     "type": "déclaration politique",
+     "acteurs": [
+      "Sébastien Lecornu",
+      "Manuel Bompard",
+      "Marine Tondelier",
+      "Raphaël Glucksmann",
+      "Bruno Retailleau",
+      "Edwige Diaz"
+     ],
+     "impact": 4,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Aucune base de compromis transpartisane ne se dégage. LR se pose en aile dure (état d'urgence), le PS/Place publique cherche une issue par l'éducation (Parcoursup) et LFI campe dans l'opposition frontale. L'exécutif devra arbitrer entre une réponse sécuritaire et une concession sociale ou éducative.",
+     "implications": "Il faut cartographier ces lignes rouges avant les votes budgétaires et sécuritaires à venir. L'abrogation ou la réforme de Parcoursup peut devenir un marqueur de gauche à l'agenda parlementaire.",
+     "sources": [
+      {
+       "titre": "Réunion des partis à Matignon : « Sébastien Lecornu a fait perdre du temps au pays », dénonce Manuel Bompard",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/reunion-des-partis-a-matignon-sebastien-lecornu-a-fait-perdre-du-temps-au-pays-denonce-manuel-bompard_8249335.html",
+       "date": "2026-10-22"
+      }
+     ]
+    },
+    {
+     "id": "opinion-lfi-responsabilite-climat-violences",
+     "titre": "68 % des Français jugent que LFI a contribué au climat de violences, sur fond de polémique Mediapart",
+     "date": "2026-10-21",
+     "resume": "Selon Elabe (21 octobre), 68 % des Français estiment que les prises de position de Jean-Luc Mélenchon et de LFI ont créé un climat favorable aux violences du 17 octobre (31 % non). Sur la sécurité, Marine Le Pen arrive en tête de la confiance (39 %), devant Bruno Retailleau (27 %) et David Lisnard (25 %). Sébastien Lecornu est à 21 %, Laurent Nuñez à 18 % et Emmanuel Macron à 14 %. Le 20 octobre, lors des questions au gouvernement, Mathilde Panot a interpellé Sébastien Lecornu sur une révélation de Mediapart : un membre du renseignement territorial affirme qu'on lui a demandé d'attribuer la mobilisation lycéenne à LFI. Ces affirmations ne sont pas vérifiées de façon indépendante.",
+     "type": "sondage",
+     "acteurs": [
+      "Jean-Luc Mélenchon",
+      "Mathilde Panot",
+      "Sébastien Lecornu",
+      "Marine Le Pen",
+      "Bruno Retailleau",
+      "Mediapart"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "La droite et le RN pourraient réclamer une commission d'enquête ou des mesures contre l'ultragauche, et LFI une enquête sur l'instrumentalisation du renseignement. La polarisation profite au RN dans la perspective de la présidentielle.",
+     "implications": "Il faut éviter toute association, même indirecte, avec les acteurs polarisants. La sécurité devient prioritaire dans les discours de campagne, au détriment des sujets économiques sectoriels.",
+     "sources": [
+      {
+       "titre": "Les Français, les manifestations du 17 octobre et les violences",
+       "media": "Elabe",
+       "url": "https://elabe.fr/manifestations-17-octobre/",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "Violences du 17 octobre : passe d'armes entre le gouvernement et LFI",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/violences-du-17-octobre-passe-d-armes-entre-le-gouvernement-et-lfi_8246065.html",
+       "date": "2026-10-20"
+      }
+     ]
+    },
+    {
+     "id": "opinion-mesures-ordre-soutien-massif",
+     "titre": "Signal faible : une opinion prête à accepter des mesures d'exception (armée, couvre-feux, état d'urgence)",
+     "date": "2026-10-21",
+     "resume": "Selon Elabe (21 octobre), l'opinion soutient massivement des mesures de fermeté. Accélérer les procédures et durcir les sanctions recueille 90 % d'avis favorables. Renforcer les effectifs de police et de gendarmerie en recueille 87 %, tout comme surveiller les réseaux sociaux et retirer les appels à la violence. Les couvre-feux localisés, notamment pour les mineurs, obtiennent 77 %, la mobilisation temporaire de l'armée 75 %, l'interdiction temporaire de certains rassemblements 74 % et l'état d'urgence dans les zones touchées 71 %. Par ailleurs, 61 % pensent qu'il faudra se protéger par ses propres moyens et 49 % disent avoir peur pour leur sécurité ou leurs biens. Franceinfo évoque une possible piste de blocage des réseaux sociaux, sans détail.",
+     "type": "sondage",
+     "acteurs": [
+      "Elabe",
+      "Laurent Nuñez",
+      "Bruno Retailleau",
+      "plateformes numériques"
+     ],
+     "impact": 4,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Ce soutien majoritaire ouvre une fenêtre pour un texte sécuritaire rapide : accélération des procédures, régulation des contenus en ligne, voire état d'urgence, que l'exécutif refuse pour l'instant. Une telle initiative susciterait l'opposition de la gauche et des défenseurs des libertés.",
+     "implications": "Les plateformes numériques, les médias et les acteurs de la régulation en ligne sont exposés à une possible obligation de retrait accéléré des contenus. Il faut préparer une position sur l'équilibre entre libertés et sécurité.",
+     "sources": [
+      {
+       "titre": "Les Français, les manifestations du 17 octobre et les violences",
+       "media": "Elabe",
+       "url": "https://elabe.fr/manifestations-17-octobre/",
+       "date": "2026-10-21"
+      },
+      {
+       "titre": "« Les inquiétudes de la jeunesse sont légitimes », reconnaît Emmanuel Macron",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-inquietudes-de-la-jeunesse-sont-legitimes-reconnait-emmanuel-macron_8247328.html",
+       "date": "2026-10-21"
+      }
+     ]
+    },
+    {
+     "id": "opinion-mouvement-lyceen-parcoursup",
+     "titre": "Signal faible : la colère lycéenne s'installe et Parcoursup devient une cible politique",
+     "date": "2026-10-07",
+     "resume": "Selon Elabe (7 octobre, vraisemblablement pour BFMTV), 55 % des Français approuvent la mobilisation lycéenne et 72 % jugent ses revendications légitimes. Le remplacement des enseignants absents est jugé défaillant par 88 %, Parcoursup par 74 %. 65 % estiment que le gouvernement n'écoute pas assez les lycéens et 64 % s'attendent à un mouvement social plus large. Le 21 octobre, depuis Doha, Emmanuel Macron a jugé « légitimes » les inquiétudes de la jeunesse ; il doit recevoir des lycéens le 24 octobre. Raphaël Glucksmann défend l'abrogation de Parcoursup.",
+     "type": "sondage",
+     "acteurs": [
+      "lycéens",
+      "Emmanuel Macron",
+      "Raphaël Glucksmann",
+      "ministère de l'Éducation nationale"
+     ],
+     "impact": 3,
+     "urgence": 3,
+     "tonalite": "incertain",
+     "signal_faible": true,
+     "anticipation": "Une concession sur l'orientation ou sur Parcoursup est plausible, car c'est le levier le moins coûteux pour l'exécutif. On pourrait aussi voir une proposition de loi de la gauche dans une niche parlementaire et un débat sur les crédits de l'Éducation nationale (remplacements) dans le PLF 2027.",
+     "implications": "Les acteurs de l'éducation, de l'orientation et de l'enseignement supérieur doivent se préparer à une possible réforme accélérée de Parcoursup et à des amendements budgétaires sur les remplacements et le bâti scolaire.",
+     "sources": [
+      {
+       "titre": "Les Français et la colère des lycéens",
+       "media": "Elabe",
+       "url": "https://elabe.fr/colere-lyceens/",
+       "date": "2026-10-07"
+      },
+      {
+       "titre": "« Les inquiétudes de la jeunesse sont légitimes », reconnaît Emmanuel Macron",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/les-inquietudes-de-la-jeunesse-sont-legitimes-reconnait-emmanuel-macron_8247328.html",
+       "date": "2026-10-21"
+      }
+     ]
+    },
+    {
+     "id": "opinion-plfss-recettes-rejet-assemblee",
+     "titre": "PLFSS 2027 : l'Assemblée rejette le volet recettes à la quasi-unanimité, le texte part au Sénat dans sa version initiale",
+     "date": "2026-10-23",
+     "resume": "Le vendredi 23 octobre, en première lecture, les députés ont rejeté la partie recettes du PLFSS 2027 par 115 voix contre, ce qui revient à rejeter l'ensemble du texte sans examiner les dépenses. La gauche, l'alliance RN-UDR et la plupart des LR ont voté contre. Le reste du camp gouvernemental s'est majoritairement abstenu, et un seul député MoDem a voté pour. Les principales mesures avaient déjà été supprimées en séance. Sandrine Runel (PS) juge que les recettes ne sont pas « à la hauteur des besoins ». Le Sénat examinera la version initiale à partir du 9 novembre.",
+     "type": "vote / procédure parlementaire",
+     "acteurs": [
+      "Assemblée nationale",
+      "Sandrine Runel",
+      "RN-UDR",
+      "LR",
+      "Sénat"
+     ],
+     "impact": 5,
+     "urgence": 4,
+     "tonalite": "conflictuel",
+     "signal_faible": false,
+     "anticipation": "Dans un climat de colère sur le pouvoir d'achat, aucune majorité n'accepte d'assumer des prélèvements sociaux. Le Sénat devient le lieu de reconstruction du texte. Un recours au 49.3 ou une mise en œuvre par ordonnances (article 47-1) devient plus probable, avec le risque de censure qui l'accompagne.",
+     "implications": "Les amendements doivent désormais viser le Sénat (commission des affaires sociales) avant le 9 novembre. Les mesures de rendement pesant sur les ménages ont peu de chances d'être rétablies telles quelles.",
+     "sources": [
+      {
+       "titre": "Les députés rejettent à la quasi-unanimité le volet « recettes » du projet de loi de financement de la Sécurité sociale, le texte transmis au Sénat",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-a-la-quasi-unanimite-le-volet-recettes-du-projet-de-loi-de-financement-de-la-securite-sociale-le-texte-transmis-au-senat_8250760.html",
+       "date": "2026-10-23"
+      }
+     ]
+    },
+    {
+     "id": "opinion-ingerences-numeriques-presidentielle-viginum",
+     "titre": "Signal faible : Viginum recense plus de 100 opérations d'ingérence étrangère visant la présidentielle 2027",
+     "date": "2026-10-21",
+     "resume": "Selon franceinfo (21 octobre), Viginum a déjà identifié plus d'une centaine d'opérations de désinformation venues de l'étranger visant la présidentielle 2027, contre quatre pour les municipales de 2026. Gabriel Attal, Raphaël Glucksmann et Édouard Philippe ont été ciblés par de fausses vidéos attribuées à des réseaux pro-russes. Le Sénat examine un texte pour mieux contrer ces ingérences. Aucun lien n'est établi avec les mobilisations d'octobre.",
+     "type": "rapport / avis institutionnel",
+     "acteurs": [
+      "Viginum",
+      "Sénat",
+      "Gabriel Attal",
+      "Raphaël Glucksmann",
+      "Édouard Philippe"
+     ],
+     "impact": 3,
+     "urgence": 2,
+     "tonalite": "consensuel",
+     "signal_faible": true,
+     "anticipation": "Le texte anti-ingérences au Sénat devrait recueillir un large consensus. Il pourrait être élargi à la régulation des réseaux sociaux dans le sillage des violences d'octobre.",
+     "implications": "Les plateformes, les acteurs de la publicité politique et les médias doivent suivre l'examen sénatorial. De nouvelles obligations de transparence ou de retrait sont probables avant le premier tour de 2027.",
+     "sources": [
+      {
+       "titre": "Plus de 100 ingérences numériques étrangères dans la campagne présidentielle",
+       "media": "franceinfo",
+       "url": "https://www.franceinfo.fr/politique/plus-de-100-ingerences-numeriques-etrangeres-dans-la-campagne-presidentielle_8245930.html",
+       "date": "2026-10-21"
+      }
+     ]
+    }
+   ],
+   "acteurs_cles": [
+    {
+     "nom": "Emmanuel Macron",
+     "fonction": "Président de la République",
+     "position": "Il appelle au calme et soutient les forces de l'ordre. Le 22 octobre, il a recommandé de ne pas manifester et d'interdire hors cortèges syndicaux, ligne attaquée devant le Conseil d'État. Il juge légitimes les inquiétudes de la jeunesse et doit recevoir des lycéens le 24 octobre. 17 % de confiance (Elabe/Les Échos).",
+     "influence": 5
+    },
+    {
+     "nom": "Sébastien Lecornu",
+     "fonction": "Premier ministre",
+     "position": "Il a réuni les partis le 22 octobre, une réunion jugée « technique » par les oppositions. Confiance à 19 %, son plus bas niveau, en fort recul chez les électeurs de droite.",
+     "influence": 5
+    },
+    {
+     "nom": "Laurent Nuñez",
+     "fonction": "Ministre de l'Intérieur",
+     "position": "Il a reconnu une « perte de contrôle » le 17 octobre et mobilise 70 000 policiers et gendarmes pour le 24 octobre.",
+     "influence": 4
+    },
+    {
+     "nom": "Sophie Binet",
+     "fonction": "Secrétaire générale de la CGT",
+     "position": "Elle juge les interdictions de manifester « un tournant inquiétant » et appelle à généraliser la grève le 5 novembre.",
+     "influence": 4
+    },
+    {
+     "nom": "Bruno Retailleau",
+     "fonction": "Président de LR",
+     "position": "Il réclame l'état d'urgence, met en cause l'organisation du second tour de 2027 et tient LFI pour responsable du climat de violence.",
+     "influence": 4
+    },
+    {
+     "nom": "Marine Le Pen",
+     "fonction": "Figure du RN",
+     "position": "Personnalité la plus crédible sur la sécurité selon Elabe (39 %), à égalité avec Bardella en bonnes opinions (37 %). Le RN tient son congrès à Orléans le week-end du 24 octobre.",
+     "influence": 5
+    },
+    {
+     "nom": "Jean-Luc Mélenchon",
+     "fonction": "Leader de LFI",
+     "position": "68 % des Français jugent que LFI a contribué au climat de violences. LFI dénonce une instrumentalisation, notamment après la révélation de Mediapart.",
+     "influence": 4
+    },
+    {
+     "nom": "Raphaël Glucksmann",
+     "fonction": "Place publique (allié du PS)",
+     "position": "Il dénonce un « fiasco sécuritaire » et défend l'abrogation de Parcoursup.",
+     "influence": 3
+    },
+    {
+     "nom": "Conseil d'État",
+     "fonction": "Juridiction administrative suprême",
+     "position": "Saisi en référé-liberté le 22 octobre au soir par Adelico et le Syndicat de la magistrature. Il dispose de 48 heures pour statuer.",
+     "influence": 4
+    }
+   ],
+   "echeances": [
+    {
+     "date": "2026-10-24",
+     "evenement": "Journée nationale de manifestations (vie chère, lycéens), contre-manifestation à Orléans et congrès du RN (week-end des 24-25 octobre)",
+     "enjeu": "Test de l'ordre public avec 70 000 forces de l'ordre. Un nouveau débordement ou un retour au calme conditionnera la suite du mouvement et la surenchère sécuritaire."
+    },
+    {
+     "date": "2026-10-24",
+     "evenement": "Ordonnance attendue du Conseil d'État sur le référé-liberté contre les interdictions de manifester (délai de 48 heures)",
+     "enjeu": "Cadre juridique des interdictions générales et légitimité de la ligne présidentielle."
+    },
+    {
+     "date": "2026-11-05",
+     "evenement": "Appel de la CGT à généraliser la grève",
+     "enjeu": "Capacité syndicale à transformer la colère sur la vie chère en mouvement social durable, et pression sur les arbitrages budgétaires."
+    },
+    {
+     "date": "2026-11-09",
+     "evenement": "Début de l'examen du PLFSS 2027 au Sénat (version initiale)",
+     "enjeu": "Reconstruction du budget de la Sécurité sociale après le rejet des recettes à l'Assemblée. Fenêtre d'amendements."
+    },
+    {
+     "date": "2027-05-02",
+     "evenement": "Second tour de l'élection présidentielle (date citée par franceinfo)",
+     "enjeu": "Horizon qui structure les positionnements partisans sur la sécurité, le pouvoir d'achat et les ingérences étrangères."
+    }
+   ],
+   "mots_cles": [
+    "vie chère",
+    "mobilisation du 17 octobre",
+    "24 octobre",
+    "interdiction de manifester",
+    "référé-liberté",
+    "Conseil d'État",
+    "maintien de l'ordre",
+    "mouvement lycéen",
+    "Parcoursup",
+    "CGT",
+    "grève 5 novembre",
+    "confiance Macron",
+    "Lecornu",
+    "Elabe",
+    "état d'urgence",
+    "LFI",
+    "congrès RN Orléans",
+    "PLFSS 2027",
+    "Viginum",
+    "présidentielle 2027"
+   ]
+  }
+ ],
+ "synthese": {
+  "titre": "Note de direction : France, fin octobre 2026. Un budget sans majorité, une rue sous tension et une présidentielle déjà lancée",
+  "synthese_executive": "Au 23 octobre 2026, la procédure budgétaire 2027 a cessé d'être une procédure de vote pour devenir une procédure d'arbitrage gouvernemental. Le 9 octobre, la commission des finances a rejeté la partie recettes du PLF, après des amendements qui creusent le déficit d'environ 10 Md€. Le vote solennel sur cette partie a été reporté : 2 828 des 3 396 amendements restaient à examiner. Le 23 octobre, l'Assemblée a rejeté la partie recettes du PLFSS par 115 voix contre 1, le bloc central s'abstenant, et le texte part au Sénat dans sa version gouvernementale. Le gouvernement Lecornu n'a pas de majorité. Il reste exposé à des majorités de circonstance (désindexation des pensions, C3S, taxe GAFAM, ISN agricole) et dépend du RN ou du PS pour survivre. Roland Lescure et Laurent Panifous n'excluent plus ni le 49.3 ni les ordonnances des articles 47 et 47-1, jamais utilisées sous la Ve République. Trois dates verrouillent le calendrier : le 17 novembre pour la fin de la première lecture du PLF, le 26 novembre pour le délai du PLFSS et le 17 décembre pour celui du PLF.\n\nLa contrainte vient aussi de l'extérieur. L'OAT à 10 ans a touché 5 % le 21 octobre, une première depuis 2002. La décision de Moody's (Aa3, perspective négative) est attendue ce soir, et une baisse à A1 est jugée très plausible. La BCE durcit sa politique et l'inflation atteint 3,1 % en septembre, contre 1,8 % retenus pour 2027. Le HCFP juge la prévision de croissance « optimiste ». Le contexte social est le plus tendu du quinquennat : émeutes et pillages après la journée contre la vie chère du 17 octobre, mouvement lycéen et étudiant, nouvelle journée le 24 octobre, grève interprofessionnelle le 5 novembre. L'opinion juge les revendications légitimes (93 %) et soutient massivement la fermeté (74 % pour des interdictions de rassemblements). La confiance dans Emmanuel Macron (17 %) et dans Sébastien Lecornu (19 %) est au plus bas. Toute mesure de rendement qui touche les ménages devient politiquement indéfendable. Les mesures sur les entreprises (surtaxe d'IS, allègements de cotisations, taxe GAFAM, taxe sur les infrastructures de transport) deviennent la variable d'ajustement probable.\n\nPour un client entreprise ou fédération, il faut changer de cibles sans tarder. Les votes en séance à l'Assemblée sont désormais provisoires. Le texte final sera écrit à Matignon et à Bercy, qui choisiront les amendements retenus dans un 49.3 ou une ordonnance, et au Sénat : PLFSS dès le 9 novembre, PLF après le 17 novembre. Notre scénario central est un passage en force par 49.3 sur les deux textes entre fin novembre et mi-décembre. Une censure évitée de justesse est probable, mais une chute du gouvernement reste un risque sérieux (environ 28 %), suivie d'une loi spéciale qui pourrait durer de 9 à 11 mois en année présidentielle. Le congrès du RN à Orléans (24 et 25 octobre), la journée du 5 novembre et la décision de Moody's sont les trois déclencheurs à suivre dans les quinze prochains jours. Au-delà, la fenêtre législative se ferme fin février 2027 : les sujets qui ne passeront pas d'ici là se joueront dans les programmes présidentiels.",
+  "top_signaux": [
+   {
+    "id": "budget-report-vote-recettes-delais-constitutionnels",
+    "pourquoi": "C'est le signal structurant. Le vote sur les recettes du PLF a été reporté (2 828 amendements restants) et les délais constitutionnels (17 novembre, 26 novembre, 17 décembre) font du 49.3 ou des ordonnances inédites le mode d'adoption le plus probable. Les votes de séance deviennent provisoires et l'influence se déplace vers l'exécutif et le Sénat."
+   },
+   {
+    "id": "secu-sante-rejet-recettes-plfss-an",
+    "pourquoi": "Le rejet quasi unanime (115 voix contre 1), avec l'abstention du bloc central, prouve qu'aucun compromis majoritaire n'existe. Le texte gouvernemental part au Sénat le 9 novembre et les acquis obtenus à l'Assemblée sont perdus. Ce vote préfigure le sort du PLF."
+   },
+   {
+    "id": "budget-rn-pivot-motion-rejet-ps",
+    "pourquoi": "Le RN s'est installé en arbitre de la survie du gouvernement en faisant échouer la motion de rejet du PS (236 voix contre 149). Ses lignes rouges, refus des hausses d'impôts et indexation des pensions, conditionneront le contenu d'un 49.3."
+   },
+   {
+    "id": "parlement-lescure-493-ordonnances",
+    "pourquoi": "L'exécutif prépare ouvertement l'opinion à un passage en force (« on fera jouer les glissières »). Le gouvernement choisira donc les amendements retenus, ce qui fait de Matignon et de Bercy les cibles prioritaires."
+   },
+   {
+    "id": "budget-oat-5pct-moodys",
+    "pourquoi": "L'OAT à 5 % et une dégradation possible par Moody's ce soir donnent à l'exécutif un argument de crédibilité financière pour justifier le 49.3. Ils devraient aussi conduire au refus des amendements coûteux et à davantage d'économies au Sénat (charge de la dette : +10 Md€)."
+   },
+   {
+    "id": "social-travail-desindexation-pensions-article-35",
+    "pourquoi": "C'est la ligne rouge transpartisane, de LFI au RN en passant par la Droite républicaine, et le principal motif crédible de censure. Le seuil retenu (1 260, 1 700 ou 2 000 €) sera le marqueur du compromis final, et les 4 Md€ d'économies devront être compensés ailleurs, probablement sur les entreprises, l'ONDAM et les prestations."
+   },
+   {
+    "id": "opinion-mobilisation-17-octobre-vie-chere",
+    "pourquoi": "Les revendications sur le pouvoir d'achat sont jugées légitimes par 93 % des Français et les violences condamnées par 91 %. Cette crise rend toxique toute mesure qui touche les ménages, fragilise Laurent Nuñez et durcit les calculs de censure du RN et du PS."
+   },
+   {
+    "id": "social-travail-grave-interpro-5-novembre",
+    "pourquoi": "L'intersyndicale, CFDT comprise, appelle à la grève le 5 novembre, soit quatre jours avant l'examen du PLFSS au Sénat. Une forte mobilisation renchérirait le coût politique d'un 49.3 et pèserait sur les pensions, les salaires et les allègements de cotisations."
+   },
+   {
+    "id": "presidentielle-rn-congres-orleans",
+    "pourquoi": "Le congrès d'Orléans (24 et 25 octobre) lance la campagne de Marine Le Pen dans un climat de tension avec le bloc central (boycott de la commission d'enquête). La ligne qui y sera fixée sur la censure conditionne la survie du gouvernement en novembre et décembre."
+   },
+   {
+    "id": "eco-plf2027-surtaxe-is-reduite",
+    "pourquoi": "Pour un client entreprise, c'est la mesure la plus exposée. Elle sera disputée entre la gauche, qui veut la maintenir ou la durcir, et le Sénat et le patronat, qui veulent la supprimer ou dater son extinction. Elle peut aussi servir de monnaie d'échange avec le PS, en lien avec la taxe Zucman et la fiscalité des grandes successions."
+   }
+  ],
+  "dynamiques_transverses": [
+   {
+    "titre": "Le PLF et le PLFSS, véhicules uniques et fragiles de tous les arbitrages sectoriels",
+    "analyse": "Presque tous les dossiers passent par les textes budgétaires : plan de relance agricole (500 à 700 M€), prêts à taux zéro sécheresse, article 82 sur le photovoltaïque, chèque énergie, taxe GAFAM à 15 %, AME, CPEB et FCTVA, suppressions de postes d'enseignants, audiovisuel public, surtaxe d'IS, allègements de cotisations. Or la commission des finances a rejeté la partie recettes, et la séance repart des textes du gouvernement. Les votes de commission sont donc indicatifs et ceux de séance provisoires. Leur survie dépend du choix gouvernemental dans un 49.3 ou une ordonnance. Une censure suivie d'une loi spéciale gèlerait l'ensemble, mesures favorables comprises (prêts à taux zéro, surmarche de la LPM, mesures pour l'industrie).",
+    "themes": [
+     "budget",
+     "secu-sante",
+     "agriculture",
+     "energie-climat",
+     "numerique",
+     "securite-justice",
+     "territoires",
+     "education-culture-medias",
+     "economie-industrie",
+     "defense"
+    ]
+   },
+   {
+    "titre": "Le centre de gravité passe de l'hémicycle à Matignon, à Bercy et au Sénat",
+    "analyse": "Le rejet des recettes du PLFSS et l'enlisement du PLF font du Sénat la chambre qui écrit la version parlementaire de référence. Les acteurs clés y sont Christine Lavarde et Jean-François Husson pour le PLF, Olivier Henno et Jean-François Rapin pour le PLFSS. La majorité sénatoriale fixe ses lignes rouges : pas de hausse d'impôts, pas de baisse du FCTVA, un ONDAM jugé « inaccessible ». En parallèle, l'exécutif sélectionnera les amendements d'un éventuel 49.3. Les cabinets ont été réduits (471 conseillers), ce qui concentre les points d'entrée sur les directeurs de cabinet. Le travail d'influence doit donc se dédoubler : textes rédigés pour être repris par le gouvernement, et amendements prêts à l'emploi pour le Sénat.",
+    "themes": [
+     "budget",
+     "parlement",
+     "secu-sante",
+     "territoires",
+     "executif"
+    ]
+   },
+   {
+    "titre": "Crise de la vie chère et de l'ordre public : un contexte qui interdit les mesures de rendement sur les ménages",
+    "analyse": "Plusieurs mouvements se cumulent : prix des carburants sur fond de blocage d'Ormuz, émeutes du 17 octobre, mouvement lycéen et universitaire, intersyndicale du 5 novembre, gel du point d'indice. L'opinion est ambivalente : elle juge les revendications légitimes et soutient la fermeté (état d'urgence à 71 %). Le gouvernement est pris entre deux réponses, sécuritaire (circulaire Darmanin, interdictions de manifester contestées devant le Conseil d'État, demande d'état d'urgence de LR) et sociale (règle d'or sur la TVA des carburants, déstockage, gestes sur les pensions et le chèque énergie, Parcoursup, bâti scolaire). Conséquence directe : la désindexation des pensions, les franchises, la taxe sur les complémentaires ou l'ETS2 deviennent difficiles à défendre. L'effort risque de se reporter vers les entreprises (surtaxe d'IS, allègements de cotisations, taxe sur les infrastructures de transport, taxe GAFAM).",
+    "themes": [
+     "opinion",
+     "social-travail",
+     "securite-justice",
+     "executif",
+     "energie-climat",
+     "education-culture-medias"
+    ]
+   },
+   {
+    "titre": "Des majorités négatives, avec le RN comme arbitre et des coalitions de circonstance",
+    "analyse": "Aucun bloc ne peut voter un texte, mais des coalitions ponctuelles défont les mesures. RN, LFI, PS et DR ont supprimé ensemble la désindexation. Le RN a fait voter la suppression de la C3S et l'ISN à +500 M€. La gauche, avec le RN, a voté la taxe GAFAM à 15 %. Le bloc central a obtenu avec le RN la réduction de l'AME en commission. Les votes à faible participation créent des accidents, comme le congé à 62 ans adopté par 45 voix contre 36. Le RN a refusé la motion de rejet pour que le débat ait lieu, mais il durcit le ton : boycott de la commission d'enquête, demande du départ de Laurent Nuñez, congrès d'Orléans. Faute de pacte de non-censure, le PS conditionne sa clémence à des gestes sur la justice fiscale. La survie du gouvernement se négocie donc à deux guichets aux exigences contradictoires : le RN veut moins d'impôts et des pensions indexées, le PS veut davantage de fiscalité sur le capital.",
+    "themes": [
+     "parlement",
+     "budget",
+     "social-travail",
+     "presidentielle",
+     "securite-justice"
+    ]
+   },
+   {
+    "titre": "Contrainte financière : taux, notation et inflation légitiment le passage en force et les rabots",
+    "analyse": "Plusieurs indicateurs se dégradent en même temps : OAT à 5 %, possible baisse de note par Moody's, hausses de la BCE (taux de dépôt à 2,50 %, réunions les 29 octobre et 17 décembre), inflation à 3,1 % contre 1,8 % supposés, croissance jugée optimiste par le HCFP et déficit attendu entre 5,2 et 5,3 %. Ils réduisent les marges, alourdissent la charge de la dette d'environ 10 Md€ et fournissent à l'exécutif un argument de responsabilité pour le 49.3. La défense, sanctuarisée (+6,5 Md€), produit un effet d'éviction sur les autres missions. Il faut s'attendre en 2027 à des gels de crédits, à une loi de finances rectificative ou à des annulations en cours d'année, et à une contestation de la sincérité du budget.",
+    "themes": [
+     "budget",
+     "economie-industrie",
+     "defense",
+     "europe-international"
+    ]
+   },
+   {
+    "titre": "La présidentialisation fige l'agenda et ferme la fenêtre législative",
+    "analyse": "À six mois du premier tour (18 avril 2027), chaque texte devient un marqueur. Le budget est assumé comme « réversible » et la primaire est remportée par Glucksmann, qui refuse toute alliance avec LFI. Marine Le Pen lance sa campagne malgré son pourvoi en cassation. L'arbitrage Philippe-Attal est attendu en janvier, les Écologistes votent le 13 décembre et Hollande décidera en décembre. Les grandes réformes sont renvoyées aux programmes : âge d'équilibre des retraites, réseaux sociaux pour les moins de 15 ans, Corse, Nouvelle-Calédonie, polices municipales, ETS2, trajectoire de défense à 3,5 % du PIB, adaptation au règlement européen Retour. La suspension des travaux fin février 2027 sert de date butoir de fait. Le travail d'influence de moyen terme doit viser dès maintenant les équipes de campagne.",
+    "themes": [
+     "presidentielle",
+     "executif",
+     "social-travail",
+     "numerique",
+     "territoires",
+     "defense",
+     "energie-climat"
+    ]
+   },
+   {
+    "titre": "L'Europe comme second niveau d'arbitrage, souvent sous-estimé",
+    "analyse": "Plusieurs décisions structurantes se prennent à Bruxelles en parallèle du budget national : CFP 2028-2034 (PAC en baisse d'environ 20 %, réserve de crise réduite, préférence européenne dans la défense), orientation générale sur la PAC au Conseil Agriculture des 26 et 27 octobre, Omnibus pesticides, Kids Act, AI Act reporté à décembre 2027, ETS2 reporté à 2028, règlement Retour, financement de 70 Md€ pour l'Ukraine, aide d'État pour les EPR2. Elles alimentent aussi le débat national : RN contre l'aide à l'Ukraine, prélèvement européen de 30,9 Md€, menace de représailles américaines liée à la régulation numérique et à la taxe GAFAM. Les fédérations doivent coordonner leur plaidoyer national et européen (SGAE, RP France, Conseil européen de décembre).",
+    "themes": [
+     "europe-international",
+     "agriculture",
+     "numerique",
+     "energie-climat",
+     "defense",
+     "securite-justice"
+    ]
+   }
+  ],
+  "rapport_de_force": [
+   {
+    "groupe": "Rassemblement national (RN)",
+    "position_budget": "Refuse toute hausse d'impôt et fait de l'indexation des pensions une ligne rouge. A fait voter la suppression de la C3S (environ 5,5 Md€) et l'ISN agricole à +500 M€. Réclame une TVA à 5,5 % sur les carburants, des coupes dans l'audiovisuel public (amendement d'appel de -3 Md€) et une restriction de l'AME. A voté contre la motion de rejet du PS pour que le débat ait lieu, puis contre les recettes du PLFSS.",
+    "ligne_rouge": "Désindexation des pensions, hausses d'impôts sur les ménages et l'énergie, ETS2. Marine Le Pen tranche en dernier ressort.",
+    "posture": "censure envisagée"
+   },
+   {
+    "groupe": "UDR (alliée du RN)",
+    "position_budget": "Alignée sur le RN : a voté la suppression de la désindexation des pensions en commission et contre les recettes du PLFSS.",
+    "ligne_rouge": "Pensions et fiscalité des ménages, comme le RN.",
+    "posture": "censure envisagée"
+   },
+   {
+    "groupe": "Ensemble pour la République (EPR / Renaissance)",
+    "position_budget": "Socle du gouvernement : seul groupe à voter pour la partie recettes en commission des finances, mais abstention sur les recettes du PLFSS en séance. Certains de ses députés poussent des économies plus dures (Kasbarian : franchises AS1588, AME, audiovisuel public) ou cherchent un seuil de désindexation plus élevé.",
+    "ligne_rouge": "Objectif de déficit à 5 % et refus de la taxe Zucman. Différenciation croissante liée à la course Attal-Philippe.",
+    "posture": "soutien"
+   },
+   {
+    "groupe": "Les Démocrates (MoDem)",
+    "position_budget": "Abstention en commission des finances sur les recettes du PLF et abstention majoritaire sur les recettes du PLFSS (un seul vote pour). Dénonce l'« irresponsabilité » des votes qui creusent le déficit.",
+    "ligne_rouge": "Dérapage du déficit. Attachement à un compromis sur la justice fiscale.",
+    "posture": "soutien conditionnel"
+   },
+   {
+    "groupe": "Horizons",
+    "position_budget": "Abstention sur les recettes du PLFSS. Co-signe des amendements d'économies (franchises). Pivot sur la réforme de l'AME et sur le chiffrement (suppression de l'article 16 bis).",
+    "ligne_rouge": "Hausses d'impôts massives. Positionnement d'Édouard Philippe pour 2027 (refus d'une primaire, arbitrage en janvier).",
+    "posture": "soutien conditionnel"
+   },
+   {
+    "groupe": "Droite républicaine (LR à l'Assemblée)",
+    "position_budget": "Rapporteurs généraux (Philippe Juvin sur le PLF, Thibault Bazin sur le PLFSS). A supprimé la désindexation et voté majoritairement contre les recettes du PLFSS. Refuse les hausses d'impôts et réclame davantage d'économies.",
+    "ligne_rouge": "Gel ou désindexation des pensions et toute hausse de fiscalité. Bruno Retailleau réclame en plus l'état d'urgence.",
+    "posture": "soutien conditionnel"
+   },
+   {
+    "groupe": "Majorité sénatoriale LR-UC (Sénat)",
+    "position_budget": "Réécrira le PLFSS dès le 9 novembre et le PLF ensuite. Pas de hausse d'impôts, plus d'économies, refus de toucher au FCTVA, ONDAM jugé « inaccessible ». Pilotage par Larcher, Lavarde, Husson, Henno et Rapin.",
+    "ligne_rouge": "Aucune hausse de la fiscalité, aucune baisse du FCTVA, opposition à la voie réglementaire sur la santé.",
+    "posture": "soutien conditionnel"
+   },
+   {
+    "groupe": "Parti socialiste (PS)",
+    "position_budget": "A déposé une motion de rejet. Contre-budget de 39,5 Md€ de recettes (taxe Zucman, grandes successions). Pas de pacte de non-censure cette année. Le groupe est divisé : direction Vallaud d'un côté, aile Hollande et Houlié réticente à la censure de l'autre. Glucksmann : « si le texte ne bouge pas, il y aura censure ».",
+    "ligne_rouge": "Absence de geste sur la justice fiscale (hauts patrimoines, successions), désindexation des pensions et 49.3 sur un texte non négocié.",
+    "posture": "censure envisagée"
+   },
+   {
+    "groupe": "La France insoumise (LFI)",
+    "position_budget": "Opposition frontale : motion de censure annoncée en cas de 49.3. Coquerel préside la commission des finances. Défend le SMIC à 1 700 € net (niche), une aide à la presse et la suppression de la désindexation.",
+    "ligne_rouge": "Tout 49.3, budget d'austérité, réforme de l'AME, gestion du maintien de l'ordre (demande le départ de Nuñez).",
+    "posture": "censure envisagée"
+   },
+   {
+    "groupe": "Écologiste et social",
+    "position_budget": "Opposé au texte : taxe GAFAM à 15 % (Bonnet), départ à 62 ans après 42 annuités (Rousseau), suppression de l'article 82 sur le photovoltaïque (Laernoes). Vote contre les recettes du PLFSS.",
+    "ligne_rouge": "Austérité sociale et écologique, révision rétroactive des contrats solaires. Demande la démission de Nuñez.",
+    "posture": "censure envisagée"
+   },
+   {
+    "groupe": "Gauche démocrate et républicaine (GDR)",
+    "position_budget": "Opposition : a voté la suppression de la désindexation et contre les recettes du PLFSS. Propose des fonds pour le pluralisme de la presse.",
+    "ligne_rouge": "Gel des prestations et des pensions, absence de concertation (« avec qui le Gouvernement a-t-il fait ce PLFSS ? »).",
+    "posture": "censure envisagée"
+   },
+   {
+    "groupe": "LIOT",
+    "position_budget": "Groupe pivot dans les votes serrés : a voté la suppression de la désindexation, porté l'aide agricole exceptionnelle de 50 M€ et soutenu la suppression de l'article 16 bis. Ses voix comptent sur l'AME et les crédits agricoles.",
+    "ligne_rouge": "Pensions, territoires ruraux et agriculture.",
+    "posture": "abstention probable"
+   }
+  ],
+  "scenarios": [
+   {
+    "nom": "A. Passage en force maîtrisé : 49.3 sur le PLFSS et le PLF, censure évitée",
+    "description": "Le gouvernement engage le 49.3 en fin de navette sur le PLFSS (fin novembre) puis sur le PLF (début à mi-décembre), sur des textes qui reprennent une sélection d'amendements. Il fait des concessions ciblées : seuil de désindexation relevé ou indexation partielle jusqu'à 2 000 €, geste sur les très hauts patrimoines pour le PS, renoncement partiel à certaines mesures sur les ménages, maintien de l'essentiel de l'effort sur les entreprises et les collectivités en partie réécrit par le Sénat. Les motions de censure de LFI et de la gauche échouent grâce à l'abstention du PS ou du RN. Le budget est promulgué avant le 31 décembre, avec une trajectoire de déficit probablement au-delà de 5 %.",
+    "probabilite": 42,
+    "declencheurs": [
+     "Le congrès du RN à Orléans ne pose pas de condition de censure automatique",
+     "Gestes gouvernementaux sur les pensions et la fiscalité du capital avant le 49.3",
+     "Le 24 octobre et le 5 novembre se déroulent sans nouvelle flambée de violence",
+     "Une dégradation par Moody's sert d'argument de responsabilité"
+    ]
+   },
+   {
+    "nom": "B. Ordonnances budgétaires inédites (articles 47-1 et 47)",
+    "description": "Pour éviter l'exposition d'un 49.3, l'exécutif laisse expirer les délais (26 novembre pour le PLFSS, 17 décembre pour le PLF) et met les textes en vigueur par ordonnance. Ce serait une première sous la Ve République, présentée comme une « glissière de sécurité » face au coût d'une loi spéciale (IGF : au moins 15 Md€). Le contenu est fixé par le gouvernement à partir de sa copie, éventuellement enrichie d'amendements sénatoriaux. La contestation politique et juridique serait forte (recours, accusation de déni démocratique) et une motion de censure resterait possible ensuite.",
+    "probabilite": 20,
+    "declencheurs": [
+     "Navette bloquée au Sénat ou en CMP et aucune assurance de non-censure",
+     "Arbitrage de Matignon et de l'Élysée en faveur du « moindre mal » face au 49.3",
+     "Dégradation financière (taux, notation) qui impose de fixer un budget à tout prix"
+    ]
+   },
+   {
+    "nom": "C. Censure du gouvernement Lecornu et loi spéciale",
+    "description": "Un 49.3 déclenche une motion de censure adoptée par l'addition de la gauche et du RN, ce dernier ayant durci sa ligne après Orléans et dans un climat social dégradé, ou le PS faute de geste fiscal. Le gouvernement tombe en décembre, une loi spéciale est votée et le budget 2027 est reporté. Il pourrait s'appliquer pendant 9 à 11 mois en année présidentielle. Les crédits non obligatoires sont gelés, les mesures fiscales nouvelles reportées (favorables comme défavorables) et la crise financière s'aggrave (taux, notation). Un remaniement ou un gouvernement de transition jusqu'à la présidentielle est probable.",
+    "probabilite": 28,
+    "declencheurs": [
+     "Le RN fixe la désindexation ou la fiscalité des ménages comme motif de censure",
+     "Le PS n'obtient aucune concession sur la justice fiscale",
+     "Nouvelles violences le 24 octobre ou forte mobilisation le 5 novembre qui rendent l'abstention coûteuse",
+     "Affaiblissement de Nuñez ou crise d'ordre public qui fragilise l'exécutif"
+    ]
+   },
+   {
+    "nom": "D. Compromis parlementaire voté",
+    "description": "Un compromis émerge au Sénat puis en CMP : seuil de désindexation relevé, effort sur les collectivités réduit, mesures de justice fiscale ciblées. Il est adopté par un vote en lecture définitive grâce à l'abstention du PS, sans 49.3. C'est le scénario le moins probable, compte tenu des rejets en série à l'Assemblée et de la logique présidentielle.",
+    "probabilite": 10,
+    "declencheurs": [
+     "Accord de méthode entre Matignon et le PS (sur le modèle de 2025)",
+     "CMP conclusive sur le PLFSS avant le 26 novembre",
+     "Apaisement social durable après le 5 novembre"
+    ]
+   }
+  ],
+  "calendrier": [
+   {
+    "date": "2026-10-23",
+    "evenement": "Décision de Moody's sur la note souveraine de la France (Aa3, perspective négative ; baisse possible à A1)",
+    "theme": "budget",
+    "criticite": 5
+   },
+   {
+    "date": "2026-10-24",
+    "evenement": "Journée nationale de mobilisation contre la vie chère sous restrictions (70 000 policiers et gendarmes) ; contre-manifestation à Orléans",
+    "theme": "opinion",
+    "criticite": 5
+   },
+   {
+    "date": "2026-10-24",
+    "evenement": "Ordonnance attendue du Conseil d'État sur le référé-liberté contre les interdictions de manifester",
+    "theme": "securite-justice",
+    "criticite": 4
+   },
+   {
+    "date": "2026-10-24",
+    "evenement": "Congrès du RN à Orléans (24 et 25 octobre) : réélection de Bardella et ligne sur la censure",
+    "theme": "presidentielle",
+    "criticite": 5
+   },
+   {
+    "date": "2026-10-25",
+    "evenement": "Lancement de la campagne présidentielle de Marine Le Pen et annonces programmatiques",
+    "theme": "presidentielle",
+    "criticite": 4
+   },
+   {
+    "date": "2026-10-26",
+    "evenement": "Conseil Agriculture et pêche à Luxembourg (26 et 27 octobre) : orientation générale partielle sur la PAC post-2027",
+    "theme": "agriculture",
+    "criticite": 3
+   },
+   {
+    "date": "2026-10-27",
+    "evenement": "Reprise à l'Assemblée de la partie recettes du PLF 2027 (vote solennel annoncé, calendrier susceptible de glisser) ; conférence des présidents (réinscription possible du projet de loi Résilience / NIS 2)",
+    "theme": "budget",
+    "criticite": 5
+   },
+   {
+    "date": "2026-10-27",
+    "evenement": "Fin du délai de 20 jours de l'Assemblée sur le PLFSS (rendu caduc par le rejet du 23 octobre)",
+    "theme": "secu-sante",
+    "criticite": 2
+   },
+   {
+    "date": "2026-10-28",
+    "evenement": "Auditions de la commission de la défense sur le thème « Liens avec la Nation, mémoire et résilience »",
+    "theme": "defense",
+    "criticite": 2
+   },
+   {
+    "date": "2026-10-29",
+    "evenement": "Réunion de politique monétaire de la BCE (éventuelle troisième hausse de taux)",
+    "theme": "economie-industrie",
+    "criticite": 4
+   },
+   {
+    "date": "2026-10-29",
+    "evenement": "Niche parlementaire de LFI : SMIC à 1 700 € net, indexation des salaires, acétamipride (date à confirmer)",
+    "theme": "parlement",
+    "criticite": 3
+   },
+   {
+    "date": "2026-10-31",
+    "evenement": "Fin octobre (indicatif) : premières décisions du Premier ministre sur le mouvement lycéen et propositions sur Parcoursup",
+    "theme": "education-culture-medias",
+    "criticite": 3
+   },
+   {
+    "date": "2026-11-03",
+    "evenement": "Vote envisagé sur la première partie du PLF (date à confirmer) ; élections de mi-mandat aux États-Unis",
+    "theme": "budget",
+    "criticite": 4
+   },
+   {
+    "date": "2026-11-05",
+    "evenement": "Grève interprofessionnelle (CFDT, CGT, FO, UNSA, FSU) sur les salaires, le Smic et les pensions",
+    "theme": "social-travail",
+    "criticite": 5
+   },
+   {
+    "date": "2026-11-09",
+    "evenement": "Début de l'examen en séance du PLFSS 2027 au Sénat (version gouvernementale) ; ouverture de la COP31 à Antalya (jusqu'au 20 novembre)",
+    "theme": "secu-sante",
+    "criticite": 5
+   },
+   {
+    "date": "2026-11-16",
+    "evenement": "Rencontre entre Départements de France et le Premier ministre à Matignon",
+    "theme": "territoires",
+    "criticite": 3
+   },
+   {
+    "date": "2026-11-17",
+    "evenement": "Fin du délai de 40 jours pour la première lecture du PLF à l'Assemblée : vote sur l'ensemble ou transmission au Sénat ; 49.3 possible",
+    "theme": "budget",
+    "criticite": 5
+   },
+   {
+    "date": "2026-11-18",
+    "evenement": "Échéance indicative de l'arrêté tarifaire sur l'aide à mourir",
+    "theme": "secu-sante",
+    "criticite": 2
+   },
+   {
+    "date": "2026-11-26",
+    "evenement": "Expiration du délai de 50 jours (article 47-1) pour le PLFSS : ordonnance possible",
+    "theme": "secu-sante",
+    "criticite": 5
+   },
+   {
+    "date": "2026-12-01",
+    "evenement": "Décembre (date à préciser) : CMP ou lecture définitive du PLFSS, 49.3 et motions de censure possibles ; Conseil européen sur le CFP et le financement de l'Ukraine ; décision finale d'investissement sur les EPR2 ; PLF de fin de gestion 2026",
+    "theme": "parlement",
+    "criticite": 5
+   },
+   {
+    "date": "2026-12-13",
+    "evenement": "Vote des militants écologistes sur la candidature de Marine Tondelier",
+    "theme": "presidentielle",
+    "criticite": 3
+   },
+   {
+    "date": "2026-12-17",
+    "evenement": "Expiration du délai de 70 jours (article 47) pour le PLF : ordonnances inédites ou loi spéciale ; réunion de la BCE avec projections",
+    "theme": "budget",
+    "criticite": 5
+   },
+   {
+    "date": "2026-12-19",
+    "evenement": "Date butoir de la négociation paritaire sur les arrêts maladie (environ 1 Md€ d'économies)",
+    "theme": "social-travail",
+    "criticite": 3
+   },
+   {
+    "date": "2026-12-31",
+    "evenement": "Fin du mandat de la FINUL au Liban",
+    "theme": "europe-international",
+    "criticite": 3
+   },
+   {
+    "date": "2027-01-01",
+    "evenement": "Entrée en vigueur de la réforme du cumul emploi-retraite et, si la mesure est adoptée, du plafond d'exonération des indemnités de rupture à 1 PASS",
+    "theme": "social-travail",
+    "criticite": 3
+   },
+   {
+    "date": "2027-01-15",
+    "evenement": "Janvier (indicatif) : arbitrage Philippe-Attal ; avis de la CJUE sur l'accord UE-Mercosur au plus tôt",
+    "theme": "presidentielle",
+    "criticite": 3
+   },
+   {
+    "date": "2027-02-28",
+    "evenement": "Fin février : suspension prévue des travaux parlementaires pour la campagne présidentielle",
+    "theme": "parlement",
+    "criticite": 4
+   },
+   {
+    "date": "2027-04-18",
+    "evenement": "Premier tour de l'élection présidentielle",
+    "theme": "presidentielle",
+    "criticite": 5
+   },
+   {
+    "date": "2027-05-02",
+    "evenement": "Second tour de l'élection présidentielle (date contestée par LR)",
+    "theme": "presidentielle",
+    "criticite": 5
+   }
+  ],
+  "recommandations": [
+   {
+    "action": "Réécrire les priorités d'amendements sous forme de rédactions « prêtes à reprendre » par le gouvernement, chiffrées et gagées, avec leur coût budgétaire et leur impact par circonscription. Les adresser aux arbitrages d'un 49.3 ou d'une ordonnance plutôt qu'aux seuls votes de séance.",
+    "cible": "Cabinets de Matignon, de Bercy (Économie et Comptes publics) et des ministères sectoriels, Direction du budget",
+    "horizon": "Immédiat, avant la reprise du 27 octobre et jusqu'à mi-novembre"
+   },
+   {
+    "action": "Déposer avant le 9 novembre un paquet d'amendements pour la commission des affaires sociales du Sénat sur le PLFSS : allègements de cotisations (3,7 Md€), intéressement et participation dans l'assiette, taxe sur les complémentaires, C3S, indemnités de rupture. Les présenter comme des économies ou des mesures neutres pour les recettes.",
+    "cible": "Olivier Henno (rapporteur général), Jean-François Rapin (branche maladie), Élisabeth Doineau, Brigitte Bourguignon",
+    "horizon": "Du 24 octobre au 9 novembre 2026"
+   },
+   {
+    "action": "Préparer la lecture du PLF au Sénat (surtaxe d'IS, taxe sur les infrastructures de transport, taxe GAFAM, accises sur l'énergie, mesures pour l'industrie), en s'appuyant sur la ligne « pas de hausse d'impôts » de la majorité sénatoriale.",
+    "cible": "Christine Lavarde (rapporteure générale), Jean-François Husson, rapporteurs spéciaux, présidence du Sénat",
+    "horizon": "Novembre à début décembre 2026"
+   },
+   {
+    "action": "Établir une cartographie de crise des groupes pivots, mise à jour chaque semaine : lignes rouges du RN après Orléans, députés PS réticents à la censure (entourage Hollande et Houlié), LIOT, Horizons, MoDem. Ajuster les coalitions d'amendements et éviter toute association visible avec LFI ou avec des positions jugées polarisantes.",
+    "cible": "Groupes RN, PS, LIOT, Horizons, Les Démocrates, Droite républicaine",
+    "horizon": "En continu jusqu'au 17 décembre 2026"
+   },
+   {
+    "action": "Adapter la communication publique au climat social : moratoire sur toute prise de position publique en faveur de baisses de prélèvements des entreprises ou de hausses de prix avant le 5 novembre ; argumentaires centrés sur l'emploi, le pouvoir d'achat et le partage de la valeur (par exemple l'épargne salariale).",
+    "cible": "Direction de la communication du client, porte-parole de la fédération, presse",
+    "horizon": "Du 24 octobre à mi-novembre 2026"
+   },
+   {
+    "action": "Construire un plan de continuité « loi spéciale » : gel des crédits non obligatoires, report des commandes et subventions publiques, report des mesures fiscales favorables (suramortissement, C3IV, prêts à taux zéro), scénario de trésorerie pour le premier semestre 2027.",
+    "cible": "Direction financière du client, adhérents de la fédération dépendant de la commande publique",
+    "horizon": "À finaliser avant le 17 novembre 2026"
+   },
+   {
+    "action": "Suivre la négociation paritaire sur les arrêts maladie (complément employeur, prévoyance, délai de carence) et y peser via les organisations patronales. C'est une fenêtre directe sur un ANI à fort impact financier.",
+    "cible": "MEDEF, CPME, U2P, branches professionnelles, assureurs de prévoyance",
+    "horizon": "Novembre au 19 décembre 2026"
+   },
+   {
+    "action": "Engager dès maintenant les équipes programmatiques présidentielles avec des notes sur les sujets renvoyés à 2027 (retraites et âge d'équilibre, fiscalité des entreprises, énergie et ETS2, numérique, réseaux sociaux et mineurs, défense à 3,5 %).",
+    "cible": "Équipes Le Pen et Bardella, Glucksmann, Philippe, Attal, Retailleau et Lisnard, Tondelier",
+    "horizon": "Novembre 2026 à janvier 2027"
+   },
+   {
+    "action": "Coordonner le plaidoyer européen sur les dossiers qui se décident à Bruxelles d'ici décembre (CFP et PAC, Omnibus pesticides, Kids Act, AI Act, aide d'État pour les EPR2, représailles commerciales américaines).",
+    "cible": "SGAE, Représentation permanente (Philippe Léglise-Costa), eurodéputés français, Commission européenne",
+    "horizon": "D'ici le Conseil européen de décembre 2026"
+   },
+   {
+    "action": "Mettre en place une veille réglementaire renforcée sur le Journal officiel : décrets de franchises et de participations, décret sur les navigants, textes d'application de la loi d'urgence agricole, décrets sur l'audiovisuel public, arrêtés préfectoraux sur les rassemblements. L'exécutif contourne le Parlement par la voie réglementaire.",
+    "cible": "Équipe de veille du cabinet et juristes du client",
+    "horizon": "En continu"
+   }
+  ],
+  "points_de_vigilance": [
+   "Décision de Moody's du 23 octobre au soir, inconnue au moment de la veille : une dégradation à A1 modifierait immédiatement le discours gouvernemental (consolidation, refus des amendements coûteux) et la pression sur les taux.",
+   "Incohérences de calendrier entre les sources sur le vote de la partie recettes du PLF : reporté au 27 octobre selon les thèmes exécutif et parlement, vers le 3 novembre selon AMORCE, alors que le thème éducation le dit « voté le 20 octobre » et que le thème agriculture le juge « non vérifié ». Le vote du 20 octobre a bien été reporté ; toute affirmation contraire est à écarter avant diffusion.",
+   "Le vote solennel sur l'ensemble du PLF est daté du 17 novembre (fin du délai de 40 jours) dans la plupart des thèmes, mais vers le 27 novembre dans le thème éducation : à vérifier auprès de la conférence des présidents.",
+   "Plusieurs thèmes signalent l'épuisement du quota de recherche web lors du fact-checking. Nombre de chiffres n'ont pas été recoupés de façon indépendante : surtaxe d'IS, taxe sur les infrastructures de transport, montants du chèque énergie et du Fonds vert, ETS2, Golfe et Ormuz, mesure sur les colonies, effectif du groupe RN au Sénat, sondage Lisnard-Retailleau.",
+   "Bilans divergents des violences du 17 octobre : environ 1 200 interpellations selon Matignon, 2 400 selon franceinfo, 2 700 gardes à vue cités par la circulaire Darmanin. La qualification terroriste de la fusillade de Trappes et La Verrière (saisine du PNAT) reste à confirmer.",
+   "Risque d'état d'urgence ou de départ de Laurent Nuñez si la journée du 24 octobre dégénère. Un remaniement partiel bouleverserait les interlocuteurs place Beauvau et l'agenda parlementaire.",
+   "L'ordonnance du Conseil d'État sur les interdictions de manifester fixera le cadre des journées suivantes, dont le 5 novembre.",
+   "Le RN peut basculer vers la censure en cas d'humiliation institutionnelle (boycott de la commission d'enquête) ou de pression sociale. Les annonces du congrès d'Orléans sont à analyser dès le 25 octobre.",
+   "Votes accidentels à faible participation dans l'hémicycle (congé à 62 ans adopté par 45 voix contre 36) : surveiller les séances de nuit et de fin de semaine et mobiliser les députés alliés.",
+   "Écart entre l'hypothèse d'inflation du PLF (1,8 %) et l'inflation constatée (3,1 %) : risque de contestation de la sincérité du budget, de révision des hypothèses en navette, puis de loi de finances rectificative ou d'annulations de crédits en 2027.",
+   "Montée en puissance de la voie réglementaire (franchises par décret, plafond publicitaire de Radio France, impartialité de l'audiovisuel public, décret sur les navigants) : des mesures peuvent être prises sans débat parlementaire.",
+   "Contentieux probables : bannissement numérique (circulaire Darmanin), dérogations aux néonicotinoïdes devant le Conseil d'État, taxe sur les infrastructures de transport devant le Conseil constitutionnel, cavaliers budgétaires (AME), recours des radios privées.",
+   "Menace de représailles commerciales américaines si la taxe GAFAM est relevée ou si les sanctions DMA/DSA s'intensifient ; les élections de mi-mandat du 3 novembre peuvent modifier la ligne de Washington.",
+   "Fenêtre législative quasi fermée fin février 2027 : les textes en attente (NIS 2, polices municipales, Corse, Nouvelle-Calédonie, réseaux sociaux et mineurs) risquent d'être reportés après la présidentielle, avec un risque de condamnation par la CJUE sur NIS 2."
+  ]
+ }
+};
