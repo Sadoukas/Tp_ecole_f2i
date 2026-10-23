@@ -79,6 +79,21 @@
     if (parent) parent.appendChild(n);
     return n;
   }
+  /* Replie une liste au-delà de n éléments ; un bouton la déplie. */
+  function fold(list, n, more) {
+    const items = [...list.children];
+    if (items.length <= n) return;
+    const btn = document.createElement('button');
+    btn.type = 'button'; btn.className = 'more-btn';
+    const set = (open) => {
+      items.forEach((it, i) => { it.hidden = !open && i >= n; });
+      btn.textContent = open ? 'Replier' : more(items.length - n);
+      btn.setAttribute('aria-expanded', String(open));
+    };
+    btn.addEventListener('click', () => set(btn.getAttribute('aria-expanded') !== 'true'));
+    list.after(btn);
+    set(false);
+  }
   function svg(w, h, host, labelText) {
     host.innerHTML = '';
     return el('svg', { viewBox: `0 0 ${w} ${h}`, role: 'img', 'aria-label': labelText || '' }, host);
@@ -207,6 +222,7 @@
   const VIG = S.points_de_vigilance || [];
   $('#vigTop').innerHTML = VIG.slice(0, 5).map((v) => `<li>${esc(v)}</li>`).join('');
   $('#vigList').innerHTML = VIG.slice(5).map((v) => `<li>${esc(v)}</li>`).join('');
+  fold($('#vigList'), 4, (k) => `Afficher ${plural(k, 'autre point', 'autres points')}`);
 
   /* ---------- Dix signaux ---------- */
   const top = (S.top_signaux || []).filter((t) => byId[t.id]);
@@ -216,6 +232,7 @@
       <div class="chips"><span class="chip theme">${esc(label(s.theme))}</span><span class="chip">${fmtDate(s.date)}</span>${s.signal_faible ? '<span class="chip weak">signal faible</span>' : ''}</div></div></li>`;
   }).join('');
   const topOpen = (e) => { const li = e.target.closest('li'); if (li && (e.type === 'click' || e.key === 'Enter')) openSignal(li.dataset.id); };
+  fold($('#topList'), 4, (k) => `Afficher les ${k} signaux suivants`);
   $('#topList').addEventListener('click', topOpen);
   $('#topList').addEventListener('keydown', topOpen);
 
@@ -227,7 +244,7 @@
   $('#forcesTable').addEventListener('click', (e) => {
     const tr = e.target.closest('tr[data-r]'); if (!tr) return;
     const gi = rdfToGroup[+tr.dataset.r];
-    if (gi != null) { selectGroup(gi); $('#ouverture').scrollIntoView(); }
+    if (gi != null) { selectGroup(gi); go('une', $('.hemi-box')); }
   });
 
   /* ---------- Scénarios ---------- */
@@ -262,7 +279,7 @@
     }
     el('text', { x: m.l, y: base + 22 }, g, '23 oct.');
     const stack = {};
-    if (later) el('text', { x: W - m.r, y: 164, 'text-anchor': 'end' }, g, `+ ${later} échéances en 2027, dans la liste ci-dessous`);
+    if (later) el('text', { x: W - m.r, y: 164, 'text-anchor': 'end' }, g, `+ ${later} échéances en 2027, dans la liste complète ci-dessous`);
     CAL.filter((c) => toDate(c.date) <= last).forEach((c) => {
       const key = String(c.date).slice(0, 10), n = (stack[key] = (stack[key] || 0) + 1) - 1;
       const x = sx(toDate(c.date)) + n * 7, h = 10 + c.criticite * 17;
@@ -275,6 +292,7 @@
   })();
   const critDots = (n) => `<span class="crit" title="Criticité ${n} sur 5">${[1, 2, 3, 4, 5].map((i) => `<i class="${i <= n ? 'on' : ''}"></i>`).join('')}</span>`;
   $('#calList').innerHTML = CAL.map((c) => `<li><div class="d">${fmtDate(c.date, true)}<small>${esc(label(c.theme))}</small></div><div class="e">${esc(c.evenement)}${critDots(c.criticite)}</div></li>`).join('');
+  fold($('#calList'), 8, (k) => `Afficher la liste complète (${k} échéances de plus)`);
 
   /* ---------- Dynamiques ---------- */
   $('#dynList').innerHTML = (S.dynamiques_transverses || []).map((d) => `<div class="dyn"><h3>${esc(d.titre)}</h3><p>${esc(d.analyse)}</p>
@@ -333,7 +351,7 @@
     });
     html += `</div><div class="heat-scale">Moins${[1, 2, 3, 4, 5].map((i) => `<span style="background:var(--q${i})"></span>`).join('')}Plus</div>`;
     $('#heat').innerHTML = html;
-    $('#heat').addEventListener('click', (e) => { const n = e.target.closest('.name'); if (n) { selectTheme(n.dataset.theme); $('#dossiers').scrollIntoView(); } });
+    $('#heat').addEventListener('click', (e) => { const n = e.target.closest('.name'); if (n) { selectTheme(n.dataset.theme); go('dossiers'); } });
   })();
 
   /* ---------- Chronologie ---------- */
@@ -377,9 +395,16 @@
       el('rect', { x: m.l, y, width: w, height: h, rx: 3, fill: 'var(--navy)' }, g);
       el('text', { x: m.l + w + 6, y: y + h / 2 + 4, class: 'val' }, g, v);
       hover(el('rect', { x: 0, y: y - 5, width: W, height: rowH, class: 'hit' }, g), `<b>${esc(k)}</b><span class="m">${plural(v, 'signal', 'signaux')}. Cliquer pour filtrer.</span>`,
-        () => { resetFilters(); $('#fType').value = k; renderSignals(); $('#explorer').scrollIntoView(); });
+        () => { resetFilters(); $('#fType').value = k; renderSignals(); go('signaux'); });
     });
   })();
+
+  /* ---------- Radar : un graphique à la fois ---------- */
+  $('#radarSeg').addEventListener('click', (e) => {
+    const b = e.target.closest('button[data-chart]'); if (!b) return;
+    document.querySelectorAll('#radarSeg button').forEach((x) => x.setAttribute('aria-selected', String(x === b)));
+    document.querySelectorAll('.radar-panel').forEach((pn) => { pn.hidden = pn.dataset.chart !== b.dataset.chart; });
+  });
 
   /* ---------- Dossiers ---------- */
   const themesSorted = D.themes.slice().sort((a, b) => b.temperature - a.temperature || b.signaux.length - a.signaux.length);
@@ -424,22 +449,33 @@
         <h5>Sources</h5><ul>${(s.sources || []).map((x) => `<li><a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.titre)}</a>, ${esc(x.media)}, ${fmtDate(x.date)}</li>`).join('')}</ul>
       </details></article>`;
   }
-  function renderSignals() {
+  const PAGE = 12;
+  let shown = PAGE;
+  function renderSignals(keep) {
+    if (!keep) shown = PAGE;
     const q = norm($('#q').value), th = fTheme.value, ty = fType.value, imp = +$('#fImpact').value, weak = $('#fWeak').checked;
     const list = SIGNALS.filter((s) => (!th || s.theme === th) && (!ty || s.type === ty) && s.impact >= imp && (!weak || s.signal_faible) &&
       (!q || norm([s.titre, s.resume, s.anticipation, s.implications, (s.acteurs || []).join(' '), label(s.theme)].join(' ')).includes(q)));
     list.sort($('#fSort').value === 'date' ? (a, b) => String(b.date).localeCompare(String(a.date)) : (a, b) => score(b) - score(a) || String(b.date).localeCompare(String(a.date)));
     $('#count').textContent = `${list.length} sur ${SIGNALS.length}`;
-    $('#signals').innerHTML = list.map(card).join('') || '<p class="count">Aucun signal pour ces critères. Élargir la recherche ou retirer un filtre.</p>';
+    $('#signals').innerHTML = list.slice(0, shown).map(card).join('') || '<p class="count">Aucun signal pour ces critères. Élargir la recherche ou retirer un filtre.</p>';
+    const rest = list.length - shown, mb = $('#moreSignals');
+    mb.hidden = rest <= 0;
+    mb.textContent = `Afficher ${plural(Math.min(PAGE, rest), 'signal', 'signaux')} de plus, sur ${rest} restants`;
+    return list;
   }
   function resetFilters() { ['#q', '#fTheme', '#fType'].forEach((s) => { $(s).value = ''; }); $('#fImpact').value = '1'; $('#fWeak').checked = false; }
-  ['#q', '#fTheme', '#fType', '#fImpact', '#fSort', '#fWeak'].forEach((s) => $(s).addEventListener('input', renderSignals));
+  ['#q', '#fTheme', '#fType', '#fImpact', '#fSort', '#fWeak'].forEach((s) => $(s).addEventListener('input', () => renderSignals()));
+  $('#moreSignals').addEventListener('click', () => { shown += PAGE; renderSignals(true); });
   renderSignals();
 
   function openSignal(id) {
-    resetFilters(); renderSignals();
+    resetFilters();
+    const idx = renderSignals().findIndex((s) => s.id === id);
+    if (idx >= shown) { shown = idx + 1; renderSignals(true); }
     const n = document.getElementById('sig-' + id);
     if (!n) return;
+    go('signaux');
     n.querySelector('details').open = true;
     n.scrollIntoView({ block: 'center' });
     n.classList.add('flash'); setTimeout(() => n.classList.remove('flash'), 1800);
@@ -448,28 +484,59 @@
   /* ---------- Recommandations, acteurs ---------- */
   $('#recoList').innerHTML = (S.recommandations || []).map((r) => `<li><div>${esc(r.action)}<small>Auprès de : ${esc(r.cible)}. Quand : ${esc(r.horizon)}.</small></div></li>`).join('');
   const ACTORS = D.themes.flatMap((t) => (t.acteurs_cles || []).map((a) => Object.assign({ theme: label(t.theme) }, a)));
-  let sortKey = 'influence', sortDir = -1;
+  let sortKey = 'influence', sortDir = -1, actorsAll = false;
+  const ACTORS_PAGE = 12;
   function renderActors() {
     const cols = [['nom', 'Acteur'], ['fonction', 'Fonction'], ['theme', 'Dossier'], ['influence', 'Influence'], ['position', 'Position']];
     const rows = ACTORS.slice().sort((a, b) => (a[sortKey] > b[sortKey] ? 1 : a[sortKey] < b[sortKey] ? -1 : 0) * sortDir);
     $('#actorsTable').innerHTML = `<thead><tr>${cols.map(([k, l]) => `<th class="sortable" data-k="${k}" aria-sort="${k === sortKey ? (sortDir > 0 ? 'ascending' : 'descending') : 'none'}">${l}${k === sortKey ? (sortDir > 0 ? ' ▲' : ' ▼') : ''}</th>`).join('')}</tr></thead><tbody>` +
-      rows.map((a) => `<tr><td class="g">${esc(a.nom)}</td><td>${esc(a.fonction)}</td><td>${esc(a.theme)}</td><td>${meter(a.influence, 'inf')}</td><td>${esc(a.position)}</td></tr>`).join('') + '</tbody>';
+      rows.slice(0, actorsAll ? rows.length : ACTORS_PAGE).map((a) => `<tr><td class="g">${esc(a.nom)}</td><td>${esc(a.fonction)}</td><td>${esc(a.theme)}</td><td>${meter(a.influence, 'inf')}</td><td>${esc(a.position)}</td></tr>`).join('') + '</tbody>';
   }
   $('#actorsTable').addEventListener('click', (e) => {
     const th = e.target.closest('th[data-k]'); if (!th) return;
     if (sortKey === th.dataset.k) sortDir = -sortDir; else { sortKey = th.dataset.k; sortDir = th.dataset.k === 'influence' ? -1 : 1; }
     renderActors();
   });
+  const actorsBtn = () => { $('#moreActors').textContent = actorsAll ? 'Replier' : `Afficher les ${ACTORS.length} acteurs`; $('#moreActors').setAttribute('aria-expanded', String(actorsAll)); };
+  $('#moreActors').addEventListener('click', () => { actorsAll = !actorsAll; actorsBtn(); renderActors(); });
+  actorsBtn();
   renderActors();
 
-  /* ---------- Navigation active ---------- */
+  /* ---------- Vues ---------- */
+  const VIEWS = [['une', 'À la une'], ['parlement', 'Parlement'], ['agenda', 'Agenda'], ['radar', 'Radar'], ['dossiers', 'Dossiers'], ['signaux', 'Signaux'], ['action', 'Que faire']];
+  const blocks = [...document.querySelectorAll('[data-view]:not(a)')];
   const navLinks = [...document.querySelectorAll('.nav a')];
-  if ('IntersectionObserver' in window) {
-    const io = new IntersectionObserver((ents) => ents.forEach((en) => {
-      if (en.isIntersecting) navLinks.forEach((a) => a.classList.toggle('on', a.getAttribute('href') === '#' + en.target.id));
-    }), { rootMargin: '-45% 0px -50% 0px' });
-    navLinks.forEach((a) => { const t = document.querySelector(a.getAttribute('href')); if (t) io.observe(t); });
+  let view = null;
+  function go(v, target, fromHistory) {
+    if (!VIEWS.some((x) => x[0] === v)) v = 'une';
+    if (!fromHistory && location.hash !== '#' + v) history.pushState(null, '', '#' + v);
+    if (v !== view) {
+      view = v;
+      blocks.forEach((b) => { b.hidden = b.dataset.view !== v; });
+      navLinks.forEach((a) => {
+        a.classList.toggle('on', a.dataset.view === v);
+        if (a.dataset.view === v) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+      });
+      const i = VIEWS.findIndex((x) => x[0] === v), nx = VIEWS[i + 1] || VIEWS[0];
+      $('#viewNext').innerHTML = `<a href="#${nx[0]}" data-view="${nx[0]}"><small>${VIEWS[i + 1] ? 'Vue suivante' : 'Retour au début'}</small>${nx[1]}</a>`;
+      if (!target) window.scrollTo(0, 0);
+    }
+    if (target) target.scrollIntoView();
   }
+  function route() {
+    const id = decodeURIComponent(location.hash.slice(1));
+    if (VIEWS.some((x) => x[0] === id)) return go(id, null, true);
+    const n = id && document.getElementById(id), b = n && n.closest('[data-view]');
+    go(b ? b.dataset.view : 'une', b ? n : null, true);
+  }
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest('a[data-view]');
+    if (!a || e.ctrlKey || e.metaKey || e.shiftKey) return;
+    e.preventDefault();
+    go(a.dataset.view);
+  });
+  window.addEventListener('popstate', route);
+  route();
 
   $('#foot').innerHTML = `Hémicycle, veille affaires publiques sur la France, octobre 2026. Données brutes : <a href="data/veille.json">veille.json</a>. Icônes : <a href="https://lucide.dev" target="_blank" rel="noopener noreferrer">Lucide</a> (licence ISC). Les notes d'impact, d'urgence et les probabilités sont des jugements d'analyste ; revenir aux sources avant toute reprise.`;
 })();

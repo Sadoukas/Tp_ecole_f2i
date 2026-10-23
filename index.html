@@ -11,25 +11,23 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;500;600;700&family=Spectral:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css?v=4">
+  <link rel="stylesheet" href="assets/style.css?v=5">
 </head>
 <body>
   <header class="masthead">
     <div class="wrap">
-      <a class="logo" href="#ouverture" aria-label="Hémicycle, retour en haut">
+      <a class="logo" href="#une" data-view="une" aria-label="Hémicycle, retour en haut">
         <img src="favicon.svg" width="30" height="30" alt="">
         <b>Hémicycle</b><small>veille affaires publiques</small>
       </a>
       <nav class="nav" aria-label="Sections">
-        <a href="#note">La note</a>
-        <a href="#dix">Dix signaux</a>
-        <a href="#forces">Rapport de force</a>
-        <a href="#scenarios">Scénarios</a>
-        <a href="#echeances">Échéances</a>
-        <a href="#radar">Radar</a>
-        <a href="#dossiers">Dossiers</a>
-        <a href="#explorer">Tous les signaux</a>
-        <a href="#conseil">Que faire</a>
+        <a href="#une" data-view="une">À la une</a>
+        <a href="#parlement" data-view="parlement">Parlement</a>
+        <a href="#agenda" data-view="agenda">Agenda</a>
+        <a href="#radar" data-view="radar">Radar</a>
+        <a href="#dossiers" data-view="dossiers">Dossiers</a>
+        <a href="#signaux" data-view="signaux">Signaux</a>
+        <a href="#action" data-view="action">Que faire</a>
       </nav>
       <button class="theme-btn" id="themeToggle" type="button">Mode sombre</button>
     </div>
@@ -41,7 +39,7 @@
     </div>
   </div>
 
-  <section class="opening" id="ouverture">
+  <section class="opening" id="ouverture" data-view="une">
     <div class="wrap">
       <div>
         <div class="dateline">Paris, vendredi 23 octobre 2026. Veille du 1<sup>er</sup> au 23 octobre.</div>
@@ -60,10 +58,10 @@
     </div>
   </section>
 
-  <div class="figures"><div class="wrap" id="figures"></div></div>
+  <div class="figures" data-view="une"><div class="wrap" id="figures"></div></div>
 
   <main class="wrap">
-    <section id="note">
+    <section id="note" data-view="une">
       <div class="sec-head"><div><div class="kicker">Note de tête</div><h2>Ce qu'il faut avoir en tête lundi matin</h2></div></div>
       <div class="cols-main">
         <div class="note" id="exec"></div>
@@ -71,23 +69,23 @@
       </div>
     </section>
 
-    <section id="dix">
+    <section id="dix" data-view="une">
       <div class="sec-head"><div><div class="kicker">Classement</div><h2>Les dix signaux qui comptent</h2><p>Classés par poids sur les arbitrages à venir. Un clic ouvre la fiche complète et ses sources.</p></div></div>
       <ol class="ten" id="topList"></ol>
     </section>
 
-    <section id="forces">
+    <section id="forces" data-view="parlement">
       <div class="sec-head"><div><div class="kicker">Assemblée nationale et Sénat</div><h2>Le rapport de force, groupe par groupe</h2><p>Posture sur le budget, position déclarée et ligne rouge. Cliquer sur une ligne pour l'éclairer dans l'hémicycle.</p></div></div>
       <div class="panel table-wrap"><table id="forcesTable"></table></div>
     </section>
 
-    <section id="scenarios">
+    <section id="scenarios" data-view="parlement">
       <div class="sec-head"><div><div class="kicker">D'ici au 31 décembre</div><h2>Quatre issues possibles</h2><p>Probabilités estimées par le cabinet. Elles bougeront avec les déclencheurs listés sous chaque scénario.</p></div></div>
       <div class="scen-bar" id="scenBar" role="img"></div>
       <div class="scen-grid" id="scenList"></div>
     </section>
 
-    <section id="echeances">
+    <section id="echeances" data-view="agenda">
       <div class="sec-head"><div><div class="kicker">Agenda</div><h2>Les dates à bloquer</h2><p>La frise couvre la fin 2026, la liste va jusqu'au second tour de la présidentielle. Plus un repère est haut, plus l'échéance est critique.</p></div></div>
       <div class="panel">
         <div class="frise chart" id="frise"></div>
@@ -95,42 +93,44 @@
       </div>
     </section>
 
-    <section id="dynamiques">
+    <section id="dynamiques" data-view="agenda">
       <div class="sec-head"><div><div class="kicker">Lecture transversale</div><h2>Ce qui relie les dossiers</h2></div></div>
       <div class="cols-3" id="dynList"></div>
     </section>
 
-    <section id="radar">
+    <section id="radar" data-view="radar">
       <div class="sec-head"><div><div class="kicker">Radar</div><h2>Où la pression monte</h2><p>Chaque signal est noté en impact sur la décision publique et en urgence, de 1 à 5.</p></div></div>
-      <div class="cols-2">
-        <div class="panel">
-          <h3>Impact et urgence</h3>
-          <p class="sub">Un point par signal. En haut à droite, ce qui appelle une action cette semaine.</p>
-          <div class="chart" id="matrix"></div>
-          <div class="legend" id="matrixLegend"></div>
-        </div>
-        <div class="panel">
-          <h3>Intensité par dossier et par semaine</h3>
-          <p class="sub">Nombre de signaux datés chaque semaine d'octobre. Un clic sur un dossier l'ouvre.</p>
-          <div id="heat"></div>
-        </div>
+      <div class="seg" role="tablist" aria-label="Graphique affiché" id="radarSeg">
+        <button type="button" role="tab" data-chart="matrix" aria-selected="true">Impact et urgence</button>
+        <button type="button" role="tab" data-chart="heat" aria-selected="false">Dossier par semaine</button>
+        <button type="button" role="tab" data-chart="timeline" aria-selected="false">Jour par jour</button>
+        <button type="button" role="tab" data-chart="byType" aria-selected="false">Nature des signaux</button>
       </div>
-      <div class="cols-2" style="margin-top:20px">
-        <div class="panel">
-          <h3>Signaux jour par jour</h3>
-          <p class="sub">Du 1<sup>er</sup> au 23 octobre.</p>
-          <div class="chart" id="timeline"></div>
-          <p class="count" id="timelineNote" style="margin:8px 0 0"></p>
-        </div>
-        <div class="panel">
-          <h3>De quoi sont faits ces signaux</h3>
-          <p class="sub">Un clic sur une barre filtre la liste complète.</p>
-          <div class="chart" id="byType"></div>
-        </div>
+      <div class="panel radar-panel" data-chart="matrix">
+        <h3>Impact et urgence</h3>
+        <p class="sub">Un point par signal. En haut à droite, ce qui appelle une action cette semaine.</p>
+        <div class="chart" id="matrix"></div>
+        <div class="legend" id="matrixLegend"></div>
+      </div>
+      <div class="panel radar-panel" data-chart="heat" hidden>
+        <h3>Intensité par dossier et par semaine</h3>
+        <p class="sub">Nombre de signaux datés chaque semaine d'octobre. Un clic sur un dossier l'ouvre.</p>
+        <div id="heat"></div>
+      </div>
+      <div class="panel radar-panel" data-chart="timeline" hidden>
+        <h3>Signaux jour par jour</h3>
+        <p class="sub">Du 1<sup>er</sup> au 23 octobre.</p>
+        <div class="chart" id="timeline"></div>
+        <p class="count" id="timelineNote" style="margin:8px 0 0"></p>
+      </div>
+      <div class="panel radar-panel" data-chart="byType" hidden>
+        <h3>De quoi sont faits ces signaux</h3>
+        <p class="sub">Un clic sur une barre filtre la liste complète.</p>
+        <div class="chart" id="byType"></div>
       </div>
     </section>
 
-    <section id="dossiers">
+    <section id="dossiers" data-view="dossiers">
       <div class="sec-head"><div><div class="kicker">Seize dossiers</div><h2>Le point, dossier par dossier</h2></div></div>
       <div class="dossiers">
         <div class="dossier-list" role="tablist" id="themeTabs" aria-label="Dossiers"></div>
@@ -138,7 +138,7 @@
       </div>
     </section>
 
-    <section id="explorer">
+    <section id="explorer" data-view="signaux">
       <div class="sec-head"><div><div class="kicker">Base complète</div><h2>Tous les signaux</h2><p>Recherche plein texte sur les titres, résumés, acteurs et analyses.</p></div></div>
       <div class="filters">
         <input type="search" id="q" placeholder="Un nom, un texte, un sujet : Tanguy, C3S, Mercosur…" aria-label="Rechercher">
@@ -154,9 +154,10 @@
         <span class="count" id="count"></span>
       </div>
       <div class="signals" id="signals"></div>
+      <button type="button" class="more-btn" id="moreSignals" hidden></button>
     </section>
 
-    <section id="conseil">
+    <section id="conseil" data-view="action">
       <div class="sec-head"><div><div class="kicker">Recommandations</div><h2>Que faire dans les quinze jours</h2></div></div>
       <div class="cols-main">
         <ol class="recos" id="recoList"></ol>
@@ -164,26 +165,29 @@
       </div>
     </section>
 
-    <section id="acteurs">
+    <section id="acteurs" data-view="action">
       <div class="sec-head"><div><div class="kicker">Cartographie</div><h2>Qui pèse sur quoi</h2><p>Les acteurs repérés dans les seize dossiers. Trier par colonne d'un clic.</p></div></div>
       <div class="panel table-wrap"><table id="actorsTable"></table></div>
+      <button type="button" class="more-btn" id="moreActors" aria-expanded="false"></button>
     </section>
 
-    <section id="methode" class="method">
+    <section id="methode" class="method" data-view="action">
       <div class="sec-head"><div><div class="kicker">Méthode</div><h2>Comment cette veille a été faite</h2></div></div>
-      <div class="panel">
+      <details class="panel method-box">
+        <summary>Lire la méthode : sources, vérification, notation</summary>
         <p>Seize analystes ont couvert chacun un dossier sur la période du 1<sup>er</sup> au 23 octobre 2026 : presse nationale, lettres spécialisées, comptes rendus et sites de l'Assemblée, du Sénat et du gouvernement. Chaque signal a ensuite été contre-vérifié (date, chiffres, acteurs, lien) ; ceux qu'on ne pouvait pas sourcer ont été retirés. Les textes ont enfin été relus par un secrétariat de rédaction.</p>
         <p>Un signal n'est pas un article. C'est un fait qui change la probabilité d'un arbitrage : un vote, un amendement, une ligne rouge posée en public, un avis du Haut Conseil des finances publiques. On le note en impact (effet attendu sur la décision) et en urgence (temps restant pour agir). Un signal faible est un fait passé sous les radars qui annonce une décision. Le tri « les plus pressants » multiplie impact et urgence et ajoute un bonus aux signaux faibles.</p>
         <p>Les notes et les probabilités sont des jugements d'analyste. Avant toute reprise à l'extérieur, revenir à la source citée sous chaque signal.</p>
-      </div>
+      </details>
     </section>
+    <nav class="view-next" id="viewNext" aria-label="Vue suivante"></nav>
   </main>
 
   <footer><div class="wrap"><p id="foot"></p></div></footer>
   <div class="tooltip" id="tip" role="status"></div>
 
-  <script src="data/veille.js?v=4"></script>
-  <script src="assets/icons.js?v=4"></script>
-  <script src="assets/app.js?v=4"></script>
+  <script src="data/veille.js?v=5"></script>
+  <script src="assets/icons.js?v=5"></script>
+  <script src="assets/app.js?v=5"></script>
 </body>
 </html>

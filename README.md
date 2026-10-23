@@ -8,6 +8,8 @@ Tableau de bord interactif de **veille média en affaires publiques** sur l'actu
 
 ## Contenu du tableau de bord
 
+Le site est découpé en sept vues, accessibles par les onglets du bandeau : À la une, Parlement, Agenda, Radar, Dossiers, Signaux, Que faire. Chaque vue a sa propre adresse (`#radar`, `#signaux`…). Les longues listes sont repliées derrière un bouton, et le Radar n'affiche qu'un graphique à la fois.
+
 | Section | Ce qu'on y trouve |
 |---|---|
 | Ouverture | Hémicycle interactif des 577 sièges coloré selon la posture des groupes sur le budget, compte à rebours des délais constitutionnels |
